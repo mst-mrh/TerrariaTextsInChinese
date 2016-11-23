@@ -1,10 +1,10 @@
 ﻿[
   {
-    "Content": "'Forged with the fury of heaven'",
+    "Content": "'这是来自天堂的审判！'",
     "Id": 65
   },
   {
-    "Content": "'Half shark, half gun, completely awesome.'",
+    "Content": "'一半是鲨鱼一半是机枪，简直帅爆了！'",
     "Id": 98
   },
   {
@@ -12,675 +12,675 @@
     "Id": 213
   },
   {
-    "Content": "4% increased magic critical strike chance",
+    "Content": "增加4%魔法暴击",
     "Id": 228
   },
   {
-    "Content": "4% increased magic critical strike chance",
+    "Content": "增加4%魔法暴击",
     "Id": 229
   },
   {
-    "Content": "4% increased magic critical strike chance",
+    "Content": "增加4%魔法暴击",
     "Id": 230
   },
   {
-    "Content": "9% increased magic critical strike chance",
+    "Content": "增加9%魔法暴击",
     "Id": 371
   },
   {
-    "Content": "12% increased melee speed",
+    "Content": "增加12%近战速度",
     "Id": 372
   },
   {
-    "Content": "6% increased ranged critical strike chance",
+    "Content": "增加6%远程暴击率",
     "Id": 373
   },
   {
-    "Content": "3% increased critical strike chance",
+    "Content": "增加3%暴击率",
     "Id": 374
   },
   {
-    "Content": "10% increased movement speed",
+    "Content": "增加10%移动速度",
     "Id": 375
   },
   {
-    "Content": "15% increased magic damage",
+    "Content": "增加15%魔法伤害",
     "Id": 376
   },
   {
-    "Content": "10% increased melee damage",
+    "Content": "增加10%近战伤害",
     "Id": 377
   },
   {
-    "Content": "7% increased ranged critical strike chance",
+    "Content": "增加7%远程暴击率",
     "Id": 378
   },
   {
-    "Content": "5% increased damage",
+    "Content": "增加5%所有伤害",
     "Id": 379
   },
   {
-    "Content": "3% increased critical strike chance",
+    "Content": "增加3%暴击率",
     "Id": 380
   },
   {
-    "Content": "'Find your inner pieces'",
+    "Content": "'心如止水'",
     "Id": 389
   },
   {
-    "Content": "Greatly extends underwater breathing",
+    "Content": "大大延长了水下呼吸的时间",
     "Id": 394
   },
   {
-    "Content": "Tells the time",
+    "Content": "以及当前时间",
     "Id": 395
   },
   {
-    "Content": "Grants immunity to fire blocks",
+    "Content": "并免疫灼热砖块伤害",
     "Id": 396
   },
   {
-    "Content": "Grants immunity to fire blocks",
+    "Content": "并免疫灼热砖块伤害",
     "Id": 397
   },
   {
-    "Content": "Increases jump height",
+    "Content": "而且能跳得更高",
     "Id": 399
   },
   {
-    "Content": "11% increased magic damage and critical strike chance",
+    "Content": "增加11%魔法伤害和暴击率",
     "Id": 400
   },
   {
-    "Content": "14% increased melee damage",
+    "Content": "增加14%近战伤害",
     "Id": 401
   },
   {
-    "Content": "8% increased ranged critical strike chance",
+    "Content": "增加8%远程暴击率",
     "Id": 402
   },
   {
-    "Content": "5% increased movement speed",
+    "Content": "增加5%移动速度",
     "Id": 404
   },
   {
-    "Content": "The wearer can run super fast",
+    "Content": "穿上后跑的飞快",
     "Id": 405
   },
   {
-    "Content": "Only the first shot consumes ammo",
+    "Content": "但只消耗一发子弹",
     "Id": 434
   },
   {
-    "Content": "'Minishark's older brother'",
+    "Content": "'迷你鲨失散多年的兄弟'",
     "Id": 533
   },
   {
-    "Content": "8% increased movement speed",
+    "Content": "增加8%移动速度",
     "Id": 552
   },
   {
-    "Content": "8% increased ranged critical strike chance",
+    "Content": "增加8%远程暴击率",
     "Id": 553
   },
   {
-    "Content": "Automatically use mana potions when needed",
+    "Content": "当需要的时候就会自动使用魔法药剂",
     "Id": 555
   },
   {
-    "Content": "12% increased magic damage and critical strike chance",
+    "Content": "增加12%魔法伤害和暴击率",
     "Id": 558
   },
   {
-    "Content": "10% increased melee haste",
+    "Content": "增加10%挥动速度",
     "Id": 559
   },
   {
-    "Content": "7% increased melee attack speed",
+    "Content": "增加7%挥动速度",
     "Id": 686
   },
   {
-    "Content": "Hold UP to rocket faster",
+    "Content": "按住上键能飞得更快",
     "Id": 748
   },
   {
-    "Content": "Small blast radius. Will not destroy tiles",
+    "Content": "造成小范围爆炸，不会摧毁物块",
     "Id": 771
   },
   {
-    "Content": "Small blast radius. Will destroy tiles",
+    "Content": "造成小范围爆炸，会摧毁物块",
     "Id": 772
   },
   {
-    "Content": "Large blast radius. Will not destroy tiles",
+    "Content": "造成大范围爆炸，不会摧毁物块",
     "Id": 773
   },
   {
-    "Content": "Large blast radius. Will destroy tiles",
+    "Content": "造成大范围爆炸，会摧毁物块",
     "Id": 774
   },
   {
-    "Content": "Increases running speed",
+    "Content": "增加奔跑的速度",
     "Id": 775
   },
   {
-    "Content": "Can mine Mythril and Orichalcum",
+    "Content": "可以挖掘秘银和山铜",
     "Id": 776
   },
   {
-    "Content": "Can mine Adamantite and Titanium",
+    "Content": "可以挖掘精金和钛金",
     "Id": 777
   },
   {
-    "Content": "Uses colored solution",
+    "Content": "它能让世界变得五彩缤纷",
     "Id": 779
   },
   {
-    "Content": "Spreads the Purity",
+    "Content": "它能将世界还原成最初的样子，好吧也就是森林和丛林",
     "Id": 780
   },
   {
-    "Content": "Spreads the Hallow",
+    "Content": "它能将世界变神圣之地",
     "Id": 781
   },
   {
-    "Content": "Spreads the Corruption",
+    "Content": "它能将世界变成腐蚀之地",
     "Id": 782
   },
   {
-    "Content": "Spreads Glowing Mushrooms",
+    "Content": "它能让世界种满蘑菇",
     "Id": 783
   },
   {
-    "Content": "Spreads the Crimson",
+    "Content": "它能将世界变成血腥之地",
     "Id": 784
   },
   {
-    "Content": "12% increased melee speed",
+    "Content": "增加12%挥动速度",
     "Id": 897
   },
   {
-    "Content": "The wearer can run incredibly fast",
+    "Content": "穿上后你会比迅雷还快",
     "Id": 898
   },
   {
-    "Content": "Higher valued coins do more damage",
+    "Content": "价值越高的钱币伤害越高",
     "Id": 905
   },
   {
-    "Content": "Grants immunity to fire blocks",
+    "Content": "并免疫灼热砖块伤害",
     "Id": 907
   },
   {
-    "Content": "Grants immunity to fire blocks and 7 seconds of immunity to lava",
+    "Content": "并免疫灼热砖块伤害而且能使你在岩浆中安全地呆7秒",
     "Id": 908
   },
   {
-    "Content": "For use with cannon",
+    "Content": "塞进大炮里，注意轻拿轻放",
     "Id": 929
   },
   {
-    "Content": "12% increased damage and melee speed",
+    "Content": "增加10%所有伤害和近战速度",
     "Id": 936
   },
   {
-    "Content": "Only active above 25% life",
+    "Content": "只会在生命高于25%时生效",
     "Id": 938
   },
   {
-    "Content": "Ice will not break when you fall on it",
+    "Content": "独特的减震设计让你落在冰上也不会直接砸个洞掉进去",
     "Id": 950
   },
   {
-    "Content": "Improved ability if combined with Shoe Spikes",
+    "Content": "与鞋钉合成后会有更好的效果",
     "Id": 953
   },
   {
-    "Content": "4% increased magic critical strike chance",
+    "Content": "增加4%魔法暴击率",
     "Id": 960
   },
   {
-    "Content": "4% increased magic critical strike chance",
+    "Content": "增加4%魔法暴击率",
     "Id": 961
   },
   {
-    "Content": "4% increased magic critical strike chance",
+    "Content": "增加4%魔法暴击率",
     "Id": 962
   },
   {
-    "Content": "Improved ability if combined with Climbing Claws",
+    "Content": "与攀爬爪合成后会有更好的效果",
     "Id": 975
   },
   {
-    "Content": "Double tap a direction",
+    "Content": "用法是按两次同一个方向键",
     "Id": 977
   },
   {
-    "Content": "Increases mana regeneration rate",
+    "Content": "增加魔力回复速度",
     "Id": 982
   },
   {
-    "Content": "Increases jump height",
+    "Content": "增加跳跃高度",
     "Id": 983
   },
   {
-    "Content": "Gives a chance to dodge attacks",
+    "Content": "使你能像忍者一样闪避受到的攻击",
     "Id": 984
   },
   {
-    "Content": "'To use: Place silt/slush/fossils in the extractinator'",
+    "Content": "'用法：把泥砂和雪砂塞进来'",
     "Id": 997
   },
   {
-    "Content": "6% increased melee critical strike chance",
+    "Content": "增加6%近战暴击率",
     "Id": 1001
   },
   {
-    "Content": "20% chance to not consume ammo",
+    "Content": "20%几率不消耗弹药",
     "Id": 1002
   },
   {
-    "Content": "16% increased magic damage",
+    "Content": "增加16%魔法伤害",
     "Id": 1003
   },
   {
-    "Content": "7% increased critical strike chance",
+    "Content": "增加7%暴击率",
     "Id": 1004
   },
   {
-    "Content": "5% increased movement speed",
+    "Content": "增加5%移动速度",
     "Id": 1005
   },
   {
-    "Content": "Small chance to cause confusion",
+    "Content": "小几率造成混乱",
     "Id": 1123
   },
   {
-    "Content": "Press UP to change gravity",
+    "Content": "按“上”键来改变重力",
     "Id": 1131
   },
   {
-    "Content": "Increases minion damage by 10%",
+    "Content": "增加10%召唤物的伤害",
     "Id": 1159
   },
   {
-    "Content": "Increases minion damage by 10%",
+    "Content": "增加10%召唤物的伤害",
     "Id": 1160
   },
   {
-    "Content": "Increases minion damage by 10%",
+    "Content": "增加10%召唤物的伤害",
     "Id": 1161
   },
   {
-    "Content": "Increases jump height",
+    "Content": "增加跳跃高度",
     "Id": 1163
   },
   {
-    "Content": "Increases jump height",
+    "Content": "增加跳跃高度",
     "Id": 1164
   },
   {
-    "Content": "Increases the knockback of your minions",
+    "Content": "增加召唤物的击退效果",
     "Id": 1167
   },
   {
-    "Content": "12% increased melee speed",
+    "Content": "增加12%近战速度",
     "Id": 1205
   },
   {
-    "Content": "9% increased ranged critical strike chance",
+    "Content": "增加9%远程暴击率",
     "Id": 1206
   },
   {
-    "Content": "Increases maximum mana by 60",
+    "Content": "增加60点魔法上限",
     "Id": 1207
   },
   {
-    "Content": "2% increased critical strike chance",
+    "Content": "增加2%暴击率",
     "Id": 1208
   },
   {
-    "Content": "1% increased critical strike chance",
+    "Content": "增加1%暴击率",
     "Id": 1209
   },
   {
-    "Content": "7% increased movement and melee speed",
+    "Content": "增加7%移动速度和近战速度",
     "Id": 1210
   },
   {
-    "Content": "8% increased movement speed",
+    "Content": "增加8%移动速度",
     "Id": 1211
   },
   {
-    "Content": "Increases maximum mana by 80",
+    "Content": "增加80点魔法上限",
     "Id": 1212
   },
   {
-    "Content": "8% increased melee speed",
+    "Content": "增加8%近战速度",
     "Id": 1215
   },
   {
-    "Content": "7% increased ranged critical strike chance",
+    "Content": "增加7%远程暴击率",
     "Id": 1216
   },
   {
-    "Content": "Increases maximum mana by 100",
+    "Content": "增加100点魔法上限",
     "Id": 1217
   },
   {
-    "Content": "3% increased critical strike chance",
+    "Content": "增加3%暴击率",
     "Id": 1218
   },
   {
-    "Content": "6% increased movement speed",
+    "Content": "增加6%移动速度",
     "Id": 1219
   },
   {
-    "Content": "Releases bees when damaged",
+    "Content": "受到伤害后释放小蜜蜂",
     "Id": 1249
   },
   {
-    "Content": "Increases jump height and negates fall damage",
+    "Content": "并能跳得更高而且免疫摔落伤害",
     "Id": 1250
   },
   {
-    "Content": "Increases jump height and negates fall damage",
+    "Content": "并能跳得更高而且免疫摔落伤害",
     "Id": 1251
   },
   {
-    "Content": "Increases jump height and negates fall damage",
+    "Content": "并能跳得更高而且免疫摔落伤害",
     "Id": 1252
   },
   {
-    "Content": "<right> to zoom out",
+    "Content": "右键瞄准",
     "Id": 1254
   },
   {
-    "Content": "Reduces mana usage by 5%",
+    "Content": "减少5%魔力消耗",
     "Id": 1282
   },
   {
-    "Content": "Reduces mana usage by 7%",
+    "Content": "减少7%魔力消耗",
     "Id": 1283
   },
   {
-    "Content": "Reduces mana usage by 9%",
+    "Content": "减少9%魔力消耗",
     "Id": 1284
   },
   {
-    "Content": "Reduces mana usage by 11%",
+    "Content": "减少11%魔力消耗",
     "Id": 1285
   },
   {
-    "Content": "Reduces mana usage by 13%",
+    "Content": "减少13%魔力消耗",
     "Id": 1286
   },
   {
-    "Content": "Reduces mana usage by 15%",
+    "Content": "减少15%魔力消耗",
     "Id": 1287
   },
   {
-    "Content": "'Oolaa!!'",
+    "Content": "'啊啊啊啊~~！！！！！！'",
     "Id": 1295
   },
   {
-    "Content": "<right> to zoom out",
+    "Content": "右键瞄准",
     "Id": 1300
   },
   {
-    "Content": "8% increased critical strike chance",
+    "Content": "增加8%暴击率",
     "Id": 1301
   },
   {
-    "Content": "Enemies are more likely to target you",
+    "Content": "你会像开了嘲讽一样吸引怪物的注意力",
     "Id": 1316
   },
   {
-    "Content": "Enemies are more likely to target you",
+    "Content": "你会像开了嘲讽一样吸引怪物的注意力",
     "Id": 1317
   },
   {
-    "Content": "Enemies are more likely to target you",
+    "Content": "你会像开了嘲讽一样吸引怪物的注意力",
     "Id": 1318
   },
   {
-    "Content": "20% chance to not consume arrows",
+    "Content": "20%几率不消耗弓箭",
     "Id": 1321
   },
   {
-    "Content": "Decreases target's defense",
+    "Content": "并能减少目标的防御",
     "Id": 1336
   },
   {
-    "Content": "For use with bunny cannon",
+    "Content": "这只危险的小动物请小心地塞进兔子大炮里",
     "Id": 1338
   },
   {
-    "Content": "'Extremely toxic'",
+    "Content": "'内有剧毒，小心食用'",
     "Id": 1339
   },
   {
-    "Content": "Melee attacks inflict Venom on enemies",
+    "Content": "近战攻击会对敌人造成剧毒效果",
     "Id": 1340
   },
   {
-    "Content": "Inflicts target with Venom",
+    "Content": "可对目标造成剧毒效果",
     "Id": 1341
   },
   {
-    "Content": "Inflicts target with Venom",
+    "Content": "可对目标造成剧毒效果",
     "Id": 1342
   },
   {
-    "Content": "10% increased melee damage and speed",
+    "Content": "增加10%近战伤害和速度",
     "Id": 1343
   },
   {
-    "Content": "Explodes into confetti on impact",
+    "Content": "击中后会释放各色彩纸",
     "Id": 1349
   },
   {
-    "Content": "Causes confusion",
+    "Content": "能够造成混乱效果",
     "Id": 1350
   },
   {
-    "Content": "Explodes on impact",
+    "Content": "击中后爆炸",
     "Id": 1351
   },
   {
-    "Content": "Enemies killed will drop more money",
+    "Content": "杀死敌人后会掉落更多钱币",
     "Id": 1352
   },
   {
-    "Content": "Melee attacks inflict enemies with cursed flames",
+    "Content": "近战攻击会使敌人被诅咒之炎灼烧",
     "Id": 1353
   },
   {
-    "Content": "Melee attacks set enemies on fire",
+    "Content": "近战攻击会使敌人着火",
     "Id": 1354
   },
   {
-    "Content": "Melee attacks make enemies drop more gold",
+    "Content": "近战攻击会使敌人掉落更多钱币",
     "Id": 1355
   },
   {
-    "Content": "Melee attacks decrease enemies defense",
+    "Content": "近战攻击会减少敌人的防御",
     "Id": 1356
   },
   {
-    "Content": "Melee attacks confuse enemies",
+    "Content": "近战攻击会使敌人混乱",
     "Id": 1357
   },
   {
-    "Content": "Melee attacks cause confetti to appear",
+    "Content": "近战攻击会带有四散的彩纸",
     "Id": 1358
   },
   {
-    "Content": "Melee attacks poison enemies",
+    "Content": "近战攻击会使敌人中毒",
     "Id": 1359
   },
   {
-    "Content": "8% increased movement speed",
+    "Content": "增加8%移动速度",
     "Id": 1505
   },
   {
-    "Content": "5% increased ranged critical strike chance",
+    "Content": "增加5%远程暴击率",
     "Id": 1546
   },
   {
-    "Content": "5% increased ranged critical strike chance",
+    "Content": "增加5%远程暴击率",
     "Id": 1547
   },
   {
-    "Content": "5% increased ranged critical strike chance",
+    "Content": "增加5%远程暴击率",
     "Id": 1548
   },
   {
-    "Content": "20% chance to not consume ammo",
+    "Content": "20%几率不消耗弹药",
     "Id": 1549
   },
   {
-    "Content": "12% increased movement speed",
+    "Content": "增加12%移动速度",
     "Id": 1550
   },
   {
-    "Content": "'It came from the edge of space'",
+    "Content": "'它来自深邃的太空，好吧它只是来自edge of space'",
     "Id": 1553
   },
   {
-    "Content": "Restores mana when damaged",
+    "Content": "受到伤害后回复魔力",
     "Id": 1595
   },
   {
-    "Content": "Grants immunity to most debuffs",
+    "Content": "免疫大多数负面效果",
     "Id": 1613
   },
   {
-    "Content": "Increases minion damage by 11%",
+    "Content": "增加11%召唤物的伤害",
     "Id": 1832
   },
   {
-    "Content": "Increases minion damage by 11%",
+    "Content": "增加11%召唤物的伤害",
     "Id": 1833
   },
   {
-    "Content": "Increases minion damage by 11%",
+    "Content": "增加11%召唤物的伤害",
     "Id": 1834
   },
   {
-    "Content": "Increases minion damage by 10%",
+    "Content": "增加10%召唤物的伤害",
     "Id": 1845
   },
   {
-    "Content": "10% increased ranged damage and critical strike chance",
+    "Content": "增加10%的远程伤害和暴击率",
     "Id": 1858
   },
   {
-    "Content": "Provides light under water",
+    "Content": "在水下提供光源",
     "Id": 1860
   },
   {
-    "Content": "Provides light under water and extra mobility on ice",
+    "Content": "提高冰上的灵活性，并在水下提供光源",
     "Id": 1861
   },
   {
-    "Content": "7% increased movement speed",
+    "Content": "增加7%的速度",
     "Id": 1862
   },
   {
-    "Content": "Increases jump height",
+    "Content": "增大跳跃高度",
     "Id": 1863
   },
   {
-    "Content": "Increases the damage and knockback of your minions",
+    "Content": "增加召唤物的伤害和击退",
     "Id": 1864
   },
   {
-    "Content": "life regeneration, defense, pick speed, and minion knockback",
+    "Content": "生命回复速度，防御力，挖掘速度和召唤物击退",
     "Id": 1865
   },
   {
-    "Content": "Hold DOWN and JUMP to hover",
+    "Content": "按住“下”和“跳跃”键可以盘旋",
     "Id": 1866
   },
   {
-    "Content": "5% increased magic damage and critical strike chance",
+    "Content": "提升5%魔法伤害和爆击几率",
     "Id": 2189
   },
   {
-    "Content": "Enemies are more likely to target you",
+    "Content": "自带嘲讽",
     "Id": 2199
   },
   {
-    "Content": "6% increased movement and melee speed",
+    "Content": "增加6%移动和近战速度",
     "Id": 2200
   },
   {
-    "Content": "Enemies are more likely to target you",
+    "Content": "自带嘲讽",
     "Id": 2201
   },
   {
-    "Content": "Enemies are more likely to target you",
+    "Content": "自带嘲讽",
     "Id": 2202
   },
   {
-    "Content": "15% increased magic damage",
+    "Content": "增加15％魔法伤害",
     "Id": 2220
   },
   {
-    "Content": "Restores mana when damaged",
+    "Content": "受伤时恢复魔法值",
     "Id": 2221
   },
   {
-    "Content": "Highly inaccurate",
+    "Content": "非常不准确",
     "Id": 2270
   },
   {
-    "Content": "10% increased melee and movement speed",
+    "Content": "增加10%近战和移动速度",
     "Id": 2277
   },
   {
-    "Content": "Reduces mana usage by 10%",
+    "Content": "减少10%法力消耗",
     "Id": 2279
   },
   {
-    "Content": "Hammer intersections to change direction",
+    "Content": "也可以用锤子敲轨道的交叉点来更改方向",
     "Id": 2340
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加你的召唤物数量上限",
     "Id": 2361
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加你的召唤物数量上限",
     "Id": 2362
   },
   {
-    "Content": "Increases minion damage by 6%",
+    "Content": "增加6%召唤物伤害",
     "Id": 2370
   },
   {
-    "Content": "Increases minion damage by 6%",
+    "Content": "增加6%召唤物伤害",
     "Id": 2371
   },
   {
-    "Content": "Increases minion damage by 6%",
+    "Content": "增加6%召唤物伤害",
     "Id": 2372
   },
   {
-    "Content": "Increases fall resistance",
+    "Content": "增强对摔伤抗性",
     "Id": 2423
   },
   {
-    "Content": "'Tossing may be difficult.'",
+    "Content": "“想让它滚动是很难的”",
     "Id": 2586
   },
   {
-    "Content": "Lights nearby area on fire for a while",
+    "Content": "照亮附近区域一段时间",
     "Id": 2590
   },
   {
-    "Content": "Allows quick travel in water",
+    "Content": "而且能让你在水中也快速移动",
     "Id": 2609
   },
   {

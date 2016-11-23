@@ -1,166 +1,166 @@
 ﻿[
   {
-    "Content": "2 defense",
+    "Content": "增加2防御",
     "Id": 0
   },
   {
-    "Content": "3 defense",
+    "Content": "增加3防御",
     "Id": 1
   },
   {
-    "Content": "15% increased movement speed",
+    "Content": "增加15%的移动速度",
     "Id": 2
   },
   {
-    "Content": "Space Gun costs 0 mana",
+    "Content": "空间枪不再消耗魔力",
     "Id": 3
   },
   {
-    "Content": "20% chance to not consume ammo",
+    "Content": "20%几率不消耗弹药",
     "Id": 4
   },
   {
-    "Content": "16% reduced mana usage",
+    "Content": "降低16%魔力消耗",
     "Id": 5
   },
   {
-    "Content": "17% extra melee damage",
+    "Content": "增加17%近战伤害",
     "Id": 6
   },
   {
-    "Content": "30% increased mining speed",
+    "Content": "增加30%采矿速度",
     "Id": 7
   },
   {
-    "Content": "14% reduced mana usage",
+    "Content": "降低14%魔力消耗",
     "Id": 8
   },
   {
-    "Content": "15% increased melee speed",
+    "Content": "增加15%近战速度",
     "Id": 9
   },
   {
-    "Content": "20% chance to not consume ammo",
+    "Content": "20%几率不消耗弹药",
     "Id": 10
   },
   {
-    "Content": "17% reduced mana usage",
+    "Content": "降低17%魔力消耗",
     "Id": 11
   },
   {
-    "Content": "5% increased melee critical strike chance",
+    "Content": "增加5%暴击率",
     "Id": 12
   },
   {
-    "Content": "20% chance to not consume ammo",
+    "Content": "20%几率不消耗弹药",
     "Id": 13
   },
   {
-    "Content": "19% reduced mana usage",
+    "Content": "降低19%魔力消耗",
     "Id": 14
   },
   {
-    "Content": "18% increased melee and movement speed",
+    "Content": "增加18%的近战速度和移动速度",
     "Id": 15
   },
   {
-    "Content": "25% chance to not consume ammo",
+    "Content": "25%的几率不消耗弹药",
     "Id": 16
   },
   {
-    "Content": "20% reduced mana usage",
+    "Content": "降低20%魔力消耗",
     "Id": 17
   },
   {
-    "Content": "19% increased melee and movement speed",
+    "Content": "增加19%的近战速度和移动速度",
     "Id": 18
   },
   {
-    "Content": "25% chance to not consume ammo",
+    "Content": "25%的几率不消耗弹药",
     "Id": 19
   },
   {
-    "Content": "1 defense",
+    "Content": "增加1防御",
     "Id": 20
   },
   {
-    "Content": "Greatly increased life regen",
+    "Content": "生命快速回复",
     "Id": 21
   },
   {
-    "Content": "Melee and ranged attacks cause frostburn",
+    "Content": "近战或远程攻击会造成冰焰伤害",
     "Id": 22
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加最大召唤物数量",
     "Id": 23
   },
   {
-    "Content": "Greatly increases life regeneration after striking an enemy",
+    "Content": "攻击敌人后大量增加生命回复速度",
     "Id": 24
   },
   {
-    "Content": "Flower petals will fall on your target for extra damage",
+    "Content": "花瓣将落在你的敌人身上并造成伤害",
     "Id": 25
   },
   {
-    "Content": "Become immune after striking an enemy",
+    "Content": "攻击敌人后短暂无敌",
     "Id": 26
   },
   {
-    "Content": "Summons a powerful leaf crystal to shoot at nearby enemies",
+    "Content": "召唤叶绿晶体攻击敌人",
     "Id": 27
   },
   {
-    "Content": "10% increased magic critical strike chance",
+    "Content": "增加10%魔法暴击率",
     "Id": 28
   },
   {
-    "Content": "Attackers also take full damage",
+    "Content": "反弹对方的伤害",
     "Id": 29
   },
   {
-    "Content": "Magic damage done to enemies heals the player with lowest health",
+    "Content": "法术伤害可以吸取敌人生命",
     "Id": 30
   },
   {
-    "Content": "Not moving puts you in stealth,\nincreasing ranged ability and reducing chance for enemies to target you",
+    "Content": "不移动将让你潜行，增加远程攻击力，并更不易被敌人发现",
     "Id": 31
   },
   {
-    "Content": "4 defense",
+    "Content": "增加4防御",
     "Id": 32
   },
   {
-    "Content": "10% increased damage",
+    "Content": "增加10%伤害",
     "Id": 33
   },
   {
-    "Content": "Increases minion damage by 25%",
+    "Content": "增加25%召唤物伤害",
     "Id": 34
   },
   {
-    "Content": "Magic damage done will hurt extra nearby enemies",
+    "Content": "魔法造成额外溅射伤害",
     "Id": 35
   },
   {
-    "Content": "Increases maximum mana by 60",
+    "Content": "增加60最大法力值",
     "Id": 36
   },
   {
-    "Content": "Beetles protect you from damage",
+    "Content": "甲虫保护你免受伤害",
     "Id": 37
   },
   {
-    "Content": "Beetles increase your melee damage and speed",
+    "Content": "甲虫增加你的近战伤害和攻速",
     "Id": 38
   },
   {
-    "Content": "Increases minion damage by 10%",
+    "Content": "增加10%召唤物伤害",
     "Id": 39
   },
   {
-    "Content": "Increases minion damage by 12%",
+    "Content": "增加12%召唤物伤害",
     "Id": 40
   },
   {

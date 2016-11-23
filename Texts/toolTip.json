@@ -1,294 +1,294 @@
 ﻿[
   {
-    "Content": "Provides light",
+    "Content": "提供光照",
     "Id": 8
   },
   {
-    "Content": "Tells the time",
+    "Content": "显示当前时间",
     "Id": 15
   },
   {
-    "Content": "Tells the time",
+    "Content": "显示当前时间",
     "Id": 16
   },
   {
-    "Content": "Tells the time",
+    "Content": "显示当前时间",
     "Id": 17
   },
   {
-    "Content": "Displays depth",
+    "Content": "显示你所在的深度",
     "Id": 18
   },
   {
-    "Content": "'Both tasty and flammable'",
+    "Content": "'易燃而又美味'",
     "Id": 23
   },
   {
-    "Content": "Permanently increases maximum life by 20",
+    "Content": "永久增加20点生命上限",
     "Id": 29
   },
   {
-    "Content": "Used for smelting ore",
+    "Content": "用于熔炼矿物",
     "Id": 33
   },
   {
-    "Content": "Used to craft items from metal bars",
+    "Content": "用于制造金属制品",
     "Id": 35
   },
   {
-    "Content": "Used for basic crafting",
+    "Content": "用于基本合成",
     "Id": 36
   },
   {
-    "Content": "Summons the Eye of Cthulhu",
+    "Content": "召唤克苏鲁之眼",
     "Id": 43
   },
   {
-    "Content": "Slowly regenerates life",
+    "Content": "使你慢慢回复生命",
     "Id": 49
   },
   {
-    "Content": "Gaze in the mirror to return home",
+    "Content": "魔镜魔镜，带我回家！",
     "Id": 50
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "带上后获得二段跳的能力",
     "Id": 53
   },
   {
-    "Content": "The wearer can run super fast",
+    "Content": "穿上后你会跑得飞快",
     "Id": 54
   },
   {
-    "Content": "'Pulsing with dark energy'",
+    "Content": "'涌动着黑暗能量'",
     "Id": 56
   },
   {
-    "Content": "'Pulsing with dark energy'",
+    "Content": "'涌动着黑暗能量'",
     "Id": 57
   },
   {
-    "Content": "Summons a vile thorn",
+    "Content": "召唤一道邪恶荆棘",
     "Id": 64
   },
   {
-    "Content": "Causes stars to rain from the sky",
+    "Content": "召唤从天而降的落星",
     "Id": 65
   },
   {
-    "Content": "Cleanses the evil",
+    "Content": "净化邪恶的物块",
     "Id": 66
   },
   {
-    "Content": "Banishes the Hallow",
+    "Content": "除去神圣化",
     "Id": 67
   },
   {
-    "Content": "'Looks tasty!'",
+    "Content": "'看起来很好吃!'",
     "Id": 68
   },
   {
-    "Content": "Summons the Eater of Worlds",
+    "Content": "召唤世界吞噬者",
     "Id": 70
   },
   {
-    "Content": "Disappears after the sunrise",
+    "Content": "遇光消失",
     "Id": 75
   },
   {
-    "Content": "'Get over here!'",
+    "Content": "'忍者飞檐走壁的工具'",
     "Id": 84
   },
   {
-    "Content": "Can be climbed on",
+    "Content": "可以爬上去",
     "Id": 85
   },
   {
-    "Content": "Provides light when worn",
+    "Content": "戴上后可以提供光照",
     "Id": 88
   },
   {
-    "Content": "33% chance to not consume ammo",
+    "Content": "33%几率不消耗弹药",
     "Id": 98
   },
   {
-    "Content": "7% increased melee speed",
+    "Content": "增加7%近战速度",
     "Id": 100
   },
   {
-    "Content": "7% increased melee speed",
+    "Content": "增加7%近战速度",
     "Id": 101
   },
   {
-    "Content": "7% increased melee speed",
+    "Content": "增加7%近战速度",
     "Id": 102
   },
   {
-    "Content": "Able to mine Hellstone",
+    "Content": "可以挖掘狱岩石",
     "Id": 103
   },
   {
-    "Content": "Permanently increases maximum mana by 20",
+    "Content": "永久增加20点魔法上限",
     "Id": 109
   },
   {
-    "Content": "Increases maximum mana by 20",
+    "Content": "增加20点魔法上限",
     "Id": 111
   },
   {
-    "Content": "Throws balls of fire",
+    "Content": "掷出一枚火球",
     "Id": 112
   },
   {
-    "Content": "Casts a controllable missile",
+    "Content": "射出一枚可以控制的魔法飞弹",
     "Id": 113
   },
   {
-    "Content": "Magically moves dirt",
+    "Content": "使用魔法移动土块",
     "Id": 114
   },
   {
-    "Content": "Creates a magical shadow orb",
+    "Content": "召唤出一个散发微弱光芒的暗影魔法球",
     "Id": 115
   },
   {
-    "Content": "'Warm to the touch'",
+    "Content": "'触感温暖'",
     "Id": 117
   },
   {
-    "Content": "Sometimes dropped by Skeletons and Piranha",
+    "Content": "有些骷髅会收集这玩意，食人鱼也会用它磨牙",
     "Id": 118
   },
   {
-    "Content": "Lights wooden arrows ablaze",
+    "Content": "自动点燃射出的木箭",
     "Id": 120
   },
   {
-    "Content": "'It's made out of fire!'",
+    "Content": "'它完全是由火做成的！'",
     "Id": 121
   },
   {
-    "Content": "7% increased magic damage",
+    "Content": "增加7%魔法伤害",
     "Id": 123
   },
   {
-    "Content": "7% increased magic damage",
+    "Content": "增加7%魔法伤害",
     "Id": 124
   },
   {
-    "Content": "7% increased magic damage",
+    "Content": "增加7%魔法伤害",
     "Id": 125
   },
   {
-    "Content": "Allows flight",
+    "Content": "终于能飞了！不过还请小心摔伤",
     "Id": 128
   },
   {
-    "Content": "Holding this may attract unwanted attention",
+    "Content": "拿着这个东西你就开了嘲讽光环",
     "Id": 148
   },
   {
-    "Content": "'It contains strange symbols'",
+    "Content": "'上面写满了神秘的符号'",
     "Id": 149
   },
   {
-    "Content": "5% increased ranged damage.",
+    "Content": "增加4%远程伤害",
     "Id": 151
   },
   {
-    "Content": "5% increased ranged damage.",
+    "Content": "增加4%远程伤害",
     "Id": 152
   },
   {
-    "Content": "5% increased ranged damage.",
+    "Content": "增加4%远程伤害",
     "Id": 153
   },
   {
-    "Content": "Grants immunity to knockback",
+    "Content": "使你免疫击退",
     "Id": 156
   },
   {
-    "Content": "Sprays out a shower of water",
+    "Content": "喷出一道水柱",
     "Id": 157
   },
   {
-    "Content": "Negates fall damage",
+    "Content": "你再也不会摔死了",
     "Id": 158
   },
   {
-    "Content": "Increases jump height",
+    "Content": "增加跳跃高度",
     "Id": 159
   },
   {
-    "Content": "Casts a slow moving bolt of water",
+    "Content": "射出一道慢慢飞行的水箭",
     "Id": 165
   },
   {
-    "Content": "A small explosion that will destroy some tiles",
+    "Content": "造成一次能够摧毁物块的小型爆炸",
     "Id": 166
   },
   {
-    "Content": "A large explosion that will destroy most tiles",
+    "Content": "造成一次能够摧毁物块的大型爆炸",
     "Id": 167
   },
   {
-    "Content": "A small explosion that will not destroy tiles",
+    "Content": "造成一次不能摧毁物块的小型爆炸",
     "Id": 168
   },
   {
-    "Content": "'Hot to the touch'",
+    "Content": "'太烫了'",
     "Id": 175
   },
   {
-    "Content": "Increases breath time and allows breathing in water",
+    "Content": "增加呼吸的时间，并允许在水中呼吸，但这玩意就这么长",
     "Id": 186
   },
   {
-    "Content": "Grants the ability to swim",
+    "Content": "你终于学会游泳了，可以加入水泳部了",
     "Id": 187
   },
   {
-    "Content": "Has a chance to poison enemies",
+    "Content": "这可是涂满了剧毒的毒剑",
     "Id": 190
   },
   {
-    "Content": "Grants immunity to fire blocks",
+    "Content": "免疫灼热砖块灼伤",
     "Id": 193
   },
   {
-    "Content": "Shoots fallen stars",
+    "Content": "发射落星",
     "Id": 197
   },
   {
-    "Content": "'It's pretty, oh so pretty'",
+    "Content": "'它真漂亮,简直太漂亮了！'",
     "Id": 208
   },
   {
-    "Content": "12% increased melee speed",
+    "Content": "增加12%近战速度",
     "Id": 211
   },
   {
-    "Content": "10% increased movement speed",
+    "Content": "增加10%移动速度",
     "Id": 212
   },
   {
-    "Content": "Creates grass and moss on dirt and stone",
+    "Content": "在土块上制造草皮",
     "Id": 213
   },
   {
-    "Content": "'May annoy others'",
+    "Content": "'用这个后果自负'",
     "Id": 215
   },
   {
-    "Content": "Summons a controllable ball of fire",
+    "Content": "召唤一枚可以控制的火球",
     "Id": 218
   },
   {
-    "Content": "Grows plants",
+    "Content": "可以用来种植草药",
     "Id": 222
   },
   {
-    "Content": "6% reduced mana usage",
+    "Content": "减少6%魔法消耗",
     "Id": 223
   },
   {
@@ -296,27 +296,27 @@
     "Id": 227
   },
   {
-    "Content": "Increases maximum mana by 40",
+    "Content": "增加20点魔法上限",
     "Id": 228
   },
   {
-    "Content": "Increases maximum mana by 20",
+    "Content": "增加20点魔法上限",
     "Id": 229
   },
   {
-    "Content": "Increases maximum mana by 20",
+    "Content": "增加20点魔法上限",
     "Id": 230
   },
   {
-    "Content": "'Tossing may be difficult.'",
+    "Content": "'有了粘性涂层这些炸弹终于不会乱滚了'",
     "Id": 235
   },
   {
-    "Content": "'Makes you look cool!'",
+    "Content": "'看我是不是很酷？'",
     "Id": 237
   },
   {
-    "Content": "15% increased magic damage",
+    "Content": "增加15%魔法伤害",
     "Id": 238
   },
   {
@@ -336,543 +336,543 @@
     "Id": 260
   },
   {
-    "Content": "'It's smiling, might be a good snack'",
+    "Content": "'它有着一副促进食欲的笑容'",
     "Id": 261
   },
   {
-    "Content": "'This is a good idea!'",
+    "Content": "'这真是个好创意！'",
     "Id": 266
   },
   {
-    "Content": "'You are a terrible person.'",
+    "Content": "'你是个坏人！'",
     "Id": 267
   },
   {
-    "Content": "Greatly extends underwater breathing",
+    "Content": "大大延长了水下呼吸的时间",
     "Id": 268
   },
   {
-    "Content": "Casts a demon scythe",
+    "Content": "射出一把恶魔之镰",
     "Id": 272
   },
   {
-    "Content": "Allows the collection of seeds for ammo",
+    "Content": "可以收集种子来作为弹药",
     "Id": 281
   },
   {
-    "Content": "Works when wet",
+    "Content": "可以作为水下工作的光源",
     "Id": 282
   },
   {
-    "Content": "For use with Blowpipe",
+    "Content": "吹管专用",
     "Id": 283
   },
   {
-    "Content": "5% increased movement speed",
+    "Content": "增加5%移动速度",
     "Id": 285
   },
   {
-    "Content": "Provides immunity to lava",
+    "Content": "使你免疫岩浆伤害",
     "Id": 288
   },
   {
-    "Content": "Provides life regeneration",
+    "Content": "增加生命回复速度",
     "Id": 289
   },
   {
-    "Content": "25% increased movement speed",
+    "Content": "增加25%移动速度",
     "Id": 290
   },
   {
-    "Content": "Breathe water instead of air",
+    "Content": "使你能在水中呼吸而不是在空气中",
     "Id": 291
   },
   {
-    "Content": "Increase defense by 8",
+    "Content": "增加8点防御",
     "Id": 292
   },
   {
-    "Content": "Increased mana regeneration",
+    "Content": "增加魔法回复速度",
     "Id": 293
   },
   {
-    "Content": "20% increased magic damage",
+    "Content": "增加20%魔法伤害",
     "Id": 294
   },
   {
-    "Content": "Slows falling speed",
+    "Content": "减慢坠落的速度",
     "Id": 295
   },
   {
-    "Content": "Shows the location of treasure and ore",
+    "Content": "显示宝物和矿物的位置",
     "Id": 296
   },
   {
-    "Content": "Grants invisibility",
+    "Content": "得到隐形能力",
     "Id": 297
   },
   {
-    "Content": "Emits an aura of light",
+    "Content": "使你发出一团光芒",
     "Id": 298
   },
   {
-    "Content": "Increases night vision",
+    "Content": "增强夜视能力",
     "Id": 299
   },
   {
-    "Content": "Increases enemy spawn rate",
+    "Content": "增加怪物的刷新概率",
     "Id": 300
   },
   {
-    "Content": "Attackers also take damage",
+    "Content": "反弹伤害",
     "Id": 301
   },
   {
-    "Content": "Allows the ability to walk on water",
+    "Content": "使你能在水上行走",
     "Id": 302
   },
   {
-    "Content": "20% increased arrow speed and damage",
+    "Content": "增加弓箭20%的飞行速度和伤害",
     "Id": 303
   },
   {
-    "Content": "Shows the location of enemies",
+    "Content": "显示敌人的位置",
     "Id": 304
   },
   {
-    "Content": "Allows the control of gravity",
+    "Content": "使你能控制重力，刚开始会有点晕",
     "Id": 305
   },
   {
-    "Content": "'Banned in most places'",
+    "Content": "'在大多数地方是被禁止的'",
     "Id": 324
   },
   {
-    "Content": "Opens one Gold or Dungeon Chest",
+    "Content": "用来开启黄金宝箱",
     "Id": 327
   },
   {
-    "Content": "Opens all Shadow Chests",
+    "Content": "用来开启暗影宝箱",
     "Id": 329
   },
   {
-    "Content": "Used for crafting cloth",
+    "Content": "用来制作丝织品",
     "Id": 332
   },
   {
-    "Content": "Used for brewing ale",
+    "Content": "用于酿造啤酒",
     "Id": 352
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "蘑菇炖金鱼，小幅提升全属性",
     "Id": 357
   },
   {
-    "Content": "Summons a Goblin Army",
+    "Content": "召唤一次哥布林入侵",
     "Id": 361
   },
   {
-    "Content": "Used for advanced wood crafting",
+    "Content": "用来制作高级木制品",
     "Id": 363
   },
   {
-    "Content": "Strong enough to destroy Demon Altars",
+    "Content": "这是一把强大到足以毁灭恶魔祭坛的锤子",
     "Id": 367
   },
   {
-    "Content": "Increases maximum mana by 40",
+    "Content": "增加40点魔法上限",
     "Id": 371
   },
   {
-    "Content": "7% increased movement speed",
+    "Content": "增加7%近战速度",
     "Id": 372
   },
   {
-    "Content": "10% increased ranged damage",
+    "Content": "增加10%远程伤害",
     "Id": 373
   },
   {
-    "Content": "Increases maximum mana by 60",
+    "Content": "增加60点魔法上限",
     "Id": 376
   },
   {
-    "Content": "5% increased melee critical strike chance",
+    "Content": "增加5%近战伤害和暴击率",
     "Id": 377
   },
   {
-    "Content": "12% increased ranged damage",
+    "Content": "增加12%远程伤害",
     "Id": 378
   },
   {
-    "Content": "Can mine Mythril and Orichalcum",
+    "Content": "可以挖掘秘银和山铜",
     "Id": 385
   },
   {
-    "Content": "Can mine Adamantite and Titanium",
+    "Content": "可以挖掘精金和钛金",
     "Id": 386
   },
   {
-    "Content": "Has a chance to confuse",
+    "Content": "一定几率造成混乱效果，盯着太极图一分钟你就混乱了",
     "Id": 389
   },
   {
-    "Content": "Displays horizontal position",
+    "Content": "显示你所处的水平坐标",
     "Id": 393
   },
   {
-    "Content": "Grants the ability to swim",
+    "Content": "它带有配套的脚蹼方便游泳",
     "Id": 394
   },
   {
-    "Content": "Shows position",
+    "Content": "显示你的位置",
     "Id": 395
   },
   {
-    "Content": "Negates fall damage",
+    "Content": "使你不会受到坠落伤害",
     "Id": 396
   },
   {
-    "Content": "Grants immunity to knockback",
+    "Content": "使你免疫击退",
     "Id": 397
   },
   {
-    "Content": "Allows the combining of some accessories",
+    "Content": "可以在这组合一些饰品",
     "Id": 398
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "带上后获得二段跳的能力",
     "Id": 399
   },
   {
-    "Content": "Increases maximum mana by 80",
+    "Content": "增加80点魔法上限",
     "Id": 400
   },
   {
-    "Content": "7% increased melee critical strike chance",
+    "Content": "增加7%近战伤害和暴击率",
     "Id": 401
   },
   {
-    "Content": "14% increased ranged damage",
+    "Content": "增加14%远程伤害",
     "Id": 402
   },
   {
-    "Content": "6% increased damage",
+    "Content": "增加6%所有伤害",
     "Id": 403
   },
   {
-    "Content": "4% increased critical strike chance",
+    "Content": "增加4%暴击率",
     "Id": 404
   },
   {
-    "Content": "Allows flight",
+    "Content": "提供飞行能力",
     "Id": 405
   },
   {
-    "Content": "Increases block placement range",
+    "Content": "增加放置物块的距离",
     "Id": 407
   },
   {
-    "Content": "Spreads the Hallow to some blocks",
+    "Content": "使一些砖块神圣化",
     "Id": 422
   },
   {
-    "Content": "Spreads the corruption to some blocks",
+    "Content": "使一些砖块被腐蚀",
     "Id": 423
   },
   {
-    "Content": "Summons a magical fairy",
+    "Content": "召唤一个散发光芒的魔法精灵",
     "Id": 425
   },
   {
-    "Content": "Three round burst",
+    "Content": "三连发，突突突",
     "Id": 434
   },
   {
-    "Content": "Turns the holder into a werewolf at night",
+    "Content": "夜晚的月之力让你变成了狼人",
     "Id": 485
   },
   {
-    "Content": "Creates measurement lines on screen for block placement",
+    "Content": "在屏幕上显示出方便建筑的网格",
     "Id": 486
   },
   {
-    "Content": "15% increased magic damage",
+    "Content": "增加15%魔法伤害",
     "Id": 489
   },
   {
-    "Content": "15% increased melee damage",
+    "Content": "增加15%近战伤害",
     "Id": 490
   },
   {
-    "Content": "15% increased ranged damage",
+    "Content": "增加15%远程伤害",
     "Id": 491
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 492
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 493
   },
   {
-    "Content": "Casts a controllable rainbow",
+    "Content": "射出一团可以控制的彩虹",
     "Id": 495
   },
   {
-    "Content": "Summons a block of ice",
+    "Content": "召唤一块持续一定时间的冰砖",
     "Id": 496
   },
   {
-    "Content": "Transforms the holder into merfolk when entering water",
+    "Content": "可以让你在水中变成人鱼，哦，可惜你变成了鱼人",
     "Id": 497
   },
   {
-    "Content": "Uses gel for ammo",
+    "Content": "使用凝胶作为弹药",
     "Id": 506
   },
   {
-    "Content": "Places red wire",
+    "Content": "设置红色导线",
     "Id": 509
   },
   {
-    "Content": "Removes wire",
+    "Content": "用来清除导线",
     "Id": 510
   },
   {
-    "Content": "Creates several crystal shards on impact",
+    "Content": "击中后产生四散的魔晶碎片",
     "Id": 515
   },
   {
-    "Content": "Summons falling stars on impact",
+    "Content": "击中后引发星辰坠落",
     "Id": 516
   },
   {
-    "Content": "A magical returning dagger",
+    "Content": "一把能够自动回收的魔法飞刀",
     "Id": 517
   },
   {
-    "Content": "Summons rapid fire crystal shards",
+    "Content": "快速地射出魔晶碎片",
     "Id": 518
   },
   {
-    "Content": "Summons unholy fire balls",
+    "Content": "召唤诅咒火球",
     "Id": 519
   },
   {
-    "Content": "'The essence of light creatures'",
+    "Content": "'光明生物的精魂'",
     "Id": 520
   },
   {
-    "Content": "'The essence of dark creatures'",
+    "Content": "'黑暗生物的精魂'",
     "Id": 521
   },
   {
-    "Content": "'Not even water can put the flame out'",
+    "Content": "'即使水也无法扑灭这种火焰'",
     "Id": 522
   },
   {
-    "Content": "Can be placed in water",
+    "Content": "可以放在水中",
     "Id": 523
   },
   {
-    "Content": "Used to smelt adamantite and titanium ore",
+    "Content": "用来熔炼精金和钛金矿",
     "Id": 524
   },
   {
-    "Content": "Used to craft items from mythril, orichalcum, adamantite, and titanium bars",
+    "Content": "用来制作秘银，山铜，精金和钛金系列的道具",
     "Id": 525
   },
   {
-    "Content": "'Sharp and magical!'",
+    "Content": "'锋利而且蕴含魔力'",
     "Id": 526
   },
   {
-    "Content": "'Sometimes carried by creatures in corrupt deserts'",
+    "Content": "'有些腐化沙漠里的木乃伊会把它带在身上'",
     "Id": 527
   },
   {
-    "Content": "'Sometimes carried by creatures in light deserts'",
+    "Content": "'有些神圣沙漠里的木乃伊会把它带在身上'",
     "Id": 528
   },
   {
-    "Content": "Activates when stepped on",
+    "Content": "踩上去就会产生信号",
     "Id": 529
   },
   {
-    "Content": "Can be enchanted",
+    "Content": "这是一本可以写咒语的空白魔法书",
     "Id": 531
   },
   {
-    "Content": "Causes stars to fall when injured",
+    "Content": "受到伤害时引起星辰坠落",
     "Id": 532
   },
   {
-    "Content": "50% chance to not consume ammo",
+    "Content": "50%几率不消耗弹药",
     "Id": 533
   },
   {
-    "Content": "Fires a spread of bullets",
+    "Content": "射出分散的弹幕",
     "Id": 534
   },
   {
-    "Content": "Reduces the cooldown of healing potions",
+    "Content": "减少生命药剂的冷却时间",
     "Id": 535
   },
   {
-    "Content": "Increases melee knockback",
+    "Content": "增强近战攻击的击退效果",
     "Id": 536
   },
   {
-    "Content": "Activates when stepped on",
+    "Content": "踩上去就会产生信号",
     "Id": 541
   },
   {
-    "Content": "Activates when a player steps on it",
+    "Content": "玩家踩上去才会产生信号",
     "Id": 542
   },
   {
-    "Content": "Activates when a player steps on it",
+    "Content": "玩家踩上去才会产生信号",
     "Id": 543
   },
   {
-    "Content": "Summons The Twins",
+    "Content": "召唤双子魔眼",
     "Id": 544
   },
   {
-    "Content": "'The essence of pure terror'",
+    "Content": "'恐惧之王的精魂'",
     "Id": 547
   },
   {
-    "Content": "'The essence of the destroyer'",
+    "Content": "'机械毁灭者的精魂'",
     "Id": 548
   },
   {
-    "Content": "'The essence of omniscient watchers'",
+    "Content": "'全知魔眼的精魂'",
     "Id": 549
   },
   {
-    "Content": "7% increased critical strike chance",
+    "Content": "增加7%暴击率",
     "Id": 551
   },
   {
-    "Content": "7% increased damage",
+    "Content": "增加7%全部伤害",
     "Id": 552
   },
   {
-    "Content": "15% increased ranged damage",
+    "Content": "增加15%远程伤害",
     "Id": 553
   },
   {
-    "Content": "Increases length of invincibility after taking damage",
+    "Content": "神圣的十字架会延长你受到伤害后的无敌时间",
     "Id": 554
   },
   {
-    "Content": "8% reduced mana usage",
+    "Content": "减少8%魔法消耗",
     "Id": 555
   },
   {
-    "Content": "Summons Destroyer",
+    "Content": "召唤机械毁灭者",
     "Id": 556
   },
   {
-    "Content": "Summons Skeletron Prime",
+    "Content": "召唤机械骷髅王",
     "Id": 557
   },
   {
-    "Content": "Increases maximum mana by 100",
+    "Content": "增加100点魔法上限",
     "Id": 558
   },
   {
-    "Content": "10% increased melee damage and critical strike chance",
+    "Content": "增加10%近战伤害和暴击率",
     "Id": 559
   },
   {
-    "Content": "Summons King Slime",
+    "Content": "召唤史莱姆王",
     "Id": 560
   },
   {
-    "Content": "Stacks up to 5",
+    "Content": "可以堆叠5个",
     "Id": 561
   },
   {
-    "Content": "'The essence of powerful flying creatures'",
+    "Content": "'强大飞行生物的精魂'",
     "Id": 575
   },
   {
-    "Content": "Has a chance to record songs",
+    "Content": "你有机会记录背景音乐了",
     "Id": 576
   },
   {
-    "Content": "'Not to be confused with a picksaw'",
+    "Content": "'不要觉得一个又是镐又是斧的东西很奇怪啦'",
     "Id": 579
   },
   {
-    "Content": "Explodes when activated",
+    "Content": "激活后爆炸",
     "Id": 580
   },
   {
-    "Content": "Sends water to outlet pumps",
+    "Content": "输送液体至出水泵",
     "Id": 581
   },
   {
-    "Content": "Receives water from inlet pumps",
+    "Content": "从入水泵输出液体",
     "Id": 582
   },
   {
-    "Content": "Activates every second",
+    "Content": "每一秒产生一次信号",
     "Id": 583
   },
   {
-    "Content": "Activates every 3 seconds",
+    "Content": "每三秒产生一次信号",
     "Id": 584
   },
   {
-    "Content": "Activates every 5 seconds",
+    "Content": "每五秒产生一次信号",
     "Id": 585
   },
   {
-    "Content": "<right> to open",
+    "Content": "右键打开",
     "Id": 599
   },
   {
-    "Content": "<right> to open",
+    "Content": "右键打开",
     "Id": 600
   },
   {
-    "Content": "<right> to open",
+    "Content": "右键打开",
     "Id": 601
   },
   {
-    "Content": "Summons the Frost Legion",
+    "Content": "召唤雪人军团",
     "Id": 602
   },
   {
-    "Content": "Summons a pet bunny",
+    "Content": "召唤一只宠物兔",
     "Id": 603
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有这个哦",
     "Id": 665
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有这个哦",
     "Id": 666
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有这个哦",
     "Id": 667
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有这个哦",
     "Id": 668
   },
   {
-    "Content": "Summons a baby penguin",
+    "Content": "召唤一只小企鹅",
     "Id": 669
   },
   {
-    "Content": "Shoots an icy bolt",
+    "Content": "射出一发冰箭",
     "Id": 676
   },
   {
@@ -880,1011 +880,1011 @@
     "Id": 678
   },
   {
-    "Content": "Summons the Devil's trident",
+    "Content": "召唤恶魔之叉",
     "Id": 683
   },
   {
-    "Content": "16% increased melee and ranged damage",
+    "Content": "增加16%近战和远程伤害",
     "Id": 684
   },
   {
-    "Content": "11% increased melee and ranged critical strike chance",
+    "Content": "增加11%近战和远程暴击率",
     "Id": 685
   },
   {
-    "Content": "8% increased movement speed",
+    "Content": "增加8%移动速度",
     "Id": 686
   },
   {
-    "Content": "Tells the time",
+    "Content": "显示当前时间",
     "Id": 707
   },
   {
-    "Content": "Tells the time",
+    "Content": "显示当前时间",
     "Id": 708
   },
   {
-    "Content": "Tells the time",
+    "Content": "显示当前时间",
     "Id": 709
   },
   {
-    "Content": "Used to craft items from metal bars",
+    "Content": "用来制造金属制品",
     "Id": 716
   },
   {
-    "Content": "Shoots a beam of light",
+    "Content": "射出一道光刃",
     "Id": 723
   },
   {
-    "Content": "Shoots an icy bolt",
+    "Content": "射出一发冰箭",
     "Id": 724
   },
   {
-    "Content": "Shoots frost arrows",
+    "Content": "这把弓上的寒气会让射出的箭都变为冰箭",
     "Id": 725
   },
   {
-    "Content": "Shoots a stream of frost",
+    "Content": "射出一团霜冻寒气",
     "Id": 726
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 748
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 749
   },
   {
-    "Content": "Summons a pet turtle",
+    "Content": "召唤一只宠物龟",
     "Id": 753
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 761
   },
   {
-    "Content": "Creates and destroys biomes when sprayed",
+    "Content": "喷洒能够改变生态环境的特种弹药",
     "Id": 779
   },
   {
-    "Content": "Used by the Clentaminator",
+    "Content": "环境改造者专用的特种弹药",
     "Id": 780
   },
   {
-    "Content": "Used by the Clentaminator",
+    "Content": "环境改造者专用的特种弹药",
     "Id": 781
   },
   {
-    "Content": "Used by the Clentaminator",
+    "Content": "环境改造者专用的特种弹药",
     "Id": 782
   },
   {
-    "Content": "Used by the Clentaminator",
+    "Content": "环境改造者专用的特种弹药",
     "Id": 783
   },
   {
-    "Content": "Used by the Clentaminator",
+    "Content": "环境改造者专用的特种弹药",
     "Id": 784
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 785
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 786
   },
   {
-    "Content": "Strong enough to destroy Demon Altars",
+    "Content": "一把强大到足以毁灭恶魔祭坛的锤子",
     "Id": 787
   },
   {
-    "Content": "Summons a thorn spear",
+    "Content": "召唤一根荆棘之矛",
     "Id": 788
   },
   {
-    "Content": "2% increased damage",
+    "Content": "增加2%所有伤害",
     "Id": 792
   },
   {
-    "Content": "2% increased damage",
+    "Content": "增加2%所有伤害",
     "Id": 793
   },
   {
-    "Content": "2% increased damage",
+    "Content": "增加2%所有伤害",
     "Id": 794
   },
   {
-    "Content": "Able to mine Hellstone",
+    "Content": "可以挖掘狱岩石了",
     "Id": 798
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 821
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 822
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 823
   },
   {
-    "Content": "Places living wood",
+    "Content": "可以消耗木材来制造生命之木",
     "Id": 832
   },
   {
-    "Content": "Enables solid blocks to be toggled on and off",
+    "Content": "使固体砖块能够通过信号切换虚实",
     "Id": 849
   },
   {
-    "Content": "Places blue wire",
+    "Content": "设置蓝色导线",
     "Id": 850
   },
   {
-    "Content": "Places green wire",
+    "Content": "设置绿色导线",
     "Id": 851
   },
   {
-    "Content": "Activates when a player steps on it",
+    "Content": "有玩家踩踏时才会产生信号",
     "Id": 852
   },
   {
-    "Content": "Activates when anything but a player steps on it",
+    "Content": "有玩家以外的东西踩踏时才会产生信号",
     "Id": 853
   },
   {
-    "Content": "Shops have lower prices",
+    "Content": "商店放血跳楼价！",
     "Id": 854
   },
   {
-    "Content": "Hitting enemies will sometimes drop extra coins",
+    "Content": "攻击敌人时可能掉落额外的硬币",
     "Id": 855
   },
   {
-    "Content": "'Having a wonderful time!'",
+    "Content": "'祝你玩得开心！'",
     "Id": 856
   },
   {
-    "Content": "Allows the holder to do an improved double jump",
+    "Content": "带上后获得二段跳的能力，而且跳得更高",
     "Id": 857
   },
   {
-    "Content": "Provides life regeneration and reduces the cooldown of healing potions",
+    "Content": "加快生命回复速度并减少生命药水的冷却时间",
     "Id": 860
   },
   {
-    "Content": "Turns the holder into a werewolf at night and a merfolk when entering water",
+    "Content": "晚上你能变狼人，下水你能变鱼人，你已经超出人类范围了",
     "Id": 861
   },
   {
-    "Content": "Causes stars to fall and increases length of invincibility after taking damage",
+    "Content": "受到伤害后召唤落星并延长无敌时间",
     "Id": 862
   },
   {
-    "Content": "Provides the ability to walk on water",
+    "Content": "提供水上行走的能力",
     "Id": 863
   },
   {
-    "Content": "Immunity to Bleeding",
+    "Content": "使你免疫出血",
     "Id": 885
   },
   {
-    "Content": "Immunity to Broken Armor",
+    "Content": "使你免疫破甲",
     "Id": 886
   },
   {
-    "Content": "Immunity to Poison",
+    "Content": "使你免疫中毒",
     "Id": 887
   },
   {
-    "Content": "Immunity to Darkness",
+    "Content": "使你免疫黑暗",
     "Id": 888
   },
   {
-    "Content": "Immunity to Slow",
+    "Content": "使你免疫减速",
     "Id": 889
   },
   {
-    "Content": "Immunity to Silence",
+    "Content": "使你免疫沉默",
     "Id": 890
   },
   {
-    "Content": "Immunity to Curse",
+    "Content": "使你免疫诅咒",
     "Id": 891
   },
   {
-    "Content": "Immunity to Weakness",
+    "Content": "使你免疫虚弱",
     "Id": 892
   },
   {
-    "Content": "Immunity to Confusion",
+    "Content": "使你免疫混乱",
     "Id": 893
   },
   {
-    "Content": "Increases melee knockback",
+    "Content": "增强近战击退效果",
     "Id": 897
   },
   {
-    "Content": "Allows flight",
+    "Content": "提供飞行能力",
     "Id": 898
   },
   {
-    "Content": "Increases all stats if worn during the day",
+    "Content": "在白天会增加你的所有属性",
     "Id": 899
   },
   {
-    "Content": "Increases all stats if worn during the night",
+    "Content": "在夜晚会增加你的所有属性",
     "Id": 900
   },
   {
-    "Content": "Immunity to Weakness and Broken Armor",
+    "Content": "使你免疫虚弱和破甲",
     "Id": 901
   },
   {
-    "Content": "Immunity to Poison and Bleeding",
+    "Content": "使你免疫中毒和出血",
     "Id": 902
   },
   {
-    "Content": "Immunity to Slow and Confusion",
+    "Content": "使你免疫减速和混乱",
     "Id": 903
   },
   {
-    "Content": "Immunity to Silence and Curse",
+    "Content": "使你免疫沉默和诅咒",
     "Id": 904
   },
   {
-    "Content": "Uses coins for ammo",
+    "Content": "使用钱币来作为弹药",
     "Id": 905
   },
   {
-    "Content": "Provides 7 seconds of immunity to lava",
+    "Content": "使你能在岩浆中安全地呆7秒",
     "Id": 906
   },
   {
-    "Content": "Provides the ability to walk on water",
+    "Content": "提供水上行走的能力",
     "Id": 907
   },
   {
-    "Content": "Provides the ability to walk on water and lava",
+    "Content": "提供在水和岩浆上行走的能力",
     "Id": 908
   },
   {
-    "Content": "Places bone",
+    "Content": "一把可以让骨头结合成砖块的神奇魔杖",
     "Id": 932
   },
   {
-    "Content": "Places leaves",
+    "Content": "可以将木材转化成厚厚的树叶",
     "Id": 933
   },
   {
-    "Content": "Allows the owner to float for a few seconds",
+    "Content": "你能踩在上面飞一段时间",
     "Id": 934
   },
   {
-    "Content": "12% increased damage",
+    "Content": "增加12%所有伤害",
     "Id": 935
   },
   {
-    "Content": "Increases melee knockback",
+    "Content": "增强近战攻击的击退效果",
     "Id": 936
   },
   {
-    "Content": "Explodes when stepped on",
+    "Content": "不要踩它，会爆炸的",
     "Id": 937
   },
   {
-    "Content": "Absorbs 25% of damage done to players on your team",
+    "Content": "为队友吸收25%的伤害",
     "Id": 938
   },
   {
-    "Content": "You will fall slower while holding this",
+    "Content": "拿着它你的下落速度会减慢",
     "Id": 946
   },
   {
-    "Content": "'Reacts to the light'",
+    "Content": "这种如同植物一样的矿物能对光产生反应",
     "Id": 947
   },
   {
-    "Content": "Allows flight and slowfall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 948
   },
   {
-    "Content": "Provides extra mobility on ice",
+    "Content": "使你在冰面上轻松移动",
     "Id": 950
   },
   {
-    "Content": "Rapidly launches snowballs",
+    "Content": "高速地射出雪球",
     "Id": 951
   },
   {
-    "Content": "Allows the ability to slide down walls",
+    "Content": "使你能在墙上慢慢滑下来",
     "Id": 953
   },
   {
-    "Content": "7% increased melee speed",
+    "Content": "增加7%近战速度",
     "Id": 956
   },
   {
-    "Content": "7% increased melee speed",
+    "Content": "增加7%近战速度",
     "Id": 957
   },
   {
-    "Content": "7% increased melee speed",
+    "Content": "增加7%近战速度",
     "Id": 958
   },
   {
-    "Content": "5% increased ranged damage.",
+    "Content": "增加4%远程伤害.",
     "Id": 959
   },
   {
-    "Content": "Increases maximum mana by 40",
+    "Content": "增加20点魔法上限",
     "Id": 960
   },
   {
-    "Content": "Increases maximum mana by 20",
+    "Content": "增加20点魔法上限",
     "Id": 961
   },
   {
-    "Content": "Increases maximum mana by 20",
+    "Content": "增加20点魔法上限",
     "Id": 962
   },
   {
-    "Content": "Gives a chance to dodge attacks",
+    "Content": "使你能像忍者一样闪避受到的攻击",
     "Id": 963
   },
   {
-    "Content": "Fires a spread of bullets",
+    "Content": "射出分散的弹幕",
     "Id": 964
   },
   {
-    "Content": "Can be climbed on",
+    "Content": "可以让你爬上去",
     "Id": 965
   },
   {
-    "Content": "Life regen is increased when near a campfire",
+    "Content": "在篝火附近你的生命恢复速度会加快",
     "Id": 966
   },
   {
-    "Content": "Put it on a stick and roast over a campfire",
+    "Content": "用棍子把它串起来放在篝火上烤吧",
     "Id": 967
   },
   {
-    "Content": "Roast it over a campfire!",
+    "Content": "在篝火上烤它！",
     "Id": 968
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "小幅提升所有属性",
     "Id": 969
   },
   {
-    "Content": "Allows the ability to slide down walls",
+    "Content": "使你能在墙上慢慢滑下来",
     "Id": 975
   },
   {
-    "Content": "Allows the ability to climb walls",
+    "Content": "使你能爬墙",
     "Id": 976
   },
   {
-    "Content": "Allows the ability to dash",
+    "Content": "使你能冲刺",
     "Id": 977
   },
   {
-    "Content": "Increases maximum mana by 20",
+    "Content": "增加20点魔法上限",
     "Id": 982
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "带上后获得二段跳的能力",
     "Id": 983
   },
   {
-    "Content": "Allows the ability to climb walls and dash",
+    "Content": "使你能爬墙而且能冲刺",
     "Id": 984
   },
   {
-    "Content": "Throw to create a climbable line of rope",
+    "Content": "扔出一串能让你爬上去的绳子",
     "Id": 985
   },
   {
-    "Content": "Allows the collection of seeds for ammo",
+    "Content": "可以收集草籽作为弹药",
     "Id": 986
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "带上后获得二段跳的能力",
     "Id": 987
   },
   {
-    "Content": "Shoots an enchanted sword beam",
+    "Content": "射出一把魔法光剑",
     "Id": 989
   },
   {
-    "Content": "'Not to be confused with a hamdrill'",
+    "Content": "'不要觉得一个又是镐又是斧头的东西很奇怪'",
     "Id": 990
   },
   {
-    "Content": "Summons a Baby Eater of Souls",
+    "Content": "召唤一只小型灵魂吞噬者",
     "Id": 994
   },
   {
-    "Content": "Used to craft objects",
+    "Content": "用来制造沥青",
     "Id": 995
   },
   {
-    "Content": "Used to craft objects",
+    "Content": "用来制造肉块",
     "Id": 996
   },
   {
-    "Content": "Turns silt/slush/fossils into something more useful",
+    "Content": "将泥砂和雪砂变成更有用的东西",
     "Id": 997
   },
   {
-    "Content": "Used to craft objects",
+    "Content": "用来固化凝胶",
     "Id": 998
   },
   {
-    "Content": "Shoots confetti everywhere!",
+    "Content": "射出漫天的五彩纸花！",
     "Id": 1000
   },
   {
-    "Content": "16% increased melee damage",
+    "Content": "增加16%近战伤害",
     "Id": 1001
   },
   {
-    "Content": "16% increased ranged damage",
+    "Content": "增加16%远程伤害",
     "Id": 1002
   },
   {
-    "Content": "Increases maximum mana by 80 and reduces mana usage by 17%",
+    "Content": "增加80点魔法上限并减少17%的魔法消耗",
     "Id": 1003
   },
   {
-    "Content": "5% increased damage",
+    "Content": "增加5%所有伤害",
     "Id": 1004
   },
   {
-    "Content": "8% increased critical strike chance",
+    "Content": "增加8%暴击率",
     "Id": 1005
   },
   {
-    "Content": "Reacts to the light",
+    "Content": "这种如同植物一样的矿物能对光产生反应",
     "Id": 1006
   },
   {
-    "Content": "Used with paint to color blocks",
+    "Content": "用来给砖块刷上各色油漆",
     "Id": 1071
   },
   {
-    "Content": "Used with paint to color walls",
+    "Content": "用来给墙壁刷上各色油漆",
     "Id": 1072
   },
   {
-    "Content": "Used to remove paint",
+    "Content": "用来消除油漆",
     "Id": 1100
   },
   {
-    "Content": "Used to make Teal Dye",
+    "Content": "可以调制成青色染料",
     "Id": 1107
   },
   {
-    "Content": "Used to make Green Dye",
+    "Content": "可以调制成绿色染料",
     "Id": 1108
   },
   {
-    "Content": "Used to make Sky Blue Dye",
+    "Content": "可以调制成天蓝染料",
     "Id": 1109
   },
   {
-    "Content": "Used to make Yellow Dye",
+    "Content": "可以调制成黄色染料",
     "Id": 1110
   },
   {
-    "Content": "Used to make Blue Dye",
+    "Content": "可以调制成蓝色染料",
     "Id": 1111
   },
   {
-    "Content": "Used to make Lime Dye",
+    "Content": "可以调制成橙绿染料",
     "Id": 1112
   },
   {
-    "Content": "Used to make Pink Dye",
+    "Content": "可以调制成粉色染料",
     "Id": 1113
   },
   {
-    "Content": "Used to make Orange Dye",
+    "Content": "可以调制成橙色染料",
     "Id": 1114
   },
   {
-    "Content": "Used to make Red Dye",
+    "Content": "可以调制成红色染料",
     "Id": 1115
   },
   {
-    "Content": "Used to make Cyan Dye",
+    "Content": "可以调制成靓青染料",
     "Id": 1116
   },
   {
-    "Content": "Used to make Violet Dye",
+    "Content": "可以调制成浅紫染料",
     "Id": 1117
   },
   {
-    "Content": "Used to make Purple Dye",
+    "Content": "可以调制成紫色染料",
     "Id": 1118
   },
   {
-    "Content": "Used to make Black Dye",
+    "Content": "可以调制成黑色染料",
     "Id": 1119
   },
   {
-    "Content": "Used to Craft Dyes",
+    "Content": "用来调制染料",
     "Id": 1120
   },
   {
-    "Content": "Shoots bees that will chase your enemy",
+    "Content": "射出跟踪敌人的小蜜蜂",
     "Id": 1121
   },
   {
-    "Content": "Chases after your enemy",
+    "Content": "它会跟踪你的敌人",
     "Id": 1122
   },
   {
-    "Content": "Summons killer bees after striking your foe",
+    "Content": "攻击敌人后召唤小蜜蜂",
     "Id": 1123
   },
   {
-    "Content": "Places Hives",
+    "Content": "用来放置蜂巢砖",
     "Id": 1129
   },
   {
-    "Content": "Explodes into a swarm of bees",
+    "Content": "爆炸后释放一群小蜜蜂",
     "Id": 1130
   },
   {
-    "Content": "Allows the holder to reverse gravity",
+    "Content": "使你能够颠倒重力",
     "Id": 1131
   },
   {
-    "Content": "Releases bees when damaged",
+    "Content": "受伤后释放小蜜蜂",
     "Id": 1132
   },
   {
-    "Content": "Summons the Queen Bee",
+    "Content": "召唤蜂后",
     "Id": 1133
   },
   {
-    "Content": "Opens the jungle temple door",
+    "Content": "可以打开丛林中那座神庙的大门",
     "Id": 1141
   },
   {
-    "Content": "Used for basic crafting",
+    "Content": "用来合成一些基本的东西",
     "Id": 1145
   },
   {
-    "Content": "Activates when a player steps on it",
+    "Content": "有玩家踩踏时才会产生信号",
     "Id": 1151
   },
   {
-    "Content": "Latches on to enemies for continuous damage",
+    "Content": "它会咬住敌人并造成连续伤害",
     "Id": 1156
   },
   {
-    "Content": "Summons a Pygmy to fight for you",
+    "Content": "召唤为你而战的小矮人",
     "Id": 1157
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加最大召唤物数量",
     "Id": 1158
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加最大召唤物数量",
     "Id": 1159
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加最大召唤物数量",
     "Id": 1160
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加最大召唤物数量",
     "Id": 1161
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 1162
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "带上后获得二段跳的能力",
     "Id": 1163
   },
   {
-    "Content": "Allows the holder to quadruple jump",
+    "Content": "带上后获得四段跳的能力",
     "Id": 1164
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 1165
   },
   {
-    "Content": "Increases the damage of your minions by 15%",
+    "Content": "增加15%召唤物伤害",
     "Id": 1167
   },
   {
-    "Content": "Summons a Baby Skeletron Head",
+    "Content": "召唤一个小骷髅头",
     "Id": 1169
   },
   {
-    "Content": "Summons a Baby Hornet",
+    "Content": "召唤一只小黄蜂",
     "Id": 1170
   },
   {
-    "Content": "Summons a Tiki Spirit",
+    "Content": "召唤一个提基之灵",
     "Id": 1171
   },
   {
-    "Content": "Summons a Pet Lizard",
+    "Content": "召唤一只宠物蜥蜴",
     "Id": 1172
   },
   {
-    "Content": "Rapidly shoots razor sharp leaves",
+    "Content": "迅速地射出飞叶快刀",
     "Id": 1178
   },
   {
-    "Content": "Chases after your enemy",
+    "Content": "它会跟踪你的敌人",
     "Id": 1179
   },
   {
-    "Content": "Summons a Pet Parrot",
+    "Content": "召唤一只宠物鹦鹉",
     "Id": 1180
   },
   {
-    "Content": "Summons a Baby Truffle",
+    "Content": "召唤一个小蘑菇人",
     "Id": 1181
   },
   {
-    "Content": "Summons a Pet Sapling",
+    "Content": "召唤一颗宠物树苗",
     "Id": 1182
   },
   {
-    "Content": "Summons a Wisp to provide light",
+    "Content": "召唤瓶子里的小精灵来提供光亮",
     "Id": 1183
   },
   {
-    "Content": "Can mine Mythril and Orichalcum",
+    "Content": "可以挖掘秘银，山铜，精金和钛金",
     "Id": 1188
   },
   {
-    "Content": "Can mine Mythril and Orichalcum",
+    "Content": "可以挖掘秘银，山铜，精金和钛金",
     "Id": 1189
   },
   {
-    "Content": "Can mine Adamantite and Titanium",
+    "Content": "可以挖掘精金和钛金",
     "Id": 1195
   },
   {
-    "Content": "Can mine Adamantite and Titanium",
+    "Content": "可以挖掘精金和钛金",
     "Id": 1196
   },
   {
-    "Content": "8% increased melee damage",
+    "Content": "增加8%近战伤害",
     "Id": 1205
   },
   {
-    "Content": "9% increased ranged damage",
+    "Content": "增加9%远程伤害",
     "Id": 1206
   },
   {
-    "Content": "7% increased magic damage and critical strike chance",
+    "Content": "增加7%魔法伤害和暴击率",
     "Id": 1207
   },
   {
-    "Content": "3% increased damage",
+    "Content": "增加3%所有伤害",
     "Id": 1208
   },
   {
-    "Content": "2% increased damage",
+    "Content": "增加2%所有伤害",
     "Id": 1209
   },
   {
-    "Content": "7% increased melee damage",
+    "Content": "增加7%近战伤害",
     "Id": 1210
   },
   {
-    "Content": "15% increased ranged critical strike chance",
+    "Content": "增加15%远程暴击率",
     "Id": 1211
   },
   {
-    "Content": "18% increased magic critical strike chance",
+    "Content": "增加18%魔法暴击率",
     "Id": 1212
   },
   {
-    "Content": "6% increased critical strike chance",
+    "Content": "增加6%暴击率",
     "Id": 1213
   },
   {
-    "Content": "11% increased movement speed",
+    "Content": "增加11%移动速度",
     "Id": 1214
   },
   {
-    "Content": "8% increased melee damage and critical strike chance",
+    "Content": "增加8%近战伤害和暴击率",
     "Id": 1215
   },
   {
-    "Content": "16% increased ranged damage",
+    "Content": "增加16%远程伤害",
     "Id": 1216
   },
   {
-    "Content": "16% increased magic damage and 7% increased magic critical strike chance",
+    "Content": "增加16%魔法伤害并增加7%魔法暴击率",
     "Id": 1217
   },
   {
-    "Content": "4% increased damage",
+    "Content": "增加4%所有伤害",
     "Id": 1218
   },
   {
-    "Content": "3% increased damage and critical strike chance",
+    "Content": "增加3%所有伤害和暴击率",
     "Id": 1219
   },
   {
-    "Content": "Used to craft items from mythril, orichalcum, adamantite, and titanium bars",
+    "Content": "用来制作秘银，山铜，精金和钛金系列的物品",
     "Id": 1220
   },
   {
-    "Content": "Used to smelt adamantite and titanium ore",
+    "Content": "用来熔炼精金和钛金矿",
     "Id": 1221
   },
   {
-    "Content": "Shoots a powerful orb",
+    "Content": "挥动时会射出一枚强力光球",
     "Id": 1226
   },
   {
-    "Content": "Shoots a spore cloud",
+    "Content": "挥动时会带出一片孢子毒云",
     "Id": 1227
   },
   {
-    "Content": "Shoots a spore cloud",
+    "Content": "挥动时会带出一片孢子毒云",
     "Id": 1228
   },
   {
-    "Content": "Bounces back after hitting a wall",
+    "Content": "击中墙后会弹回",
     "Id": 1235
   },
   {
-    "Content": "Summons a Baby Dinosaur",
+    "Content": "召唤一只小恐龙",
     "Id": 1242
   },
   {
-    "Content": "Summons a cloud to rain down on your foes",
+    "Content": "召唤一朵雷云在你的敌人上空下雨",
     "Id": 1244
   },
   {
-    "Content": "Causes stars to fall and releases bees when injured",
+    "Content": "受到伤害时召唤落星和小蜜蜂",
     "Id": 1247
   },
   {
-    "Content": "10% increased critical strike chance",
+    "Content": "增加10%暴击率",
     "Id": 1248
   },
   {
-    "Content": "Increases jump height",
+    "Content": "增加跳跃高度",
     "Id": 1249
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "带上后获得二段跳的能力",
     "Id": 1250
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "带上后获得二段跳的能力",
     "Id": 1251
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "带上后获得二段跳的能力",
     "Id": 1252
   },
   {
-    "Content": "Puts a shell around the owner when below 50% life that reduces damage",
+    "Content": "生命值低于25%时召唤一个能阻挡伤害的护盾",
     "Id": 1253
   },
   {
-    "Content": "Shoots a powerful, high velocity bullet",
+    "Content": "射出强大而且高速的子弹",
     "Id": 1254
   },
   {
-    "Content": "Shoots a powerful, high velocity bullet",
+    "Content": "射出强大而且高速的子弹",
     "Id": 1255
   },
   {
-    "Content": "Summons a cloud to rain blood on your foes",
+    "Content": "召唤一朵血云在你的敌人上空降下血雨",
     "Id": 1256
   },
   {
-    "Content": "Shoots an explosive bolt",
+    "Content": "射出一支会爆炸的钉刺",
     "Id": 1258
   },
   {
-    "Content": "Shoots razor sharp flower petals at nearby enemies",
+    "Content": "向四周的敌人射出锋利的花瓣",
     "Id": 1259
   },
   {
-    "Content": "Shoots a rainbow that does continuous damage",
+    "Content": "射出一道能造成持续伤害的魔法彩虹",
     "Id": 1260
   },
   {
-    "Content": "Explodes into deadly shrapnel",
+    "Content": "爆炸后还会射出致命的碎片",
     "Id": 1261
   },
   {
-    "Content": "Shoots a ball of frost",
+    "Content": "射出一个冰霜法球",
     "Id": 1264
   },
   {
-    "Content": "Shoots a powerful, high velocity bullet",
+    "Content": "射出强大而且高速的子弹",
     "Id": 1265
   },
   {
-    "Content": "Increases maximum mana by 20",
+    "Content": "增加20点魔法上限",
     "Id": 1282
   },
   {
-    "Content": "Increases maximum mana by 40",
+    "Content": "增加40点魔法上限",
     "Id": 1283
   },
   {
-    "Content": "Increases maximum mana by 40",
+    "Content": "增加40点魔法上限",
     "Id": 1284
   },
   {
-    "Content": "Increases maximum mana by 60",
+    "Content": "增加60点魔法上限",
     "Id": 1285
   },
   {
-    "Content": "Increases maximum mana by 60",
+    "Content": "增加60点魔法上限",
     "Id": 1286
   },
   {
-    "Content": "Increases maximum mana by 80",
+    "Content": "增加80点魔法上限",
     "Id": 1287
   },
   {
-    "Content": "Increases movement speed after being struck",
+    "Content": "受到伤害后增加移动速度",
     "Id": 1290
   },
   {
-    "Content": "Permanently increases maximum life by 5",
+    "Content": "永久增加5点生命上限",
     "Id": 1291
   },
   {
-    "Content": "Used at the Lihzahrd Altar",
+    "Content": "请在神庙祭坛上使用",
     "Id": 1293
   },
   {
-    "Content": "Capable of mining Lihzahrd Bricks",
+    "Content": "可以挖掘神庙砖块",
     "Id": 1294
   },
   {
-    "Content": "Shoots a piercing ray of heat",
+    "Content": "射出一道穿透性的热能射线",
     "Id": 1295
   },
   {
-    "Content": "Summons a powerful boulder",
+    "Content": "召唤一枚强大的巨石",
     "Id": 1296
   },
   {
-    "Content": "Punches with the force of a golem",
+    "Content": "出拳的力量堪比魔像",
     "Id": 1297
   },
   {
-    "Content": "Increases view range when held",
+    "Content": "拿着的时候会增加视野",
     "Id": 1299
   },
   {
-    "Content": "Increases view range for guns",
+    "Content": "增加枪械的瞄准视野",
     "Id": 1300
   },
   {
-    "Content": "10% increased damage",
+    "Content": "增加10%所有伤害",
     "Id": 1301
   },
   {
-    "Content": "Provides light under water",
+    "Content": "在水下提供光照",
     "Id": 1303
   },
   {
-    "Content": "Shoots an icy sickle",
+    "Content": "射出一把旋转的冰之镰",
     "Id": 1306
   },
   {
-    "Content": "'You are a terrible person'",
+    "Content": "'你真是个坏人'",
     "Id": 1307
   },
   {
-    "Content": "Shoots a poison fang that pierces multiple enemies",
+    "Content": "射出数枚能穿透多个敌人的毒牙",
     "Id": 1308
   },
   {
-    "Content": "Summons a baby slime to fight for you",
+    "Content": "召唤一只小史莱姆为你而战",
     "Id": 1309
   },
   {
-    "Content": "Inflicts poison on enemies",
+    "Content": "攻击时会造成毒素伤害",
     "Id": 1310
   },
   {
-    "Content": "Summons an eyeball spring",
+    "Content": "召唤一只弹簧眼球",
     "Id": 1311
   },
   {
-    "Content": "Summons a baby snowman",
+    "Content": "召唤一个小雪人",
     "Id": 1312
   },
   {
-    "Content": "Shoots a skull",
+    "Content": "射出一个骷髅头",
     "Id": 1313
   },
   {
-    "Content": "Shoots a boxing glove",
+    "Content": "射出一个拳击手套",
     "Id": 1314
   },
   {
-    "Content": "Summons a pirate invasion",
+    "Content": "召唤海盗入侵，其实没人知道宝藏到底在哪",
     "Id": 1315
   },
   {
-    "Content": "6% increased melee damage",
+    "Content": "增加6%近战伤害",
     "Id": 1316
   },
   {
-    "Content": "8% increased melee damage and critical strike chance",
+    "Content": "增加8%近战伤害和暴击率",
     "Id": 1317
   },
   {
-    "Content": "4% increased melee critical strike chance",
+    "Content": "增加4%近战暴击率",
     "Id": 1318
   },
   {
-    "Content": "Increases damage by 10% and greatly increases arrow speed",
+    "Content": "增加弓箭10%的飞行速度和伤害",
     "Id": 1321
   },
   {
-    "Content": "Inflicts fire damage on attack",
+    "Content": "攻击时会造成火焰伤害",
     "Id": 1322
   },
   {
-    "Content": "Reduces damage from touching lava",
+    "Content": "减少你接触岩浆时受到的伤害",
     "Id": 1323
   },
   {
-    "Content": "Teleports you to the position of the mouse",
+    "Content": "传送到鼠标所在的地方，长时间使用可能会使人脱离物质世界",
     "Id": 1326
   },
   {
-    "Content": "Shoots a deathly sickle",
+    "Content": "射出一把旋转的死亡之镰",
     "Id": 1327
   },
   {
-    "Content": "Summons the Brain of Cthulhu",
+    "Content": "召唤克苏鲁之脑",
     "Id": 1331
   },
   {
-    "Content": "'The blood of gods'",
+    "Content": "'你就当这是神之血'",
     "Id": 1332
   },
   {
-    "Content": "Can be placed in water",
+    "Content": "可以放置在水中",
     "Id": 1333
   },
   {
-    "Content": "Decreases target's defense",
+    "Content": "减少目标的防御",
     "Id": 1334
   },
   {
-    "Content": "Decreases target's defense",
+    "Content": "减少目标的防御",
     "Id": 1335
   },
   {
-    "Content": "Sprays a shower of ichor",
+    "Content": "喷出黄金脓血",
     "Id": 1336
   },
   {
-    "Content": "Increases melee knockback and inflicts fire damage on attack",
+    "Content": "提高近战攻击的击退效果并造成火焰伤害",
     "Id": 1343
   },
   {
@@ -1944,11 +1944,11 @@
     "Id": 1428
   },
   {
-    "Content": "Used to craft weapon imbuement flasks",
+    "Content": "用来制作给武器附魔的药剂",
     "Id": 1430
   },
   {
-    "Content": "Used to craft various types of ammo",
+    "Content": "用来制作各种类型的弹药",
     "Id": 1432
   },
   {
@@ -1996,23 +1996,23 @@
     "Id": 1443
   },
   {
-    "Content": "Creates a shadow beam that bounces off walls",
+    "Content": "发射一道会反射的暗影射线",
     "Id": 1444
   },
   {
-    "Content": "Launches a ball of fire that explodes into a raging inferno",
+    "Content": "发射一枚爆裂火球",
     "Id": 1445
   },
   {
-    "Content": "Summons a lost soul to chase your foes",
+    "Content": "召唤一个迷失的灵魂追踪敌人",
     "Id": 1446
   },
   {
-    "Content": "Blows bubbles",
+    "Content": "会产生很多泡泡",
     "Id": 1449
   },
   {
-    "Content": "Blows bubbles",
+    "Content": "泡泡~泡泡~泡泡~泡泡",
     "Id": 1450
   },
   {
@@ -2124,67 +2124,67 @@
     "Id": 1502
   },
   {
-    "Content": "40% decreased magic damage",
+    "Content": "减少40%魔力伤害",
     "Id": 1503
   },
   {
-    "Content": "7% increased magic damage and critical strike chance",
+    "Content": "增加7%的魔法伤害和暴击率",
     "Id": 1504
   },
   {
-    "Content": "8% increased magic damage",
+    "Content": "增加8%魔法伤害",
     "Id": 1505
   },
   {
-    "Content": "A powerful returning hammer",
+    "Content": "一把强大的回旋飞锤",
     "Id": 1513
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 1515
   },
   {
-    "Content": "For Capture the Gem. It drops when you die",
+    "Content": "可以用来玩争夺宝石之类游戏活动，死亡后掉落",
     "Id": 1522
   },
   {
-    "Content": "For Capture the Gem. It drops when you die",
+    "Content": "可以用来玩争夺宝石之类游戏活动，死亡后掉落",
     "Id": 1523
   },
   {
-    "Content": "For Capture the Gem. It drops when you die",
+    "Content": "可以用来玩争夺宝石之类游戏活动，死亡后掉落",
     "Id": 1524
   },
   {
-    "Content": "For Capture the Gem. It drops when you die",
+    "Content": "可以用来玩争夺宝石之类游戏活动，死亡后掉落",
     "Id": 1525
   },
   {
-    "Content": "For Capture the Gem. It drops when you die",
+    "Content": "可以用来玩争夺宝石之类游戏活动，死亡后掉落",
     "Id": 1526
   },
   {
-    "Content": "For Capture the Gem. It drops when you die",
+    "Content": "可以用来玩争夺宝石之类游戏活动，死亡后掉落",
     "Id": 1527
   },
   {
-    "Content": "Unlocks a Jungle Chest in the dungeon",
+    "Content": "打开一个地牢里的丛林宝箱",
     "Id": 1533
   },
   {
-    "Content": "Unlocks a Corruption Chest in the dungeon",
+    "Content": "打开一个地牢里的腐化宝箱",
     "Id": 1534
   },
   {
-    "Content": "Unlocks a Crimson Chest in the dungeon",
+    "Content": "打开一个地牢里的血红宝箱",
     "Id": 1535
   },
   {
-    "Content": "Unlocks a Hallowed Chest in the dungeon",
+    "Content": "打开一个地牢里的神圣宝箱",
     "Id": 1536
   },
   {
-    "Content": "Unlocks a Frozen Chest in the dungeon",
+    "Content": "打开一个地牢里的冰霜宝箱",
     "Id": 1537
   },
   {
@@ -2208,115 +2208,115 @@
     "Id": 1542
   },
   {
-    "Content": "Used with paint to color blocks",
+    "Content": "用来给砖块刷上各色油漆",
     "Id": 1543
   },
   {
-    "Content": "Used with paint to color walls",
+    "Content": "用来给墙壁刷上各色油漆",
     "Id": 1544
   },
   {
-    "Content": "Used to remove paint",
+    "Content": "用来消除油漆",
     "Id": 1545
   },
   {
-    "Content": "15% increased arrow damage",
+    "Content": "增加15%的弓箭伤害",
     "Id": 1546
   },
   {
-    "Content": "15% increased bullet damage",
+    "Content": "增加15%的子弹伤害",
     "Id": 1547
   },
   {
-    "Content": "15% increased rocket damage",
+    "Content": "增加15%的火箭弹伤害",
     "Id": 1548
   },
   {
-    "Content": "13% increased ranged critical strike chance",
+    "Content": "增加13%远程暴击率",
     "Id": 1549
   },
   {
-    "Content": "7% increased ranged critical strike chance",
+    "Content": "增加7%远程暴击率",
     "Id": 1550
   },
   {
-    "Content": "Converts Chlorophyte Bars into Shroomite Bars",
+    "Content": "将叶绿锭转换成蘑菇锭",
     "Id": 1551
   },
   {
-    "Content": "50% chance to not consume ammo",
+    "Content": "50%概率不消耗弹药",
     "Id": 1553
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1554
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1555
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1556
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1557
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1558
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1559
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1560
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1561
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1562
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1563
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1564
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1565
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1566
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1567
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1568
   },
   {
-    "Content": "Rapidly throw life stealing daggers",
+    "Content": "迅速扔出多枚吸血飞刀",
     "Id": 1569
   },
   {
-    "Content": "A powerful javelin that unleashes tiny eaters",
+    "Content": "一杆强大的，能够释放很多吞噬者的投枪",
     "Id": 1571
   },
   {
-    "Content": "Summons a powerful frost hydra to spit ice at your enemies",
+    "Content": "召唤一只强大的冰霜九头蛇向敌人吐出冰晶",
     "Id": 1572
   },
   {
@@ -2340,59 +2340,59 @@
     "Id": 1577
   },
   {
-    "Content": "Releases bees and increases movement speed when damaged",
+    "Content": "受到伤害后释放小蜜蜂并加快移动速度",
     "Id": 1578
   },
   {
-    "Content": "The wearer can run super fast",
+    "Content": "穿上后能跑得飞快",
     "Id": 1579
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1580
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1581
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1582
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1583
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1584
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1585
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1586
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1587
   },
   {
-    "Content": "'Great for impersonating devs!'",
+    "Content": "你不该拥有它哦",
     "Id": 1588
   },
   {
-    "Content": "Increases maximum mana by 20",
+    "Content": "增加20点魔法上限",
     "Id": 1595
   },
   {
-    "Content": "Grants immunity to most debuffs",
+    "Content": "使你免疫大多数负面效果",
     "Id": 1612
   },
   {
-    "Content": "Grants immunity to knockback and fire blocks",
+    "Content": "使你免疫击退和灼烧砖块的伤害",
     "Id": 1613
   },
   {
@@ -2744,115 +2744,115 @@
     "Id": 1701
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "带上后获得二段跳的能力",
     "Id": 1724
   },
   {
-    "Content": "To me it look like a leprechaun to me",
+    "Content": "对我来说它看起来就像一只小妖精呢！",
     "Id": 1767
   },
   {
-    "Content": "I just wanna know where the gold at!",
+    "Content": "我只想知道哪里有金子！",
     "Id": 1768
   },
   {
-    "Content": "I want the gold. I want the gold. I want the gold. Gimme the gold!",
+    "Content": "我要金子，我要金子，我要金子，给我金子啊！",
     "Id": 1769
   },
   {
-    "Content": "<right> to open",
+    "Content": "右键打开",
     "Id": 1774
   },
   {
-    "Content": "33% chance to not consume ammo",
+    "Content": "33%几率不消耗弹药",
     "Id": 1782
   },
   {
-    "Content": "Allows the collection of hay from grass",
+    "Content": "让你能从草地上割干草",
     "Id": 1786
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "特制南瓜派，小幅提高全属性",
     "Id": 1787
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 1797
   },
   {
-    "Content": "Summons a pet spider",
+    "Content": "召唤一只宠物蜘蛛",
     "Id": 1798
   },
   {
-    "Content": "Summons a pet squashling",
+    "Content": "召唤一个宠物南瓜娃娃",
     "Id": 1799
   },
   {
-    "Content": "Summons bats to attack your enemies",
+    "Content": "召唤一群蝙蝠攻击敌人",
     "Id": 1801
   },
   {
-    "Content": "Summons a raven to fight for you",
+    "Content": "召唤为你而战的黑鸦",
     "Id": 1802
   },
   {
-    "Content": "Used for crafting a Jungle Key",
+    "Content": "用来制作丛林钥匙",
     "Id": 1803
   },
   {
-    "Content": "Used for crafting a Corruption Key",
+    "Content": "用来制作腐化钥匙",
     "Id": 1804
   },
   {
-    "Content": "Used for crafting a Crimson Key",
+    "Content": "用来制作血红钥匙",
     "Id": 1805
   },
   {
-    "Content": "Used for crafting a Hallowed Key",
+    "Content": "用来制作神圣钥匙",
     "Id": 1806
   },
   {
-    "Content": "Used for crafting a Frozen Key",
+    "Content": "用来制作冰霜钥匙",
     "Id": 1807
   },
   {
-    "Content": "Best used for pranking townsfolk",
+    "Content": "最好用来给你的房客们一个惊喜",
     "Id": 1809
   },
   {
-    "Content": "Summons a black kitty",
+    "Content": "召唤一只黑色小猫咪",
     "Id": 1810
   },
   {
-    "Content": "Summons Pumpkin heads to attack your enemies",
+    "Content": "召唤南瓜头攻击敌人",
     "Id": 1826
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 1830
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加最大召唤物数量",
     "Id": 1832
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加最大召唤物数量",
     "Id": 1833
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加最大召唤物数量",
     "Id": 1834
   },
   {
-    "Content": "Summons a cursed sapling to follow you",
+    "Content": "召唤一只会跟着你的万圣小树妖",
     "Id": 1837
   },
   {
-    "Content": "Summons the Pumpkin Moon",
+    "Content": "召唤万圣狂欢夜",
     "Id": 1844
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加你的召唤物数量",
     "Id": 1845
   },
   {
@@ -2876,35 +2876,35 @@
     "Id": 1850
   },
   {
-    "Content": "Increases view range for guns (<right> to zoom out)",
+    "Content": "增加枪械类视野 (右键放大)",
     "Id": 1858
   },
   {
-    "Content": "Grants the ability to swim and greatly extends underwater breathing",
+    "Content": "能够游泳并且大大增长水下呼吸的时间",
     "Id": 1860
   },
   {
-    "Content": "Grants the ability to swim and greatly extends underwater breathing",
+    "Content": "能够游泳并且大大增长水下呼吸的时间",
     "Id": 1861
   },
   {
-    "Content": "Allows flight, super fast running, and extra mobility on ice",
+    "Content": "可以飞行和高速移动，并能让你在冰上轻松自如",
     "Id": 1862
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "带上后获得二段跳的能力",
     "Id": 1863
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增大召唤物数量",
     "Id": 1864
   },
   {
-    "Content": "Minor increase to damage, melee speed, critical strike chance,",
+    "Content": "小幅度增加攻击力、攻击速度及暴击率",
     "Id": 1865
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 1866
   },
   {
@@ -3048,211 +3048,211 @@
     "Id": 1905
   },
   {
-    "Content": "Uses gel for ammo",
+    "Content": "使用凝胶作为弹药",
     "Id": 1910
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "所有属性提升",
     "Id": 1911
   },
   {
-    "Content": "Summons a rideable reindeer",
+    "Content": "召唤一只骑乘的驯鹿",
     "Id": 1914
   },
   {
-    "Content": "Can mine Meteorite",
+    "Content": "能开采陨石",
     "Id": 1917
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "所有属性略微提升",
     "Id": 1919
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "所有属性略微提升",
     "Id": 1920
   },
   {
-    "Content": "Provides immunity to chill and freezing effects",
+    "Content": "冷冻效果免疫",
     "Id": 1921
   },
   {
-    "Content": "'You've been naughty this year'",
+    "Content": "'你这一年实在太淘气了！'",
     "Id": 1922
   },
   {
-    "Content": "Increases item placement and tool range by 1",
+    "Content": "增加物块范围1格",
     "Id": 1923
   },
   {
-    "Content": "Summons a Puppy",
+    "Content": "召唤一只小狗",
     "Id": 1927
   },
   {
-    "Content": "Shoots Christmas ornaments",
+    "Content": "圣诞装饰品",
     "Id": 1928
   },
   {
-    "Content": "50% chance to not consume ammo",
+    "Content": "50%的机会不消耗弹药",
     "Id": 1929
   },
   {
-    "Content": "Shoots razor sharp pine needles",
+    "Content": "射出针叶快刀",
     "Id": 1930
   },
   {
-    "Content": "Showers an area with icicles",
+    "Content": "召唤暴风雪",
     "Id": 1931
   },
   {
-    "Content": "Launches homing missiles",
+    "Content": "发射追踪导弹",
     "Id": 1946
   },
   {
-    "Content": "Shoots an icy spear that rains snowflakes",
+    "Content": "射出飞雪的冰霜之矛",
     "Id": 1947
   },
   {
-    "Content": "Summons the Frost Moon",
+    "Content": "召唤冰霜之月",
     "Id": 1958
   },
   {
-    "Content": "Summons a Baby Grinch",
+    "Content": "召唤一个圣诞怪杰宠物",
     "Id": 1959
   },
   {
-    "Content": "'Fezzes are cool'",
+    "Content": "'毡帽很酷'",
     "Id": 1988
   },
   {
-    "Content": "Used for advanced crafting",
+    "Content": "用于制作高级物品的合成",
     "Id": 2172
   },
   {
-    "Content": "Reduces ammo usage by 20%",
+    "Content": "减少20%弹药消耗",
     "Id": 2177
   },
   {
-    "Content": "Shoots a venom fang that pierces multiple enemies",
+    "Content": "射出穿透敌人的毒牙",
     "Id": 2188
   },
   {
-    "Content": "Increases maximum mana by 60 and reduces mana usage by 13%",
+    "Content": "增加60最大法力值，减少13%魔法消耗",
     "Id": 2189
   },
   {
-    "Content": "Used for special crafting",
+    "Content": "用于制造特殊物品",
     "Id": 2192
   },
   {
-    "Content": "Used for special crafting",
+    "Content": "用于制造特殊物品",
     "Id": 2193
   },
   {
-    "Content": "Used for special crafting",
+    "Content": "用于制造特殊物品",
     "Id": 2194
   },
   {
-    "Content": "Used for special crafting",
+    "Content": "用于制造特殊物品",
     "Id": 2195
   },
   {
-    "Content": "Used for special crafting",
+    "Content": "用于制造特殊物品",
     "Id": 2196
   },
   {
-    "Content": "Used for special crafting",
+    "Content": "用于制造特殊物品",
     "Id": 2197
   },
   {
-    "Content": "Used for special crafting",
+    "Content": "用于制造特殊物品",
     "Id": 2198
   },
   {
-    "Content": "6% increased melee damage",
+    "Content": "增加6%近战伤害 ",
     "Id": 2199
   },
   {
-    "Content": "8% increased melee damage and critical strike chance",
+    "Content": "增加8%近战伤害和暴击率",
     "Id": 2200
   },
   {
-    "Content": "5% increased melee damage and critical strike chance",
+    "Content": "增加5%近战伤害和暴击率",
     "Id": 2201
   },
   {
-    "Content": "6% increased movement and melee speed",
+    "Content": "提升6%移动速度和近战攻速",
     "Id": 2202
   },
   {
-    "Content": "Used for special crafting",
+    "Content": "用于制造特殊物品",
     "Id": 2203
   },
   {
-    "Content": "Used for special crafting",
+    "Content": "用于制造特殊物品",
     "Id": 2204
   },
   {
-    "Content": "Increases tile placement speed",
+    "Content": "增加物块放置速度",
     "Id": 2214
   },
   {
-    "Content": "Increases tile reach",
+    "Content": "增加物块放置范围",
     "Id": 2215
   },
   {
-    "Content": "Automatically paints placed objects",
+    "Content": "自动对放置物体上色",
     "Id": 2216
   },
   {
-    "Content": "Increases wall placement speed",
+    "Content": "增加铺墙速度",
     "Id": 2217
   },
   {
-    "Content": "Increases pickup range for mana stars",
+    "Content": "增加落星收集范围",
     "Id": 2219
   },
   {
-    "Content": "Increases pickup range for mana stars",
+    "Content": "增加落星收集范围",
     "Id": 2220
   },
   {
-    "Content": "Increases pickup range for mana stars",
+    "Content": "增加落星收集范围",
     "Id": 2221
   },
   {
-    "Content": "Shoots a charged arrow",
+    "Content": "发射充能的箭矢",
     "Id": 2223
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "微弱增加全属性",
     "Id": 2267
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "微弱增加全属性",
     "Id": 2268
   },
   {
-    "Content": "50% chance to not consume ammo",
+    "Content": "50% 几率不消耗弹药",
     "Id": 2270
   },
   {
-    "Content": "Squirts a harmless stream of water",
+    "Content": "射出一道无害的水流",
     "Id": 2272
   },
   {
-    "Content": "7% increased magic damage and critical strike chance",
+    "Content": "增加7%魔法伤害和暴击率",
     "Id": 2275
   },
   {
-    "Content": "5% increased damage and critical strike chance",
+    "Content": "增加5%伤害和暴击率",
     "Id": 2277
   },
   {
-    "Content": "6% increased magic damage and critical strike chance",
+    "Content": "增加6%魔法伤害和暴击率",
     "Id": 2279
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和滑翔能力",
     "Id": 2280
   },
   {
@@ -3264,171 +3264,171 @@
     "Id": 2308
   },
   {
-    "Content": "Increases mining speed by 25%",
+    "Content": "采矿速度加快25%",
     "Id": 2322
   },
   {
-    "Content": "Increases pickup range for life hearts",
+    "Content": "增加吸引生命之心的范围",
     "Id": 2323
   },
   {
-    "Content": "Reduces enemy aggression",
+    "Content": "降低敌人的攻击性",
     "Id": 2324
   },
   {
-    "Content": "Increases placement speed and range",
+    "Content": "增加物块的放置速度和距离",
     "Id": 2325
   },
   {
-    "Content": "Increases knockback",
+    "Content": "增强击退效果",
     "Id": 2326
   },
   {
-    "Content": "Lets you move swiftly in liquids",
+    "Content": "使你能在水中快速地移动",
     "Id": 2327
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加你的召唤物数量上限",
     "Id": 2328
   },
   {
-    "Content": "Allows you to see nearby danger sources",
+    "Content": "使你能看到附近的危机之源",
     "Id": 2329
   },
   {
-    "Content": "<right> to open",
+    "Content": "右键打开",
     "Id": 2334
   },
   {
-    "Content": "<right> to open",
+    "Content": "右键打开",
     "Id": 2335
   },
   {
-    "Content": "<right> to open",
+    "Content": "右键打开",
     "Id": 2336
   },
   {
-    "Content": "Hammer end piece to change bumper style",
+    "Content": "可以用锤子更改制动器的类型",
     "Id": 2340
   },
   {
-    "Content": "Let's ride the rails",
+    "Content": "来玩过山车吧",
     "Id": 2343
   },
   {
-    "Content": "20% chance to not consume ammo",
+    "Content": "20%概率不消耗弹药",
     "Id": 2344
   },
   {
-    "Content": "Increases max life by 20%",
+    "Content": "增加20%生命上限",
     "Id": 2345
   },
   {
-    "Content": "Reduces damage taken by 10%",
+    "Content": "减少10%受到的伤害",
     "Id": 2346
   },
   {
-    "Content": "Increases critical chance by 10%",
+    "Content": "增加10%的暴击率",
     "Id": 2347
   },
   {
-    "Content": "Ignites nearby enemies",
+    "Content": "点燃附近的敌人",
     "Id": 2348
   },
   {
-    "Content": "Increases damage by 10%",
+    "Content": "增加10%的伤害",
     "Id": 2349
   },
   {
-    "Content": "Teleports you home",
+    "Content": "送你回家",
     "Id": 2350
   },
   {
-    "Content": "Teleports you to a random location",
+    "Content": "将你传送至一个随机的地点",
     "Id": 2351
   },
   {
-    "Content": "Throw this to make someone fall in love",
+    "Content": "用这个砸别人能让他们坠入爱河",
     "Id": 2352
   },
   {
-    "Content": "Throw this to make someone smell terrible",
+    "Content": "用这个砸别人能让他们变得难闻",
     "Id": 2353
   },
   {
-    "Content": "Increases fishing skill",
+    "Content": "提升你的钓技",
     "Id": 2354
   },
   {
-    "Content": "Detects hooked fish",
+    "Content": "侦测上钩的鱼",
     "Id": 2355
   },
   {
-    "Content": "Increases chance to get a crate",
+    "Content": "增加钓到板条箱的概率",
     "Id": 2356
   },
   {
-    "Content": "Reduces damage from cold sources",
+    "Content": "减少寒冷伤害",
     "Id": 2359
   },
   {
-    "Content": "Increases minion damage by 4%",
+    "Content": "增加4%召唤物伤害",
     "Id": 2361
   },
   {
-    "Content": "Increases minion damage by 4%",
+    "Content": "增加4%召唤物伤害",
     "Id": 2362
   },
   {
-    "Content": "Increases minion damage by 5%",
+    "Content": "增加5%召唤物伤害",
     "Id": 2363
   },
   {
-    "Content": "Summons a hornet to fight for you",
+    "Content": "召唤一只毒蜂为你而战",
     "Id": 2364
   },
   {
-    "Content": "Summons an imp to fight for you",
+    "Content": "召唤一只魔精为你而战",
     "Id": 2365
   },
   {
-    "Content": "Summons a spider queen to spit eggs at your enemies",
+    "Content": "召唤一只蜘蛛女皇向敌人吐蜘蛛卵",
     "Id": 2366
   },
   {
-    "Content": "Increases fishing level",
+    "Content": "提升你的钓技",
     "Id": 2367
   },
   {
-    "Content": "Increases fishing level",
+    "Content": "提升你的钓技",
     "Id": 2368
   },
   {
-    "Content": "Increases fishing level",
+    "Content": "提升你的钓技",
     "Id": 2369
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加你的召唤物数量上限",
     "Id": 2370
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加你的召唤物数量上限",
     "Id": 2371
   },
   {
-    "Content": "Increases your max number of minions",
+    "Content": "增加你的召唤物数量上限",
     "Id": 2372
   },
   {
-    "Content": "Fishing line will never break",
+    "Content": "渔线再也不会断掉了",
     "Id": 2373
   },
   {
-    "Content": "Increases fishing skill",
+    "Content": "提升你的钓技",
     "Id": 2374
   },
   {
-    "Content": "Decreases chance of bait consumption",
+    "Content": "减少消耗鱼饵的概率",
     "Id": 2375
   },
   {
@@ -3436,35 +3436,35 @@
     "Id": 2420
   },
   {
-    "Content": "Increases jump speed and allows auto-jump",
+    "Content": "增加跳跃速度并允许自动跳",
     "Id": 2423
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "略微提升所有属性",
     "Id": 2425
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "略微提升所有属性",
     "Id": 2426
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "略微提升所有属性",
     "Id": 2427
   },
   {
-    "Content": "Summons a rideable Bunny mount",
+    "Content": "召唤一只兔子坐骑",
     "Id": 2428
   },
   {
-    "Content": "Summons a rideable Pigron mount",
+    "Content": "召唤一只猪鲨坐骑",
     "Id": 2429
   },
   {
-    "Content": "Summons a rideable Slime mount",
+    "Content": "召唤一只史莱姆坐骑",
     "Id": 2430
   },
   {
-    "Content": "Summons a rideable Turtle mount",
+    "Content": "召唤出一只海龟坐骑",
     "Id": 2491
   },
   {
@@ -3472,7 +3472,7 @@
     "Id": 2492
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和漂浮的能力",
     "Id": 2494
   },
   {
@@ -3480,35 +3480,35 @@
     "Id": 2497
   },
   {
-    "Content": "Summons a rideable Bee mount",
+    "Content": "召唤出一只蜜蜂坐骑",
     "Id": 2502
   },
   {
-    "Content": "Summons twins to fight for you",
+    "Content": "召唤双子邪眼为你而战",
     "Id": 2535
   },
   {
-    "Content": "Summons spiders to fight for you",
+    "Content": "召唤蜘蛛为你而战",
     "Id": 2551
   },
   {
-    "Content": "Summons pirates to fight for you",
+    "Content": "召唤海盗们为你而战",
     "Id": 2584
   },
   {
-    "Content": "A small explosion that will not destroy tiles",
+    "Content": "造成一次不会破坏物块的小范围爆炸",
     "Id": 2586
   },
   {
-    "Content": "Summons a mini minotaur",
+    "Content": "召唤一只迷你牛头人",
     "Id": 2587
   },
   {
-    "Content": "A small explosion that puts enemies on fire",
+    "Content": "造成一次能让敌人着火的小范围爆炸",
     "Id": 2590
   },
   {
-    "Content": "Allows flight and slow fall",
+    "Content": "提供飞行和漂浮的能力",
     "Id": 2609
   },
   {
@@ -3516,31 +3516,31 @@
     "Id": 2610
   },
   {
-    "Content": "Spews homing bubbles",
+    "Content": "会吐出许多跟踪泡泡哦",
     "Id": 2611
   },
   {
-    "Content": "Summons sharknados to fight for you",
+    "Content": "召唤龙卷鲨为你而战",
     "Id": 2621
   },
   {
-    "Content": "Casts fast moving razorwheels",
+    "Content": "发射高速的轮刃",
     "Id": 2622
   },
   {
-    "Content": "Rapidly shoots forceful bubbles",
+    "Content": "快速地射出强力的泡泡",
     "Id": 2623
   },
   {
-    "Content": "Shoots 5 arrows at a time",
+    "Content": "一次射出五只箭",
     "Id": 2624
   },
   {
-    "Content": "<right> to place item on weapon rack",
+    "Content": "右键把武器放上去",
     "Id": 2699
   },
   {
-    "Content": "Hammer to change direction",
+    "Content": "用锤子敲它可以改变加速的方向",
     "Id": 2739
   },
   {
