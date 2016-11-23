@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Content": "Brilliant, my dear! You have brought me an exquisite sample of the world's beautiful colors and aroma. In exchange, you may take this special bottle of dye.",
+    "Id": -1
+  },
+  {
+    "Content": "You bring me a beautiful, rare flower... yes, yes? Take this bottle of special dye for your troubles, friend!",
+    "Id": -1
+  },
+  {
+    "Content": "Fantabulous, wonderful friend! With this delicate specimen, I may mix the most amazing dyes $Terraria.Main::worldName has ever seen! You may take this one right away!",
+    "Id": -1
+  },
+  {
+    "Content": "Oh no no, this will not do.  For these money is no good, you must return to me with a rare specimen of a plant!",
+    "Id": -1
+  },
+  {
+    "Content": "You think you can pull a fast one on $Npc_207, I don't think so! I only take the rarest of flowers for these special bottles!",
+    "Id": -1
+  },
+  {
+    "Content": "These dye bottles? Sorry dear friend, these don't take coin. I only take the most precious and rare of flora in exchange for one of this!",
+    "Id": -1
+  }
+]

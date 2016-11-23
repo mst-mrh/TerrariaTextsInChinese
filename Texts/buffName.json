@@ -1,0 +1,818 @@
+﻿[
+  {
+    "Content": "Obsidian Skin",
+    "Id": 1
+  },
+  {
+    "Content": "Regeneration",
+    "Id": 2
+  },
+  {
+    "Content": "Swiftness",
+    "Id": 3
+  },
+  {
+    "Content": "Gills",
+    "Id": 4
+  },
+  {
+    "Content": "Ironskin",
+    "Id": 5
+  },
+  {
+    "Content": "Mana Regeneration",
+    "Id": 6
+  },
+  {
+    "Content": "Magic Power",
+    "Id": 7
+  },
+  {
+    "Content": "Featherfall",
+    "Id": 8
+  },
+  {
+    "Content": "Spelunker",
+    "Id": 9
+  },
+  {
+    "Content": "Invisibility",
+    "Id": 10
+  },
+  {
+    "Content": "Shine",
+    "Id": 11
+  },
+  {
+    "Content": "Night Owl",
+    "Id": 12
+  },
+  {
+    "Content": "Battle",
+    "Id": 13
+  },
+  {
+    "Content": "Thorns",
+    "Id": 14
+  },
+  {
+    "Content": "Water Walking",
+    "Id": 15
+  },
+  {
+    "Content": "Archery",
+    "Id": 16
+  },
+  {
+    "Content": "Hunter",
+    "Id": 17
+  },
+  {
+    "Content": "Gravitation",
+    "Id": 18
+  },
+  {
+    "Content": "Shadow Orb",
+    "Id": 19
+  },
+  {
+    "Content": "Poisoned",
+    "Id": 20
+  },
+  {
+    "Content": "Potion Sickness",
+    "Id": 21
+  },
+  {
+    "Content": "Darkness",
+    "Id": 22
+  },
+  {
+    "Content": "Cursed",
+    "Id": 23
+  },
+  {
+    "Content": "On Fire!",
+    "Id": 24
+  },
+  {
+    "Content": "Tipsy",
+    "Id": 25
+  },
+  {
+    "Content": "Well Fed",
+    "Id": 26
+  },
+  {
+    "Content": "Fairy",
+    "Id": 27
+  },
+  {
+    "Content": "Werewolf",
+    "Id": 28
+  },
+  {
+    "Content": "Clairvoyance",
+    "Id": 29
+  },
+  {
+    "Content": "Bleeding",
+    "Id": 30
+  },
+  {
+    "Content": "Confused",
+    "Id": 31
+  },
+  {
+    "Content": "Slow",
+    "Id": 32
+  },
+  {
+    "Content": "Weak",
+    "Id": 33
+  },
+  {
+    "Content": "Merfolk",
+    "Id": 34
+  },
+  {
+    "Content": "Silenced",
+    "Id": 35
+  },
+  {
+    "Content": "Broken Armor",
+    "Id": 36
+  },
+  {
+    "Content": "Horrified",
+    "Id": 37
+  },
+  {
+    "Content": "The Tongue",
+    "Id": 38
+  },
+  {
+    "Content": "Cursed Inferno",
+    "Id": 39
+  },
+  {
+    "Content": "Pet Bunny",
+    "Id": 40
+  },
+  {
+    "Content": "Baby Penguin",
+    "Id": 41
+  },
+  {
+    "Content": "Pet Turtle",
+    "Id": 42
+  },
+  {
+    "Content": "Paladin's Shield",
+    "Id": 43
+  },
+  {
+    "Content": "Frostburn",
+    "Id": 44
+  },
+  {
+    "Content": "Baby Eater",
+    "Id": 45
+  },
+  {
+    "Content": "Chilled",
+    "Id": 46
+  },
+  {
+    "Content": "Frozen",
+    "Id": 47
+  },
+  {
+    "Content": "Honey",
+    "Id": 48
+  },
+  {
+    "Content": "Pygmies",
+    "Id": 49
+  },
+  {
+    "Content": "Baby Skeletron Head",
+    "Id": 50
+  },
+  {
+    "Content": "Baby Hornet",
+    "Id": 51
+  },
+  {
+    "Content": "Tiki Spirit",
+    "Id": 52
+  },
+  {
+    "Content": "Pet Lizard",
+    "Id": 53
+  },
+  {
+    "Content": "Pet Parrot",
+    "Id": 54
+  },
+  {
+    "Content": "Baby Truffle",
+    "Id": 55
+  },
+  {
+    "Content": "Pet Sapling",
+    "Id": 56
+  },
+  {
+    "Content": "Wisp",
+    "Id": 57
+  },
+  {
+    "Content": "Rapid Healing",
+    "Id": 58
+  },
+  {
+    "Content": "Shadow Dodge",
+    "Id": 59
+  },
+  {
+    "Content": "Leaf Crystal",
+    "Id": 60
+  },
+  {
+    "Content": "Baby Dinosaur",
+    "Id": 61
+  },
+  {
+    "Content": "Ice Barrier",
+    "Id": 62
+  },
+  {
+    "Content": "Panic!",
+    "Id": 63
+  },
+  {
+    "Content": "Baby Slime",
+    "Id": 64
+  },
+  {
+    "Content": "Eyeball Spring",
+    "Id": 65
+  },
+  {
+    "Content": "Baby Snowman",
+    "Id": 66
+  },
+  {
+    "Content": "Burning",
+    "Id": 67
+  },
+  {
+    "Content": "Suffocation",
+    "Id": 68
+  },
+  {
+    "Content": "Ichor",
+    "Id": 69
+  },
+  {
+    "Content": "Venom",
+    "Id": 70
+  },
+  {
+    "Content": "Midas",
+    "Id": 72
+  },
+  {
+    "Content": "Blackout",
+    "Id": 80
+  },
+  {
+    "Content": "Pet Spider",
+    "Id": 81
+  },
+  {
+    "Content": "Squashling",
+    "Id": 82
+  },
+  {
+    "Content": "Ravens",
+    "Id": 83
+  },
+  {
+    "Content": "Black Cat",
+    "Id": 84
+  },
+  {
+    "Content": "Cursed Sapling",
+    "Id": 85
+  },
+  {
+    "Content": "Water Candle",
+    "Id": 86
+  },
+  {
+    "Content": "Peace Candle",
+    "Id": 157
+  },
+  {
+    "Content": "Cozy Fire",
+    "Id": 87
+  },
+  {
+    "Content": "Chaos State",
+    "Id": 88
+  },
+  {
+    "Content": "Heart Lamp",
+    "Id": 89
+  },
+  {
+    "Content": "Rudolph",
+    "Id": 90
+  },
+  {
+    "Content": "Puppy",
+    "Id": 91
+  },
+  {
+    "Content": "Baby Grinch",
+    "Id": 92
+  },
+  {
+    "Content": "Ammo Box",
+    "Id": 93
+  },
+  {
+    "Content": "Mana Sickness",
+    "Id": 94
+  },
+  {
+    "Content": "Beetle Endurance",
+    "Id": 95
+  },
+  {
+    "Content": "Beetle Endurance",
+    "Id": 96
+  },
+  {
+    "Content": "Beetle Endurance",
+    "Id": 97
+  },
+  {
+    "Content": "Beetle Might",
+    "Id": 98
+  },
+  {
+    "Content": "Beetle Might",
+    "Id": 99
+  },
+  {
+    "Content": "Beetle Might",
+    "Id": 100
+  },
+  {
+    "Content": "Fairy",
+    "Id": 101
+  },
+  {
+    "Content": "Fairy",
+    "Id": 102
+  },
+  {
+    "Content": "Wet",
+    "Id": 103
+  },
+  {
+    "Content": "Mining",
+    "Id": 104
+  },
+  {
+    "Content": "Heartreach",
+    "Id": 105
+  },
+  {
+    "Content": "Calm",
+    "Id": 106
+  },
+  {
+    "Content": "Builder",
+    "Id": 107
+  },
+  {
+    "Content": "Titan",
+    "Id": 108
+  },
+  {
+    "Content": "Flipper",
+    "Id": 109
+  },
+  {
+    "Content": "Summoning",
+    "Id": 110
+  },
+  {
+    "Content": "Dangersense",
+    "Id": 111
+  },
+  {
+    "Content": "Ammo Reservation",
+    "Id": 112
+  },
+  {
+    "Content": "Lifeforce",
+    "Id": 113
+  },
+  {
+    "Content": "Endurance",
+    "Id": 114
+  },
+  {
+    "Content": "Rage",
+    "Id": 115
+  },
+  {
+    "Content": "Inferno",
+    "Id": 116
+  },
+  {
+    "Content": "Wrath",
+    "Id": 117
+  },
+  {
+    "Content": "Minecart",
+    "Id": 118
+  },
+  {
+    "Content": "Minecart",
+    "Id": 138
+  },
+  {
+    "Content": "Lovestruck",
+    "Id": 119
+  },
+  {
+    "Content": "Stinky",
+    "Id": 120
+  },
+  {
+    "Content": "Fishing",
+    "Id": 121
+  },
+  {
+    "Content": "Sonar",
+    "Id": 122
+  },
+  {
+    "Content": "Crate",
+    "Id": 123
+  },
+  {
+    "Content": "Warmth",
+    "Id": 124
+  },
+  {
+    "Content": "Hornet",
+    "Id": 125
+  },
+  {
+    "Content": "Imp",
+    "Id": 126
+  },
+  {
+    "Content": "Zephyr Fish",
+    "Id": 127
+  },
+  {
+    "Content": "Bunny Mount",
+    "Id": 128
+  },
+  {
+    "Content": "Pigron Mount",
+    "Id": 129
+  },
+  {
+    "Content": "Slime Mount",
+    "Id": 130
+  },
+  {
+    "Content": "Turtle Mount",
+    "Id": 131
+  },
+  {
+    "Content": "Bee Mount",
+    "Id": 132
+  },
+  {
+    "Content": "Spider",
+    "Id": 133
+  },
+  {
+    "Content": "Twins",
+    "Id": 134
+  },
+  {
+    "Content": "Pirate",
+    "Id": 135
+  },
+  {
+    "Content": "Mini Minotaur",
+    "Id": 136
+  },
+  {
+    "Content": "Slime",
+    "Id": 137
+  },
+  {
+    "Content": "Sharknado",
+    "Id": 139
+  },
+  {
+    "Content": "UFO",
+    "Id": 140
+  },
+  {
+    "Content": "UFO Mount",
+    "Id": 141
+  },
+  {
+    "Content": "Drill Mount",
+    "Id": 142
+  },
+  {
+    "Content": "Scutlix Mount",
+    "Id": 143
+  },
+  {
+    "Content": "Electrified",
+    "Id": 144
+  },
+  {
+    "Content": "Moon Bite",
+    "Id": 145
+  },
+  {
+    "Content": "Happy!",
+    "Id": 146
+  },
+  {
+    "Content": "Banner",
+    "Id": 147
+  },
+  {
+    "Content": "Feral Bite",
+    "Id": 148
+  },
+  {
+    "Content": "Webbed",
+    "Id": 149
+  },
+  {
+    "Content": "Bewitched",
+    "Id": 150
+  },
+  {
+    "Content": "Life Drain",
+    "Id": 151
+  },
+  {
+    "Content": "Magic Lantern",
+    "Id": 152
+  },
+  {
+    "Content": "Shadowflame",
+    "Id": 153
+  },
+  {
+    "Content": "Crimson Heart",
+    "Id": 155
+  },
+  {
+    "Content": "Baby Face Monster",
+    "Id": 154
+  },
+  {
+    "Content": "Penetrated",
+    "Id": 169
+  },
+  {
+    "Content": "Stardust Cell",
+    "Id": 182
+  },
+  {
+    "Content": "Celled",
+    "Id": 183
+  },
+  {
+    "Content": "Dryad's Bane",
+    "Id": 186
+  },
+  {
+    "Content": "Stardust Guardian",
+    "Id": 187
+  },
+  {
+    "Content": "Stardust Dragon",
+    "Id": 188
+  },
+  {
+    "Content": "Daybroken",
+    "Id": 189
+  },
+  {
+    "Content": "Suspicious Looking Eye",
+    "Id": 190
+  },
+  {
+    "Content": "Companion Cube",
+    "Id": 191
+  },
+  {
+    "Content": "Propeller Gato",
+    "Id": 200
+  },
+  {
+    "Content": "Flickerwick",
+    "Id": 201
+  },
+  {
+    "Content": "Hoardagron",
+    "Id": 202
+  },
+  {
+    "Content": "Betsy's Curse",
+    "Id": 203
+  },
+  {
+    "Content": "Oiled",
+    "Id": 204
+  },
+  {
+    "Content": "Stoned",
+    "Id": 156
+  },
+  {
+    "Content": "Star in a Bottle",
+    "Id": 158
+  },
+  {
+    "Content": "Sharpened",
+    "Id": 159
+  },
+  {
+    "Content": "Dazed",
+    "Id": 160
+  },
+  {
+    "Content": "Deadly Sphere",
+    "Id": 161
+  },
+  {
+    "Content": "Obstructed",
+    "Id": 163
+  },
+  {
+    "Content": "Distorted",
+    "Id": 164
+  },
+  {
+    "Content": "Dryad's Blessing",
+    "Id": 165
+  },
+  {
+    "Content": "Mighty Wind",
+    "Id": 194
+  },
+  {
+    "Content": "Withered Armor",
+    "Id": 195
+  },
+  {
+    "Content": "Withered Weapon",
+    "Id": 196
+  },
+  {
+    "Content": "Oozed",
+    "Id": 197
+  },
+  {
+    "Content": "Striking Moment",
+    "Id": 198
+  },
+  {
+    "Content": "Ballista Panic!",
+    "Id": 205
+  },
+  {
+    "Content": "Minecart",
+    "Id": 166
+  },
+  {
+    "Content": "Minecart",
+    "Id": 167
+  },
+  {
+    "Content": "Minecart",
+    "Id": 185
+  },
+  {
+    "Content": "Minecart",
+    "Id": 184
+  },
+  {
+    "Content": "Solar Blaze",
+    "Id": 170
+  },
+  {
+    "Content": "Solar Blaze",
+    "Id": 171
+  },
+  {
+    "Content": "Solar Blaze",
+    "Id": 172
+  },
+  {
+    "Content": "Damage Nebula",
+    "Id": 179
+  },
+  {
+    "Content": "Damage Nebula",
+    "Id": 180
+  },
+  {
+    "Content": "Damage Nebula",
+    "Id": 181
+  },
+  {
+    "Content": "Life Nebula",
+    "Id": 173
+  },
+  {
+    "Content": "Life Nebula",
+    "Id": 174
+  },
+  {
+    "Content": "Life Nebula",
+    "Id": 175
+  },
+  {
+    "Content": "Mana Nebula",
+    "Id": 176
+  },
+  {
+    "Content": "Mana Nebula",
+    "Id": 177
+  },
+  {
+    "Content": "Mana Nebula",
+    "Id": 178
+  },
+  {
+    "Content": "Unicorn Mount",
+    "Id": 162
+  },
+  {
+    "Content": "Cute Fishron Mount",
+    "Id": 168
+  },
+  {
+    "Content": "Basilisk Mount",
+    "Id": 193
+  },
+  {
+    "Content": "Creative Shock",
+    "Id": 199
+  },
+  {
+    "Content": "Weapon Imbue: Venom",
+    "Id": 71
+  },
+  {
+    "Content": "Weapon Imbue: Cursed Flames",
+    "Id": 73
+  },
+  {
+    "Content": "Weapon Imbue: Fire",
+    "Id": 74
+  },
+  {
+    "Content": "Weapon Imbue: Gold",
+    "Id": 75
+  },
+  {
+    "Content": "Weapon Imbue: Ichor",
+    "Id": 76
+  },
+  {
+    "Content": "Weapon Imbue: Nanites",
+    "Id": 77
+  },
+  {
+    "Content": "Weapon Imbue: Confetti",
+    "Id": 78
+  },
+  {
+    "Content": "Weapon Imbue: Poison",
+    "Id": 79
+  }
+]

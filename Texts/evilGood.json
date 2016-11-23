@@ -1,0 +1,54 @@
+﻿[
+  {
+    "Content": "{0} is {1}% hallow, {2}% corrupt, and {3}% crimson.",
+    "Id": 0
+  },
+  {
+    "Content": "{0} is {1}%  hallow and {2}% corrupt.",
+    "Id": 1
+  },
+  {
+    "Content": "{0} is {1}%  hallow and {2}% crimson.",
+    "Id": 2
+  },
+  {
+    "Content": "{0} is {1}% corrupt and {2}% crimson.",
+    "Id": 3
+  },
+  {
+    "Content": "{0} is {1}%  corrupt .",
+    "Id": 4
+  },
+  {
+    "Content": "{0} is {1}%  crismon .",
+    "Id": 5
+  },
+  {
+    "Content": "{0} is {1}%  hallow .",
+    "Id": 6
+  },
+  {
+    "Content": "{0} is completely pure. You have done an amazing job!",
+    "Id": 7
+  },
+  {
+    "Content": " The world is in balance.",
+    "Id": 8
+  },
+  {
+    "Content": " We are living in a fairy tale.",
+    "Id": 9
+  },
+  {
+    "Content": " Things are grim indeed...",
+    "Id": 10
+  },
+  {
+    "Content": " You have a lot of work to do.",
+    "Id": 11
+  },
+  {
+    "Content": " You are so close!",
+    "Id": 12
+  }
+]

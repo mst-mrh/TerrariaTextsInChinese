@@ -1,0 +1,5718 @@
+﻿[
+  {
+    "Content": "Provides light",
+    "Id": 8
+  },
+  {
+    "Content": "Tells the time",
+    "Id": 15
+  },
+  {
+    "Content": "Tells the time",
+    "Id": 16
+  },
+  {
+    "Content": "Tells the time",
+    "Id": 17
+  },
+  {
+    "Content": "Displays depth",
+    "Id": 18
+  },
+  {
+    "Content": "'Both tasty and flammable'",
+    "Id": 23
+  },
+  {
+    "Content": "Permanently increases maximum life by 20",
+    "Id": 29
+  },
+  {
+    "Content": "Used for smelting ore",
+    "Id": 33
+  },
+  {
+    "Content": "Used to craft items from metal bars",
+    "Id": 35
+  },
+  {
+    "Content": "Used for basic crafting",
+    "Id": 36
+  },
+  {
+    "Content": "Summons the Eye of Cthulhu",
+    "Id": 43
+  },
+  {
+    "Content": "Slowly regenerates life",
+    "Id": 49
+  },
+  {
+    "Content": "Gaze in the mirror to return home",
+    "Id": 50
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 53
+  },
+  {
+    "Content": "The wearer can run super fast",
+    "Id": 54
+  },
+  {
+    "Content": "'Pulsing with dark energy'",
+    "Id": 56
+  },
+  {
+    "Content": "'Pulsing with dark energy'",
+    "Id": 57
+  },
+  {
+    "Content": "Summons a vile thorn",
+    "Id": 64
+  },
+  {
+    "Content": "Causes stars to rain from the sky",
+    "Id": 65
+  },
+  {
+    "Content": "Cleanses the evil",
+    "Id": 66
+  },
+  {
+    "Content": "Banishes the Hallow",
+    "Id": 67
+  },
+  {
+    "Content": "'Looks tasty!'",
+    "Id": 68
+  },
+  {
+    "Content": "Summons the Eater of Worlds",
+    "Id": 70
+  },
+  {
+    "Content": "Disappears after the sunrise",
+    "Id": 75
+  },
+  {
+    "Content": "'Get over here!'",
+    "Id": 84
+  },
+  {
+    "Content": "Can be climbed on",
+    "Id": 85
+  },
+  {
+    "Content": "Provides light when worn",
+    "Id": 88
+  },
+  {
+    "Content": "33% chance to not consume ammo",
+    "Id": 98
+  },
+  {
+    "Content": "7% increased melee speed",
+    "Id": 100
+  },
+  {
+    "Content": "7% increased melee speed",
+    "Id": 101
+  },
+  {
+    "Content": "7% increased melee speed",
+    "Id": 102
+  },
+  {
+    "Content": "Able to mine Hellstone",
+    "Id": 103
+  },
+  {
+    "Content": "Permanently increases maximum mana by 20",
+    "Id": 109
+  },
+  {
+    "Content": "Increases maximum mana by 20",
+    "Id": 111
+  },
+  {
+    "Content": "Throws balls of fire",
+    "Id": 112
+  },
+  {
+    "Content": "Casts a controllable missile",
+    "Id": 113
+  },
+  {
+    "Content": "Magically moves dirt",
+    "Id": 114
+  },
+  {
+    "Content": "Creates a magical shadow orb",
+    "Id": 115
+  },
+  {
+    "Content": "'Warm to the touch'",
+    "Id": 117
+  },
+  {
+    "Content": "Sometimes dropped by Skeletons and Piranha",
+    "Id": 118
+  },
+  {
+    "Content": "Lights wooden arrows ablaze",
+    "Id": 120
+  },
+  {
+    "Content": "'It's made out of fire!'",
+    "Id": 121
+  },
+  {
+    "Content": "7% increased magic damage",
+    "Id": 123
+  },
+  {
+    "Content": "7% increased magic damage",
+    "Id": 124
+  },
+  {
+    "Content": "7% increased magic damage",
+    "Id": 125
+  },
+  {
+    "Content": "Allows flight",
+    "Id": 128
+  },
+  {
+    "Content": "Holding this may attract unwanted attention",
+    "Id": 148
+  },
+  {
+    "Content": "'It contains strange symbols'",
+    "Id": 149
+  },
+  {
+    "Content": "5% increased ranged damage.",
+    "Id": 151
+  },
+  {
+    "Content": "5% increased ranged damage.",
+    "Id": 152
+  },
+  {
+    "Content": "5% increased ranged damage.",
+    "Id": 153
+  },
+  {
+    "Content": "Grants immunity to knockback",
+    "Id": 156
+  },
+  {
+    "Content": "Sprays out a shower of water",
+    "Id": 157
+  },
+  {
+    "Content": "Negates fall damage",
+    "Id": 158
+  },
+  {
+    "Content": "Increases jump height",
+    "Id": 159
+  },
+  {
+    "Content": "Casts a slow moving bolt of water",
+    "Id": 165
+  },
+  {
+    "Content": "A small explosion that will destroy some tiles",
+    "Id": 166
+  },
+  {
+    "Content": "A large explosion that will destroy most tiles",
+    "Id": 167
+  },
+  {
+    "Content": "A small explosion that will not destroy tiles",
+    "Id": 168
+  },
+  {
+    "Content": "'Hot to the touch'",
+    "Id": 175
+  },
+  {
+    "Content": "Increases breath time and allows breathing in water",
+    "Id": 186
+  },
+  {
+    "Content": "Grants the ability to swim",
+    "Id": 187
+  },
+  {
+    "Content": "Has a chance to poison enemies",
+    "Id": 190
+  },
+  {
+    "Content": "Grants immunity to fire blocks",
+    "Id": 193
+  },
+  {
+    "Content": "Shoots fallen stars",
+    "Id": 197
+  },
+  {
+    "Content": "'It's pretty, oh so pretty'",
+    "Id": 208
+  },
+  {
+    "Content": "12% increased melee speed",
+    "Id": 211
+  },
+  {
+    "Content": "10% increased movement speed",
+    "Id": 212
+  },
+  {
+    "Content": "Creates grass and moss on dirt and stone",
+    "Id": 213
+  },
+  {
+    "Content": "'May annoy others'",
+    "Id": 215
+  },
+  {
+    "Content": "Summons a controllable ball of fire",
+    "Id": 218
+  },
+  {
+    "Content": "Grows plants",
+    "Id": 222
+  },
+  {
+    "Content": "6% reduced mana usage",
+    "Id": 223
+  },
+  {
+    "Content": "Reduced potion cooldown",
+    "Id": 227
+  },
+  {
+    "Content": "Increases maximum mana by 40",
+    "Id": 228
+  },
+  {
+    "Content": "Increases maximum mana by 20",
+    "Id": 229
+  },
+  {
+    "Content": "Increases maximum mana by 20",
+    "Id": 230
+  },
+  {
+    "Content": "'Tossing may be difficult.'",
+    "Id": 235
+  },
+  {
+    "Content": "'Makes you look cool!'",
+    "Id": 237
+  },
+  {
+    "Content": "15% increased magic damage",
+    "Id": 238
+  },
+  {
+    "Content": "15% increased throwing velocity",
+    "Id": 256
+  },
+  {
+    "Content": "15% increased throwing damage",
+    "Id": 257
+  },
+  {
+    "Content": "10% increased throwing critical strike chance",
+    "Id": 258
+  },
+  {
+    "Content": "It smells funny...",
+    "Id": 260
+  },
+  {
+    "Content": "'It's smiling, might be a good snack'",
+    "Id": 261
+  },
+  {
+    "Content": "'This is a good idea!'",
+    "Id": 266
+  },
+  {
+    "Content": "'You are a terrible person.'",
+    "Id": 267
+  },
+  {
+    "Content": "Greatly extends underwater breathing",
+    "Id": 268
+  },
+  {
+    "Content": "Casts a demon scythe",
+    "Id": 272
+  },
+  {
+    "Content": "Allows the collection of seeds for ammo",
+    "Id": 281
+  },
+  {
+    "Content": "Works when wet",
+    "Id": 282
+  },
+  {
+    "Content": "For use with Blowpipe",
+    "Id": 283
+  },
+  {
+    "Content": "5% increased movement speed",
+    "Id": 285
+  },
+  {
+    "Content": "Provides immunity to lava",
+    "Id": 288
+  },
+  {
+    "Content": "Provides life regeneration",
+    "Id": 289
+  },
+  {
+    "Content": "25% increased movement speed",
+    "Id": 290
+  },
+  {
+    "Content": "Breathe water instead of air",
+    "Id": 291
+  },
+  {
+    "Content": "Increase defense by 8",
+    "Id": 292
+  },
+  {
+    "Content": "Increased mana regeneration",
+    "Id": 293
+  },
+  {
+    "Content": "20% increased magic damage",
+    "Id": 294
+  },
+  {
+    "Content": "Slows falling speed",
+    "Id": 295
+  },
+  {
+    "Content": "Shows the location of treasure and ore",
+    "Id": 296
+  },
+  {
+    "Content": "Grants invisibility",
+    "Id": 297
+  },
+  {
+    "Content": "Emits an aura of light",
+    "Id": 298
+  },
+  {
+    "Content": "Increases night vision",
+    "Id": 299
+  },
+  {
+    "Content": "Increases enemy spawn rate",
+    "Id": 300
+  },
+  {
+    "Content": "Attackers also take damage",
+    "Id": 301
+  },
+  {
+    "Content": "Allows the ability to walk on water",
+    "Id": 302
+  },
+  {
+    "Content": "20% increased arrow speed and damage",
+    "Id": 303
+  },
+  {
+    "Content": "Shows the location of enemies",
+    "Id": 304
+  },
+  {
+    "Content": "Allows the control of gravity",
+    "Id": 305
+  },
+  {
+    "Content": "'Banned in most places'",
+    "Id": 324
+  },
+  {
+    "Content": "Opens one Gold or Dungeon Chest",
+    "Id": 327
+  },
+  {
+    "Content": "Opens all Shadow Chests",
+    "Id": 329
+  },
+  {
+    "Content": "Used for crafting cloth",
+    "Id": 332
+  },
+  {
+    "Content": "Used for brewing ale",
+    "Id": 352
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 357
+  },
+  {
+    "Content": "Summons a Goblin Army",
+    "Id": 361
+  },
+  {
+    "Content": "Used for advanced wood crafting",
+    "Id": 363
+  },
+  {
+    "Content": "Strong enough to destroy Demon Altars",
+    "Id": 367
+  },
+  {
+    "Content": "Increases maximum mana by 40",
+    "Id": 371
+  },
+  {
+    "Content": "7% increased movement speed",
+    "Id": 372
+  },
+  {
+    "Content": "10% increased ranged damage",
+    "Id": 373
+  },
+  {
+    "Content": "Increases maximum mana by 60",
+    "Id": 376
+  },
+  {
+    "Content": "5% increased melee critical strike chance",
+    "Id": 377
+  },
+  {
+    "Content": "12% increased ranged damage",
+    "Id": 378
+  },
+  {
+    "Content": "Can mine Mythril and Orichalcum",
+    "Id": 385
+  },
+  {
+    "Content": "Can mine Adamantite and Titanium",
+    "Id": 386
+  },
+  {
+    "Content": "Has a chance to confuse",
+    "Id": 389
+  },
+  {
+    "Content": "Displays horizontal position",
+    "Id": 393
+  },
+  {
+    "Content": "Grants the ability to swim",
+    "Id": 394
+  },
+  {
+    "Content": "Shows position",
+    "Id": 395
+  },
+  {
+    "Content": "Negates fall damage",
+    "Id": 396
+  },
+  {
+    "Content": "Grants immunity to knockback",
+    "Id": 397
+  },
+  {
+    "Content": "Allows the combining of some accessories",
+    "Id": 398
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 399
+  },
+  {
+    "Content": "Increases maximum mana by 80",
+    "Id": 400
+  },
+  {
+    "Content": "7% increased melee critical strike chance",
+    "Id": 401
+  },
+  {
+    "Content": "14% increased ranged damage",
+    "Id": 402
+  },
+  {
+    "Content": "6% increased damage",
+    "Id": 403
+  },
+  {
+    "Content": "4% increased critical strike chance",
+    "Id": 404
+  },
+  {
+    "Content": "Allows flight",
+    "Id": 405
+  },
+  {
+    "Content": "Increases block placement range",
+    "Id": 407
+  },
+  {
+    "Content": "Spreads the Hallow to some blocks",
+    "Id": 422
+  },
+  {
+    "Content": "Spreads the corruption to some blocks",
+    "Id": 423
+  },
+  {
+    "Content": "Summons a magical fairy",
+    "Id": 425
+  },
+  {
+    "Content": "Three round burst",
+    "Id": 434
+  },
+  {
+    "Content": "Turns the holder into a werewolf at night",
+    "Id": 485
+  },
+  {
+    "Content": "Creates measurement lines on screen for block placement",
+    "Id": 486
+  },
+  {
+    "Content": "15% increased magic damage",
+    "Id": 489
+  },
+  {
+    "Content": "15% increased melee damage",
+    "Id": 490
+  },
+  {
+    "Content": "15% increased ranged damage",
+    "Id": 491
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 492
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 493
+  },
+  {
+    "Content": "Casts a controllable rainbow",
+    "Id": 495
+  },
+  {
+    "Content": "Summons a block of ice",
+    "Id": 496
+  },
+  {
+    "Content": "Transforms the holder into merfolk when entering water",
+    "Id": 497
+  },
+  {
+    "Content": "Uses gel for ammo",
+    "Id": 506
+  },
+  {
+    "Content": "Places red wire",
+    "Id": 509
+  },
+  {
+    "Content": "Removes wire",
+    "Id": 510
+  },
+  {
+    "Content": "Creates several crystal shards on impact",
+    "Id": 515
+  },
+  {
+    "Content": "Summons falling stars on impact",
+    "Id": 516
+  },
+  {
+    "Content": "A magical returning dagger",
+    "Id": 517
+  },
+  {
+    "Content": "Summons rapid fire crystal shards",
+    "Id": 518
+  },
+  {
+    "Content": "Summons unholy fire balls",
+    "Id": 519
+  },
+  {
+    "Content": "'The essence of light creatures'",
+    "Id": 520
+  },
+  {
+    "Content": "'The essence of dark creatures'",
+    "Id": 521
+  },
+  {
+    "Content": "'Not even water can put the flame out'",
+    "Id": 522
+  },
+  {
+    "Content": "Can be placed in water",
+    "Id": 523
+  },
+  {
+    "Content": "Used to smelt adamantite and titanium ore",
+    "Id": 524
+  },
+  {
+    "Content": "Used to craft items from mythril, orichalcum, adamantite, and titanium bars",
+    "Id": 525
+  },
+  {
+    "Content": "'Sharp and magical!'",
+    "Id": 526
+  },
+  {
+    "Content": "'Sometimes carried by creatures in corrupt deserts'",
+    "Id": 527
+  },
+  {
+    "Content": "'Sometimes carried by creatures in light deserts'",
+    "Id": 528
+  },
+  {
+    "Content": "Activates when stepped on",
+    "Id": 529
+  },
+  {
+    "Content": "Can be enchanted",
+    "Id": 531
+  },
+  {
+    "Content": "Causes stars to fall when injured",
+    "Id": 532
+  },
+  {
+    "Content": "50% chance to not consume ammo",
+    "Id": 533
+  },
+  {
+    "Content": "Fires a spread of bullets",
+    "Id": 534
+  },
+  {
+    "Content": "Reduces the cooldown of healing potions",
+    "Id": 535
+  },
+  {
+    "Content": "Increases melee knockback",
+    "Id": 536
+  },
+  {
+    "Content": "Activates when stepped on",
+    "Id": 541
+  },
+  {
+    "Content": "Activates when a player steps on it",
+    "Id": 542
+  },
+  {
+    "Content": "Activates when a player steps on it",
+    "Id": 543
+  },
+  {
+    "Content": "Summons The Twins",
+    "Id": 544
+  },
+  {
+    "Content": "'The essence of pure terror'",
+    "Id": 547
+  },
+  {
+    "Content": "'The essence of the destroyer'",
+    "Id": 548
+  },
+  {
+    "Content": "'The essence of omniscient watchers'",
+    "Id": 549
+  },
+  {
+    "Content": "7% increased critical strike chance",
+    "Id": 551
+  },
+  {
+    "Content": "7% increased damage",
+    "Id": 552
+  },
+  {
+    "Content": "15% increased ranged damage",
+    "Id": 553
+  },
+  {
+    "Content": "Increases length of invincibility after taking damage",
+    "Id": 554
+  },
+  {
+    "Content": "8% reduced mana usage",
+    "Id": 555
+  },
+  {
+    "Content": "Summons Destroyer",
+    "Id": 556
+  },
+  {
+    "Content": "Summons Skeletron Prime",
+    "Id": 557
+  },
+  {
+    "Content": "Increases maximum mana by 100",
+    "Id": 558
+  },
+  {
+    "Content": "10% increased melee damage and critical strike chance",
+    "Id": 559
+  },
+  {
+    "Content": "Summons King Slime",
+    "Id": 560
+  },
+  {
+    "Content": "Stacks up to 5",
+    "Id": 561
+  },
+  {
+    "Content": "'The essence of powerful flying creatures'",
+    "Id": 575
+  },
+  {
+    "Content": "Has a chance to record songs",
+    "Id": 576
+  },
+  {
+    "Content": "'Not to be confused with a picksaw'",
+    "Id": 579
+  },
+  {
+    "Content": "Explodes when activated",
+    "Id": 580
+  },
+  {
+    "Content": "Sends water to outlet pumps",
+    "Id": 581
+  },
+  {
+    "Content": "Receives water from inlet pumps",
+    "Id": 582
+  },
+  {
+    "Content": "Activates every second",
+    "Id": 583
+  },
+  {
+    "Content": "Activates every 3 seconds",
+    "Id": 584
+  },
+  {
+    "Content": "Activates every 5 seconds",
+    "Id": 585
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 599
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 600
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 601
+  },
+  {
+    "Content": "Summons the Frost Legion",
+    "Id": 602
+  },
+  {
+    "Content": "Summons a pet bunny",
+    "Id": 603
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 665
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 666
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 667
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 668
+  },
+  {
+    "Content": "Summons a baby penguin",
+    "Id": 669
+  },
+  {
+    "Content": "Shoots an icy bolt",
+    "Id": 676
+  },
+  {
+    "Content": "Only for those who are worthy",
+    "Id": 678
+  },
+  {
+    "Content": "Summons the Devil's trident",
+    "Id": 683
+  },
+  {
+    "Content": "16% increased melee and ranged damage",
+    "Id": 684
+  },
+  {
+    "Content": "11% increased melee and ranged critical strike chance",
+    "Id": 685
+  },
+  {
+    "Content": "8% increased movement speed",
+    "Id": 686
+  },
+  {
+    "Content": "Tells the time",
+    "Id": 707
+  },
+  {
+    "Content": "Tells the time",
+    "Id": 708
+  },
+  {
+    "Content": "Tells the time",
+    "Id": 709
+  },
+  {
+    "Content": "Used to craft items from metal bars",
+    "Id": 716
+  },
+  {
+    "Content": "Shoots a beam of light",
+    "Id": 723
+  },
+  {
+    "Content": "Shoots an icy bolt",
+    "Id": 724
+  },
+  {
+    "Content": "Shoots frost arrows",
+    "Id": 725
+  },
+  {
+    "Content": "Shoots a stream of frost",
+    "Id": 726
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 748
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 749
+  },
+  {
+    "Content": "Summons a pet turtle",
+    "Id": 753
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 761
+  },
+  {
+    "Content": "Creates and destroys biomes when sprayed",
+    "Id": 779
+  },
+  {
+    "Content": "Used by the Clentaminator",
+    "Id": 780
+  },
+  {
+    "Content": "Used by the Clentaminator",
+    "Id": 781
+  },
+  {
+    "Content": "Used by the Clentaminator",
+    "Id": 782
+  },
+  {
+    "Content": "Used by the Clentaminator",
+    "Id": 783
+  },
+  {
+    "Content": "Used by the Clentaminator",
+    "Id": 784
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 785
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 786
+  },
+  {
+    "Content": "Strong enough to destroy Demon Altars",
+    "Id": 787
+  },
+  {
+    "Content": "Summons a thorn spear",
+    "Id": 788
+  },
+  {
+    "Content": "2% increased damage",
+    "Id": 792
+  },
+  {
+    "Content": "2% increased damage",
+    "Id": 793
+  },
+  {
+    "Content": "2% increased damage",
+    "Id": 794
+  },
+  {
+    "Content": "Able to mine Hellstone",
+    "Id": 798
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 821
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 822
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 823
+  },
+  {
+    "Content": "Places living wood",
+    "Id": 832
+  },
+  {
+    "Content": "Enables solid blocks to be toggled on and off",
+    "Id": 849
+  },
+  {
+    "Content": "Places blue wire",
+    "Id": 850
+  },
+  {
+    "Content": "Places green wire",
+    "Id": 851
+  },
+  {
+    "Content": "Activates when a player steps on it",
+    "Id": 852
+  },
+  {
+    "Content": "Activates when anything but a player steps on it",
+    "Id": 853
+  },
+  {
+    "Content": "Shops have lower prices",
+    "Id": 854
+  },
+  {
+    "Content": "Hitting enemies will sometimes drop extra coins",
+    "Id": 855
+  },
+  {
+    "Content": "'Having a wonderful time!'",
+    "Id": 856
+  },
+  {
+    "Content": "Allows the holder to do an improved double jump",
+    "Id": 857
+  },
+  {
+    "Content": "Provides life regeneration and reduces the cooldown of healing potions",
+    "Id": 860
+  },
+  {
+    "Content": "Turns the holder into a werewolf at night and a merfolk when entering water",
+    "Id": 861
+  },
+  {
+    "Content": "Causes stars to fall and increases length of invincibility after taking damage",
+    "Id": 862
+  },
+  {
+    "Content": "Provides the ability to walk on water",
+    "Id": 863
+  },
+  {
+    "Content": "Immunity to Bleeding",
+    "Id": 885
+  },
+  {
+    "Content": "Immunity to Broken Armor",
+    "Id": 886
+  },
+  {
+    "Content": "Immunity to Poison",
+    "Id": 887
+  },
+  {
+    "Content": "Immunity to Darkness",
+    "Id": 888
+  },
+  {
+    "Content": "Immunity to Slow",
+    "Id": 889
+  },
+  {
+    "Content": "Immunity to Silence",
+    "Id": 890
+  },
+  {
+    "Content": "Immunity to Curse",
+    "Id": 891
+  },
+  {
+    "Content": "Immunity to Weakness",
+    "Id": 892
+  },
+  {
+    "Content": "Immunity to Confusion",
+    "Id": 893
+  },
+  {
+    "Content": "Increases melee knockback",
+    "Id": 897
+  },
+  {
+    "Content": "Allows flight",
+    "Id": 898
+  },
+  {
+    "Content": "Increases all stats if worn during the day",
+    "Id": 899
+  },
+  {
+    "Content": "Increases all stats if worn during the night",
+    "Id": 900
+  },
+  {
+    "Content": "Immunity to Weakness and Broken Armor",
+    "Id": 901
+  },
+  {
+    "Content": "Immunity to Poison and Bleeding",
+    "Id": 902
+  },
+  {
+    "Content": "Immunity to Slow and Confusion",
+    "Id": 903
+  },
+  {
+    "Content": "Immunity to Silence and Curse",
+    "Id": 904
+  },
+  {
+    "Content": "Uses coins for ammo",
+    "Id": 905
+  },
+  {
+    "Content": "Provides 7 seconds of immunity to lava",
+    "Id": 906
+  },
+  {
+    "Content": "Provides the ability to walk on water",
+    "Id": 907
+  },
+  {
+    "Content": "Provides the ability to walk on water and lava",
+    "Id": 908
+  },
+  {
+    "Content": "Places bone",
+    "Id": 932
+  },
+  {
+    "Content": "Places leaves",
+    "Id": 933
+  },
+  {
+    "Content": "Allows the owner to float for a few seconds",
+    "Id": 934
+  },
+  {
+    "Content": "12% increased damage",
+    "Id": 935
+  },
+  {
+    "Content": "Increases melee knockback",
+    "Id": 936
+  },
+  {
+    "Content": "Explodes when stepped on",
+    "Id": 937
+  },
+  {
+    "Content": "Absorbs 25% of damage done to players on your team",
+    "Id": 938
+  },
+  {
+    "Content": "You will fall slower while holding this",
+    "Id": 946
+  },
+  {
+    "Content": "'Reacts to the light'",
+    "Id": 947
+  },
+  {
+    "Content": "Allows flight and slowfall",
+    "Id": 948
+  },
+  {
+    "Content": "Provides extra mobility on ice",
+    "Id": 950
+  },
+  {
+    "Content": "Rapidly launches snowballs",
+    "Id": 951
+  },
+  {
+    "Content": "Allows the ability to slide down walls",
+    "Id": 953
+  },
+  {
+    "Content": "7% increased melee speed",
+    "Id": 956
+  },
+  {
+    "Content": "7% increased melee speed",
+    "Id": 957
+  },
+  {
+    "Content": "7% increased melee speed",
+    "Id": 958
+  },
+  {
+    "Content": "5% increased ranged damage.",
+    "Id": 959
+  },
+  {
+    "Content": "Increases maximum mana by 40",
+    "Id": 960
+  },
+  {
+    "Content": "Increases maximum mana by 20",
+    "Id": 961
+  },
+  {
+    "Content": "Increases maximum mana by 20",
+    "Id": 962
+  },
+  {
+    "Content": "Gives a chance to dodge attacks",
+    "Id": 963
+  },
+  {
+    "Content": "Fires a spread of bullets",
+    "Id": 964
+  },
+  {
+    "Content": "Can be climbed on",
+    "Id": 965
+  },
+  {
+    "Content": "Life regen is increased when near a campfire",
+    "Id": 966
+  },
+  {
+    "Content": "Put it on a stick and roast over a campfire",
+    "Id": 967
+  },
+  {
+    "Content": "Roast it over a campfire!",
+    "Id": 968
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 969
+  },
+  {
+    "Content": "Allows the ability to slide down walls",
+    "Id": 975
+  },
+  {
+    "Content": "Allows the ability to climb walls",
+    "Id": 976
+  },
+  {
+    "Content": "Allows the ability to dash",
+    "Id": 977
+  },
+  {
+    "Content": "Increases maximum mana by 20",
+    "Id": 982
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 983
+  },
+  {
+    "Content": "Allows the ability to climb walls and dash",
+    "Id": 984
+  },
+  {
+    "Content": "Throw to create a climbable line of rope",
+    "Id": 985
+  },
+  {
+    "Content": "Allows the collection of seeds for ammo",
+    "Id": 986
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 987
+  },
+  {
+    "Content": "Shoots an enchanted sword beam",
+    "Id": 989
+  },
+  {
+    "Content": "'Not to be confused with a hamdrill'",
+    "Id": 990
+  },
+  {
+    "Content": "Summons a Baby Eater of Souls",
+    "Id": 994
+  },
+  {
+    "Content": "Used to craft objects",
+    "Id": 995
+  },
+  {
+    "Content": "Used to craft objects",
+    "Id": 996
+  },
+  {
+    "Content": "Turns silt/slush/fossils into something more useful",
+    "Id": 997
+  },
+  {
+    "Content": "Used to craft objects",
+    "Id": 998
+  },
+  {
+    "Content": "Shoots confetti everywhere!",
+    "Id": 1000
+  },
+  {
+    "Content": "16% increased melee damage",
+    "Id": 1001
+  },
+  {
+    "Content": "16% increased ranged damage",
+    "Id": 1002
+  },
+  {
+    "Content": "Increases maximum mana by 80 and reduces mana usage by 17%",
+    "Id": 1003
+  },
+  {
+    "Content": "5% increased damage",
+    "Id": 1004
+  },
+  {
+    "Content": "8% increased critical strike chance",
+    "Id": 1005
+  },
+  {
+    "Content": "Reacts to the light",
+    "Id": 1006
+  },
+  {
+    "Content": "Used with paint to color blocks",
+    "Id": 1071
+  },
+  {
+    "Content": "Used with paint to color walls",
+    "Id": 1072
+  },
+  {
+    "Content": "Used to remove paint",
+    "Id": 1100
+  },
+  {
+    "Content": "Used to make Teal Dye",
+    "Id": 1107
+  },
+  {
+    "Content": "Used to make Green Dye",
+    "Id": 1108
+  },
+  {
+    "Content": "Used to make Sky Blue Dye",
+    "Id": 1109
+  },
+  {
+    "Content": "Used to make Yellow Dye",
+    "Id": 1110
+  },
+  {
+    "Content": "Used to make Blue Dye",
+    "Id": 1111
+  },
+  {
+    "Content": "Used to make Lime Dye",
+    "Id": 1112
+  },
+  {
+    "Content": "Used to make Pink Dye",
+    "Id": 1113
+  },
+  {
+    "Content": "Used to make Orange Dye",
+    "Id": 1114
+  },
+  {
+    "Content": "Used to make Red Dye",
+    "Id": 1115
+  },
+  {
+    "Content": "Used to make Cyan Dye",
+    "Id": 1116
+  },
+  {
+    "Content": "Used to make Violet Dye",
+    "Id": 1117
+  },
+  {
+    "Content": "Used to make Purple Dye",
+    "Id": 1118
+  },
+  {
+    "Content": "Used to make Black Dye",
+    "Id": 1119
+  },
+  {
+    "Content": "Used to Craft Dyes",
+    "Id": 1120
+  },
+  {
+    "Content": "Shoots bees that will chase your enemy",
+    "Id": 1121
+  },
+  {
+    "Content": "Chases after your enemy",
+    "Id": 1122
+  },
+  {
+    "Content": "Summons killer bees after striking your foe",
+    "Id": 1123
+  },
+  {
+    "Content": "Places Hives",
+    "Id": 1129
+  },
+  {
+    "Content": "Explodes into a swarm of bees",
+    "Id": 1130
+  },
+  {
+    "Content": "Allows the holder to reverse gravity",
+    "Id": 1131
+  },
+  {
+    "Content": "Releases bees when damaged",
+    "Id": 1132
+  },
+  {
+    "Content": "Summons the Queen Bee",
+    "Id": 1133
+  },
+  {
+    "Content": "Opens the jungle temple door",
+    "Id": 1141
+  },
+  {
+    "Content": "Used for basic crafting",
+    "Id": 1145
+  },
+  {
+    "Content": "Activates when a player steps on it",
+    "Id": 1151
+  },
+  {
+    "Content": "Latches on to enemies for continuous damage",
+    "Id": 1156
+  },
+  {
+    "Content": "Summons a Pygmy to fight for you",
+    "Id": 1157
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 1158
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 1159
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 1160
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 1161
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 1162
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 1163
+  },
+  {
+    "Content": "Allows the holder to quadruple jump",
+    "Id": 1164
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 1165
+  },
+  {
+    "Content": "Increases the damage of your minions by 15%",
+    "Id": 1167
+  },
+  {
+    "Content": "Summons a Baby Skeletron Head",
+    "Id": 1169
+  },
+  {
+    "Content": "Summons a Baby Hornet",
+    "Id": 1170
+  },
+  {
+    "Content": "Summons a Tiki Spirit",
+    "Id": 1171
+  },
+  {
+    "Content": "Summons a Pet Lizard",
+    "Id": 1172
+  },
+  {
+    "Content": "Rapidly shoots razor sharp leaves",
+    "Id": 1178
+  },
+  {
+    "Content": "Chases after your enemy",
+    "Id": 1179
+  },
+  {
+    "Content": "Summons a Pet Parrot",
+    "Id": 1180
+  },
+  {
+    "Content": "Summons a Baby Truffle",
+    "Id": 1181
+  },
+  {
+    "Content": "Summons a Pet Sapling",
+    "Id": 1182
+  },
+  {
+    "Content": "Summons a Wisp to provide light",
+    "Id": 1183
+  },
+  {
+    "Content": "Can mine Mythril and Orichalcum",
+    "Id": 1188
+  },
+  {
+    "Content": "Can mine Mythril and Orichalcum",
+    "Id": 1189
+  },
+  {
+    "Content": "Can mine Adamantite and Titanium",
+    "Id": 1195
+  },
+  {
+    "Content": "Can mine Adamantite and Titanium",
+    "Id": 1196
+  },
+  {
+    "Content": "8% increased melee damage",
+    "Id": 1205
+  },
+  {
+    "Content": "9% increased ranged damage",
+    "Id": 1206
+  },
+  {
+    "Content": "7% increased magic damage and critical strike chance",
+    "Id": 1207
+  },
+  {
+    "Content": "3% increased damage",
+    "Id": 1208
+  },
+  {
+    "Content": "2% increased damage",
+    "Id": 1209
+  },
+  {
+    "Content": "7% increased melee damage",
+    "Id": 1210
+  },
+  {
+    "Content": "15% increased ranged critical strike chance",
+    "Id": 1211
+  },
+  {
+    "Content": "18% increased magic critical strike chance",
+    "Id": 1212
+  },
+  {
+    "Content": "6% increased critical strike chance",
+    "Id": 1213
+  },
+  {
+    "Content": "11% increased movement speed",
+    "Id": 1214
+  },
+  {
+    "Content": "8% increased melee damage and critical strike chance",
+    "Id": 1215
+  },
+  {
+    "Content": "16% increased ranged damage",
+    "Id": 1216
+  },
+  {
+    "Content": "16% increased magic damage and 7% increased magic critical strike chance",
+    "Id": 1217
+  },
+  {
+    "Content": "4% increased damage",
+    "Id": 1218
+  },
+  {
+    "Content": "3% increased damage and critical strike chance",
+    "Id": 1219
+  },
+  {
+    "Content": "Used to craft items from mythril, orichalcum, adamantite, and titanium bars",
+    "Id": 1220
+  },
+  {
+    "Content": "Used to smelt adamantite and titanium ore",
+    "Id": 1221
+  },
+  {
+    "Content": "Shoots a powerful orb",
+    "Id": 1226
+  },
+  {
+    "Content": "Shoots a spore cloud",
+    "Id": 1227
+  },
+  {
+    "Content": "Shoots a spore cloud",
+    "Id": 1228
+  },
+  {
+    "Content": "Bounces back after hitting a wall",
+    "Id": 1235
+  },
+  {
+    "Content": "Summons a Baby Dinosaur",
+    "Id": 1242
+  },
+  {
+    "Content": "Summons a cloud to rain down on your foes",
+    "Id": 1244
+  },
+  {
+    "Content": "Causes stars to fall and releases bees when injured",
+    "Id": 1247
+  },
+  {
+    "Content": "10% increased critical strike chance",
+    "Id": 1248
+  },
+  {
+    "Content": "Increases jump height",
+    "Id": 1249
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 1250
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 1251
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 1252
+  },
+  {
+    "Content": "Puts a shell around the owner when below 50% life that reduces damage",
+    "Id": 1253
+  },
+  {
+    "Content": "Shoots a powerful, high velocity bullet",
+    "Id": 1254
+  },
+  {
+    "Content": "Shoots a powerful, high velocity bullet",
+    "Id": 1255
+  },
+  {
+    "Content": "Summons a cloud to rain blood on your foes",
+    "Id": 1256
+  },
+  {
+    "Content": "Shoots an explosive bolt",
+    "Id": 1258
+  },
+  {
+    "Content": "Shoots razor sharp flower petals at nearby enemies",
+    "Id": 1259
+  },
+  {
+    "Content": "Shoots a rainbow that does continuous damage",
+    "Id": 1260
+  },
+  {
+    "Content": "Explodes into deadly shrapnel",
+    "Id": 1261
+  },
+  {
+    "Content": "Shoots a ball of frost",
+    "Id": 1264
+  },
+  {
+    "Content": "Shoots a powerful, high velocity bullet",
+    "Id": 1265
+  },
+  {
+    "Content": "Increases maximum mana by 20",
+    "Id": 1282
+  },
+  {
+    "Content": "Increases maximum mana by 40",
+    "Id": 1283
+  },
+  {
+    "Content": "Increases maximum mana by 40",
+    "Id": 1284
+  },
+  {
+    "Content": "Increases maximum mana by 60",
+    "Id": 1285
+  },
+  {
+    "Content": "Increases maximum mana by 60",
+    "Id": 1286
+  },
+  {
+    "Content": "Increases maximum mana by 80",
+    "Id": 1287
+  },
+  {
+    "Content": "Increases movement speed after being struck",
+    "Id": 1290
+  },
+  {
+    "Content": "Permanently increases maximum life by 5",
+    "Id": 1291
+  },
+  {
+    "Content": "Used at the Lihzahrd Altar",
+    "Id": 1293
+  },
+  {
+    "Content": "Capable of mining Lihzahrd Bricks",
+    "Id": 1294
+  },
+  {
+    "Content": "Shoots a piercing ray of heat",
+    "Id": 1295
+  },
+  {
+    "Content": "Summons a powerful boulder",
+    "Id": 1296
+  },
+  {
+    "Content": "Punches with the force of a golem",
+    "Id": 1297
+  },
+  {
+    "Content": "Increases view range when held",
+    "Id": 1299
+  },
+  {
+    "Content": "Increases view range for guns",
+    "Id": 1300
+  },
+  {
+    "Content": "10% increased damage",
+    "Id": 1301
+  },
+  {
+    "Content": "Provides light under water",
+    "Id": 1303
+  },
+  {
+    "Content": "Shoots an icy sickle",
+    "Id": 1306
+  },
+  {
+    "Content": "'You are a terrible person'",
+    "Id": 1307
+  },
+  {
+    "Content": "Shoots a poison fang that pierces multiple enemies",
+    "Id": 1308
+  },
+  {
+    "Content": "Summons a baby slime to fight for you",
+    "Id": 1309
+  },
+  {
+    "Content": "Inflicts poison on enemies",
+    "Id": 1310
+  },
+  {
+    "Content": "Summons an eyeball spring",
+    "Id": 1311
+  },
+  {
+    "Content": "Summons a baby snowman",
+    "Id": 1312
+  },
+  {
+    "Content": "Shoots a skull",
+    "Id": 1313
+  },
+  {
+    "Content": "Shoots a boxing glove",
+    "Id": 1314
+  },
+  {
+    "Content": "Summons a pirate invasion",
+    "Id": 1315
+  },
+  {
+    "Content": "6% increased melee damage",
+    "Id": 1316
+  },
+  {
+    "Content": "8% increased melee damage and critical strike chance",
+    "Id": 1317
+  },
+  {
+    "Content": "4% increased melee critical strike chance",
+    "Id": 1318
+  },
+  {
+    "Content": "Increases damage by 10% and greatly increases arrow speed",
+    "Id": 1321
+  },
+  {
+    "Content": "Inflicts fire damage on attack",
+    "Id": 1322
+  },
+  {
+    "Content": "Reduces damage from touching lava",
+    "Id": 1323
+  },
+  {
+    "Content": "Teleports you to the position of the mouse",
+    "Id": 1326
+  },
+  {
+    "Content": "Shoots a deathly sickle",
+    "Id": 1327
+  },
+  {
+    "Content": "Summons the Brain of Cthulhu",
+    "Id": 1331
+  },
+  {
+    "Content": "'The blood of gods'",
+    "Id": 1332
+  },
+  {
+    "Content": "Can be placed in water",
+    "Id": 1333
+  },
+  {
+    "Content": "Decreases target's defense",
+    "Id": 1334
+  },
+  {
+    "Content": "Decreases target's defense",
+    "Id": 1335
+  },
+  {
+    "Content": "Sprays a shower of ichor",
+    "Id": 1336
+  },
+  {
+    "Content": "Increases melee knockback and inflicts fire damage on attack",
+    "Id": 1343
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1372
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1373
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1374
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1375
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1419
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1420
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1421
+  },
+  {
+    "Content": "'R. Moosdijk'",
+    "Id": 1422
+  },
+  {
+    "Content": "'R. Moosdijk'",
+    "Id": 1423
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1424
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1425
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1426
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1427
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1428
+  },
+  {
+    "Content": "Used to craft weapon imbuement flasks",
+    "Id": 1430
+  },
+  {
+    "Content": "Used to craft various types of ammo",
+    "Id": 1432
+  },
+  {
+    "Content": "'K. Wright'",
+    "Id": 1433
+  },
+  {
+    "Content": "'C. J. Ness'",
+    "Id": 1434
+  },
+  {
+    "Content": "'R. Moosdijk'",
+    "Id": 1435
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1436
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1437
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1438
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1439
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1440
+  },
+  {
+    "Content": "'A. G. Kolf'",
+    "Id": 1441
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1442
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1443
+  },
+  {
+    "Content": "Creates a shadow beam that bounces off walls",
+    "Id": 1444
+  },
+  {
+    "Content": "Launches a ball of fire that explodes into a raging inferno",
+    "Id": 1445
+  },
+  {
+    "Content": "Summons a lost soul to chase your foes",
+    "Id": 1446
+  },
+  {
+    "Content": "Blows bubbles",
+    "Id": 1449
+  },
+  {
+    "Content": "Blows bubbles",
+    "Id": 1450
+  },
+  {
+    "Content": "'J. T. Myhre'",
+    "Id": 1476
+  },
+  {
+    "Content": "'J. T. Myhre'",
+    "Id": 1477
+  },
+  {
+    "Content": "'J. T. Myhre'",
+    "Id": 1478
+  },
+  {
+    "Content": "'J. T. Myhre'",
+    "Id": 1479
+  },
+  {
+    "Content": "'J. T. Myhre'",
+    "Id": 1480
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1481
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1482
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1483
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1484
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1485
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1486
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1487
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1488
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1489
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1490
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1491
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1492
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1493
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1494
+  },
+  {
+    "Content": "'A. G. Kolf'",
+    "Id": 1495
+  },
+  {
+    "Content": "'J. T. Myhre'",
+    "Id": 1496
+  },
+  {
+    "Content": "'J. T. Myhre'",
+    "Id": 1497
+  },
+  {
+    "Content": "'J. T. Myhre'",
+    "Id": 1498
+  },
+  {
+    "Content": "'J. T. Myhre'",
+    "Id": 1499
+  },
+  {
+    "Content": "'A. G. Kolf'",
+    "Id": 1500
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1501
+  },
+  {
+    "Content": "'C. Burczyk'",
+    "Id": 1502
+  },
+  {
+    "Content": "40% decreased magic damage",
+    "Id": 1503
+  },
+  {
+    "Content": "7% increased magic damage and critical strike chance",
+    "Id": 1504
+  },
+  {
+    "Content": "8% increased magic damage",
+    "Id": 1505
+  },
+  {
+    "Content": "A powerful returning hammer",
+    "Id": 1513
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 1515
+  },
+  {
+    "Content": "For Capture the Gem. It drops when you die",
+    "Id": 1522
+  },
+  {
+    "Content": "For Capture the Gem. It drops when you die",
+    "Id": 1523
+  },
+  {
+    "Content": "For Capture the Gem. It drops when you die",
+    "Id": 1524
+  },
+  {
+    "Content": "For Capture the Gem. It drops when you die",
+    "Id": 1525
+  },
+  {
+    "Content": "For Capture the Gem. It drops when you die",
+    "Id": 1526
+  },
+  {
+    "Content": "For Capture the Gem. It drops when you die",
+    "Id": 1527
+  },
+  {
+    "Content": "Unlocks a Jungle Chest in the dungeon",
+    "Id": 1533
+  },
+  {
+    "Content": "Unlocks a Corruption Chest in the dungeon",
+    "Id": 1534
+  },
+  {
+    "Content": "Unlocks a Crimson Chest in the dungeon",
+    "Id": 1535
+  },
+  {
+    "Content": "Unlocks a Hallowed Chest in the dungeon",
+    "Id": 1536
+  },
+  {
+    "Content": "Unlocks a Frozen Chest in the dungeon",
+    "Id": 1537
+  },
+  {
+    "Content": "'J. T. Myhre'",
+    "Id": 1538
+  },
+  {
+    "Content": "'A. Craig'",
+    "Id": 1539
+  },
+  {
+    "Content": "'A. Craig'",
+    "Id": 1540
+  },
+  {
+    "Content": "'A. Craig'",
+    "Id": 1541
+  },
+  {
+    "Content": "'A. Craig'",
+    "Id": 1542
+  },
+  {
+    "Content": "Used with paint to color blocks",
+    "Id": 1543
+  },
+  {
+    "Content": "Used with paint to color walls",
+    "Id": 1544
+  },
+  {
+    "Content": "Used to remove paint",
+    "Id": 1545
+  },
+  {
+    "Content": "15% increased arrow damage",
+    "Id": 1546
+  },
+  {
+    "Content": "15% increased bullet damage",
+    "Id": 1547
+  },
+  {
+    "Content": "15% increased rocket damage",
+    "Id": 1548
+  },
+  {
+    "Content": "13% increased ranged critical strike chance",
+    "Id": 1549
+  },
+  {
+    "Content": "7% increased ranged critical strike chance",
+    "Id": 1550
+  },
+  {
+    "Content": "Converts Chlorophyte Bars into Shroomite Bars",
+    "Id": 1551
+  },
+  {
+    "Content": "50% chance to not consume ammo",
+    "Id": 1553
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1554
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1555
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1556
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1557
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1558
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1559
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1560
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1561
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1562
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1563
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1564
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1565
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1566
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1567
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1568
+  },
+  {
+    "Content": "Rapidly throw life stealing daggers",
+    "Id": 1569
+  },
+  {
+    "Content": "A powerful javelin that unleashes tiny eaters",
+    "Id": 1571
+  },
+  {
+    "Content": "Summons a powerful frost hydra to spit ice at your enemies",
+    "Id": 1572
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1573
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1574
+  },
+  {
+    "Content": "'W. Garner'",
+    "Id": 1575
+  },
+  {
+    "Content": "'D. Phelps'",
+    "Id": 1576
+  },
+  {
+    "Content": "'M. J. Duncan'",
+    "Id": 1577
+  },
+  {
+    "Content": "Releases bees and increases movement speed when damaged",
+    "Id": 1578
+  },
+  {
+    "Content": "The wearer can run super fast",
+    "Id": 1579
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1580
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1581
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1582
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1583
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1584
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1585
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1586
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1587
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 1588
+  },
+  {
+    "Content": "Increases maximum mana by 20",
+    "Id": 1595
+  },
+  {
+    "Content": "Grants immunity to most debuffs",
+    "Id": 1612
+  },
+  {
+    "Content": "Grants immunity to knockback and fire blocks",
+    "Id": 1613
+  },
+  {
+    "Content": "Nearby players get a bonus against: Angler Fish",
+    "Id": 1615
+  },
+  {
+    "Content": "Nearby players get a bonus against: Angry Nimbus",
+    "Id": 1616
+  },
+  {
+    "Content": "Nearby players get a bonus against: Anomura Fungus",
+    "Id": 1617
+  },
+  {
+    "Content": "Nearby players get a bonus against: Antlion",
+    "Id": 1618
+  },
+  {
+    "Content": "Nearby players get a bonus against: Arapaima",
+    "Id": 1619
+  },
+  {
+    "Content": "Nearby players get a bonus against: Armored Skeleton",
+    "Id": 1620
+  },
+  {
+    "Content": "Nearby players get a bonus against: Cave Bat",
+    "Id": 1621
+  },
+  {
+    "Content": "Nearby players get a bonus against: Bird",
+    "Id": 1622
+  },
+  {
+    "Content": "Nearby players get a bonus against: Black Recluse",
+    "Id": 1623
+  },
+  {
+    "Content": "Nearby players get a bonus against: Blood Feeder",
+    "Id": 1624
+  },
+  {
+    "Content": "Nearby players get a bonus against: Blood Jelly",
+    "Id": 1625
+  },
+  {
+    "Content": "Nearby players get a bonus against: Blood Crawler",
+    "Id": 1626
+  },
+  {
+    "Content": "Nearby players get a bonus against: Bone Serpent",
+    "Id": 1627
+  },
+  {
+    "Content": "Nearby players get a bonus against: Bunny",
+    "Id": 1628
+  },
+  {
+    "Content": "Nearby players get a bonus against: Chaos Elemental",
+    "Id": 1629
+  },
+  {
+    "Content": "Nearby players get a bonus against: Mimic",
+    "Id": 1630
+  },
+  {
+    "Content": "Nearby players get a bonus against: Clown",
+    "Id": 1631
+  },
+  {
+    "Content": "Nearby players get a bonus against: Corrupt Bunny",
+    "Id": 1632
+  },
+  {
+    "Content": "Nearby players get a bonus against: Corrupt Goldfish",
+    "Id": 1633
+  },
+  {
+    "Content": "Nearby players get a bonus against: Crab",
+    "Id": 1634
+  },
+  {
+    "Content": "Nearby players get a bonus against: Crimera",
+    "Id": 1635
+  },
+  {
+    "Content": "Nearby players get a bonus against: Crimson Axe",
+    "Id": 1636
+  },
+  {
+    "Content": "Nearby players get a bonus against: Cursed Hammer",
+    "Id": 1637
+  },
+  {
+    "Content": "Nearby players get a bonus against: Demon",
+    "Id": 1638
+  },
+  {
+    "Content": "Nearby players get a bonus against: Demon Eye",
+    "Id": 1639
+  },
+  {
+    "Content": "Nearby players get a bonus against: Derpling",
+    "Id": 1640
+  },
+  {
+    "Content": "Nearby players get a bonus against: Eater of Souls",
+    "Id": 1641
+  },
+  {
+    "Content": "Nearby players get a bonus against: Enchanted Sword",
+    "Id": 1642
+  },
+  {
+    "Content": "Nearby players get a bonus against: Zombie Eskimo",
+    "Id": 1643
+  },
+  {
+    "Content": "Nearby players get a bonus against: Face Monster",
+    "Id": 1644
+  },
+  {
+    "Content": "Nearby players get a bonus against: Floaty Gross",
+    "Id": 1645
+  },
+  {
+    "Content": "Nearby players get a bonus against: Flying Fish",
+    "Id": 1646
+  },
+  {
+    "Content": "Nearby players get a bonus against: Flying Snake",
+    "Id": 1647
+  },
+  {
+    "Content": "Nearby players get a bonus against: Frankenstein",
+    "Id": 1648
+  },
+  {
+    "Content": "Nearby players get a bonus against: Fungi Bulb",
+    "Id": 1649
+  },
+  {
+    "Content": "Nearby players get a bonus against: Fungo Fish",
+    "Id": 1650
+  },
+  {
+    "Content": "Nearby players get a bonus against: Gastropod",
+    "Id": 1651
+  },
+  {
+    "Content": "Nearby players get a bonus against: Goblin Thief",
+    "Id": 1652
+  },
+  {
+    "Content": "Nearby players get a bonus against: Goblin Sorcerer",
+    "Id": 1653
+  },
+  {
+    "Content": "Nearby players get a bonus against: Goblin Peon",
+    "Id": 1654
+  },
+  {
+    "Content": "Nearby players get a bonus against: Goblin Scout",
+    "Id": 1655
+  },
+  {
+    "Content": "Nearby players get a bonus against: Goblin Warrior",
+    "Id": 1656
+  },
+  {
+    "Content": "Nearby players get a bonus against: Goldfish",
+    "Id": 1657
+  },
+  {
+    "Content": "Nearby players get a bonus against: Harpy",
+    "Id": 1658
+  },
+  {
+    "Content": "Nearby players get a bonus against: Hellbat",
+    "Id": 1659
+  },
+  {
+    "Content": "Nearby players get a bonus against: Herpling",
+    "Id": 1660
+  },
+  {
+    "Content": "Nearby players get a bonus against: Hornet",
+    "Id": 1661
+  },
+  {
+    "Content": "Nearby players get a bonus against: Ice Elemental",
+    "Id": 1662
+  },
+  {
+    "Content": "Nearby players get a bonus against: Icy Merman",
+    "Id": 1663
+  },
+  {
+    "Content": "Nearby players get a bonus against: Fire Imp",
+    "Id": 1664
+  },
+  {
+    "Content": "Nearby players get a bonus against: Blue Jellyfish",
+    "Id": 1665
+  },
+  {
+    "Content": "Nearby players get a bonus against: Jungle Creeper",
+    "Id": 1666
+  },
+  {
+    "Content": "Nearby players get a bonus against: Lihzahrd",
+    "Id": 1667
+  },
+  {
+    "Content": "Nearby players get a bonus against: Man Eater",
+    "Id": 1668
+  },
+  {
+    "Content": "Nearby players get a bonus against: Meteor Head",
+    "Id": 1669
+  },
+  {
+    "Content": "Nearby players get a bonus against: Moth",
+    "Id": 1670
+  },
+  {
+    "Content": "Nearby players get a bonus against: Mummy",
+    "Id": 1671
+  },
+  {
+    "Content": "Nearby players get a bonus against: Mushi Ladybug",
+    "Id": 1672
+  },
+  {
+    "Content": "Nearby players get a bonus against: Parrot",
+    "Id": 1673
+  },
+  {
+    "Content": "Nearby players get a bonus against: Pigron",
+    "Id": 1674
+  },
+  {
+    "Content": "Nearby players get a bonus against: Piranha",
+    "Id": 1675
+  },
+  {
+    "Content": "Nearby players get a bonus against: Pirate Deckhand",
+    "Id": 1676
+  },
+  {
+    "Content": "Nearby players get a bonus against: Pixie",
+    "Id": 1677
+  },
+  {
+    "Content": "Nearby players get a bonus against: Raincoat Zombie",
+    "Id": 1678
+  },
+  {
+    "Content": "Nearby players get a bonus against: Reaper",
+    "Id": 1679
+  },
+  {
+    "Content": "Nearby players get a bonus against: Shark",
+    "Id": 1680
+  },
+  {
+    "Content": "Nearby players get a bonus against: Skeleton",
+    "Id": 1681
+  },
+  {
+    "Content": "Nearby players get a bonus against: Dark Caster",
+    "Id": 1682
+  },
+  {
+    "Content": "Nearby players get a bonus against: Blue Slime",
+    "Id": 1683
+  },
+  {
+    "Content": "Nearby players get a bonus against: Snow Flinx",
+    "Id": 1684
+  },
+  {
+    "Content": "Nearby players get a bonus against: Wall Creeper",
+    "Id": 1685
+  },
+  {
+    "Content": "Nearby players get a bonus against: Spore Zombie",
+    "Id": 1686
+  },
+  {
+    "Content": "Nearby players get a bonus against: Swamp Thing",
+    "Id": 1687
+  },
+  {
+    "Content": "Nearby players get a bonus against: Giant Tortoise",
+    "Id": 1688
+  },
+  {
+    "Content": "Nearby players get a bonus against: Toxic Sludge",
+    "Id": 1689
+  },
+  {
+    "Content": "Nearby players get a bonus against: Umbrella Slime",
+    "Id": 1690
+  },
+  {
+    "Content": "Nearby players get a bonus against: Unicorn",
+    "Id": 1691
+  },
+  {
+    "Content": "Nearby players get a bonus against: Vampire",
+    "Id": 1692
+  },
+  {
+    "Content": "Nearby players get a bonus against: Vulture",
+    "Id": 1693
+  },
+  {
+    "Content": "Nearby players get a bonus against: Nymph",
+    "Id": 1694
+  },
+  {
+    "Content": "Nearby players get a bonus against: Werewolf",
+    "Id": 1695
+  },
+  {
+    "Content": "Nearby players get a bonus against: Wolf",
+    "Id": 1696
+  },
+  {
+    "Content": "Nearby players get a bonus against: World Feeder",
+    "Id": 1697
+  },
+  {
+    "Content": "Nearby players get a bonus against: Giant Worm",
+    "Id": 1698
+  },
+  {
+    "Content": "Nearby players get a bonus against: Wraith",
+    "Id": 1699
+  },
+  {
+    "Content": "Nearby players get a bonus against: Wyvern",
+    "Id": 1700
+  },
+  {
+    "Content": "Nearby players get a bonus against: Zombie",
+    "Id": 1701
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 1724
+  },
+  {
+    "Content": "To me it look like a leprechaun to me",
+    "Id": 1767
+  },
+  {
+    "Content": "I just wanna know where the gold at!",
+    "Id": 1768
+  },
+  {
+    "Content": "I want the gold. I want the gold. I want the gold. Gimme the gold!",
+    "Id": 1769
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 1774
+  },
+  {
+    "Content": "33% chance to not consume ammo",
+    "Id": 1782
+  },
+  {
+    "Content": "Allows the collection of hay from grass",
+    "Id": 1786
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 1787
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 1797
+  },
+  {
+    "Content": "Summons a pet spider",
+    "Id": 1798
+  },
+  {
+    "Content": "Summons a pet squashling",
+    "Id": 1799
+  },
+  {
+    "Content": "Summons bats to attack your enemies",
+    "Id": 1801
+  },
+  {
+    "Content": "Summons a raven to fight for you",
+    "Id": 1802
+  },
+  {
+    "Content": "Used for crafting a Jungle Key",
+    "Id": 1803
+  },
+  {
+    "Content": "Used for crafting a Corruption Key",
+    "Id": 1804
+  },
+  {
+    "Content": "Used for crafting a Crimson Key",
+    "Id": 1805
+  },
+  {
+    "Content": "Used for crafting a Hallowed Key",
+    "Id": 1806
+  },
+  {
+    "Content": "Used for crafting a Frozen Key",
+    "Id": 1807
+  },
+  {
+    "Content": "Best used for pranking townsfolk",
+    "Id": 1809
+  },
+  {
+    "Content": "Summons a black kitty",
+    "Id": 1810
+  },
+  {
+    "Content": "Summons Pumpkin heads to attack your enemies",
+    "Id": 1826
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 1830
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 1832
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 1833
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 1834
+  },
+  {
+    "Content": "Summons a cursed sapling to follow you",
+    "Id": 1837
+  },
+  {
+    "Content": "Summons the Pumpkin Moon",
+    "Id": 1844
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 1845
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 1846
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 1847
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 1848
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 1849
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 1850
+  },
+  {
+    "Content": "Increases view range for guns (<right> to zoom out)",
+    "Id": 1858
+  },
+  {
+    "Content": "Grants the ability to swim and greatly extends underwater breathing",
+    "Id": 1860
+  },
+  {
+    "Content": "Grants the ability to swim and greatly extends underwater breathing",
+    "Id": 1861
+  },
+  {
+    "Content": "Allows flight, super fast running, and extra mobility on ice",
+    "Id": 1862
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 1863
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 1864
+  },
+  {
+    "Content": "Minor increase to damage, melee speed, critical strike chance,",
+    "Id": 1865
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 1866
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 1869
+  },
+  {
+    "Content": "'Don't shoot your eye out!'",
+    "Id": 1870
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 1871
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1874
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1875
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1876
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1877
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1878
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1879
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1880
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1881
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1882
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1883
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1884
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1885
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1886
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1887
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1888
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1889
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1890
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1891
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1892
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1893
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1894
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1895
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1896
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1897
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1898
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1899
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1900
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1901
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1902
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1903
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1904
+  },
+  {
+    "Content": "Placeable on a christmas tree",
+    "Id": 1905
+  },
+  {
+    "Content": "Uses gel for ammo",
+    "Id": 1910
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 1911
+  },
+  {
+    "Content": "Summons a rideable reindeer",
+    "Id": 1914
+  },
+  {
+    "Content": "Can mine Meteorite",
+    "Id": 1917
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 1919
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 1920
+  },
+  {
+    "Content": "Provides immunity to chill and freezing effects",
+    "Id": 1921
+  },
+  {
+    "Content": "'You've been naughty this year'",
+    "Id": 1922
+  },
+  {
+    "Content": "Increases item placement and tool range by 1",
+    "Id": 1923
+  },
+  {
+    "Content": "Summons a Puppy",
+    "Id": 1927
+  },
+  {
+    "Content": "Shoots Christmas ornaments",
+    "Id": 1928
+  },
+  {
+    "Content": "50% chance to not consume ammo",
+    "Id": 1929
+  },
+  {
+    "Content": "Shoots razor sharp pine needles",
+    "Id": 1930
+  },
+  {
+    "Content": "Showers an area with icicles",
+    "Id": 1931
+  },
+  {
+    "Content": "Launches homing missiles",
+    "Id": 1946
+  },
+  {
+    "Content": "Shoots an icy spear that rains snowflakes",
+    "Id": 1947
+  },
+  {
+    "Content": "Summons the Frost Moon",
+    "Id": 1958
+  },
+  {
+    "Content": "Summons a Baby Grinch",
+    "Id": 1959
+  },
+  {
+    "Content": "'Fezzes are cool'",
+    "Id": 1988
+  },
+  {
+    "Content": "Used for advanced crafting",
+    "Id": 2172
+  },
+  {
+    "Content": "Reduces ammo usage by 20%",
+    "Id": 2177
+  },
+  {
+    "Content": "Shoots a venom fang that pierces multiple enemies",
+    "Id": 2188
+  },
+  {
+    "Content": "Increases maximum mana by 60 and reduces mana usage by 13%",
+    "Id": 2189
+  },
+  {
+    "Content": "Used for special crafting",
+    "Id": 2192
+  },
+  {
+    "Content": "Used for special crafting",
+    "Id": 2193
+  },
+  {
+    "Content": "Used for special crafting",
+    "Id": 2194
+  },
+  {
+    "Content": "Used for special crafting",
+    "Id": 2195
+  },
+  {
+    "Content": "Used for special crafting",
+    "Id": 2196
+  },
+  {
+    "Content": "Used for special crafting",
+    "Id": 2197
+  },
+  {
+    "Content": "Used for special crafting",
+    "Id": 2198
+  },
+  {
+    "Content": "6% increased melee damage",
+    "Id": 2199
+  },
+  {
+    "Content": "8% increased melee damage and critical strike chance",
+    "Id": 2200
+  },
+  {
+    "Content": "5% increased melee damage and critical strike chance",
+    "Id": 2201
+  },
+  {
+    "Content": "6% increased movement and melee speed",
+    "Id": 2202
+  },
+  {
+    "Content": "Used for special crafting",
+    "Id": 2203
+  },
+  {
+    "Content": "Used for special crafting",
+    "Id": 2204
+  },
+  {
+    "Content": "Increases tile placement speed",
+    "Id": 2214
+  },
+  {
+    "Content": "Increases tile reach",
+    "Id": 2215
+  },
+  {
+    "Content": "Automatically paints placed objects",
+    "Id": 2216
+  },
+  {
+    "Content": "Increases wall placement speed",
+    "Id": 2217
+  },
+  {
+    "Content": "Increases pickup range for mana stars",
+    "Id": 2219
+  },
+  {
+    "Content": "Increases pickup range for mana stars",
+    "Id": 2220
+  },
+  {
+    "Content": "Increases pickup range for mana stars",
+    "Id": 2221
+  },
+  {
+    "Content": "Shoots a charged arrow",
+    "Id": 2223
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 2267
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 2268
+  },
+  {
+    "Content": "50% chance to not consume ammo",
+    "Id": 2270
+  },
+  {
+    "Content": "Squirts a harmless stream of water",
+    "Id": 2272
+  },
+  {
+    "Content": "7% increased magic damage and critical strike chance",
+    "Id": 2275
+  },
+  {
+    "Content": "5% increased damage and critical strike chance",
+    "Id": 2277
+  },
+  {
+    "Content": "6% increased magic damage and critical strike chance",
+    "Id": 2279
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 2280
+  },
+  {
+    "Content": "'Its colorful scales could sell well.'",
+    "Id": 2302
+  },
+  {
+    "Content": "Quite shiny.  This will probably sell well.",
+    "Id": 2308
+  },
+  {
+    "Content": "Increases mining speed by 25%",
+    "Id": 2322
+  },
+  {
+    "Content": "Increases pickup range for life hearts",
+    "Id": 2323
+  },
+  {
+    "Content": "Reduces enemy aggression",
+    "Id": 2324
+  },
+  {
+    "Content": "Increases placement speed and range",
+    "Id": 2325
+  },
+  {
+    "Content": "Increases knockback",
+    "Id": 2326
+  },
+  {
+    "Content": "Lets you move swiftly in liquids",
+    "Id": 2327
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 2328
+  },
+  {
+    "Content": "Allows you to see nearby danger sources",
+    "Id": 2329
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 2334
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 2335
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 2336
+  },
+  {
+    "Content": "Hammer end piece to change bumper style",
+    "Id": 2340
+  },
+  {
+    "Content": "Let's ride the rails",
+    "Id": 2343
+  },
+  {
+    "Content": "20% chance to not consume ammo",
+    "Id": 2344
+  },
+  {
+    "Content": "Increases max life by 20%",
+    "Id": 2345
+  },
+  {
+    "Content": "Reduces damage taken by 10%",
+    "Id": 2346
+  },
+  {
+    "Content": "Increases critical chance by 10%",
+    "Id": 2347
+  },
+  {
+    "Content": "Ignites nearby enemies",
+    "Id": 2348
+  },
+  {
+    "Content": "Increases damage by 10%",
+    "Id": 2349
+  },
+  {
+    "Content": "Teleports you home",
+    "Id": 2350
+  },
+  {
+    "Content": "Teleports you to a random location",
+    "Id": 2351
+  },
+  {
+    "Content": "Throw this to make someone fall in love",
+    "Id": 2352
+  },
+  {
+    "Content": "Throw this to make someone smell terrible",
+    "Id": 2353
+  },
+  {
+    "Content": "Increases fishing skill",
+    "Id": 2354
+  },
+  {
+    "Content": "Detects hooked fish",
+    "Id": 2355
+  },
+  {
+    "Content": "Increases chance to get a crate",
+    "Id": 2356
+  },
+  {
+    "Content": "Reduces damage from cold sources",
+    "Id": 2359
+  },
+  {
+    "Content": "Increases minion damage by 4%",
+    "Id": 2361
+  },
+  {
+    "Content": "Increases minion damage by 4%",
+    "Id": 2362
+  },
+  {
+    "Content": "Increases minion damage by 5%",
+    "Id": 2363
+  },
+  {
+    "Content": "Summons a hornet to fight for you",
+    "Id": 2364
+  },
+  {
+    "Content": "Summons an imp to fight for you",
+    "Id": 2365
+  },
+  {
+    "Content": "Summons a spider queen to spit eggs at your enemies",
+    "Id": 2366
+  },
+  {
+    "Content": "Increases fishing level",
+    "Id": 2367
+  },
+  {
+    "Content": "Increases fishing level",
+    "Id": 2368
+  },
+  {
+    "Content": "Increases fishing level",
+    "Id": 2369
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 2370
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 2371
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 2372
+  },
+  {
+    "Content": "Fishing line will never break",
+    "Id": 2373
+  },
+  {
+    "Content": "Increases fishing skill",
+    "Id": 2374
+  },
+  {
+    "Content": "Decreases chance of bait consumption",
+    "Id": 2375
+  },
+  {
+    "Content": "Summons a pet Zephyr Fish",
+    "Id": 2420
+  },
+  {
+    "Content": "Increases jump speed and allows auto-jump",
+    "Id": 2423
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 2425
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 2426
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 2427
+  },
+  {
+    "Content": "Summons a rideable Bunny mount",
+    "Id": 2428
+  },
+  {
+    "Content": "Summons a rideable Pigron mount",
+    "Id": 2429
+  },
+  {
+    "Content": "Summons a rideable Slime mount",
+    "Id": 2430
+  },
+  {
+    "Content": "Summons a rideable Turtle mount",
+    "Id": 2491
+  },
+  {
+    "Content": "Not for use on slopes",
+    "Id": 2492
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 2494
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 2497
+  },
+  {
+    "Content": "Summons a rideable Bee mount",
+    "Id": 2502
+  },
+  {
+    "Content": "Summons twins to fight for you",
+    "Id": 2535
+  },
+  {
+    "Content": "Summons spiders to fight for you",
+    "Id": 2551
+  },
+  {
+    "Content": "Summons pirates to fight for you",
+    "Id": 2584
+  },
+  {
+    "Content": "A small explosion that will not destroy tiles",
+    "Id": 2586
+  },
+  {
+    "Content": "Summons a mini minotaur",
+    "Id": 2587
+  },
+  {
+    "Content": "A small explosion that puts enemies on fire",
+    "Id": 2590
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 2609
+  },
+  {
+    "Content": "Squirts a harmless stream of slime",
+    "Id": 2610
+  },
+  {
+    "Content": "Spews homing bubbles",
+    "Id": 2611
+  },
+  {
+    "Content": "Summons sharknados to fight for you",
+    "Id": 2621
+  },
+  {
+    "Content": "Casts fast moving razorwheels",
+    "Id": 2622
+  },
+  {
+    "Content": "Rapidly shoots forceful bubbles",
+    "Id": 2623
+  },
+  {
+    "Content": "Shoots 5 arrows at a time",
+    "Id": 2624
+  },
+  {
+    "Content": "<right> to place item on weapon rack",
+    "Id": 2699
+  },
+  {
+    "Content": "Hammer to change direction",
+    "Id": 2739
+  },
+  {
+    "Content": "Summons a UFO to fight for you",
+    "Id": 2749
+  },
+  {
+    "Content": "Showers meteors",
+    "Id": 2750
+  },
+  {
+    "Content": "16% increased ranged damage",
+    "Id": 2757
+  },
+  {
+    "Content": "12% increased ranged damage and critical strike chance",
+    "Id": 2758
+  },
+  {
+    "Content": "8% increased ranged damage and critical strike chance",
+    "Id": 2759
+  },
+  {
+    "Content": "Increases maximum mana by 60 and reduces mana usage by 15% ",
+    "Id": 2760
+  },
+  {
+    "Content": "9% increased magic damage and critical strike chance",
+    "Id": 2761
+  },
+  {
+    "Content": "10% increased magic damage",
+    "Id": 2762
+  },
+  {
+    "Content": "17% increased melee critical strike chance",
+    "Id": 2763
+  },
+  {
+    "Content": "22% increased melee damage",
+    "Id": 2764
+  },
+  {
+    "Content": "15% increased movement and melee speed",
+    "Id": 2765
+  },
+  {
+    "Content": "Summons the Eclipse",
+    "Id": 2767
+  },
+  {
+    "Content": "Summons a rideable Drill mount",
+    "Id": 2768
+  },
+  {
+    "Content": "Summons a rideable UFO mount",
+    "Id": 2769
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 2770
+  },
+  {
+    "Content": "Summons a rideable Scutlix mount",
+    "Id": 2771
+  },
+  {
+    "Content": "Creates measurement lines on screen for block placement",
+    "Id": 2799
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 2865
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 2866
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 2867
+  },
+  {
+    "Content": "Banishes the Hallow",
+    "Id": 2886
+  },
+  {
+    "Content": "Wooden arrows turn into a column of bees",
+    "Id": 2888
+  },
+  {
+    "Content": "'Tossing may be difficult.'",
+    "Id": 2896
+  },
+  {
+    "Content": "Nearby players get a bonus against: Angry Trapper",
+    "Id": 2897
+  },
+  {
+    "Content": "Nearby players get a bonus against: Armored Viking",
+    "Id": 2898
+  },
+  {
+    "Content": "Nearby players get a bonus against: Black Slime",
+    "Id": 2899
+  },
+  {
+    "Content": "Nearby players get a bonus against: Blue Armored Bones",
+    "Id": 2900
+  },
+  {
+    "Content": "Nearby players get a bonus against: Blue Cultist Archer",
+    "Id": 2901
+  },
+  {
+    "Content": "Nearby players get a bonus against: ",
+    "Id": 2902
+  },
+  {
+    "Content": "Nearby players get a bonus against: ",
+    "Id": 2903
+  },
+  {
+    "Content": "Nearby players get a bonus against: Bone Lee",
+    "Id": 2904
+  },
+  {
+    "Content": "Nearby players get a bonus against: Clinger",
+    "Id": 2905
+  },
+  {
+    "Content": "Nearby players get a bonus against: Cochineal Beetle",
+    "Id": 2906
+  },
+  {
+    "Content": "Nearby players get a bonus against: Corrupt Penguin",
+    "Id": 2907
+  },
+  {
+    "Content": "Nearby players get a bonus against: Corrupt Slime",
+    "Id": 2908
+  },
+  {
+    "Content": "Nearby players get a bonus against: Corruptor",
+    "Id": 2909
+  },
+  {
+    "Content": "Nearby players get a bonus against: Crimslime",
+    "Id": 2910
+  },
+  {
+    "Content": "Nearby players get a bonus against: Cursed Skull",
+    "Id": 2911
+  },
+  {
+    "Content": "Nearby players get a bonus against: Cyan Beetle",
+    "Id": 2912
+  },
+  {
+    "Content": "Nearby players get a bonus against: Devourer",
+    "Id": 2913
+  },
+  {
+    "Content": "Nearby players get a bonus against: Diabolist",
+    "Id": 2914
+  },
+  {
+    "Content": "Nearby players get a bonus against: Doctor Bones",
+    "Id": 2915
+  },
+  {
+    "Content": "Nearby players get a bonus against: Dungeon Slime",
+    "Id": 2916
+  },
+  {
+    "Content": "Nearby players get a bonus against: Dungeon Spirit",
+    "Id": 2917
+  },
+  {
+    "Content": "Nearby players get a bonus against: Elf Archer",
+    "Id": 2918
+  },
+  {
+    "Content": "Nearby players get a bonus against: Elf Copter",
+    "Id": 2919
+  },
+  {
+    "Content": "Nearby players get a bonus against: Eyezor",
+    "Id": 2920
+  },
+  {
+    "Content": "Nearby players get a bonus against: Flocko",
+    "Id": 2921
+  },
+  {
+    "Content": "Nearby players get a bonus against: Ghost",
+    "Id": 2922
+  },
+  {
+    "Content": "Nearby players get a bonus against: Giant Bat",
+    "Id": 2923
+  },
+  {
+    "Content": "Nearby players get a bonus against: Giant Cursed Skull",
+    "Id": 2924
+  },
+  {
+    "Content": "Nearby players get a bonus against: Giant Flying Fox",
+    "Id": 2925
+  },
+  {
+    "Content": "Nearby players get a bonus against: Gingerbread Man",
+    "Id": 2926
+  },
+  {
+    "Content": "Nearby players get a bonus against: Goblin Archer",
+    "Id": 2927
+  },
+  {
+    "Content": "Nearby players get a bonus against: Green Slime",
+    "Id": 2928
+  },
+  {
+    "Content": "Nearby players get a bonus against: Headless Horseman",
+    "Id": 2929
+  },
+  {
+    "Content": "Nearby players get a bonus against: Hell Armored Bones",
+    "Id": 2930
+  },
+  {
+    "Content": "Nearby players get a bonus against: Hellhound",
+    "Id": 2931
+  },
+  {
+    "Content": "Nearby players get a bonus against: Hoppin' Jack",
+    "Id": 2932
+  },
+  {
+    "Content": "Nearby players get a bonus against: Ice Bat",
+    "Id": 2933
+  },
+  {
+    "Content": "Nearby players get a bonus against: Ice Golem",
+    "Id": 2934
+  },
+  {
+    "Content": "Nearby players get a bonus against: Ice Slime",
+    "Id": 2935
+  },
+  {
+    "Content": "Nearby players get a bonus against: Ichor Sticker",
+    "Id": 2936
+  },
+  {
+    "Content": "Nearby players get a bonus against: Illuminant Bat",
+    "Id": 2937
+  },
+  {
+    "Content": "Nearby players get a bonus against: Illuminant Slime",
+    "Id": 2938
+  },
+  {
+    "Content": "Nearby players get a bonus against: Jungle Bat",
+    "Id": 2939
+  },
+  {
+    "Content": "Nearby players get a bonus against: Jungle Slime",
+    "Id": 2940
+  },
+  {
+    "Content": "Nearby players get a bonus against: Krampus",
+    "Id": 2941
+  },
+  {
+    "Content": "Nearby players get a bonus against: Lac Beetle",
+    "Id": 2942
+  },
+  {
+    "Content": "Nearby players get a bonus against: Lava Bat",
+    "Id": 2943
+  },
+  {
+    "Content": "Nearby players get a bonus against: Lava Slime",
+    "Id": 2944
+  },
+  {
+    "Content": "Nearby players get a bonus against: Brain Scrambler",
+    "Id": 2945
+  },
+  {
+    "Content": "Nearby players get a bonus against: Martian Drone",
+    "Id": 2946
+  },
+  {
+    "Content": "Nearby players get a bonus against: Martian Engineer",
+    "Id": 2947
+  },
+  {
+    "Content": "Nearby players get a bonus against: Gigazapper",
+    "Id": 2948
+  },
+  {
+    "Content": "Nearby players get a bonus against: Gray Grunt",
+    "Id": 2949
+  },
+  {
+    "Content": "Nearby players get a bonus against: Martian Officer",
+    "Id": 2950
+  },
+  {
+    "Content": "Nearby players get a bonus against: Ray Gunner",
+    "Id": 2951
+  },
+  {
+    "Content": "Nearby players get a bonus against: Scutlix Gunner",
+    "Id": 2952
+  },
+  {
+    "Content": "Nearby players get a bonus against: Tesla Turret",
+    "Id": 2953
+  },
+  {
+    "Content": "Nearby players get a bonus against: Mister Stabby",
+    "Id": 2954
+  },
+  {
+    "Content": "Nearby players get a bonus against: Mother Slime",
+    "Id": 2955
+  },
+  {
+    "Content": "Nearby players get a bonus against: Necromancer",
+    "Id": 2956
+  },
+  {
+    "Content": "Nearby players get a bonus against: Nutcracker",
+    "Id": 2957
+  },
+  {
+    "Content": "Nearby players get a bonus against: Paladin",
+    "Id": 2958
+  },
+  {
+    "Content": "Nearby players get a bonus against: Penguin",
+    "Id": 2959
+  },
+  {
+    "Content": "Nearby players get a bonus against: Pinky",
+    "Id": 2960
+  },
+  {
+    "Content": "Nearby players get a bonus against: Poltergeist",
+    "Id": 2961
+  },
+  {
+    "Content": "Nearby players get a bonus against: Possessed Armor",
+    "Id": 2962
+  },
+  {
+    "Content": "Nearby players get a bonus against: Present Mimic",
+    "Id": 2963
+  },
+  {
+    "Content": "Nearby players get a bonus against: Purple Slime",
+    "Id": 2964
+  },
+  {
+    "Content": "Nearby players get a bonus against: Ragged Caster",
+    "Id": 2965
+  },
+  {
+    "Content": "Nearby players get a bonus against: Rainbow Slime",
+    "Id": 2966
+  },
+  {
+    "Content": "Nearby players get a bonus against: Raven",
+    "Id": 2967
+  },
+  {
+    "Content": "Nearby players get a bonus against: Red Slime",
+    "Id": 2968
+  },
+  {
+    "Content": "Nearby players get a bonus against: Rune Wizard",
+    "Id": 2969
+  },
+  {
+    "Content": "Nearby players get a bonus against: Rusty Armored Bones",
+    "Id": 2970
+  },
+  {
+    "Content": "Nearby players get a bonus against: Scarecrow",
+    "Id": 2971
+  },
+  {
+    "Content": "Nearby players get a bonus against: Scutlix",
+    "Id": 2972
+  },
+  {
+    "Content": "Nearby players get a bonus against: Skeleton Archer",
+    "Id": 2973
+  },
+  {
+    "Content": "Nearby players get a bonus against: Skeleton Commando",
+    "Id": 2974
+  },
+  {
+    "Content": "Nearby players get a bonus against: Skeleton Sniper",
+    "Id": 2975
+  },
+  {
+    "Content": "Nearby players get a bonus against: Slimer",
+    "Id": 2976
+  },
+  {
+    "Content": "Nearby players get a bonus against: Snatcher",
+    "Id": 2977
+  },
+  {
+    "Content": "Nearby players get a bonus against: Snow Balla",
+    "Id": 2978
+  },
+  {
+    "Content": "Nearby players get a bonus against: Snowman Gangsta",
+    "Id": 2979
+  },
+  {
+    "Content": "Nearby players get a bonus against: Spiked Ice Slime",
+    "Id": 2980
+  },
+  {
+    "Content": "Nearby players get a bonus against: Spiked Jungle Slime",
+    "Id": 2981
+  },
+  {
+    "Content": "Nearby players get a bonus against: Splinterling",
+    "Id": 2982
+  },
+  {
+    "Content": "Nearby players get a bonus against: Squid",
+    "Id": 2983
+  },
+  {
+    "Content": "Nearby players get a bonus against: Tactical Skeleton",
+    "Id": 2984
+  },
+  {
+    "Content": "Nearby players get a bonus against: The Groom",
+    "Id": 2985
+  },
+  {
+    "Content": "Nearby players get a bonus against: Tim",
+    "Id": 2986
+  },
+  {
+    "Content": "Nearby players get a bonus against: Undead Miner",
+    "Id": 2987
+  },
+  {
+    "Content": "Nearby players get a bonus against: Undead Viking",
+    "Id": 2988
+  },
+  {
+    "Content": "Nearby players get a bonus against: White Cultist Archer",
+    "Id": 2989
+  },
+  {
+    "Content": "Nearby players get a bonus against: ",
+    "Id": 2990
+  },
+  {
+    "Content": "Nearby players get a bonus against: ",
+    "Id": 2991
+  },
+  {
+    "Content": "Nearby players get a bonus against: Yellow Slime",
+    "Id": 2992
+  },
+  {
+    "Content": "Nearby players get a bonus against: Yeti",
+    "Id": 2993
+  },
+  {
+    "Content": "Nearby players get a bonus against: Zombie Elf",
+    "Id": 2994
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 2995
+  },
+  {
+    "Content": "Teleports you to a party member",
+    "Id": 2997
+  },
+  {
+    "Content": "15% increased summon damage",
+    "Id": 2998
+  },
+  {
+    "Content": "<right> to have more minions",
+    "Id": 2999
+  },
+  {
+    "Content": "33% chance to not consume potion crafting ingredients",
+    "Id": 3000
+  },
+  {
+    "Content": "'It looks and smells terrible'",
+    "Id": 3001
+  },
+  {
+    "Content": "Exposes nearby treasure",
+    "Id": 3002
+  },
+  {
+    "Content": "'Emits a deathly glow'",
+    "Id": 3004
+  },
+  {
+    "Content": "Throw to create a climbable line of vine rope",
+    "Id": 3005
+  },
+  {
+    "Content": "Drains life from enemies",
+    "Id": 3006
+  },
+  {
+    "Content": "Summons a wall of cursed flames",
+    "Id": 3014
+  },
+  {
+    "Content": "Enemies are less likely to target you",
+    "Id": 3015
+  },
+  {
+    "Content": "Enemies are more likely to target you",
+    "Id": 3016
+  },
+  {
+    "Content": "Flowers grow on the grass you walk on",
+    "Id": 3017
+  },
+  {
+    "Content": "Wooden arrows turn into flaming bats",
+    "Id": 3019
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3024
+  },
+  {
+    "Content": "Shoots arrows from the sky",
+    "Id": 3029
+  },
+  {
+    "Content": "Throws a controllable flying knife",
+    "Id": 3030
+  },
+  {
+    "Content": "Contains an endless amount of water",
+    "Id": 3031
+  },
+  {
+    "Content": "Capable of soaking up an endless amount of water",
+    "Id": 3032
+  },
+  {
+    "Content": "Increases coin pickup range",
+    "Id": 3033
+  },
+  {
+    "Content": "Increases coin pickup range",
+    "Id": 3034
+  },
+  {
+    "Content": "Increases coin pickup range and shops have lower prices",
+    "Id": 3035
+  },
+  {
+    "Content": "Displays weather, moon phase, and fishing information",
+    "Id": 3036
+  },
+  {
+    "Content": "Displays the weather",
+    "Id": 3037
+  },
+  {
+    "Content": "Summons a magic lantern that exposes nearby treasure",
+    "Id": 3043
+  },
+  {
+    "Content": "Life regen is increased when near a campfire",
+    "Id": 3046
+  },
+  {
+    "Content": "Life regen is increased when near a campfire",
+    "Id": 3047
+  },
+  {
+    "Content": "Life regen is increased when near a campfire",
+    "Id": 3048
+  },
+  {
+    "Content": "Life regen is increased when near a campfire",
+    "Id": 3049
+  },
+  {
+    "Content": "Life regen is increased when near a campfire",
+    "Id": 3050
+  },
+  {
+    "Content": "Summons a massive crystal spike",
+    "Id": 3051
+  },
+  {
+    "Content": "Shoots Shadowflame Arrows",
+    "Id": 3052
+  },
+  {
+    "Content": "Summons Shadowflame tentacles to strike your foe",
+    "Id": 3053
+  },
+  {
+    "Content": "Inflicts Shadowflame on hit",
+    "Id": 3054
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 3055
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 3056
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 3057
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 3058
+  },
+  {
+    "Content": "'J. Hayes'",
+    "Id": 3059
+  },
+  {
+    "Content": "Summons a Baby Face Monster",
+    "Id": 3060
+  },
+  {
+    "Content": "Increases tile and wall placement speed and reach",
+    "Id": 3061
+  },
+  {
+    "Content": "Summons a heart to provide light",
+    "Id": 3062
+  },
+  {
+    "Content": "Allows time to fast forward one day per week",
+    "Id": 3064
+  },
+  {
+    "Content": "Allows the collection of Vine Rope from vines",
+    "Id": 3068
+  },
+  {
+    "Content": "Shoots a small spark",
+    "Id": 3069
+  },
+  {
+    "Content": "Detects enemies around you",
+    "Id": 3084
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3085
+  },
+  {
+    "Content": "Slimes become friendly",
+    "Id": 3090
+  },
+  {
+    "Content": "'Charged with the essence of many souls'",
+    "Id": 3091
+  },
+  {
+    "Content": "'Charged with the essence of many souls'",
+    "Id": 3092
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3093
+  },
+  {
+    "Content": "Displays how many monsters have been killed",
+    "Id": 3095
+  },
+  {
+    "Content": "Displays the phase of the moon",
+    "Id": 3096
+  },
+  {
+    "Content": "Allows the player to dash into the enemy",
+    "Id": 3097
+  },
+  {
+    "Content": "Sparks emit from struck enemies",
+    "Id": 3098
+  },
+  {
+    "Content": "Displays how fast the player is moving",
+    "Id": 3099
+  },
+  {
+    "Content": "Displays the most valuable ore around you",
+    "Id": 3102
+  },
+  {
+    "Content": "Allows you to go into stealth mode",
+    "Id": 3106
+  },
+  {
+    "Content": "Improves vision",
+    "Id": 3109
+  },
+  {
+    "Content": "Turns the holder into a werewolf at night and a merfolk when entering water",
+    "Id": 3110
+  },
+  {
+    "Content": "'Bouncy and sweet!'",
+    "Id": 3111
+  },
+  {
+    "Content": "Works when wet",
+    "Id": 3112
+  },
+  {
+    "Content": "Very bouncy",
+    "Id": 3113
+  },
+  {
+    "Content": "A small explosion that will destroy some tiles",
+    "Id": 3115
+  },
+  {
+    "Content": "A small explosion that will not destroy tiles",
+    "Id": 3116
+  },
+  {
+    "Content": "Makes surrounding creatures less hostile",
+    "Id": 3117
+  },
+  {
+    "Content": "Displays the name of rare creatures around you",
+    "Id": 3118
+  },
+  {
+    "Content": "Displays your damage per second",
+    "Id": 3119
+  },
+  {
+    "Content": "Displays fishing information",
+    "Id": 3120
+  },
+  {
+    "Content": "Displays movement speed, damage per second, and valuable ore",
+    "Id": 3121
+  },
+  {
+    "Content": "Displays number of monsters, kill count, and rare creatures",
+    "Id": 3122
+  },
+  {
+    "Content": "Displays everything",
+    "Id": 3123
+  },
+  {
+    "Content": "Displays everything",
+    "Id": 3124
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 3195
+  },
+  {
+    "Content": "A small explosion that will destroy some tiles",
+    "Id": 3196
+  },
+  {
+    "Content": "Increases armor penetration for melee weapons",
+    "Id": 3198
+  },
+  {
+    "Content": "Gaze in the mirror to return home",
+    "Id": 3199
+  },
+  {
+    "Content": "The wearer can run super fast",
+    "Id": 3200
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 3201
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3203
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3204
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3205
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3206
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3207
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3208
+  },
+  {
+    "Content": "Shoots an explosive crystal charge",
+    "Id": 3209
+  },
+  {
+    "Content": "Spits toxic bubbles",
+    "Id": 3210
+  },
+  {
+    "Content": "Spits an Ichor stream on contact",
+    "Id": 3211
+  },
+  {
+    "Content": "Increases armor penetration by 5",
+    "Id": 3212
+  },
+  {
+    "Content": "Summons a flying piggy bank to store your items",
+    "Id": 3213
+  },
+  {
+    "Content": "May confuse nearby enemies after being struck",
+    "Id": 3223
+  },
+  {
+    "Content": "Reduces damage taken by 17%",
+    "Id": 3224
+  },
+  {
+    "Content": "Increases jump height",
+    "Id": 3225
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3226
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3227
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3228
+  },
+  {
+    "Content": "Increases jump height",
+    "Id": 3241
+  },
+  {
+    "Content": "Throws empowered bones",
+    "Id": 3245
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 3250
+  },
+  {
+    "Content": "Releases bees when damaged",
+    "Id": 3251
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 3252
+  },
+  {
+    "Content": "Summons a rideable unicorn mount",
+    "Id": 3260
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3287
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3288
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3293
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3294
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3295
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3296
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3297
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3298
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3299
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3300
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3301
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3302
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3303
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3304
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3305
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3306
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3307
+  },
+  {
+    "Content": "Increases yoyo range",
+    "Id": 3308
+  },
+  {
+    "Content": "Throws a counterweight after hitting an enemy with a yoyo",
+    "Id": 3309
+  },
+  {
+    "Content": "Throws a counterweight after hitting an enemy with a yoyo",
+    "Id": 3310
+  },
+  {
+    "Content": "Throws a counterweight after hitting an enemy with a yoyo",
+    "Id": 3311
+  },
+  {
+    "Content": "Throws a counterweight after hitting an enemy with a yoyo",
+    "Id": 3312
+  },
+  {
+    "Content": "Throws a counterweight after hitting an enemy with a yoyo",
+    "Id": 3313
+  },
+  {
+    "Content": "Throws a counterweight after hitting an enemy with a yoyo",
+    "Id": 3314
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3318
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3319
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3320
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3321
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3322
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3323
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3324
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3325
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3326
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3327
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3328
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3329
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3330
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3331
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3332
+  },
+  {
+    "Content": "Increases the strength of friendly bees",
+    "Id": 3333
+  },
+  {
+    "Content": "Allows the use of two yoyos at once",
+    "Id": 3334
+  },
+  {
+    "Content": "Permanently increases the number of accessory slots",
+    "Id": 3335
+  },
+  {
+    "Content": "Summons spores over time that will damage enemies",
+    "Id": 3336
+  },
+  {
+    "Content": "Greatly increases life regen when not moving",
+    "Id": 3337
+  },
+  {
+    "Content": "Places living rich mahogany",
+    "Id": 3360
+  },
+  {
+    "Content": "Places rich mahogany leaves",
+    "Id": 3361
+  },
+  {
+    "Content": "Gives the user master yoyo skills",
+    "Id": 3366
+  },
+  {
+    "Content": "Attracts a legendary creature which flourishes in water & combat",
+    "Id": 3367
+  },
+  {
+    "Content": "20% increased throwing velocity",
+    "Id": 3374
+  },
+  {
+    "Content": "20% increased throwing damage",
+    "Id": 3375
+  },
+  {
+    "Content": "15% increased throwing critical strike chance",
+    "Id": 3376
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 3381
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 3382
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 3383
+  },
+  {
+    "Content": "Can be traded for rare dyes",
+    "Id": 3385
+  },
+  {
+    "Content": "Can be traded for rare dyes",
+    "Id": 3386
+  },
+  {
+    "Content": "Can be traded for rare dyes",
+    "Id": 3387
+  },
+  {
+    "Content": "Can be traded for rare dyes",
+    "Id": 3388
+  },
+  {
+    "Content": "Nearby players get a bonus against: Goblin Summoner",
+    "Id": 3390
+  },
+  {
+    "Content": "Nearby players get a bonus against: Salamander",
+    "Id": 3391
+  },
+  {
+    "Content": "Nearby players get a bonus against: Giant Shelly",
+    "Id": 3392
+  },
+  {
+    "Content": "Nearby players get a bonus against: Crawdad",
+    "Id": 3393
+  },
+  {
+    "Content": "Nearby players get a bonus against: Fritz",
+    "Id": 3394
+  },
+  {
+    "Content": "Nearby players get a bonus against: Creature from the Deep",
+    "Id": 3395
+  },
+  {
+    "Content": "Nearby players get a bonus against: Dr. Man Fly",
+    "Id": 3396
+  },
+  {
+    "Content": "Nearby players get a bonus against: Mothron",
+    "Id": 3397
+  },
+  {
+    "Content": "Nearby players get a bonus against: ",
+    "Id": 3398
+  },
+  {
+    "Content": "Nearby players get a bonus against: The Possessed",
+    "Id": 3399
+  },
+  {
+    "Content": "Nearby players get a bonus against: Butcher",
+    "Id": 3400
+  },
+  {
+    "Content": "Nearby players get a bonus against: Psycho",
+    "Id": 3401
+  },
+  {
+    "Content": "Nearby players get a bonus against: Deadly Sphere",
+    "Id": 3402
+  },
+  {
+    "Content": "Nearby players get a bonus against: Nailhead",
+    "Id": 3403
+  },
+  {
+    "Content": "Nearby players get a bonus against: ",
+    "Id": 3404
+  },
+  {
+    "Content": "Nearby players get a bonus against: Medusa",
+    "Id": 3405
+  },
+  {
+    "Content": "Nearby players get a bonus against: Hoplite",
+    "Id": 3406
+  },
+  {
+    "Content": "Nearby players get a bonus against: Granite Elemental",
+    "Id": 3407
+  },
+  {
+    "Content": "Nearby players get a bonus against: Granite Golem",
+    "Id": 3408
+  },
+  {
+    "Content": "Nearby players get a bonus against: Blood Zombie",
+    "Id": 3409
+  },
+  {
+    "Content": "Nearby players get a bonus against: Drippler",
+    "Id": 3410
+  },
+  {
+    "Content": "Nearby players get a bonus against: Tomb Crawler",
+    "Id": 3411
+  },
+  {
+    "Content": "Nearby players get a bonus against: Dune Splicer",
+    "Id": 3412
+  },
+  {
+    "Content": "Nearby players get a bonus against: Antlion Swarmer",
+    "Id": 3413
+  },
+  {
+    "Content": "Nearby players get a bonus against: Antlion Charger",
+    "Id": 3414
+  },
+  {
+    "Content": "Nearby players get a bonus against: Ghoul",
+    "Id": 3415
+  },
+  {
+    "Content": "Nearby players get a bonus against: Lamia",
+    "Id": 3416
+  },
+  {
+    "Content": "Nearby players get a bonus against: Desert Spirit",
+    "Id": 3417
+  },
+  {
+    "Content": "Nearby players get a bonus against: Basilisk",
+    "Id": 3418
+  },
+  {
+    "Content": "Nearby players get a bonus against: Sand Poacher",
+    "Id": 3419
+  },
+  {
+    "Content": "Nearby players get a bonus against: Stargazer",
+    "Id": 3420
+  },
+  {
+    "Content": "Nearby players get a bonus against: Milkyway Weaver",
+    "Id": 3421
+  },
+  {
+    "Content": "Nearby players get a bonus against: Flow Invader",
+    "Id": 3422
+  },
+  {
+    "Content": "Nearby players get a bonus against: Twinkle Popper",
+    "Id": 3423
+  },
+  {
+    "Content": "Nearby players get a bonus against: ",
+    "Id": 3424
+  },
+  {
+    "Content": "Nearby players get a bonus against: Star Cell",
+    "Id": 3425
+  },
+  {
+    "Content": "Nearby players get a bonus against: Corite",
+    "Id": 3426
+  },
+  {
+    "Content": "Nearby players get a bonus against: Sroller",
+    "Id": 3427
+  },
+  {
+    "Content": "Nearby players get a bonus against: Crawltipede",
+    "Id": 3428
+  },
+  {
+    "Content": "Nearby players get a bonus against: Drakomire Rider",
+    "Id": 3429
+  },
+  {
+    "Content": "Nearby players get a bonus against: Drakomire",
+    "Id": 3430
+  },
+  {
+    "Content": "Nearby players get a bonus against: Selenian",
+    "Id": 3431
+  },
+  {
+    "Content": "Nearby players get a bonus against: Predictor",
+    "Id": 3432
+  },
+  {
+    "Content": "Nearby players get a bonus against: Brain Suckler",
+    "Id": 3433
+  },
+  {
+    "Content": "Nearby players get a bonus against: Nebula Floater",
+    "Id": 3434
+  },
+  {
+    "Content": "Nearby players get a bonus against: Evolution Beast",
+    "Id": 3435
+  },
+  {
+    "Content": "Nearby players get a bonus against: Alien Larva",
+    "Id": 3436
+  },
+  {
+    "Content": "Nearby players get a bonus against: Alien Queen",
+    "Id": 3437
+  },
+  {
+    "Content": "Nearby players get a bonus against: Alien Hornet",
+    "Id": 3438
+  },
+  {
+    "Content": "Nearby players get a bonus against: Vortexian",
+    "Id": 3439
+  },
+  {
+    "Content": "Nearby players get a bonus against: Storm Diver",
+    "Id": 3440
+  },
+  {
+    "Content": "Nearby players get a bonus against: Pirate Captain",
+    "Id": 3441
+  },
+  {
+    "Content": "Nearby players get a bonus against: Pirate Deadeye",
+    "Id": 3442
+  },
+  {
+    "Content": "Nearby players get a bonus against: Pirate Corsair",
+    "Id": 3443
+  },
+  {
+    "Content": "Nearby players get a bonus against: Pirate Crossbower",
+    "Id": 3444
+  },
+  {
+    "Content": "Nearby players get a bonus against: Martian Walker",
+    "Id": 3445
+  },
+  {
+    "Content": "Nearby players get a bonus against: Red Devil",
+    "Id": 3446
+  },
+  {
+    "Content": "Nearby players get a bonus against: Pink Jellyfish",
+    "Id": 3447
+  },
+  {
+    "Content": "Nearby players get a bonus against: Green Jellyfish",
+    "Id": 3448
+  },
+  {
+    "Content": "Nearby players get a bonus against: Dark Mummy",
+    "Id": 3449
+  },
+  {
+    "Content": "Nearby players get a bonus against: Light Mummy",
+    "Id": 3450
+  },
+  {
+    "Content": "Nearby players get a bonus against: Angry Bones",
+    "Id": 3451
+  },
+  {
+    "Content": "Nearby players get a bonus against: Ice Tortoise",
+    "Id": 3452
+  },
+  {
+    "Content": "'Swirling energies emanate from this fragment'",
+    "Id": 3456
+  },
+  {
+    "Content": "'The power of a galaxy resides within this fragment'",
+    "Id": 3457
+  },
+  {
+    "Content": "'The fury of the universe lies within this fragment'",
+    "Id": 3458
+  },
+  {
+    "Content": "'Entrancing particles revolve around this fragment'",
+    "Id": 3459
+  },
+  {
+    "Content": "'A pebble of the heavens'",
+    "Id": 3460
+  },
+  {
+    "Content": "'It vibrates with luminous celestial energy'",
+    "Id": 3467
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 3468
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 3469
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 3470
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 3471
+  },
+  {
+    "Content": "'Strike with the fury of the sun'",
+    "Id": 3473
+  },
+  {
+    "Content": "Summons a stardust cell to fight for you",
+    "Id": 3474
+  },
+  {
+    "Content": "66% chance to not consume ammo",
+    "Id": 3475
+  },
+  {
+    "Content": "'Conjure masses of astral energy to chase down your foes'",
+    "Id": 3476
+  },
+  {
+    "Content": "Spreads the crimson to some blocks",
+    "Id": 3477
+  },
+  {
+    "Content": "'Wuv... twue wuv...'",
+    "Id": 3478
+  },
+  {
+    "Content": "'Mawwiage...'",
+    "Id": 3479
+  },
+  {
+    "Content": "Can mine Meteorite",
+    "Id": 3485
+  },
+  {
+    "Content": "Can mine Meteorite",
+    "Id": 3491
+  },
+  {
+    "Content": "Can mine Meteorite",
+    "Id": 3521
+  },
+  {
+    "Content": "Summons a stardust dragon to fight for you",
+    "Id": 3531
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 3532
+  },
+  {
+    "Content": "'Wield a small amount of power from the Vortex Tower'",
+    "Id": 3536
+  },
+  {
+    "Content": "'Wield a small amount of power from the Nebula Tower'",
+    "Id": 3537
+  },
+  {
+    "Content": "'Wield a small amount of power from the Stardust Tower'",
+    "Id": 3538
+  },
+  {
+    "Content": "'Wield a small amount of power from the Solar Tower'",
+    "Id": 3539
+  },
+  {
+    "Content": "66% chance to not consume ammo",
+    "Id": 3540
+  },
+  {
+    "Content": "'Fire a lifeform disintegration rainbow'",
+    "Id": 3541
+  },
+  {
+    "Content": "'From Orion's belt to the palm of your hand'",
+    "Id": 3542
+  },
+  {
+    "Content": "'Rend your foes asunder with a spear of light!'",
+    "Id": 3543
+  },
+  {
+    "Content": "'Guts... and Gory!'",
+    "Id": 3545
+  },
+  {
+    "Content": "'This will prove to be terrible idea'",
+    "Id": 3547
+  },
+  {
+    "Content": "A small explosion that will not destroy tiles",
+    "Id": 3548
+  },
+  {
+    "Content": "Used to craft items from Lunar Fragments and Luminite",
+    "Id": 3549
+  },
+  {
+    "Content": "'Line 'em up and knock 'em down...'",
+    "Id": 3567
+  },
+  {
+    "Content": "'Shooting them down at the speed of sound!'",
+    "Id": 3568
+  },
+  {
+    "Content": "Summons a lunar portal to shoot lasers at your enemies",
+    "Id": 3569
+  },
+  {
+    "Content": "Rains down lunar flares",
+    "Id": 3570
+  },
+  {
+    "Content": "Summons a radiant crystal that banishes your enemies",
+    "Id": 3571
+  },
+  {
+    "Content": "'You want the moon? Just grapple it and pull it down!'",
+    "Id": 3572
+  },
+  {
+    "Content": "Calls upon a suspicious looking eye to provide light",
+    "Id": 3577
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3578
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3579
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3580
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3581
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3582
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3583
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3585
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3586
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3587
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3588
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3589
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3590
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3591
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3592
+  },
+  {
+    "Content": "Nearby players get a bonus against: Sand Slime",
+    "Id": 3593
+  },
+  {
+    "Content": "Nearby players get a bonus against: Sea Snail",
+    "Id": 3594
+  },
+  {
+    "Content": "'V. Costa Moura'",
+    "Id": 3596
+  },
+  {
+    "Content": "'Great for impersonating devs!'",
+    "Id": 3599
+  },
+  {
+    "Content": "Summons the Impending Doom",
+    "Id": 3601
+  },
+  {
+    "Content": "Place this on logic gates to add checks",
+    "Id": 3602
+  },
+  {
+    "Content": "Judges logic gate lamps above it",
+    "Id": 3603
+  },
+  {
+    "Content": "Judges logic gate lamps above it",
+    "Id": 3604
+  },
+  {
+    "Content": "Judges logic gate lamps above it",
+    "Id": 3605
+  },
+  {
+    "Content": "Judges logic gate lamps above it",
+    "Id": 3606
+  },
+  {
+    "Content": "Judges logic gate lamps above it",
+    "Id": 3607
+  },
+  {
+    "Content": "Judges logic gate lamps above it",
+    "Id": 3608
+  },
+  {
+    "Content": "Allows ultimate control over wires!",
+    "Id": 3611
+  },
+  {
+    "Content": "Places yellow wire",
+    "Id": 3612
+  },
+  {
+    "Content": "Activates once day starts",
+    "Id": 3613
+  },
+  {
+    "Content": "Activates once night starts",
+    "Id": 3614
+  },
+  {
+    "Content": "Activates whenever players are over it, deactivates otherwise",
+    "Id": 3615
+  },
+  {
+    "Content": "Separates wire paths\nIt's also hammerable!",
+    "Id": 3616
+  },
+  {
+    "Content": "Place this on logic gates to add checks",
+    "Id": 3618
+  },
+  {
+    "Content": "Grants improved wire vision",
+    "Id": 3619
+  },
+  {
+    "Content": "Activates Actuators",
+    "Id": 3620
+  },
+  {
+    "Content": "Automatically places actuators on placed objects",
+    "Id": 3624
+  },
+  {
+    "Content": "<right> while holding to edit wire settings",
+    "Id": 3625
+  },
+  {
+    "Content": "Activates when a player steps on or off it",
+    "Id": 3626
+  },
+  {
+    "Content": "Susceptible to lava!",
+    "Id": 3628
+  },
+  {
+    "Content": "Lights up bulbs for each wire color",
+    "Id": 3629
+  },
+  {
+    "Content": "Activates when a player steps on or off it",
+    "Id": 3630
+  },
+  {
+    "Content": "Activates when a player steps on or off it",
+    "Id": 3631
+  },
+  {
+    "Content": "Activates when a player steps on or off it",
+    "Id": 3632
+  },
+  {
+    "Content": "For Capture the Gem. It drops when you die",
+    "Id": 3643
+  },
+  {
+    "Content": "<right> to place or remove Large Rubies",
+    "Id": 3644
+  },
+  {
+    "Content": "<right> to place or remove Large Sapphires",
+    "Id": 3645
+  },
+  {
+    "Content": "<right> to place or remove Large Emeralds",
+    "Id": 3646
+  },
+  {
+    "Content": "<right> to place or remove Large Topazes",
+    "Id": 3647
+  },
+  {
+    "Content": "<right> to place or remove Large Amethysts",
+    "Id": 3648
+  },
+  {
+    "Content": "<right> to place or remove Large Diamonds",
+    "Id": 3649
+  },
+  {
+    "Content": "<right> to place or remove Large Ambers",
+    "Id": 3650
+  },
+  {
+    "Content": "Place this on logic gate lamps to randomize the activation",
+    "Id": 3663
+  },
+  {
+    "Content": "Activates when a projectile touches it",
+    "Id": 3707
+  },
+  {
+    "Content": "Fishing line will never break, Decreases chance of bait consumption, Increases fishing skill",
+    "Id": 3721
+  },
+  {
+    "Content": "Life regen is increased when near a campfire",
+    "Id": 3723
+  },
+  {
+    "Content": "Life regen is increased when near a campfire",
+    "Id": 3724
+  },
+  {
+    "Content": "Separates wire paths\nLights off from horizontal signals\nLights on from crossed signals",
+    "Id": 3725
+  },
+  {
+    "Content": "Activates whenever occupied by water, deactives otherwise",
+    "Id": 3726
+  },
+  {
+    "Content": "Activates whenever occupied by lava, deactives otherwise",
+    "Id": 3727
+  },
+  {
+    "Content": "Activates whenever occupied by honey, deactives otherwise",
+    "Id": 3728
+  },
+  {
+    "Content": "Activates whenever occupied by liquid, deactives otherwise",
+    "Id": 3729
+  },
+  {
+    "Content": "'Smells like bubblegum and happiness'",
+    "Id": 3736
+  },
+  {
+    "Content": "'Smells like lavender and enthusiasm'",
+    "Id": 3737
+  },
+  {
+    "Content": "'Smells like mint and glee'",
+    "Id": 3738
+  },
+  {
+    "Content": "Oddly durable enough to climb!",
+    "Id": 3739
+  },
+  {
+    "Content": "Oddly durable enough to climb!",
+    "Id": 3740
+  },
+  {
+    "Content": "Oddly durable enough to climb!",
+    "Id": 3741
+  },
+  {
+    "Content": "It never stops celebrating!",
+    "Id": 3742
+  },
+  {
+    "Content": "Beat the shindig out of it!",
+    "Id": 3746
+  },
+  {
+    "Content": "'Balloons shall rain from the sky'",
+    "Id": 3747
+  },
+  {
+    "Content": "'Tied down for everyone's pleasure'",
+    "Id": 3748
+  },
+  {
+    "Content": "Wonder what's inside?",
+    "Id": 3749
+  },
+  {
+    "Content": "Stuff your face. Stuff someone else's face. Whatever.",
+    "Id": 3750
+  },
+  {
+    "Content": "Productivity up 200%",
+    "Id": 3751
+  },
+  {
+    "Content": "Falling sand you can safely watch",
+    "Id": 3752
+  },
+  {
+    "Content": "A lot cooler than a snow globe",
+    "Id": 3753
+  },
+  {
+    "Content": "Falling sand you can safely watch",
+    "Id": 3754
+  },
+  {
+    "Content": "A lot cooler than a snow globe",
+    "Id": 3755
+  },
+  {
+    "Content": "It gets pretty cold up there",
+    "Id": 3756
+  },
+  {
+    "Content": "Become the Pedguin",
+    "Id": 3757
+  },
+  {
+    "Content": "Become the Pedguin",
+    "Id": 3758
+  },
+  {
+    "Content": "Become the Pedguin",
+    "Id": 3759
+  },
+  {
+    "Content": "'Smells like bubblegum and happiness'",
+    "Id": 3760
+  },
+  {
+    "Content": "'Smells like lavender and enthusiasm'",
+    "Id": 3761
+  },
+  {
+    "Content": "'Smells like mint and glee'",
+    "Id": 3762
+  },
+  {
+    "Content": "Enables your inner wingman",
+    "Id": 3763
+  },
+  {
+    "Content": "Grants slow fall in exchange for your feet",
+    "Id": 3770
+  },
+  {
+    "Content": "Summons a rideable basilisk mount",
+    "Id": 3771
+  },
+  {
+    "Content": "15% increased magic and minion damage",
+    "Id": 3776
+  },
+  {
+    "Content": "Increases maximum mana by 80",
+    "Id": 3777
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 3778
+  },
+  {
+    "Content": "Nearby players get a bonus against: Sand Elemental",
+    "Id": 3780
+  },
+  {
+    "Content": "Immunity to petrification",
+    "Id": 3781
+  },
+  {
+    "Content": "Nearby players get a bonus against: Sand Shark",
+    "Id": 3789
+  },
+  {
+    "Content": "Nearby players get a bonus against: Bone Biter",
+    "Id": 3790
+  },
+  {
+    "Content": "Nearby players get a bonus against: Flesh Reaver",
+    "Id": 3791
+  },
+  {
+    "Content": "Nearby players get a bonus against: Crystal Thresher",
+    "Id": 3792
+  },
+  {
+    "Content": "Nearby players get a bonus against: Angry Tumbler",
+    "Id": 3793
+  },
+  {
+    "Content": "Increases your max number of sentries and reduces mana costs by 10%",
+    "Id": 3797
+  },
+  {
+    "Content": "20% increased minion damage and 10% increased magic damage",
+    "Id": 3798
+  },
+  {
+    "Content": "10% increased minion damage and 20% increased movement speed",
+    "Id": 3799
+  },
+  {
+    "Content": "Increases your max number of sentries and increases your life regeneration",
+    "Id": 3800
+  },
+  {
+    "Content": "15% increased minion and melee damage",
+    "Id": 3801
+  },
+  {
+    "Content": "15% increased minion damage, 20% increased melee critical strike chance and movement speed",
+    "Id": 3802
+  },
+  {
+    "Content": "Increases your max number of sentries and increases ranged critical strike chance by 10%",
+    "Id": 3803
+  },
+  {
+    "Content": "20% increased minion and ranged damage",
+    "Id": 3804
+  },
+  {
+    "Content": "10% increased minion damage and 20% increased movement speed",
+    "Id": 3805
+  },
+  {
+    "Content": "Increases your max number of sentries and increases melee attack speed by 20%",
+    "Id": 3806
+  },
+  {
+    "Content": "20% increased minion and melee damage",
+    "Id": 3807
+  },
+  {
+    "Content": "10% increased minion damage,\n10% increased critical strike chance and 20% increased movement speed",
+    "Id": 3808
+  },
+  {
+    "Content": "Increase your max number of sentries",
+    "Id": 3809
+  },
+  {
+    "Content": "Increase your max number of sentries",
+    "Id": 3810
+  },
+  {
+    "Content": "Increase your max number of sentries",
+    "Id": 3811
+  },
+  {
+    "Content": "Increase your max number of sentries",
+    "Id": 3812
+  },
+  {
+    "Content": "Holds the Eternia Crystal",
+    "Id": 3816
+  },
+  {
+    "Content": "Currency for trading with the Tavernkeep",
+    "Id": 3817
+  },
+  {
+    "Content": "An average speed tower that shoots exploding fireballs",
+    "Id": 3818
+  },
+  {
+    "Content": "An average speed tower that shoots exploding fireballs",
+    "Id": 3819
+  },
+  {
+    "Content": "An average speed tower that shoots exploding fireballs",
+    "Id": 3820
+  },
+  {
+    "Content": "Often used to manifest one's will as a physical form of defense",
+    "Id": 3822
+  },
+  {
+    "Content": "<right> to guard with a shield",
+    "Id": 3823
+  },
+  {
+    "Content": "A slow but high damage tower that shoots piercing bolts",
+    "Id": 3824
+  },
+  {
+    "Content": "A slow but high damage tower that shoots piercing bolts",
+    "Id": 3825
+  },
+  {
+    "Content": "A slow but high damage tower that shoots piercing bolts",
+    "Id": 3826
+  },
+  {
+    "Content": "Unleashes the heart's energy forward",
+    "Id": 3827
+  },
+  {
+    "Content": "Place in the Eternia Crystal Stand to summon Etheria's portals",
+    "Id": 3828
+  },
+  {
+    "Content": "An aura that repeatedly zaps enemies that go inside",
+    "Id": 3829
+  },
+  {
+    "Content": "An aura that repeatedly zaps enemies that go inside",
+    "Id": 3830
+  },
+  {
+    "Content": "An aura that repeatedly zaps enemies that go inside",
+    "Id": 3831
+  },
+  {
+    "Content": "A trap that explodes when enemies come near",
+    "Id": 3832
+  },
+  {
+    "Content": "A trap that explodes when enemies come near",
+    "Id": 3833
+  },
+  {
+    "Content": "A trap that explodes when enemies come near",
+    "Id": 3834
+  },
+  {
+    "Content": "Charges power as it is swung to smash enemies",
+    "Id": 3835
+  },
+  {
+    "Content": "Summons ghosts as it hits enemies",
+    "Id": 3836
+  },
+  {
+    "Content": "Gotta wonder who stuck a tome of infinite wisdom on a stick...",
+    "Id": 3852
+  },
+  {
+    "Content": "Harnesses the power of undying flames",
+    "Id": 3854
+  },
+  {
+    "Content": "Summons a pet gato",
+    "Id": 3855
+  },
+  {
+    "Content": "Summons a pet flickerwick to provide light",
+    "Id": 3856
+  },
+  {
+    "Content": "Summons a pet dragon",
+    "Id": 3857
+  },
+  {
+    "Content": "<right> while holding for an alternate attack!",
+    "Id": 3858
+  },
+  {
+    "Content": "Shoots splitting arrows, deals more damage to airborne enemies",
+    "Id": 3859
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3860
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3861
+  },
+  {
+    "Content": "<right> to open",
+    "Id": 3862
+  },
+  {
+    "Content": "Splashes defense reducing miasma!",
+    "Id": 3870
+  },
+  {
+    "Content": "Increases your max number of sentries and grants you 10% minion damage",
+    "Id": 3871
+  },
+  {
+    "Content": "30% increased minion damage and massively increased life regeneration",
+    "Id": 3872
+  },
+  {
+    "Content": "20% increased minion damage, critical strike chance and 30% movement speed",
+    "Id": 3873
+  },
+  {
+    "Content": "Increases your max number of sentries\n10% increased minion & magic damage",
+    "Id": 3874
+  },
+  {
+    "Content": "30% increased minion damage and 15% increased magic damage",
+    "Id": 3875
+  },
+  {
+    "Content": "20% increased minion damage and 25% increased magic critical strike chance",
+    "Id": 3876
+  },
+  {
+    "Content": "Increases your max number of sentries\n10% increased minion damage and ranged critical strike chance",
+    "Id": 3877
+  },
+  {
+    "Content": "25% increased minion & ranged damage",
+    "Id": 3878
+  },
+  {
+    "Content": "25% increased minion damage and 20% increased movement speed",
+    "Id": 3879
+  },
+  {
+    "Content": "Increases your max number of sentries and increases 20% melee & minion damage",
+    "Id": 3880
+  },
+  {
+    "Content": "20% increased minion damage and melee speed",
+    "Id": 3881
+  },
+  {
+    "Content": "20% increased minion damage, movement speed and melee critical strike chance",
+    "Id": 3882
+  }
+]

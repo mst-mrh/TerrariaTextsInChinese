@@ -1,0 +1,210 @@
+﻿[
+  {
+    "Content": "Chest",
+    "Id": 0
+  },
+  {
+    "Content": "Gold Chest",
+    "Id": 1
+  },
+  {
+    "Content": "Locked Gold Chest",
+    "Id": 2
+  },
+  {
+    "Content": "Shadow Chest",
+    "Id": 3
+  },
+  {
+    "Content": "Locked Shadow Chest",
+    "Id": 4
+  },
+  {
+    "Content": "Barrel",
+    "Id": 5
+  },
+  {
+    "Content": "Trash Can",
+    "Id": 6
+  },
+  {
+    "Content": "Ebonwood Chest",
+    "Id": 7
+  },
+  {
+    "Content": "Rich Mahogany Chest",
+    "Id": 8
+  },
+  {
+    "Content": "Pearlwood Chest",
+    "Id": 9
+  },
+  {
+    "Content": "Ivy Chest",
+    "Id": 10
+  },
+  {
+    "Content": "Ice Chest",
+    "Id": 11
+  },
+  {
+    "Content": "Living Wood Chest",
+    "Id": 12
+  },
+  {
+    "Content": "Skyware Chest",
+    "Id": 13
+  },
+  {
+    "Content": "Shadewood Chest",
+    "Id": 14
+  },
+  {
+    "Content": "Web Covered Chest",
+    "Id": 15
+  },
+  {
+    "Content": "Lihzahrd Chest",
+    "Id": 16
+  },
+  {
+    "Content": "Water Chest",
+    "Id": 17
+  },
+  {
+    "Content": "Jungle Chest",
+    "Id": 18
+  },
+  {
+    "Content": "Corruption Chest",
+    "Id": 19
+  },
+  {
+    "Content": "Crimson Chest",
+    "Id": 20
+  },
+  {
+    "Content": "Hallowed Chest",
+    "Id": 21
+  },
+  {
+    "Content": "Frozen Chest",
+    "Id": 22
+  },
+  {
+    "Content": "Locked Jungle Chest",
+    "Id": 23
+  },
+  {
+    "Content": "Locked Corruption Chest",
+    "Id": 24
+  },
+  {
+    "Content": "Locked Crimson Chest",
+    "Id": 25
+  },
+  {
+    "Content": "Locked Hallowed Chest",
+    "Id": 26
+  },
+  {
+    "Content": "Locked Frozen Chest",
+    "Id": 27
+  },
+  {
+    "Content": "Dynasty Chest",
+    "Id": 28
+  },
+  {
+    "Content": "Honey Chest",
+    "Id": 29
+  },
+  {
+    "Content": "Steampunk Chest",
+    "Id": 30
+  },
+  {
+    "Content": "Palm Wood Chest",
+    "Id": 31
+  },
+  {
+    "Content": "Mushroom Chest",
+    "Id": 32
+  },
+  {
+    "Content": "Boreal Wood Chest",
+    "Id": 33
+  },
+  {
+    "Content": "Slime Chest",
+    "Id": 34
+  },
+  {
+    "Content": "Green Dungeon Chest",
+    "Id": 35
+  },
+  {
+    "Content": "Locked Green Dungeon Chest",
+    "Id": 36
+  },
+  {
+    "Content": "Pink Dungeon Chest",
+    "Id": 37
+  },
+  {
+    "Content": "Locked Pink Dungeon Chest",
+    "Id": 38
+  },
+  {
+    "Content": "Blue Dungeon Chest",
+    "Id": 39
+  },
+  {
+    "Content": "Locked Blue Dungeon Chest",
+    "Id": 40
+  },
+  {
+    "Content": "Bone Chest",
+    "Id": 41
+  },
+  {
+    "Content": "Cactus Chest",
+    "Id": 42
+  },
+  {
+    "Content": "Flesh Chest",
+    "Id": 43
+  },
+  {
+    "Content": "Obsidian Chest",
+    "Id": 44
+  },
+  {
+    "Content": "Pumpkin Chest",
+    "Id": 45
+  },
+  {
+    "Content": "Spooky Chest",
+    "Id": 46
+  },
+  {
+    "Content": "Glass Chest",
+    "Id": 47
+  },
+  {
+    "Content": "Martian Chest",
+    "Id": 48
+  },
+  {
+    "Content": "Meteorite Chest",
+    "Id": 49
+  },
+  {
+    "Content": "Granite Chest",
+    "Id": 50
+  },
+  {
+    "Content": "Marble Chest",
+    "Id": 51
+  }
+]

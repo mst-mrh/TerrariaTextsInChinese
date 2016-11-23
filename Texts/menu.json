@@ -1,0 +1,1014 @@
+﻿[
+  {
+    "Content": "Start a new instance of Terraria to join!",
+    "Id": 0
+  },
+  {
+    "Content": "Running on port ",
+    "Id": 1
+  },
+  {
+    "Content": "Disconnect",
+    "Id": 2
+  },
+  {
+    "Content": "Server Requires Password:",
+    "Id": 3
+  },
+  {
+    "Content": "Accept",
+    "Id": 4
+  },
+  {
+    "Content": "Back",
+    "Id": 5
+  },
+  {
+    "Content": "Cancel",
+    "Id": 6
+  },
+  {
+    "Content": "Enter Server Password:",
+    "Id": 7
+  },
+  {
+    "Content": "Starting server...",
+    "Id": 8
+  },
+  {
+    "Content": "Load failed!",
+    "Id": 9
+  },
+  {
+    "Content": "Load Backup",
+    "Id": 10
+  },
+  {
+    "Content": "No backup found",
+    "Id": 11
+  },
+  {
+    "Content": "Single Player",
+    "Id": 12
+  },
+  {
+    "Content": "Multiplayer",
+    "Id": 13
+  },
+  {
+    "Content": "Settings",
+    "Id": 14
+  },
+  {
+    "Content": "Exit",
+    "Id": 15
+  },
+  {
+    "Content": "Create Character",
+    "Id": 16
+  },
+  {
+    "Content": "Delete",
+    "Id": 17
+  },
+  {
+    "Content": "Hair",
+    "Id": 18
+  },
+  {
+    "Content": "Eyes",
+    "Id": 19
+  },
+  {
+    "Content": "Skin",
+    "Id": 20
+  },
+  {
+    "Content": "Clothes",
+    "Id": 21
+  },
+  {
+    "Content": "Male",
+    "Id": 22
+  },
+  {
+    "Content": "Female",
+    "Id": 23
+  },
+  {
+    "Content": "Hardcore",
+    "Id": 24
+  },
+  {
+    "Content": "Mediumcore",
+    "Id": 25
+  },
+  {
+    "Content": "Softcore",
+    "Id": 26
+  },
+  {
+    "Content": "Random",
+    "Id": 27
+  },
+  {
+    "Content": "Create",
+    "Id": 28
+  },
+  {
+    "Content": "Hardcore characters die for good",
+    "Id": 29
+  },
+  {
+    "Content": "Mediumcore characters drop items on death",
+    "Id": 30
+  },
+  {
+    "Content": "Softcore characters drop money on death",
+    "Id": 31
+  },
+  {
+    "Content": "Select difficulty",
+    "Id": 32
+  },
+  {
+    "Content": "Shirt",
+    "Id": 33
+  },
+  {
+    "Content": "Undershirt",
+    "Id": 34
+  },
+  {
+    "Content": "Pants",
+    "Id": 35
+  },
+  {
+    "Content": "Shoes",
+    "Id": 36
+  },
+  {
+    "Content": "Hair",
+    "Id": 37
+  },
+  {
+    "Content": "Hair Color",
+    "Id": 38
+  },
+  {
+    "Content": "Eye Color",
+    "Id": 39
+  },
+  {
+    "Content": "Skin Color",
+    "Id": 40
+  },
+  {
+    "Content": "Shirt Color",
+    "Id": 41
+  },
+  {
+    "Content": "Undershirt Color",
+    "Id": 42
+  },
+  {
+    "Content": "Pants Color",
+    "Id": 43
+  },
+  {
+    "Content": "Shoe Color",
+    "Id": 44
+  },
+  {
+    "Content": "Enter Character Name:",
+    "Id": 45
+  },
+  {
+    "Content": "Delete",
+    "Id": 46
+  },
+  {
+    "Content": "Create World",
+    "Id": 47
+  },
+  {
+    "Content": "Enter World Name:",
+    "Id": 48
+  },
+  {
+    "Content": "Go Windowed",
+    "Id": 49
+  },
+  {
+    "Content": "Go Fullscreen",
+    "Id": 50
+  },
+  {
+    "Content": "Resolution",
+    "Id": 51
+  },
+  {
+    "Content": "Parallax",
+    "Id": 52
+  },
+  {
+    "Content": "Frame Skip Off",
+    "Id": 53
+  },
+  {
+    "Content": "Frame Skip On",
+    "Id": 54
+  },
+  {
+    "Content": "Lighting: Color",
+    "Id": 55
+  },
+  {
+    "Content": "Lighting: White",
+    "Id": 56
+  },
+  {
+    "Content": "Lighting: Retro",
+    "Id": 57
+  },
+  {
+    "Content": "Lighting: Trippy",
+    "Id": 58
+  },
+  {
+    "Content": "Quality: Auto",
+    "Id": 59
+  },
+  {
+    "Content": "Quality: High",
+    "Id": 60
+  },
+  {
+    "Content": "Quality: Medium",
+    "Id": 61
+  },
+  {
+    "Content": "Quality: Low",
+    "Id": 62
+  },
+  {
+    "Content": "Video",
+    "Id": 63
+  },
+  {
+    "Content": "Cursor Color",
+    "Id": 64
+  },
+  {
+    "Content": "Volume",
+    "Id": 65
+  },
+  {
+    "Content": "Controls",
+    "Id": 66
+  },
+  {
+    "Content": "Autosave On",
+    "Id": 67
+  },
+  {
+    "Content": "Autosave Off",
+    "Id": 68
+  },
+  {
+    "Content": "Autopause On",
+    "Id": 69
+  },
+  {
+    "Content": "Autopause Off",
+    "Id": 70
+  },
+  {
+    "Content": "Pickup Text On",
+    "Id": 71
+  },
+  {
+    "Content": "Pickup Text Off",
+    "Id": 72
+  },
+  {
+    "Content": "Fullscreen Resolution",
+    "Id": 73
+  },
+  {
+    "Content": "Up                ",
+    "Id": 74
+  },
+  {
+    "Content": "Down             ",
+    "Id": 75
+  },
+  {
+    "Content": "Left               ",
+    "Id": 76
+  },
+  {
+    "Content": "Right             ",
+    "Id": 77
+  },
+  {
+    "Content": "Jump             ",
+    "Id": 78
+  },
+  {
+    "Content": "Throw            ",
+    "Id": 79
+  },
+  {
+    "Content": "Inventory         ",
+    "Id": 80
+  },
+  {
+    "Content": "Quick Heal       ",
+    "Id": 81
+  },
+  {
+    "Content": "Quick Mana      ",
+    "Id": 82
+  },
+  {
+    "Content": "Quick Buff       ",
+    "Id": 83
+  },
+  {
+    "Content": "Grapple           ",
+    "Id": 84
+  },
+  {
+    "Content": "Auto Select       ",
+    "Id": 85
+  },
+  {
+    "Content": "Reset to Default",
+    "Id": 86
+  },
+  {
+    "Content": "Join",
+    "Id": 87
+  },
+  {
+    "Content": "Host & Play",
+    "Id": 88
+  },
+  {
+    "Content": "Enter Server IP Address:",
+    "Id": 89
+  },
+  {
+    "Content": "Enter Server Port:",
+    "Id": 90
+  },
+  {
+    "Content": "Choose world size:",
+    "Id": 91
+  },
+  {
+    "Content": "Small",
+    "Id": 92
+  },
+  {
+    "Content": "Medium",
+    "Id": 93
+  },
+  {
+    "Content": "Large",
+    "Id": 94
+  },
+  {
+    "Content": "Red:",
+    "Id": 95
+  },
+  {
+    "Content": "Green:",
+    "Id": 96
+  },
+  {
+    "Content": "Blue:",
+    "Id": 97
+  },
+  {
+    "Content": "Sound:",
+    "Id": 98
+  },
+  {
+    "Content": "Music:",
+    "Id": 99
+  },
+  {
+    "Content": "Background On",
+    "Id": 100
+  },
+  {
+    "Content": "Background Off",
+    "Id": 101
+  },
+  {
+    "Content": "Select language",
+    "Id": 102
+  },
+  {
+    "Content": "Language",
+    "Id": 103
+  },
+  {
+    "Content": "Yes",
+    "Id": 104
+  },
+  {
+    "Content": "No",
+    "Id": 105
+  },
+  {
+    "Content": "Toggle Map Style           ",
+    "Id": 106
+  },
+  {
+    "Content": "Toggle Fullscreen           ",
+    "Id": 107
+  },
+  {
+    "Content": "Zoom In                      ",
+    "Id": 108
+  },
+  {
+    "Content": "Zoom Out                    ",
+    "Id": 109
+  },
+  {
+    "Content": "Decrease Transparency     ",
+    "Id": 110
+  },
+  {
+    "Content": "Increase Transparency      ",
+    "Id": 111
+  },
+  {
+    "Content": "Map Enabled",
+    "Id": 112
+  },
+  {
+    "Content": "Map Disabled",
+    "Id": 113
+  },
+  {
+    "Content": "General",
+    "Id": 114
+  },
+  {
+    "Content": "Map Controls",
+    "Id": 115
+  },
+  {
+    "Content": "Multicore Lighting:",
+    "Id": 116
+  },
+  {
+    "Content": "Off",
+    "Id": 117
+  },
+  {
+    "Content": "Close Menu",
+    "Id": 118
+  },
+  {
+    "Content": "Ambient",
+    "Id": 119
+  },
+  {
+    "Content": "Smart Cursor    ",
+    "Id": 120
+  },
+  {
+    "Content": "Smart Cursor Mode: Toggle",
+    "Id": 121
+  },
+  {
+    "Content": "Smart Cursor Mode: Hold",
+    "Id": 122
+  },
+  {
+    "Content": "Event Progress Bar",
+    "Id": 123
+  },
+  {
+    "Content": "Off",
+    "Id": 124
+  },
+  {
+    "Content": "Timed",
+    "Id": 125
+  },
+  {
+    "Content": "On",
+    "Id": 126
+  },
+  {
+    "Content": "Style",
+    "Id": 127
+  },
+  {
+    "Content": "Placement Preview On",
+    "Id": 128
+  },
+  {
+    "Content": "Placement Preview Off",
+    "Id": 129
+  },
+  {
+    "Content": "Mount             ",
+    "Id": 130
+  },
+  {
+    "Content": "Achievements",
+    "Id": 131
+  },
+  {
+    "Content": "Blood and Gore On",
+    "Id": 132
+  },
+  {
+    "Content": "Blood and Gore Off",
+    "Id": 133
+  },
+  {
+    "Content": "Apply",
+    "Id": 134
+  },
+  {
+    "Content": "Server Settings",
+    "Id": 135
+  },
+  {
+    "Content": "Steam Multiplayer: Disabled",
+    "Id": 136
+  },
+  {
+    "Content": "Steam Multiplayer: Enabled",
+    "Id": 137
+  },
+  {
+    "Content": "Allowed Users: Invite Only",
+    "Id": 138
+  },
+  {
+    "Content": "Allowed Users: Friends",
+    "Id": 139
+  },
+  {
+    "Content": "Friends Can Invite: Off",
+    "Id": 140
+  },
+  {
+    "Content": "Friends Can Invite: On",
+    "Id": 141
+  },
+  {
+    "Content": "Allow Friends Of Friends: Off",
+    "Id": 142
+  },
+  {
+    "Content": "Allow Friends Of Friends: On",
+    "Id": 143
+  },
+  {
+    "Content": "Start",
+    "Id": 144
+  },
+  {
+    "Content": "Join via Steam",
+    "Id": 145
+  },
+  {
+    "Content": "Join via IP",
+    "Id": 146
+  },
+  {
+    "Content": "Invite Friends",
+    "Id": 147
+  },
+  {
+    "Content": "Up",
+    "Id": 148
+  },
+  {
+    "Content": "Down",
+    "Id": 149
+  },
+  {
+    "Content": "Left",
+    "Id": 150
+  },
+  {
+    "Content": "Right",
+    "Id": 151
+  },
+  {
+    "Content": "Jump",
+    "Id": 152
+  },
+  {
+    "Content": "Throw",
+    "Id": 153
+  },
+  {
+    "Content": "Inventory",
+    "Id": 154
+  },
+  {
+    "Content": "Grapple",
+    "Id": 155
+  },
+  {
+    "Content": "Quick Mana",
+    "Id": 156
+  },
+  {
+    "Content": "Quick Buff",
+    "Id": 157
+  },
+  {
+    "Content": "Quick Mount",
+    "Id": 158
+  },
+  {
+    "Content": "Quick Heal",
+    "Id": 159
+  },
+  {
+    "Content": "Auto Select",
+    "Id": 160
+  },
+  {
+    "Content": "Smart Cursor",
+    "Id": 161
+  },
+  {
+    "Content": "Use Item",
+    "Id": 162
+  },
+  {
+    "Content": "Interact",
+    "Id": 163
+  },
+  {
+    "Content": "Gameplay Controls",
+    "Id": 164
+  },
+  {
+    "Content": "Map Controls",
+    "Id": 165
+  },
+  {
+    "Content": "Hotbar Controls",
+    "Id": 166
+  },
+  {
+    "Content": "Gamepad Settings",
+    "Id": 167
+  },
+  {
+    "Content": "Zoom In",
+    "Id": 168
+  },
+  {
+    "Content": "Zoom Out",
+    "Id": 169
+  },
+  {
+    "Content": "Increase Transparency",
+    "Id": 170
+  },
+  {
+    "Content": "Decrease Transparency",
+    "Id": 171
+  },
+  {
+    "Content": "Toggle Map Style",
+    "Id": 172
+  },
+  {
+    "Content": "Toggle Full Map",
+    "Id": 173
+  },
+  {
+    "Content": "Cycle Left",
+    "Id": 174
+  },
+  {
+    "Content": "Cycle Right",
+    "Id": 175
+  },
+  {
+    "Content": "Hotbar #1",
+    "Id": 176
+  },
+  {
+    "Content": "Hotbar #2",
+    "Id": 177
+  },
+  {
+    "Content": "Hotbar #3",
+    "Id": 178
+  },
+  {
+    "Content": "Hotbar #4",
+    "Id": 179
+  },
+  {
+    "Content": "Hotbar #5",
+    "Id": 180
+  },
+  {
+    "Content": "Hotbar #6",
+    "Id": 181
+  },
+  {
+    "Content": "Hotbar #7",
+    "Id": 182
+  },
+  {
+    "Content": "Hotbar #8",
+    "Id": 183
+  },
+  {
+    "Content": "Hotbar #9",
+    "Id": 184
+  },
+  {
+    "Content": "Hotbar #10",
+    "Id": 185
+  },
+  {
+    "Content": "Quick Mark #1",
+    "Id": 186
+  },
+  {
+    "Content": "Quick Mark #2",
+    "Id": 187
+  },
+  {
+    "Content": "Quick Mark #3",
+    "Id": 188
+  },
+  {
+    "Content": "Quick Mark #4",
+    "Id": 189
+  },
+  {
+    "Content": "Radial Hotbar",
+    "Id": 190
+  },
+  {
+    "Content": "Cursor Snap Up",
+    "Id": 191
+  },
+  {
+    "Content": "Cursor Snap Right",
+    "Id": 192
+  },
+  {
+    "Content": "Cursor Snap Down",
+    "Id": 193
+  },
+  {
+    "Content": "Cursor Snap Left",
+    "Id": 194
+  },
+  {
+    "Content": "<Unbound>",
+    "Id": 195
+  },
+  {
+    "Content": "DPad Cursor Snap",
+    "Id": 196
+  },
+  {
+    "Content": "DPad Hotbar",
+    "Id": 197
+  },
+  {
+    "Content": "Gamepad Advanced Settings",
+    "Id": 198
+  },
+  {
+    "Content": "Triggers Deadzone",
+    "Id": 199
+  },
+  {
+    "Content": "Sliders Deadzone",
+    "Id": 200
+  },
+  {
+    "Content": "Left Thumbstick Deadzone X",
+    "Id": 201
+  },
+  {
+    "Content": "Left Thumbstick Deadzone Y",
+    "Id": 202
+  },
+  {
+    "Content": "Right Thumbstick Deadzone X",
+    "Id": 203
+  },
+  {
+    "Content": "Right Thumbstick Deadzone Y",
+    "Id": 204
+  },
+  {
+    "Content": "Invert Left Thumbstick Horizontally",
+    "Id": 205
+  },
+  {
+    "Content": "Invert Left Thumbstick Vertically",
+    "Id": 206
+  },
+  {
+    "Content": "Invert Right Thumbstick Horizontally",
+    "Id": 207
+  },
+  {
+    "Content": "Invert Right Thumbstick Vertical",
+    "Id": 208
+  },
+  {
+    "Content": "Utilize",
+    "Id": 209
+  },
+  {
+    "Content": "Interface",
+    "Id": 210
+  },
+  {
+    "Content": "Passwords: Visible",
+    "Id": 211
+  },
+  {
+    "Content": "Passwords: Hidden",
+    "Id": 212
+  },
+  {
+    "Content": "Smart Cursor Priority: Pickaxe -> Axe",
+    "Id": 213
+  },
+  {
+    "Content": "Smart Cursor Priority: Axe -> Pickaxe",
+    "Id": 214
+  },
+  {
+    "Content": "Smart Block Placement: To Cursor",
+    "Id": 215
+  },
+  {
+    "Content": "Smart Block Placement: Filling",
+    "Id": 216
+  },
+  {
+    "Content": "Border Color",
+    "Id": 217
+  },
+  {
+    "Content": "Cursor",
+    "Id": 218
+  },
+  {
+    "Content": "Controls",
+    "Id": 219
+  },
+  {
+    "Content": "Activate Set Bonuses: Up",
+    "Id": 220
+  },
+  {
+    "Content": "Activate Set Bonuses: Down",
+    "Id": 221
+  },
+  {
+    "Content": "Keybindings",
+    "Id": 222
+  },
+  {
+    "Content": "Left Shift Quick Trash: Enabled",
+    "Id": 223
+  },
+  {
+    "Content": "Left Shift Quick Trash: Disabled",
+    "Id": 224
+  },
+  {
+    "Content": "Quick Wall Replace: Disabled",
+    "Id": 225
+  },
+  {
+    "Content": "Quick Wall Replace: Enabled",
+    "Id": 226
+  },
+  {
+    "Content": "Hotbar Scroll Time To Radial: On",
+    "Id": 227
+  },
+  {
+    "Content": "Hotbar Scroll Time To Radial: Off",
+    "Id": 228
+  },
+  {
+    "Content": "Tile Grid On",
+    "Id": 229
+  },
+  {
+    "Content": "Tile Grid Off",
+    "Id": 230
+  },
+  {
+    "Content": "Lock On",
+    "Id": 231
+  },
+  {
+    "Content": "Lock On Priority: Focus Target",
+    "Id": 232
+  },
+  {
+    "Content": "Lock On Priority: Target Closest",
+    "Id": 233
+  },
+  {
+    "Content": "Lock On Priority: Clearest Line",
+    "Id": 234
+  },
+  {
+    "Content": "abc / ABC / !@#",
+    "Id": 235
+  },
+  {
+    "Content": "Backspace",
+    "Id": 236
+  },
+  {
+    "Content": "Submit",
+    "Id": 237
+  },
+  {
+    "Content": "Space",
+    "Id": 238
+  },
+  {
+    "Content": "<-",
+    "Id": 239
+  },
+  {
+    "Content": "->",
+    "Id": 240
+  },
+  {
+    "Content": "Gamepad Instructions Off",
+    "Id": 241
+  },
+  {
+    "Content": "Gamepad Instructions On",
+    "Id": 242
+  },
+  {
+    "Content": "Menu Controls",
+    "Id": 243
+  },
+  {
+    "Content": "Radial Quickbar",
+    "Id": 244
+  },
+  {
+    "Content": "Borderless Window: Enabled",
+    "Id": 245
+  },
+  {
+    "Content": "Borderless Window: Disabled",
+    "Id": 246
+  },
+  {
+    "Content": "Frame Skip Off",
+    "Id": 247
+  },
+  {
+    "Content": "Frame Skip On",
+    "Id": 248
+  },
+  {
+    "Content": "Frame Skip Subtle",
+    "Id": 249
+  },
+  {
+    "Content": "Miner's Wobble: Enabled",
+    "Id": 250
+  },
+  {
+    "Content": "Miner's Wobble: Disabled",
+    "Id": 251
+  },
+  {
+    "Content": "Interface Movement Delay",
+    "Id": 252
+  }
+]

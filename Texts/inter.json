@@ -1,0 +1,498 @@
+﻿[
+  {
+    "Content": "Life:",
+    "Id": 0
+  },
+  {
+    "Content": "Breath",
+    "Id": 1
+  },
+  {
+    "Content": "Mana",
+    "Id": 2
+  },
+  {
+    "Content": "Trash Can",
+    "Id": 3
+  },
+  {
+    "Content": "Inventory",
+    "Id": 4
+  },
+  {
+    "Content": "Hotbar unlocked",
+    "Id": 5
+  },
+  {
+    "Content": "Hotbar locked",
+    "Id": 6
+  },
+  {
+    "Content": "Housing",
+    "Id": 7
+  },
+  {
+    "Content": "Housing Query",
+    "Id": 8
+  },
+  {
+    "Content": "Accessory",
+    "Id": 9
+  },
+  {
+    "Content": "Defense",
+    "Id": 10
+  },
+  {
+    "Content": "Social",
+    "Id": 11
+  },
+  {
+    "Content": "Helmet",
+    "Id": 12
+  },
+  {
+    "Content": "Shirt",
+    "Id": 13
+  },
+  {
+    "Content": "Pants",
+    "Id": 14
+  },
+  {
+    "Content": "platinum",
+    "Id": 15
+  },
+  {
+    "Content": "gold",
+    "Id": 16
+  },
+  {
+    "Content": "silver",
+    "Id": 17
+  },
+  {
+    "Content": "copper",
+    "Id": 18
+  },
+  {
+    "Content": "Reforge",
+    "Id": 19
+  },
+  {
+    "Content": "Place an item here to reforge",
+    "Id": 20
+  },
+  {
+    "Content": "Showing recipes that use",
+    "Id": 21
+  },
+  {
+    "Content": "Required objects:",
+    "Id": 22
+  },
+  {
+    "Content": "None",
+    "Id": 23
+  },
+  {
+    "Content": "Place a material here",
+    "Id": 24
+  },
+  {
+    "Content": "Crafting",
+    "Id": 25
+  },
+  {
+    "Content": "Coins",
+    "Id": 26
+  },
+  {
+    "Content": "Ammo",
+    "Id": 27
+  },
+  {
+    "Content": "Shop",
+    "Id": 28
+  },
+  {
+    "Content": "Loot All",
+    "Id": 29
+  },
+  {
+    "Content": "Deposit All",
+    "Id": 30
+  },
+  {
+    "Content": "Quick Stack",
+    "Id": 31
+  },
+  {
+    "Content": "Piggy Bank",
+    "Id": 32
+  },
+  {
+    "Content": "Safe",
+    "Id": 33
+  },
+  {
+    "Content": "Time",
+    "Id": 34
+  },
+  {
+    "Content": "Save & Exit",
+    "Id": 35
+  },
+  {
+    "Content": "Disconnect",
+    "Id": 36
+  },
+  {
+    "Content": "Items",
+    "Id": 37
+  },
+  {
+    "Content": "You were slain...",
+    "Id": 38
+  },
+  {
+    "Content": "This housing is suitable.",
+    "Id": 39
+  },
+  {
+    "Content": "This is not valid housing.",
+    "Id": 40
+  },
+  {
+    "Content": "This housing is already occupied.",
+    "Id": 41
+  },
+  {
+    "Content": "This housing is corrupted.",
+    "Id": 42
+  },
+  {
+    "Content": "Connection timed out",
+    "Id": 43
+  },
+  {
+    "Content": "Receiving tile data",
+    "Id": 44
+  },
+  {
+    "Content": "Equip",
+    "Id": 45
+  },
+  {
+    "Content": "Cost",
+    "Id": 46
+  },
+  {
+    "Content": "Save",
+    "Id": 47
+  },
+  {
+    "Content": "Edit",
+    "Id": 48
+  },
+  {
+    "Content": "Status",
+    "Id": 49
+  },
+  {
+    "Content": "Curse",
+    "Id": 50
+  },
+  {
+    "Content": "Help",
+    "Id": 51
+  },
+  {
+    "Content": "Close",
+    "Id": 52
+  },
+  {
+    "Content": "Water",
+    "Id": 53
+  },
+  {
+    "Content": "Heal",
+    "Id": 54
+  },
+  {
+    "Content": "This housing does not meet the requirements for a",
+    "Id": 55
+  },
+  {
+    "Content": "Lava",
+    "Id": 56
+  },
+  {
+    "Content": "Dye",
+    "Id": 57
+  },
+  {
+    "Content": "Honey",
+    "Id": 58
+  },
+  {
+    "Content": "Visible",
+    "Id": 59
+  },
+  {
+    "Content": "Hidden",
+    "Id": 60
+  },
+  {
+    "Content": "Rename",
+    "Id": 61
+  },
+  {
+    "Content": "Settings",
+    "Id": 62
+  },
+  {
+    "Content": "Cancel",
+    "Id": 63
+  },
+  {
+    "Content": "Quest",
+    "Id": 64
+  },
+  {
+    "Content": "Quest Item",
+    "Id": 65
+  },
+  {
+    "Content": "Savings",
+    "Id": 66
+  },
+  {
+    "Content": "Take Snapshot",
+    "Id": 67
+  },
+  {
+    "Content": "Settings",
+    "Id": 68
+  },
+  {
+    "Content": "Pin Frame",
+    "Id": 69
+  },
+  {
+    "Content": "Set Frame",
+    "Id": 70
+  },
+  {
+    "Content": "Close",
+    "Id": 71
+  },
+  {
+    "Content": "On",
+    "Id": 72
+  },
+  {
+    "Content": "Off",
+    "Id": 73
+  },
+  {
+    "Content": "Image Packing",
+    "Id": 74
+  },
+  {
+    "Content": "Capture Entities",
+    "Id": 75
+  },
+  {
+    "Content": "Capture Background",
+    "Id": 76
+  },
+  {
+    "Content": "Biome Pick",
+    "Id": 77
+  },
+  {
+    "Content": "Reset Frame",
+    "Id": 78
+  },
+  {
+    "Content": "Equipment",
+    "Id": 79
+  },
+  {
+    "Content": "Housing",
+    "Id": 80
+  },
+  {
+    "Content": "Camera Mode",
+    "Id": 81
+  },
+  {
+    "Content": "Restock",
+    "Id": 82
+  },
+  {
+    "Content": "Frost Moon",
+    "Id": 83
+  },
+  {
+    "Content": "Pumpkin Moon",
+    "Id": 84
+  },
+  {
+    "Content": "Martian Madness",
+    "Id": 85
+  },
+  {
+    "Content": "Pirate Invasion",
+    "Id": 86
+  },
+  {
+    "Content": "Frost Legion",
+    "Id": 87
+  },
+  {
+    "Content": "Goblin Army",
+    "Id": 88
+  },
+  {
+    "Content": "Collect",
+    "Id": 89
+  },
+  {
+    "Content": "Grappling Hook",
+    "Id": 90
+  },
+  {
+    "Content": "Mount",
+    "Id": 91
+  },
+  {
+    "Content": "Pet",
+    "Id": 92
+  },
+  {
+    "Content": "Minecart",
+    "Id": 93
+  },
+  {
+    "Content": "Light Pet",
+    "Id": 94
+  },
+  {
+    "Content": "Time",
+    "Id": 95
+  },
+  {
+    "Content": "Weather",
+    "Id": 96
+  },
+  {
+    "Content": "Fishing",
+    "Id": 97
+  },
+  {
+    "Content": "Position",
+    "Id": 98
+  },
+  {
+    "Content": "Depth",
+    "Id": 99
+  },
+  {
+    "Content": "Creature Count",
+    "Id": 100
+  },
+  {
+    "Content": "Kill Count",
+    "Id": 101
+  },
+  {
+    "Content": "Moon Phase",
+    "Id": 102
+  },
+  {
+    "Content": "Movement Speed",
+    "Id": 103
+  },
+  {
+    "Content": "Treasure",
+    "Id": 104
+  },
+  {
+    "Content": "Rare Creatures",
+    "Id": 105
+  },
+  {
+    "Content": "Damage Per Second",
+    "Id": 106
+  },
+  {
+    "Content": "Strange Plants",
+    "Id": 107
+  },
+  {
+    "Content": "Open Map",
+    "Id": 108
+  },
+  {
+    "Content": "Close Map",
+    "Id": 109
+  },
+  {
+    "Content": "Open Folder",
+    "Id": 110
+  },
+  {
+    "Content": "Take Screenshot",
+    "Id": 111
+  },
+  {
+    "Content": "You must first set a frame",
+    "Id": 112
+  },
+  {
+    "Content": "Only available in windowed mode",
+    "Id": 113
+  },
+  {
+    "Content": "Only available if map is enabled",
+    "Id": 114
+  },
+  {
+    "Content": "Camera Mode Disabled",
+    "Id": 115
+  },
+  {
+    "Content": "Highlight New Items Off",
+    "Id": 116
+  },
+  {
+    "Content": "Highlight New Items On",
+    "Id": 117
+  },
+  {
+    "Content": "Zoom In",
+    "Id": 118
+  },
+  {
+    "Content": "Zoom Out",
+    "Id": 119
+  },
+  {
+    "Content": "Teleport to ally",
+    "Id": 120
+  },
+  {
+    "Content": "Drop Item",
+    "Id": 121
+  },
+  {
+    "Content": "Sort Items",
+    "Id": 122
+  },
+  {
+    "Content": "Cold Weather",
+    "Id": 123
+  }
+]

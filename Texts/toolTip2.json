@@ -1,0 +1,978 @@
+﻿[
+  {
+    "Content": "'Forged with the fury of heaven'",
+    "Id": 65
+  },
+  {
+    "Content": "'Half shark, half gun, completely awesome.'",
+    "Id": 98
+  },
+  {
+    "Content": "Increases alchemy plant collection when used to gather",
+    "Id": 213
+  },
+  {
+    "Content": "4% increased magic critical strike chance",
+    "Id": 228
+  },
+  {
+    "Content": "4% increased magic critical strike chance",
+    "Id": 229
+  },
+  {
+    "Content": "4% increased magic critical strike chance",
+    "Id": 230
+  },
+  {
+    "Content": "9% increased magic critical strike chance",
+    "Id": 371
+  },
+  {
+    "Content": "12% increased melee speed",
+    "Id": 372
+  },
+  {
+    "Content": "6% increased ranged critical strike chance",
+    "Id": 373
+  },
+  {
+    "Content": "3% increased critical strike chance",
+    "Id": 374
+  },
+  {
+    "Content": "10% increased movement speed",
+    "Id": 375
+  },
+  {
+    "Content": "15% increased magic damage",
+    "Id": 376
+  },
+  {
+    "Content": "10% increased melee damage",
+    "Id": 377
+  },
+  {
+    "Content": "7% increased ranged critical strike chance",
+    "Id": 378
+  },
+  {
+    "Content": "5% increased damage",
+    "Id": 379
+  },
+  {
+    "Content": "3% increased critical strike chance",
+    "Id": 380
+  },
+  {
+    "Content": "'Find your inner pieces'",
+    "Id": 389
+  },
+  {
+    "Content": "Greatly extends underwater breathing",
+    "Id": 394
+  },
+  {
+    "Content": "Tells the time",
+    "Id": 395
+  },
+  {
+    "Content": "Grants immunity to fire blocks",
+    "Id": 396
+  },
+  {
+    "Content": "Grants immunity to fire blocks",
+    "Id": 397
+  },
+  {
+    "Content": "Increases jump height",
+    "Id": 399
+  },
+  {
+    "Content": "11% increased magic damage and critical strike chance",
+    "Id": 400
+  },
+  {
+    "Content": "14% increased melee damage",
+    "Id": 401
+  },
+  {
+    "Content": "8% increased ranged critical strike chance",
+    "Id": 402
+  },
+  {
+    "Content": "5% increased movement speed",
+    "Id": 404
+  },
+  {
+    "Content": "The wearer can run super fast",
+    "Id": 405
+  },
+  {
+    "Content": "Only the first shot consumes ammo",
+    "Id": 434
+  },
+  {
+    "Content": "'Minishark's older brother'",
+    "Id": 533
+  },
+  {
+    "Content": "8% increased movement speed",
+    "Id": 552
+  },
+  {
+    "Content": "8% increased ranged critical strike chance",
+    "Id": 553
+  },
+  {
+    "Content": "Automatically use mana potions when needed",
+    "Id": 555
+  },
+  {
+    "Content": "12% increased magic damage and critical strike chance",
+    "Id": 558
+  },
+  {
+    "Content": "10% increased melee haste",
+    "Id": 559
+  },
+  {
+    "Content": "7% increased melee attack speed",
+    "Id": 686
+  },
+  {
+    "Content": "Hold UP to rocket faster",
+    "Id": 748
+  },
+  {
+    "Content": "Small blast radius. Will not destroy tiles",
+    "Id": 771
+  },
+  {
+    "Content": "Small blast radius. Will destroy tiles",
+    "Id": 772
+  },
+  {
+    "Content": "Large blast radius. Will not destroy tiles",
+    "Id": 773
+  },
+  {
+    "Content": "Large blast radius. Will destroy tiles",
+    "Id": 774
+  },
+  {
+    "Content": "Increases running speed",
+    "Id": 775
+  },
+  {
+    "Content": "Can mine Mythril and Orichalcum",
+    "Id": 776
+  },
+  {
+    "Content": "Can mine Adamantite and Titanium",
+    "Id": 777
+  },
+  {
+    "Content": "Uses colored solution",
+    "Id": 779
+  },
+  {
+    "Content": "Spreads the Purity",
+    "Id": 780
+  },
+  {
+    "Content": "Spreads the Hallow",
+    "Id": 781
+  },
+  {
+    "Content": "Spreads the Corruption",
+    "Id": 782
+  },
+  {
+    "Content": "Spreads Glowing Mushrooms",
+    "Id": 783
+  },
+  {
+    "Content": "Spreads the Crimson",
+    "Id": 784
+  },
+  {
+    "Content": "12% increased melee speed",
+    "Id": 897
+  },
+  {
+    "Content": "The wearer can run incredibly fast",
+    "Id": 898
+  },
+  {
+    "Content": "Higher valued coins do more damage",
+    "Id": 905
+  },
+  {
+    "Content": "Grants immunity to fire blocks",
+    "Id": 907
+  },
+  {
+    "Content": "Grants immunity to fire blocks and 7 seconds of immunity to lava",
+    "Id": 908
+  },
+  {
+    "Content": "For use with cannon",
+    "Id": 929
+  },
+  {
+    "Content": "12% increased damage and melee speed",
+    "Id": 936
+  },
+  {
+    "Content": "Only active above 25% life",
+    "Id": 938
+  },
+  {
+    "Content": "Ice will not break when you fall on it",
+    "Id": 950
+  },
+  {
+    "Content": "Improved ability if combined with Shoe Spikes",
+    "Id": 953
+  },
+  {
+    "Content": "4% increased magic critical strike chance",
+    "Id": 960
+  },
+  {
+    "Content": "4% increased magic critical strike chance",
+    "Id": 961
+  },
+  {
+    "Content": "4% increased magic critical strike chance",
+    "Id": 962
+  },
+  {
+    "Content": "Improved ability if combined with Climbing Claws",
+    "Id": 975
+  },
+  {
+    "Content": "Double tap a direction",
+    "Id": 977
+  },
+  {
+    "Content": "Increases mana regeneration rate",
+    "Id": 982
+  },
+  {
+    "Content": "Increases jump height",
+    "Id": 983
+  },
+  {
+    "Content": "Gives a chance to dodge attacks",
+    "Id": 984
+  },
+  {
+    "Content": "'To use: Place silt/slush/fossils in the extractinator'",
+    "Id": 997
+  },
+  {
+    "Content": "6% increased melee critical strike chance",
+    "Id": 1001
+  },
+  {
+    "Content": "20% chance to not consume ammo",
+    "Id": 1002
+  },
+  {
+    "Content": "16% increased magic damage",
+    "Id": 1003
+  },
+  {
+    "Content": "7% increased critical strike chance",
+    "Id": 1004
+  },
+  {
+    "Content": "5% increased movement speed",
+    "Id": 1005
+  },
+  {
+    "Content": "Small chance to cause confusion",
+    "Id": 1123
+  },
+  {
+    "Content": "Press UP to change gravity",
+    "Id": 1131
+  },
+  {
+    "Content": "Increases minion damage by 10%",
+    "Id": 1159
+  },
+  {
+    "Content": "Increases minion damage by 10%",
+    "Id": 1160
+  },
+  {
+    "Content": "Increases minion damage by 10%",
+    "Id": 1161
+  },
+  {
+    "Content": "Increases jump height",
+    "Id": 1163
+  },
+  {
+    "Content": "Increases jump height",
+    "Id": 1164
+  },
+  {
+    "Content": "Increases the knockback of your minions",
+    "Id": 1167
+  },
+  {
+    "Content": "12% increased melee speed",
+    "Id": 1205
+  },
+  {
+    "Content": "9% increased ranged critical strike chance",
+    "Id": 1206
+  },
+  {
+    "Content": "Increases maximum mana by 60",
+    "Id": 1207
+  },
+  {
+    "Content": "2% increased critical strike chance",
+    "Id": 1208
+  },
+  {
+    "Content": "1% increased critical strike chance",
+    "Id": 1209
+  },
+  {
+    "Content": "7% increased movement and melee speed",
+    "Id": 1210
+  },
+  {
+    "Content": "8% increased movement speed",
+    "Id": 1211
+  },
+  {
+    "Content": "Increases maximum mana by 80",
+    "Id": 1212
+  },
+  {
+    "Content": "8% increased melee speed",
+    "Id": 1215
+  },
+  {
+    "Content": "7% increased ranged critical strike chance",
+    "Id": 1216
+  },
+  {
+    "Content": "Increases maximum mana by 100",
+    "Id": 1217
+  },
+  {
+    "Content": "3% increased critical strike chance",
+    "Id": 1218
+  },
+  {
+    "Content": "6% increased movement speed",
+    "Id": 1219
+  },
+  {
+    "Content": "Releases bees when damaged",
+    "Id": 1249
+  },
+  {
+    "Content": "Increases jump height and negates fall damage",
+    "Id": 1250
+  },
+  {
+    "Content": "Increases jump height and negates fall damage",
+    "Id": 1251
+  },
+  {
+    "Content": "Increases jump height and negates fall damage",
+    "Id": 1252
+  },
+  {
+    "Content": "<right> to zoom out",
+    "Id": 1254
+  },
+  {
+    "Content": "Reduces mana usage by 5%",
+    "Id": 1282
+  },
+  {
+    "Content": "Reduces mana usage by 7%",
+    "Id": 1283
+  },
+  {
+    "Content": "Reduces mana usage by 9%",
+    "Id": 1284
+  },
+  {
+    "Content": "Reduces mana usage by 11%",
+    "Id": 1285
+  },
+  {
+    "Content": "Reduces mana usage by 13%",
+    "Id": 1286
+  },
+  {
+    "Content": "Reduces mana usage by 15%",
+    "Id": 1287
+  },
+  {
+    "Content": "'Oolaa!!'",
+    "Id": 1295
+  },
+  {
+    "Content": "<right> to zoom out",
+    "Id": 1300
+  },
+  {
+    "Content": "8% increased critical strike chance",
+    "Id": 1301
+  },
+  {
+    "Content": "Enemies are more likely to target you",
+    "Id": 1316
+  },
+  {
+    "Content": "Enemies are more likely to target you",
+    "Id": 1317
+  },
+  {
+    "Content": "Enemies are more likely to target you",
+    "Id": 1318
+  },
+  {
+    "Content": "20% chance to not consume arrows",
+    "Id": 1321
+  },
+  {
+    "Content": "Decreases target's defense",
+    "Id": 1336
+  },
+  {
+    "Content": "For use with bunny cannon",
+    "Id": 1338
+  },
+  {
+    "Content": "'Extremely toxic'",
+    "Id": 1339
+  },
+  {
+    "Content": "Melee attacks inflict Venom on enemies",
+    "Id": 1340
+  },
+  {
+    "Content": "Inflicts target with Venom",
+    "Id": 1341
+  },
+  {
+    "Content": "Inflicts target with Venom",
+    "Id": 1342
+  },
+  {
+    "Content": "10% increased melee damage and speed",
+    "Id": 1343
+  },
+  {
+    "Content": "Explodes into confetti on impact",
+    "Id": 1349
+  },
+  {
+    "Content": "Causes confusion",
+    "Id": 1350
+  },
+  {
+    "Content": "Explodes on impact",
+    "Id": 1351
+  },
+  {
+    "Content": "Enemies killed will drop more money",
+    "Id": 1352
+  },
+  {
+    "Content": "Melee attacks inflict enemies with cursed flames",
+    "Id": 1353
+  },
+  {
+    "Content": "Melee attacks set enemies on fire",
+    "Id": 1354
+  },
+  {
+    "Content": "Melee attacks make enemies drop more gold",
+    "Id": 1355
+  },
+  {
+    "Content": "Melee attacks decrease enemies defense",
+    "Id": 1356
+  },
+  {
+    "Content": "Melee attacks confuse enemies",
+    "Id": 1357
+  },
+  {
+    "Content": "Melee attacks cause confetti to appear",
+    "Id": 1358
+  },
+  {
+    "Content": "Melee attacks poison enemies",
+    "Id": 1359
+  },
+  {
+    "Content": "8% increased movement speed",
+    "Id": 1505
+  },
+  {
+    "Content": "5% increased ranged critical strike chance",
+    "Id": 1546
+  },
+  {
+    "Content": "5% increased ranged critical strike chance",
+    "Id": 1547
+  },
+  {
+    "Content": "5% increased ranged critical strike chance",
+    "Id": 1548
+  },
+  {
+    "Content": "20% chance to not consume ammo",
+    "Id": 1549
+  },
+  {
+    "Content": "12% increased movement speed",
+    "Id": 1550
+  },
+  {
+    "Content": "'It came from the edge of space'",
+    "Id": 1553
+  },
+  {
+    "Content": "Restores mana when damaged",
+    "Id": 1595
+  },
+  {
+    "Content": "Grants immunity to most debuffs",
+    "Id": 1613
+  },
+  {
+    "Content": "Increases minion damage by 11%",
+    "Id": 1832
+  },
+  {
+    "Content": "Increases minion damage by 11%",
+    "Id": 1833
+  },
+  {
+    "Content": "Increases minion damage by 11%",
+    "Id": 1834
+  },
+  {
+    "Content": "Increases minion damage by 10%",
+    "Id": 1845
+  },
+  {
+    "Content": "10% increased ranged damage and critical strike chance",
+    "Id": 1858
+  },
+  {
+    "Content": "Provides light under water",
+    "Id": 1860
+  },
+  {
+    "Content": "Provides light under water and extra mobility on ice",
+    "Id": 1861
+  },
+  {
+    "Content": "7% increased movement speed",
+    "Id": 1862
+  },
+  {
+    "Content": "Increases jump height",
+    "Id": 1863
+  },
+  {
+    "Content": "Increases the damage and knockback of your minions",
+    "Id": 1864
+  },
+  {
+    "Content": "life regeneration, defense, pick speed, and minion knockback",
+    "Id": 1865
+  },
+  {
+    "Content": "Hold DOWN and JUMP to hover",
+    "Id": 1866
+  },
+  {
+    "Content": "5% increased magic damage and critical strike chance",
+    "Id": 2189
+  },
+  {
+    "Content": "Enemies are more likely to target you",
+    "Id": 2199
+  },
+  {
+    "Content": "6% increased movement and melee speed",
+    "Id": 2200
+  },
+  {
+    "Content": "Enemies are more likely to target you",
+    "Id": 2201
+  },
+  {
+    "Content": "Enemies are more likely to target you",
+    "Id": 2202
+  },
+  {
+    "Content": "15% increased magic damage",
+    "Id": 2220
+  },
+  {
+    "Content": "Restores mana when damaged",
+    "Id": 2221
+  },
+  {
+    "Content": "Highly inaccurate",
+    "Id": 2270
+  },
+  {
+    "Content": "10% increased melee and movement speed",
+    "Id": 2277
+  },
+  {
+    "Content": "Reduces mana usage by 10%",
+    "Id": 2279
+  },
+  {
+    "Content": "Hammer intersections to change direction",
+    "Id": 2340
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 2361
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 2362
+  },
+  {
+    "Content": "Increases minion damage by 6%",
+    "Id": 2370
+  },
+  {
+    "Content": "Increases minion damage by 6%",
+    "Id": 2371
+  },
+  {
+    "Content": "Increases minion damage by 6%",
+    "Id": 2372
+  },
+  {
+    "Content": "Increases fall resistance",
+    "Id": 2423
+  },
+  {
+    "Content": "'Tossing may be difficult.'",
+    "Id": 2586
+  },
+  {
+    "Content": "Lights nearby area on fire for a while",
+    "Id": 2590
+  },
+  {
+    "Content": "Allows quick travel in water",
+    "Id": 2609
+  },
+  {
+    "Content": "7% increased ranged critical strike chance",
+    "Id": 2757
+  },
+  {
+    "Content": "25% chance not to consume ammo",
+    "Id": 2758
+  },
+  {
+    "Content": "10% increased movement speed",
+    "Id": 2759
+  },
+  {
+    "Content": "7% increased magic damage and critical strike chance",
+    "Id": 2760
+  },
+  {
+    "Content": "10% increased movement speed",
+    "Id": 2762
+  },
+  {
+    "Content": "Enemies are more likely to target you",
+    "Id": 2763
+  },
+  {
+    "Content": "Enemies are more likely to target you",
+    "Id": 2764
+  },
+  {
+    "Content": "Enemies are more likely to target you",
+    "Id": 2765
+  },
+  {
+    "Content": "'In loving memory'",
+    "Id": 2995
+  },
+  {
+    "Content": "Click their head on the fullscreen map",
+    "Id": 2997
+  },
+  {
+    "Content": "5% increased damage and critical strike chance",
+    "Id": 3015
+  },
+  {
+    "Content": "Hitting enemies will sometimes drop extra coins",
+    "Id": 3034
+  },
+  {
+    "Content": "Hitting enemies will sometimes drop extra coins",
+    "Id": 3035
+  },
+  {
+    "Content": "Automatically paints placed objects",
+    "Id": 3061
+  },
+  {
+    "Content": "Requires a Golden Key",
+    "Id": 3085
+  },
+  {
+    "Content": "Double tap a direction",
+    "Id": 3097
+  },
+  {
+    "Content": "Minor increases to all stats",
+    "Id": 3110
+  },
+  {
+    "Content": "Very bouncy",
+    "Id": 3115
+  },
+  {
+    "Content": "Very bouncy",
+    "Id": 3116
+  },
+  {
+    "Content": "Allows you to return home at will",
+    "Id": 3124
+  },
+  {
+    "Content": "Become the wind, ride the lightning.",
+    "Id": 3226
+  },
+  {
+    "Content": "Bejeweled and elegant for soaring through the thundering skies",
+    "Id": 3227
+  },
+  {
+    "Content": "The Valkyrie Satellite Barrier Platform is totally safe. Most of the time.",
+    "Id": 3228
+  },
+  {
+    "Content": "Allows the holder to double jump",
+    "Id": 3241
+  },
+  {
+    "Content": "33% chance to not consume bone",
+    "Id": 3245
+  },
+  {
+    "Content": "Increases jump height and negates fall damage",
+    "Id": 3250
+  },
+  {
+    "Content": "Increases jump height and negates fall damage",
+    "Id": 3251
+  },
+  {
+    "Content": "Increases jump height and negates fall damage",
+    "Id": 3252
+  },
+  {
+    "Content": "'I didn't get this off of a Schmoo'",
+    "Id": 3368
+  },
+  {
+    "Content": "Increases minion damage by 22%",
+    "Id": 3381
+  },
+  {
+    "Content": "Increases minion damage by 22%",
+    "Id": 3382
+  },
+  {
+    "Content": "Increases minion damage by 22%",
+    "Id": 3383
+  },
+  {
+    "Content": "'Cultivate the most beautiful cellular infection'",
+    "Id": 3474
+  },
+  {
+    "Content": "'The catastrophic mixture of pew pew and boom boom.'",
+    "Id": 3475
+  },
+  {
+    "Content": "'Who needs a horde of minions when you have a giant dragon?'",
+    "Id": 3531
+  },
+  {
+    "Content": "'Bacon? Bacon.'",
+    "Id": 3532
+  },
+  {
+    "Content": "'The colors, Duke, the colors!'",
+    "Id": 3571
+  },
+  {
+    "Content": "'I know what you're thinking....'",
+    "Id": 3577
+  },
+  {
+    "Content": "Whatever this accessory does to you is not a bug!",
+    "Id": 3580
+  },
+  {
+    "Content": "If you see this you should probably run away...",
+    "Id": 3581
+  },
+  {
+    "Content": "Disorder came from order, fear came from courage, weakness came from strength",
+    "Id": 3589
+  },
+  {
+    "Content": "Know thy self, know thy enemy. A thousand battles, a thousand victories…",
+    "Id": 3590
+  },
+  {
+    "Content": "Wheels of justice grind slow but grind fine.",
+    "Id": 3591
+  },
+  {
+    "Content": "Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.",
+    "Id": 3592
+  },
+  {
+    "Content": "Activates when all lamps are on, Deactivates otherwise",
+    "Id": 3603
+  },
+  {
+    "Content": "Activates when any lamp is on, Deactivates otherwise",
+    "Id": 3604
+  },
+  {
+    "Content": "Activates when not all lamps are on, Deactivates otherwise",
+    "Id": 3605
+  },
+  {
+    "Content": "Activates when no lamp is on, Deactivates otherwise",
+    "Id": 3606
+  },
+  {
+    "Content": "Activates when only one lamp is on, Deactivates otherwise",
+    "Id": 3607
+  },
+  {
+    "Content": "Activates when the total 'on' lamps is not one, Deactivates otherwise\nAlso often called NXOR",
+    "Id": 3608
+  },
+  {
+    "Content": "<right> while holding to edit wire settings",
+    "Id": 3611
+  },
+  {
+    "Content": "May contain a suprise!",
+    "Id": 3746
+  },
+  {
+    "Content": "'Great for impersonating streamers!'",
+    "Id": 3757
+  },
+  {
+    "Content": "'Great for impersonating streamers!'",
+    "Id": 3758
+  },
+  {
+    "Content": "'Great for impersonating streamers!'",
+    "Id": 3759
+  },
+  {
+    "Content": "'Great for impersonating streamers!'",
+    "Id": 3763
+  },
+  {
+    "Content": "Increases minion damage by 10%",
+    "Id": 3809
+  },
+  {
+    "Content": "Increases minion damage by 10%",
+    "Id": 3810
+  },
+  {
+    "Content": "Increases minion damage by 10%",
+    "Id": 3811
+  },
+  {
+    "Content": "Increases minion damage by 10%",
+    "Id": 3812
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3818
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3819
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3820
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3824
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3825
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3826
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3829
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3830
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3831
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3832
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3833
+  },
+  {
+    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Id": 3834
+  },
+  {
+    "Content": "<right> to cast a powerful tornado",
+    "Id": 3852
+  }
+]

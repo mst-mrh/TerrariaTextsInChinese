@@ -1,0 +1,94 @@
+﻿[
+  {
+    "Content": "Recieve:",
+    "Id": 0
+  },
+  {
+    "Content": "Incorrect password.",
+    "Id": 1
+  },
+  {
+    "Content": "Invalid operation at this state.",
+    "Id": 2
+  },
+  {
+    "Content": "You are banned from this server.",
+    "Id": 3
+  },
+  {
+    "Content": "You are not using the same version as this server.",
+    "Id": 4
+  },
+  {
+    "Content": "is already on this server.",
+    "Id": 5
+  },
+  {
+    "Content": "/playing",
+    "Id": 6
+  },
+  {
+    "Content": "Current players:",
+    "Id": 7
+  },
+  {
+    "Content": "/roll",
+    "Id": 8
+  },
+  {
+    "Content": "rolls a",
+    "Id": 9
+  },
+  {
+    "Content": "You are not in a party!",
+    "Id": 10
+  },
+  {
+    "Content": "has enabled PvP!",
+    "Id": 11
+  },
+  {
+    "Content": "has disabled PvP!",
+    "Id": 12
+  },
+  {
+    "Content": "is no longer on a party.",
+    "Id": 13
+  },
+  {
+    "Content": "has joined the red party.",
+    "Id": 14
+  },
+  {
+    "Content": "has joined the green party.",
+    "Id": 15
+  },
+  {
+    "Content": "has joined the blue party.",
+    "Id": 16
+  },
+  {
+    "Content": "has joined the yellow party.",
+    "Id": 17
+  },
+  {
+    "Content": "Welcome to",
+    "Id": 18
+  },
+  {
+    "Content": "has joined.",
+    "Id": 19
+  },
+  {
+    "Content": "has left.",
+    "Id": 20
+  },
+  {
+    "Content": "/players",
+    "Id": 21
+  },
+  {
+    "Content": "has joined the pink party.",
+    "Id": 22
+  }
+]

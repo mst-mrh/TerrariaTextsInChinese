@@ -1,0 +1,242 @@
+﻿[
+  {
+    "Content": "Equipped in social slot",
+    "Id": 0
+  },
+  {
+    "Content": "No stats will be gained",
+    "Id": 1
+  },
+  {
+    "Content": " melee damage",
+    "Id": 2
+  },
+  {
+    "Content": " ranged damage",
+    "Id": 3
+  },
+  {
+    "Content": " magic damage",
+    "Id": 4
+  },
+  {
+    "Content": "% critical strike chance",
+    "Id": 5
+  },
+  {
+    "Content": "Insanely fast speed",
+    "Id": 6
+  },
+  {
+    "Content": "Very fast speed",
+    "Id": 7
+  },
+  {
+    "Content": "Fast speed",
+    "Id": 8
+  },
+  {
+    "Content": "Average speed",
+    "Id": 9
+  },
+  {
+    "Content": "Slow speed",
+    "Id": 10
+  },
+  {
+    "Content": "Very slow speed",
+    "Id": 11
+  },
+  {
+    "Content": "Extremely slow speed",
+    "Id": 12
+  },
+  {
+    "Content": "Snail speed",
+    "Id": 13
+  },
+  {
+    "Content": "No knockback",
+    "Id": 14
+  },
+  {
+    "Content": "Extremely weak knockback",
+    "Id": 15
+  },
+  {
+    "Content": "Very weak knockback",
+    "Id": 16
+  },
+  {
+    "Content": "Weak knockback",
+    "Id": 17
+  },
+  {
+    "Content": "Average knockback",
+    "Id": 18
+  },
+  {
+    "Content": "Strong knockback",
+    "Id": 19
+  },
+  {
+    "Content": "Very strong knockback",
+    "Id": 20
+  },
+  {
+    "Content": "Extremely strong knockback",
+    "Id": 21
+  },
+  {
+    "Content": "Insane knockback",
+    "Id": 22
+  },
+  {
+    "Content": "Equipable",
+    "Id": 23
+  },
+  {
+    "Content": "Vanity Item",
+    "Id": 24
+  },
+  {
+    "Content": " defense",
+    "Id": 25
+  },
+  {
+    "Content": "% pickaxe power",
+    "Id": 26
+  },
+  {
+    "Content": "% axe power",
+    "Id": 27
+  },
+  {
+    "Content": "% hammer power",
+    "Id": 28
+  },
+  {
+    "Content": "Restores",
+    "Id": 29
+  },
+  {
+    "Content": "life",
+    "Id": 30
+  },
+  {
+    "Content": "mana",
+    "Id": 31
+  },
+  {
+    "Content": "Uses",
+    "Id": 32
+  },
+  {
+    "Content": "Can be placed",
+    "Id": 33
+  },
+  {
+    "Content": "Ammo",
+    "Id": 34
+  },
+  {
+    "Content": "Consumable",
+    "Id": 35
+  },
+  {
+    "Content": "Material",
+    "Id": 36
+  },
+  {
+    "Content": " minute duration",
+    "Id": 37
+  },
+  {
+    "Content": " second duration",
+    "Id": 38
+  },
+  {
+    "Content": "% damage",
+    "Id": 39
+  },
+  {
+    "Content": "% speed",
+    "Id": 40
+  },
+  {
+    "Content": "% critical strike chance",
+    "Id": 41
+  },
+  {
+    "Content": "% mana cost",
+    "Id": 42
+  },
+  {
+    "Content": "% size",
+    "Id": 43
+  },
+  {
+    "Content": "% velocity",
+    "Id": 44
+  },
+  {
+    "Content": "% knockback",
+    "Id": 45
+  },
+  {
+    "Content": "% movement speed",
+    "Id": 46
+  },
+  {
+    "Content": "% melee speed",
+    "Id": 47
+  },
+  {
+    "Content": "Set bonus:",
+    "Id": 48
+  },
+  {
+    "Content": "Sell price:",
+    "Id": 49
+  },
+  {
+    "Content": "Buy price:",
+    "Id": 50
+  },
+  {
+    "Content": "No value",
+    "Id": 51
+  },
+  {
+    "Content": "Consumes ",
+    "Id": 52
+  },
+  {
+    "Content": " summon damage",
+    "Id": 53
+  },
+  {
+    "Content": " range",
+    "Id": 54
+  },
+  {
+    "Content": " damage",
+    "Id": 55
+  },
+  {
+    "Content": "Marked as favorite",
+    "Id": 56
+  },
+  {
+    "Content": "Quick trash, stacking, and selling will be blocked",
+    "Id": 57
+  },
+  {
+    "Content": " throwing damage",
+    "Id": 58
+  },
+  {
+    "Content": "It has been cursed by a powerful Jungle creature",
+    "Id": 59
+  }
+]

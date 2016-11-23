@@ -1,0 +1,818 @@
+﻿[
+  {
+    "Content": "Immune to lava",
+    "Id": 1
+  },
+  {
+    "Content": "Provides life regeneration",
+    "Id": 2
+  },
+  {
+    "Content": "25% increased movement speed",
+    "Id": 3
+  },
+  {
+    "Content": "Breathe water instead of air",
+    "Id": 4
+  },
+  {
+    "Content": "Increase defense by 8",
+    "Id": 5
+  },
+  {
+    "Content": "Increased mana regeneration",
+    "Id": 6
+  },
+  {
+    "Content": "20% increased magic damage",
+    "Id": 7
+  },
+  {
+    "Content": "Press UP or DOWN to control speed of descent",
+    "Id": 8
+  },
+  {
+    "Content": "Shows the location of treasure and ore",
+    "Id": 9
+  },
+  {
+    "Content": "Grants invisibility",
+    "Id": 10
+  },
+  {
+    "Content": "Emitting light",
+    "Id": 11
+  },
+  {
+    "Content": "Increased night vision",
+    "Id": 12
+  },
+  {
+    "Content": "Increased enemy spawn rate",
+    "Id": 13
+  },
+  {
+    "Content": "Attackers also take damage",
+    "Id": 14
+  },
+  {
+    "Content": "Press DOWN to enter water",
+    "Id": 15
+  },
+  {
+    "Content": "20% increased arrow damage and speed",
+    "Id": 16
+  },
+  {
+    "Content": "Shows the location of enemies",
+    "Id": 17
+  },
+  {
+    "Content": "Press UP to reverse gravity",
+    "Id": 18
+  },
+  {
+    "Content": "A magical orb that provides light",
+    "Id": 19
+  },
+  {
+    "Content": "Slowly losing life",
+    "Id": 20
+  },
+  {
+    "Content": "Cannot consume anymore healing items",
+    "Id": 21
+  },
+  {
+    "Content": "Decreased light vision",
+    "Id": 22
+  },
+  {
+    "Content": "Cannot use any items",
+    "Id": 23
+  },
+  {
+    "Content": "Slowly losing life",
+    "Id": 24
+  },
+  {
+    "Content": "Increased melee abilities, lowered defense",
+    "Id": 25
+  },
+  {
+    "Content": "Minor improvements to all stats",
+    "Id": 26
+  },
+  {
+    "Content": "A fairy is following you",
+    "Id": 27
+  },
+  {
+    "Content": "Physical abilities are increased",
+    "Id": 28
+  },
+  {
+    "Content": "Magic powers are increased",
+    "Id": 29
+  },
+  {
+    "Content": "Cannot regenerate life",
+    "Id": 30
+  },
+  {
+    "Content": "Movement is reversed",
+    "Id": 31
+  },
+  {
+    "Content": "Movement speed is reduced",
+    "Id": 32
+  },
+  {
+    "Content": "Physical abilities are decreased",
+    "Id": 33
+  },
+  {
+    "Content": "Can breathe and move easily underwater",
+    "Id": 34
+  },
+  {
+    "Content": "Cannot use items that require mana",
+    "Id": 35
+  },
+  {
+    "Content": "Defense is cut in half",
+    "Id": 36
+  },
+  {
+    "Content": "You have seen something nasty, there is no escape.",
+    "Id": 37
+  },
+  {
+    "Content": "You are being sucked into the mouth",
+    "Id": 38
+  },
+  {
+    "Content": "Losing life",
+    "Id": 39
+  },
+  {
+    "Content": "I think it wants your carrot",
+    "Id": 40
+  },
+  {
+    "Content": "I think it wants your fish",
+    "Id": 41
+  },
+  {
+    "Content": "Happy turtle time!",
+    "Id": 42
+  },
+  {
+    "Content": "25% of damage taken will be redirected to another player",
+    "Id": 43
+  },
+  {
+    "Content": "It's either really hot or really cold. Either way it REALLY hurts",
+    "Id": 44
+  },
+  {
+    "Content": "A baby Eater of Souls is following you",
+    "Id": 45
+  },
+  {
+    "Content": "Your movement speed has been reduced",
+    "Id": 46
+  },
+  {
+    "Content": "You can't move!",
+    "Id": 47
+  },
+  {
+    "Content": "Life regeneration is increased",
+    "Id": 48
+  },
+  {
+    "Content": "The pygmies will fight for you",
+    "Id": 49
+  },
+  {
+    "Content": "Don't even ask...",
+    "Id": 50
+  },
+  {
+    "Content": "It thinks you are its mother",
+    "Id": 51
+  },
+  {
+    "Content": "A friendly spirit is following you",
+    "Id": 52
+  },
+  {
+    "Content": "Chillin' like a reptilian",
+    "Id": 53
+  },
+  {
+    "Content": "Polly want's the cracker",
+    "Id": 54
+  },
+  {
+    "Content": "Isn't this just soooo cute?",
+    "Id": 55
+  },
+  {
+    "Content": "A little sapling is following you",
+    "Id": 56
+  },
+  {
+    "Content": "A wisp is following you",
+    "Id": 57
+  },
+  {
+    "Content": "Life regeneration is greatly increased",
+    "Id": 58
+  },
+  {
+    "Content": "You will dodge the next attack",
+    "Id": 59
+  },
+  {
+    "Content": "Shoots crystal leaves at nearby enemies",
+    "Id": 60
+  },
+  {
+    "Content": "A baby dinosaur is following you",
+    "Id": 61
+  },
+  {
+    "Content": "Damage taken is reduced by 25%",
+    "Id": 62
+  },
+  {
+    "Content": "Movement speed is increased",
+    "Id": 63
+  },
+  {
+    "Content": "The baby slime will fight for you",
+    "Id": 64
+  },
+  {
+    "Content": "An eyeball spring is following you",
+    "Id": 65
+  },
+  {
+    "Content": "A baby snowman is following you",
+    "Id": 66
+  },
+  {
+    "Content": "Losing life and slowed movement",
+    "Id": 67
+  },
+  {
+    "Content": "Losing life",
+    "Id": 68
+  },
+  {
+    "Content": "Reduced defense",
+    "Id": 69
+  },
+  {
+    "Content": "Losing life",
+    "Id": 70
+  },
+  {
+    "Content": "Drop more money on death",
+    "Id": 72
+  },
+  {
+    "Content": "Light vision severely reduced",
+    "Id": 80
+  },
+  {
+    "Content": "A spider is following you",
+    "Id": 81
+  },
+  {
+    "Content": "A squashling is following you",
+    "Id": 82
+  },
+  {
+    "Content": "The ravens will attack your enemies",
+    "Id": 83
+  },
+  {
+    "Content": "A black kitty is following you",
+    "Id": 84
+  },
+  {
+    "Content": "A cursed sapling is following you",
+    "Id": 85
+  },
+  {
+    "Content": "Increased monster spawn rate",
+    "Id": 86
+  },
+  {
+    "Content": "Decreased monster spawn rate",
+    "Id": 157
+  },
+  {
+    "Content": "Life regen is slightly increased",
+    "Id": 87
+  },
+  {
+    "Content": "Using the Rod of Discord will take life",
+    "Id": 88
+  },
+  {
+    "Content": "Life regen is increased",
+    "Id": 89
+  },
+  {
+    "Content": "Riding the red nosed reindeer",
+    "Id": 90
+  },
+  {
+    "Content": "A puppy is following you",
+    "Id": 91
+  },
+  {
+    "Content": "A baby grinch is following you",
+    "Id": 92
+  },
+  {
+    "Content": "20% chance to not consume ammo",
+    "Id": 93
+  },
+  {
+    "Content": "Magic damage reduced by ",
+    "Id": 94
+  },
+  {
+    "Content": "Damage taken reduced by 15%",
+    "Id": 95
+  },
+  {
+    "Content": "Damage taken reduced by 30%",
+    "Id": 96
+  },
+  {
+    "Content": "Damage taken reduced by 45%",
+    "Id": 97
+  },
+  {
+    "Content": "Melee damage and speed increase by 10%",
+    "Id": 98
+  },
+  {
+    "Content": "Melee damage and speed increase by 20%",
+    "Id": 99
+  },
+  {
+    "Content": "Melee damage and speed increase by 30%",
+    "Id": 100
+  },
+  {
+    "Content": "A fairy is following you",
+    "Id": 101
+  },
+  {
+    "Content": "A fairy is following you",
+    "Id": 102
+  },
+  {
+    "Content": "You are dripping water",
+    "Id": 103
+  },
+  {
+    "Content": "25% increased mining speed",
+    "Id": 104
+  },
+  {
+    "Content": "Increased heart pickup range",
+    "Id": 105
+  },
+  {
+    "Content": "Reduced enemy aggression",
+    "Id": 106
+  },
+  {
+    "Content": "Increased placement speed and range",
+    "Id": 107
+  },
+  {
+    "Content": "Increased knockback",
+    "Id": 108
+  },
+  {
+    "Content": "Move like normal in water",
+    "Id": 109
+  },
+  {
+    "Content": "Increased max number of minions",
+    "Id": 110
+  },
+  {
+    "Content": "You can see nearby hazards",
+    "Id": 111
+  },
+  {
+    "Content": "20% chance to not consume ammo",
+    "Id": 112
+  },
+  {
+    "Content": "20% increased max life",
+    "Id": 113
+  },
+  {
+    "Content": "10% reduced damage",
+    "Id": 114
+  },
+  {
+    "Content": "10% increased critical chance",
+    "Id": 115
+  },
+  {
+    "Content": "Nearby enemies are ignited",
+    "Id": 116
+  },
+  {
+    "Content": "10% increased damage",
+    "Id": 117
+  },
+  {
+    "Content": "Riding in a minecart",
+    "Id": 118
+  },
+  {
+    "Content": "Riding in a minecart",
+    "Id": 138
+  },
+  {
+    "Content": "You are in love!",
+    "Id": 119
+  },
+  {
+    "Content": "You smell terrible",
+    "Id": 120
+  },
+  {
+    "Content": "Increased fishing level",
+    "Id": 121
+  },
+  {
+    "Content": "You can see what's biting your hook",
+    "Id": 122
+  },
+  {
+    "Content": "Greater chance of fishing up a crate",
+    "Id": 123
+  },
+  {
+    "Content": "Reduced damage from cold sources",
+    "Id": 124
+  },
+  {
+    "Content": "The hornet will fight for you",
+    "Id": 125
+  },
+  {
+    "Content": "The imp will fight for you",
+    "Id": 126
+  },
+  {
+    "Content": "It likes swimming around you",
+    "Id": 127
+  },
+  {
+    "Content": "You are craving carrots",
+    "Id": 128
+  },
+  {
+    "Content": "Now you see me....",
+    "Id": 129
+  },
+  {
+    "Content": "BOOOIIINNNG!",
+    "Id": 130
+  },
+  {
+    "Content": "Slow if by land, zoom if by sea",
+    "Id": 131
+  },
+  {
+    "Content": "BzzzBzzBZZZZBzzz",
+    "Id": 132
+  },
+  {
+    "Content": "The spider will fight for you",
+    "Id": 133
+  },
+  {
+    "Content": "The twins will fight for you",
+    "Id": 134
+  },
+  {
+    "Content": "The pirate will fight for you",
+    "Id": 135
+  },
+  {
+    "Content": "How do you defeat a mini Minotaur?",
+    "Id": 136
+  },
+  {
+    "Content": "You are slimy and sticky",
+    "Id": 137
+  },
+  {
+    "Content": "The sharknado will fight for you",
+    "Id": 139
+  },
+  {
+    "Content": "The UFO will fight for you",
+    "Id": 140
+  },
+  {
+    "Content": "It's a good thing you had a MAC",
+    "Id": 141
+  },
+  {
+    "Content": "Riding in a flying drill",
+    "Id": 142
+  },
+  {
+    "Content": "Pew Pew",
+    "Id": 143
+  },
+  {
+    "Content": "You cannot move",
+    "Id": 144
+  },
+  {
+    "Content": "You are unable to absorb healing effects",
+    "Id": 145
+  },
+  {
+    "Content": "Movement speed increased and monster spawns reduced",
+    "Id": 146
+  },
+  {
+    "Content": "Increased damage and defense from the following:",
+    "Id": 147
+  },
+  {
+    "Content": "Increased damage, Decreased life regen, Causes status effects",
+    "Id": 148
+  },
+  {
+    "Content": "You are stuck",
+    "Id": 149
+  },
+  {
+    "Content": "Increased max number of minions",
+    "Id": 150
+  },
+  {
+    "Content": "Increased life regeneration",
+    "Id": 151
+  },
+  {
+    "Content": "An enchanted lantern is lighting your way",
+    "Id": 152
+  },
+  {
+    "Content": "Losing life",
+    "Id": 153
+  },
+  {
+    "Content": "A magical heart that provides light",
+    "Id": 155
+  },
+  {
+    "Content": "A baby face monster is following you",
+    "Id": 154
+  },
+  {
+    "Content": "Bleeding Out",
+    "Id": 169
+  },
+  {
+    "Content": "The stardust cell will fight for you",
+    "Id": 182
+  },
+  {
+    "Content": "being eaten by cells",
+    "Id": 183
+  },
+  {
+    "Content": "The power of nature compells you",
+    "Id": 186
+  },
+  {
+    "Content": "The stardust guardian will protect you",
+    "Id": 187
+  },
+  {
+    "Content": "The stardust dragon will protect you",
+    "Id": 188
+  },
+  {
+    "Content": "Incenerated by solar rays",
+    "Id": 189
+  },
+  {
+    "Content": "A suspicious looking eye that provides light",
+    "Id": 190
+  },
+  {
+    "Content": "Will never threaten to stab you and, in fact, cannot speak",
+    "Id": 191
+  },
+  {
+    "Content": "A propeller gato is following you",
+    "Id": 200
+  },
+  {
+    "Content": "A flickerwick is following you",
+    "Id": 201
+  },
+  {
+    "Content": "A hoardagron is following you",
+    "Id": 202
+  },
+  {
+    "Content": "Defense is lowered",
+    "Id": 203
+  },
+  {
+    "Content": "Taking more damage from being on fire",
+    "Id": 204
+  },
+  {
+    "Content": "You are completely petrified!",
+    "Id": 156
+  },
+  {
+    "Content": "Increased mana regeneration",
+    "Id": 158
+  },
+  {
+    "Content": "Melee weapons have armor penetration",
+    "Id": 159
+  },
+  {
+    "Content": "Movement is greatly slowed",
+    "Id": 160
+  },
+  {
+    "Content": "The Deadly Sphere will fight for you",
+    "Id": 161
+  },
+  {
+    "Content": "You can't see!",
+    "Id": 163
+  },
+  {
+    "Content": "Gravity around you is distorted",
+    "Id": 164
+  },
+  {
+    "Content": "The power of nature protects you",
+    "Id": 165
+  },
+  {
+    "Content": "The wind moves you around!",
+    "Id": 194
+  },
+  {
+    "Content": "Your armor is lowered!",
+    "Id": 195
+  },
+  {
+    "Content": "Your attacks are weaker!",
+    "Id": 196
+  },
+  {
+    "Content": "Movement is significantly reduced",
+    "Id": 197
+  },
+  {
+    "Content": "500% increased damage for next melee strike",
+    "Id": 198
+  },
+  {
+    "Content": "Your ballistas rapidly shoot in panic!",
+    "Id": 205
+  },
+  {
+    "Content": "Riding in a minecart",
+    "Id": 166
+  },
+  {
+    "Content": "Riding in a minecart",
+    "Id": 167
+  },
+  {
+    "Content": "Riding in a minecart",
+    "Id": 185
+  },
+  {
+    "Content": "Riding in a minecart",
+    "Id": 184
+  },
+  {
+    "Content": "Damage taken reduced by 30%, repel enemies when taking damage",
+    "Id": 170
+  },
+  {
+    "Content": "Damage taken reduced by 30%, repel enemies when taking damage",
+    "Id": 171
+  },
+  {
+    "Content": "Damage taken reduced by 30%, repel enemies when taking damage",
+    "Id": 172
+  },
+  {
+    "Content": "15% increased damage",
+    "Id": 179
+  },
+  {
+    "Content": "30% increased damage",
+    "Id": 180
+  },
+  {
+    "Content": "45% increased damage",
+    "Id": 181
+  },
+  {
+    "Content": "Increased life regeneration",
+    "Id": 173
+  },
+  {
+    "Content": "Increased life regeneration",
+    "Id": 174
+  },
+  {
+    "Content": "Increased life regeneration",
+    "Id": 175
+  },
+  {
+    "Content": "Increased mana regeneration",
+    "Id": 176
+  },
+  {
+    "Content": "Increased mana regeneration",
+    "Id": 177
+  },
+  {
+    "Content": "Increased mana regeneration",
+    "Id": 178
+  },
+  {
+    "Content": "Charge ahead... fabulously!",
+    "Id": 162
+  },
+  {
+    "Content": "Just don't make it crawl.",
+    "Id": 168
+  },
+  {
+    "Content": "Crash into anyone... and EVERYONE!",
+    "Id": 193
+  },
+  {
+    "Content": "You have lost the power of creation!",
+    "Id": 199
+  },
+  {
+    "Content": "Melee attacks inflict venom on your targets",
+    "Id": 71
+  },
+  {
+    "Content": "Melee attacks inflict enemies with cursed flames",
+    "Id": 73
+  },
+  {
+    "Content": "Melee attacks set enemies on fire",
+    "Id": 74
+  },
+  {
+    "Content": "Melee attacks make enemies drop more gold",
+    "Id": 75
+  },
+  {
+    "Content": "Melee attacks decrease enemies defense",
+    "Id": 76
+  },
+  {
+    "Content": "Melee attacks confuse enemies",
+    "Id": 77
+  },
+  {
+    "Content": "Melee attacks cause confetti to appear",
+    "Id": 78
+  },
+  {
+    "Content": "Melee attacks poison enemies",
+    "Id": 79
+  }
+]

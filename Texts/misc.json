@@ -1,0 +1,422 @@
+﻿[
+  {
+    "Content": "A goblin army has been defeated!",
+    "Id": 0
+  },
+  {
+    "Content": "A goblin army is approaching from the west!",
+    "Id": 1
+  },
+  {
+    "Content": "A goblin army is approaching from the east!",
+    "Id": 2
+  },
+  {
+    "Content": "A goblin army has arrived!",
+    "Id": 3
+  },
+  {
+    "Content": "The Frost Legion has been defeated!",
+    "Id": 4
+  },
+  {
+    "Content": "The Frost Legion is approaching from the west!",
+    "Id": 5
+  },
+  {
+    "Content": "The Frost Legion is approaching from the east!",
+    "Id": 6
+  },
+  {
+    "Content": "The Frost Legion has arrived!",
+    "Id": 7
+  },
+  {
+    "Content": "The Blood Moon is rising...",
+    "Id": 8
+  },
+  {
+    "Content": "You feel an evil presence watching you...",
+    "Id": 9
+  },
+  {
+    "Content": "A horrible chill goes down your spine...",
+    "Id": 10
+  },
+  {
+    "Content": "Screams echo around you...",
+    "Id": 11
+  },
+  {
+    "Content": "Your world has been blessed with Cobalt!",
+    "Id": 12
+  },
+  {
+    "Content": "Your world has been blessed with Mythril!",
+    "Id": 13
+  },
+  {
+    "Content": "Your world has been blessed with Adamantite!",
+    "Id": 14
+  },
+  {
+    "Content": "The ancient spirits of light and dark have been released.",
+    "Id": 15
+  },
+  {
+    "Content": "has awoken!",
+    "Id": 16
+  },
+  {
+    "Content": "has been defeated!",
+    "Id": 17
+  },
+  {
+    "Content": "has arrived!",
+    "Id": 18
+  },
+  {
+    "Content": " was slain...",
+    "Id": 19
+  },
+  {
+    "Content": "A solar eclipse is happening!",
+    "Id": 20
+  },
+  {
+    "Content": "Your world has been blessed with Palladium!",
+    "Id": 21
+  },
+  {
+    "Content": "Your world has been blessed with Orichalcum!",
+    "Id": 22
+  },
+  {
+    "Content": "Your world has been blessed with Titanium!",
+    "Id": 23
+  },
+  {
+    "Content": "The pirates have been defeated!",
+    "Id": 24
+  },
+  {
+    "Content": "Pirates are approaching from the west!",
+    "Id": 25
+  },
+  {
+    "Content": "Pirates are approaching from the east!",
+    "Id": 26
+  },
+  {
+    "Content": "The pirates have arrived!",
+    "Id": 27
+  },
+  {
+    "Content": "You feel vibrations from deep below...",
+    "Id": 28
+  },
+  {
+    "Content": "This is going to be a terrible night...",
+    "Id": 29
+  },
+  {
+    "Content": "The air is getting colder around you...",
+    "Id": 30
+  },
+  {
+    "Content": "The Pumpkin Moon is rising...",
+    "Id": 31
+  },
+  {
+    "Content": "The jungle grows restless...",
+    "Id": 32
+  },
+  {
+    "Content": "Screams are echoing from the dungeon...",
+    "Id": 33
+  },
+  {
+    "Content": "The Frost Moon is rising...",
+    "Id": 34
+  },
+  {
+    "Content": "has departed!",
+    "Id": 35
+  },
+  {
+    "Content": " has left!",
+    "Id": 36
+  },
+  {
+    "Content": "Any",
+    "Id": 37
+  },
+  {
+    "Content": "Pressure Plate",
+    "Id": 38
+  },
+  {
+    "Content": " and increased life regeneration",
+    "Id": 39
+  },
+  {
+    "Content": "Increases life regeneration",
+    "Id": 40
+  },
+  {
+    "Content": "Martians are invading!",
+    "Id": 41
+  },
+  {
+    "Content": "The martians have been defeated!",
+    "Id": 42
+  },
+  {
+    "Content": "Celestial creatures are invading!",
+    "Id": 43
+  },
+  {
+    "Content": "Your mind goes numb...",
+    "Id": 44
+  },
+  {
+    "Content": "You are overwhelmed with pain...",
+    "Id": 45
+  },
+  {
+    "Content": "Otherworldly voices linger around you...",
+    "Id": 46
+  },
+  {
+    "Content": "The Moon Lord has awoken!",
+    "Id": 47
+  },
+  {
+    "Content": "The Twins have awoken!",
+    "Id": 48
+  },
+  {
+    "Content": "You wake up from a strange dream...",
+    "Id": 49
+  },
+  {
+    "Content": "have been defeated!",
+    "Id": 50
+  },
+  {
+    "Content": "Lunar Fragment",
+    "Id": 51
+  },
+  {
+    "Content": "Impending doom approaches...",
+    "Id": 52
+  },
+  {
+    "Content": "Select",
+    "Id": 53
+  },
+  {
+    "Content": "Take",
+    "Id": 54
+  },
+  {
+    "Content": "Take One",
+    "Id": 55
+  },
+  {
+    "Content": "Close",
+    "Id": 56
+  },
+  {
+    "Content": "Grapple",
+    "Id": 57
+  },
+  {
+    "Content": "Jump",
+    "Id": 58
+  },
+  {
+    "Content": "Cycle hotbar",
+    "Id": 59
+  },
+  {
+    "Content": "Attack",
+    "Id": 60
+  },
+  {
+    "Content": "Build",
+    "Id": 61
+  },
+  {
+    "Content": "Drink",
+    "Id": 62
+  },
+  {
+    "Content": "Action",
+    "Id": 63
+  },
+  {
+    "Content": "Switch menu",
+    "Id": 64
+  },
+  {
+    "Content": "Place",
+    "Id": 65
+  },
+  {
+    "Content": "Swap",
+    "Id": 66
+  },
+  {
+    "Content": "Equip",
+    "Id": 67
+  },
+  {
+    "Content": "Unequip",
+    "Id": 68
+  },
+  {
+    "Content": "Show room flags",
+    "Id": 69
+  },
+  {
+    "Content": "Check housing",
+    "Id": 70
+  },
+  {
+    "Content": "Quick craft",
+    "Id": 71
+  },
+  {
+    "Content": "Craft",
+    "Id": 72
+  },
+  {
+    "Content": "Select",
+    "Id": 73
+  },
+  {
+    "Content": "Trash",
+    "Id": 74
+  },
+  {
+    "Content": "Sell",
+    "Id": 75
+  },
+  {
+    "Content": "Transfer",
+    "Id": 76
+  },
+  {
+    "Content": "Show visuals",
+    "Id": 77
+  },
+  {
+    "Content": "Hide visuals",
+    "Id": 78
+  },
+  {
+    "Content": "Use",
+    "Id": 79
+  },
+  {
+    "Content": "Talk",
+    "Id": 80
+  },
+  {
+    "Content": "Read",
+    "Id": 81
+  },
+  {
+    "Content": "Back",
+    "Id": 82
+  },
+  {
+    "Content": "Favorite",
+    "Id": 83
+  },
+  {
+    "Content": "You can't change teams inside your team's blocks!",
+    "Id": 84
+  },
+  {
+    "Content": "Bug",
+    "Id": 85
+  },
+  {
+    "Content": "Duck",
+    "Id": 86
+  },
+  {
+    "Content": "Butterfly",
+    "Id": 87
+  },
+  {
+    "Content": "Firefly",
+    "Id": 88
+  },
+  {
+    "Content": "Wiring Options",
+    "Id": 89
+  },
+  {
+    "Content": "Buy",
+    "Id": 90
+  },
+  {
+    "Content": "Buy More",
+    "Id": 91
+  },
+  {
+    "Content": "Sell",
+    "Id": 92
+  },
+  {
+    "Content": "Craft more",
+    "Id": 93
+  },
+  {
+    "Content": "Try Removing",
+    "Id": 94
+  },
+  {
+    "Content": "Snail",
+    "Id": 95
+  },
+  {
+    "Content": "Looks like ",
+    "Id": 96
+  },
+  {
+    "Content": " is throwing a party",
+    "Id": 97
+  },
+  {
+    "Content": " are throwing a party",
+    "Id": 98
+  },
+  {
+    "Content": "Party time's over!",
+    "Id": 99
+  },
+  {
+    "Content": "Pick world evil",
+    "Id": 100
+  },
+  {
+    "Content": "Corruption",
+    "Id": 101
+  },
+  {
+    "Content": "Crimson",
+    "Id": 102
+  },
+  {
+    "Content": "Random",
+    "Id": 103
+  },
+  {
+    "Content": "Cannot be used without Etherian Mana until the Eternia Crystal has been defended",
+    "Id": 104
+  }
+]

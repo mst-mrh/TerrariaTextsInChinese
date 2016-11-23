@@ -1,0 +1,1372 @@
+﻿[
+  {
+    "Content": "Torch",
+    "Id": 4,
+    "Id2": 0
+  },
+  {
+    "Content": "Torch",
+    "Id": 4,
+    "Id2": 1
+  },
+  {
+    "Content": "Tree",
+    "Id": 5,
+    "Id2": 0
+  },
+  {
+    "Content": "Iron",
+    "Id": 6,
+    "Id2": 0
+  },
+  {
+    "Content": "Copper",
+    "Id": 7,
+    "Id2": 0
+  },
+  {
+    "Content": "Gold",
+    "Id": 8,
+    "Id2": 0
+  },
+  {
+    "Content": "Silver",
+    "Id": 9,
+    "Id2": 0
+  },
+  {
+    "Content": "Door",
+    "Id": 10,
+    "Id2": 0
+  },
+  {
+    "Content": "Door",
+    "Id": 11,
+    "Id2": 0
+  },
+  {
+    "Content": "Life Crystal",
+    "Id": 12,
+    "Id2": 0
+  },
+  {
+    "Content": "Bottle",
+    "Id": 13,
+    "Id2": 0
+  },
+  {
+    "Content": "Table",
+    "Id": 14,
+    "Id2": 0
+  },
+  {
+    "Content": "Chair",
+    "Id": 15,
+    "Id2": 0
+  },
+  {
+    "Content": "Anvil",
+    "Id": 16,
+    "Id2": 0
+  },
+  {
+    "Content": "Furnace",
+    "Id": 17,
+    "Id2": 0
+  },
+  {
+    "Content": "Work Bench",
+    "Id": 18,
+    "Id2": 0
+  },
+  {
+    "Content": "Sapling",
+    "Id": 20,
+    "Id2": 0
+  },
+  {
+    "Content": "Chest",
+    "Id": 21,
+    "Id2": 0
+  },
+  {
+    "Content": "Demonite",
+    "Id": 22,
+    "Id2": 0
+  },
+  {
+    "Content": "Demon Altar",
+    "Id": 26,
+    "Id2": 0
+  },
+  {
+    "Content": "Crimson Altar",
+    "Id": 26,
+    "Id2": 1
+  },
+  {
+    "Content": "$Terraria.Main::itemName_63",
+    "Id": 27,
+    "Id2": 0
+  },
+  {
+    "Content": "Fossil",
+    "Id": 407,
+    "Id2": 0
+  },
+  {
+    "Content": "Ancient Manipulator",
+    "Id": 412,
+    "Id2": 0
+  },
+  {
+    "Content": "Chest",
+    "Id": 441,
+    "Id2": 0
+  },
+  {
+    "Content": "Pot",
+    "Id": 28,
+    "Id2": 1
+  },
+  {
+    "Content": "Meteorite",
+    "Id": 37,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_87",
+    "Id": 29,
+    "Id2": 0
+  },
+  {
+    "Content": "Shadow Orb",
+    "Id": 31,
+    "Id2": 0
+  },
+  {
+    "Content": "Crimson Heart",
+    "Id": 31,
+    "Id2": 1
+  },
+  {
+    "Content": "Thorns",
+    "Id": 32,
+    "Id2": 0
+  },
+  {
+    "Content": "Candle",
+    "Id": 33,
+    "Id2": 0
+  },
+  {
+    "Content": "Chandelier",
+    "Id": 34,
+    "Id2": 0
+  },
+  {
+    "Content": "Jack 'O Lantern",
+    "Id": 35,
+    "Id2": 0
+  },
+  {
+    "Content": "Present",
+    "Id": 36,
+    "Id2": 0
+  },
+  {
+    "Content": "Lantern",
+    "Id": 42,
+    "Id2": 0
+  },
+  {
+    "Content": "Spike",
+    "Id": 48,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_148",
+    "Id": 49,
+    "Id2": 0
+  },
+  {
+    "Content": "Book",
+    "Id": 50,
+    "Id2": 0
+  },
+  {
+    "Content": "Web",
+    "Id": 51,
+    "Id2": 0
+  },
+  {
+    "Content": "Sign",
+    "Id": 55,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3746",
+    "Id": 454,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3747",
+    "Id": 455,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3742",
+    "Id": 452,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3748",
+    "Id": 456,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3744",
+    "Id": 453,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3745",
+    "Id": 453,
+    "Id2": 1
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3743",
+    "Id": 453,
+    "Id2": 2
+  },
+  {
+    "Content": "Sapphire",
+    "Id": 63,
+    "Id2": 0
+  },
+  {
+    "Content": "Ruby",
+    "Id": 64,
+    "Id2": 0
+  },
+  {
+    "Content": "Emerald",
+    "Id": 65,
+    "Id2": 0
+  },
+  {
+    "Content": "Topaz",
+    "Id": 66,
+    "Id2": 0
+  },
+  {
+    "Content": "Amethyst",
+    "Id": 67,
+    "Id2": 0
+  },
+  {
+    "Content": "Diamond",
+    "Id": 68,
+    "Id2": 0
+  },
+  {
+    "Content": "Thorn",
+    "Id": 69,
+    "Id2": 0
+  },
+  {
+    "Content": "Giant Mushroom",
+    "Id": 72,
+    "Id2": 0
+  },
+  {
+    "Content": "Hellforge",
+    "Id": 77,
+    "Id2": 0
+  },
+  {
+    "Content": "Clay Pot",
+    "Id": 78,
+    "Id2": 0
+  },
+  {
+    "Content": "Bed",
+    "Id": 79,
+    "Id2": 0
+  },
+  {
+    "Content": "Cactus",
+    "Id": 80,
+    "Id2": 0
+  },
+  {
+    "Content": "Coral",
+    "Id": 81,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_313",
+    "Id": 82,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_314",
+    "Id": 82,
+    "Id2": 1
+  },
+  {
+    "Content": "$Terraria.Main::itemName_315",
+    "Id": 82,
+    "Id2": 2
+  },
+  {
+    "Content": "$Terraria.Main::itemName_316",
+    "Id": 82,
+    "Id2": 3
+  },
+  {
+    "Content": "$Terraria.Main::itemName_317",
+    "Id": 82,
+    "Id2": 4
+  },
+  {
+    "Content": "$Terraria.Main::itemName_318",
+    "Id": 82,
+    "Id2": 5
+  },
+  {
+    "Content": "$Terraria.Main::itemName_2358",
+    "Id": 82,
+    "Id2": 6
+  },
+  {
+    "Content": "$Terraria.Main::itemName_313",
+    "Id": 83,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_314",
+    "Id": 83,
+    "Id2": 1
+  },
+  {
+    "Content": "$Terraria.Main::itemName_315",
+    "Id": 83,
+    "Id2": 2
+  },
+  {
+    "Content": "$Terraria.Main::itemName_316",
+    "Id": 83,
+    "Id2": 3
+  },
+  {
+    "Content": "$Terraria.Main::itemName_317",
+    "Id": 83,
+    "Id2": 4
+  },
+  {
+    "Content": "$Terraria.Main::itemName_318",
+    "Id": 83,
+    "Id2": 5
+  },
+  {
+    "Content": "$Terraria.Main::itemName_2358",
+    "Id": 83,
+    "Id2": 6
+  },
+  {
+    "Content": "$Terraria.Main::itemName_313",
+    "Id": 84,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_314",
+    "Id": 84,
+    "Id2": 1
+  },
+  {
+    "Content": "$Terraria.Main::itemName_315",
+    "Id": 84,
+    "Id2": 2
+  },
+  {
+    "Content": "$Terraria.Main::itemName_316",
+    "Id": 84,
+    "Id2": 3
+  },
+  {
+    "Content": "$Terraria.Main::itemName_317",
+    "Id": 84,
+    "Id2": 4
+  },
+  {
+    "Content": "$Terraria.Main::itemName_318",
+    "Id": 84,
+    "Id2": 5
+  },
+  {
+    "Content": "$Terraria.Main::itemName_2358",
+    "Id": 84,
+    "Id2": 6
+  },
+  {
+    "Content": "Tombstone",
+    "Id": 85,
+    "Id2": 0
+  },
+  {
+    "Content": "Loom",
+    "Id": 86,
+    "Id2": 0
+  },
+  {
+    "Content": "Piano",
+    "Id": 87,
+    "Id2": 0
+  },
+  {
+    "Content": "Dresser",
+    "Id": 88,
+    "Id2": 0
+  },
+  {
+    "Content": "Bench",
+    "Id": 89,
+    "Id2": 0
+  },
+  {
+    "Content": "Bathtub",
+    "Id": 90,
+    "Id2": 0
+  },
+  {
+    "Content": "Banner",
+    "Id": 91,
+    "Id2": 0
+  },
+  {
+    "Content": "Lamp Post",
+    "Id": 92,
+    "Id2": 0
+  },
+  {
+    "Content": "Floor Lamp",
+    "Id": 93,
+    "Id2": 0
+  },
+  {
+    "Content": "Keg",
+    "Id": 94,
+    "Id2": 0
+  },
+  {
+    "Content": "Chinese Lantern",
+    "Id": 95,
+    "Id2": 0
+  },
+  {
+    "Content": "Cooking Pot",
+    "Id": 96,
+    "Id2": 0
+  },
+  {
+    "Content": "Safe",
+    "Id": 97,
+    "Id2": 0
+  },
+  {
+    "Content": "Skull Lantern",
+    "Id": 98,
+    "Id2": 0
+  },
+  {
+    "Content": "Candelabra",
+    "Id": 100,
+    "Id2": 0
+  },
+  {
+    "Content": "Bookcase",
+    "Id": 101,
+    "Id2": 0
+  },
+  {
+    "Content": "Throne",
+    "Id": 102,
+    "Id2": 0
+  },
+  {
+    "Content": "Bowl",
+    "Id": 103,
+    "Id2": 0
+  },
+  {
+    "Content": "Grandfather Clock",
+    "Id": 104,
+    "Id2": 0
+  },
+  {
+    "Content": "Statue",
+    "Id": 105,
+    "Id2": 0
+  },
+  {
+    "Content": "Vase",
+    "Id": 105,
+    "Id2": 2
+  },
+  {
+    "Content": "Sawmill",
+    "Id": 106,
+    "Id2": 0
+  },
+  {
+    "Content": "Cobalt",
+    "Id": 107,
+    "Id2": 0
+  },
+  {
+    "Content": "Mythril",
+    "Id": 108,
+    "Id2": 0
+  },
+  {
+    "Content": "Adamantite",
+    "Id": 111,
+    "Id2": 0
+  },
+  {
+    "Content": "Tinkerer's Workshop",
+    "Id": 114,
+    "Id2": 0
+  },
+  {
+    "Content": "Crystal Ball",
+    "Id": 125,
+    "Id2": 0
+  },
+  {
+    "Content": "Mannequin",
+    "Id": 128,
+    "Id2": 0
+  },
+  {
+    "Content": "Crystal Shard",
+    "Id": 129,
+    "Id2": 0
+  },
+  {
+    "Content": "Lever",
+    "Id": 132,
+    "Id2": 0
+  },
+  {
+    "Content": "Detonator",
+    "Id": 411,
+    "Id2": 0
+  },
+  {
+    "Content": "Adamantite Forge",
+    "Id": 133,
+    "Id2": 0
+  },
+  {
+    "Content": "Titanium Forge",
+    "Id": 133,
+    "Id2": 1
+  },
+  {
+    "Content": "Mythril Anvil",
+    "Id": 134,
+    "Id2": 0
+  },
+  {
+    "Content": "Orichalcum Anvil",
+    "Id": 134,
+    "Id2": 1
+  },
+  {
+    "Content": "Switch",
+    "Id": 136,
+    "Id2": 0
+  },
+  {
+    "Content": "Trap",
+    "Id": 137,
+    "Id2": 0
+  },
+  {
+    "Content": "Boulder",
+    "Id": 138,
+    "Id2": 0
+  },
+  {
+    "Content": "Music Box",
+    "Id": 139,
+    "Id2": 0
+  },
+  {
+    "Content": "Inlet Pump",
+    "Id": 142,
+    "Id2": 0
+  },
+  {
+    "Content": "Outlet Pump",
+    "Id": 143,
+    "Id2": 0
+  },
+  {
+    "Content": "Timer",
+    "Id": 144,
+    "Id2": 0
+  },
+  {
+    "Content": "Christmas Light",
+    "Id": 149,
+    "Id2": 0
+  },
+  {
+    "Content": "Tin",
+    "Id": 166,
+    "Id2": 0
+  },
+  {
+    "Content": "Lead",
+    "Id": 167,
+    "Id2": 0
+  },
+  {
+    "Content": "Tungsten",
+    "Id": 168,
+    "Id2": 0
+  },
+  {
+    "Content": "Platinum",
+    "Id": 169,
+    "Id2": 0
+  },
+  {
+    "Content": "Pine Tree",
+    "Id": 170,
+    "Id2": 0
+  },
+  {
+    "Content": "Christmas Tree",
+    "Id": 171,
+    "Id2": 0
+  },
+  {
+    "Content": "Sink",
+    "Id": 172,
+    "Id2": 0
+  },
+  {
+    "Content": "Candelabra",
+    "Id": 173,
+    "Id2": 0
+  },
+  {
+    "Content": "Platinum Candle",
+    "Id": 174,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_181",
+    "Id": 178,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_180",
+    "Id": 178,
+    "Id2": 1
+  },
+  {
+    "Content": "$Terraria.Main::itemName_177",
+    "Id": 178,
+    "Id2": 2
+  },
+  {
+    "Content": "$Terraria.Main::itemName_179",
+    "Id": 178,
+    "Id2": 3
+  },
+  {
+    "Content": "$Terraria.Main::itemName_178",
+    "Id": 178,
+    "Id2": 4
+  },
+  {
+    "Content": "$Terraria.Main::itemName_182",
+    "Id": 178,
+    "Id2": 5
+  },
+  {
+    "Content": "$Terraria.Main::itemName_999",
+    "Id": 178,
+    "Id2": 6
+  },
+  {
+    "Content": "Living Wood",
+    "Id": 191,
+    "Id2": 0
+  },
+  {
+    "Content": "Crimtane",
+    "Id": 204,
+    "Id2": 0
+  },
+  {
+    "Content": "Water Fountain",
+    "Id": 207,
+    "Id2": 0
+  },
+  {
+    "Content": "Cannon",
+    "Id": 209,
+    "Id2": 0
+  },
+  {
+    "Content": "Chlorophyte",
+    "Id": 211,
+    "Id2": 0
+  },
+  {
+    "Content": "Turret",
+    "Id": 212,
+    "Id2": 0
+  },
+  {
+    "Content": "Rope",
+    "Id": 213,
+    "Id2": 0
+  },
+  {
+    "Content": "Chain",
+    "Id": 214,
+    "Id2": 0
+  },
+  {
+    "Content": "Campfire",
+    "Id": 215,
+    "Id2": 0
+  },
+  {
+    "Content": "Rocket",
+    "Id": 216,
+    "Id2": 0
+  },
+  {
+    "Content": "Blend-O-Matic",
+    "Id": 217,
+    "Id2": 0
+  },
+  {
+    "Content": "Meat Grinder",
+    "Id": 218,
+    "Id2": 0
+  },
+  {
+    "Content": "Silt Extractinator",
+    "Id": 219,
+    "Id2": 0
+  },
+  {
+    "Content": "Solidifier",
+    "Id": 220,
+    "Id2": 0
+  },
+  {
+    "Content": "Palladium",
+    "Id": 221,
+    "Id2": 0
+  },
+  {
+    "Content": "Orichalcum",
+    "Id": 222,
+    "Id2": 0
+  },
+  {
+    "Content": "Titanium",
+    "Id": 223,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_1107",
+    "Id": 227,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_1108",
+    "Id": 227,
+    "Id2": 1
+  },
+  {
+    "Content": "$Terraria.Main::itemName_1109",
+    "Id": 227,
+    "Id2": 2
+  },
+  {
+    "Content": "$Terraria.Main::itemName_1110",
+    "Id": 227,
+    "Id2": 3
+  },
+  {
+    "Content": "$Terraria.Main::itemName_1111",
+    "Id": 227,
+    "Id2": 4
+  },
+  {
+    "Content": "$Terraria.Main::itemName_1112",
+    "Id": 227,
+    "Id2": 5
+  },
+  {
+    "Content": "$Terraria.Main::itemName_1113",
+    "Id": 227,
+    "Id2": 6
+  },
+  {
+    "Content": "$Terraria.Main::itemName_1114",
+    "Id": 227,
+    "Id2": 7
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3385",
+    "Id": 227,
+    "Id2": 8
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3386",
+    "Id": 227,
+    "Id2": 9
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3387",
+    "Id": 227,
+    "Id2": 10
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3388",
+    "Id": 227,
+    "Id2": 11
+  },
+  {
+    "Content": "Dye Vat",
+    "Id": 228,
+    "Id2": 0
+  },
+  {
+    "Content": "Larva",
+    "Id": 231,
+    "Id2": 0
+  },
+  {
+    "Content": "Wooden Spike",
+    "Id": 232,
+    "Id2": 0
+  },
+  {
+    "Content": "Teleporter",
+    "Id": 235,
+    "Id2": 0
+  },
+  {
+    "Content": "Life Fruit",
+    "Id": 236,
+    "Id2": 0
+  },
+  {
+    "Content": "Lihzahrd Altar",
+    "Id": 237,
+    "Id2": 0
+  },
+  {
+    "Content": "Plantera's Bulb",
+    "Id": 238,
+    "Id2": 0
+  },
+  {
+    "Content": "Metal Bar",
+    "Id": 239,
+    "Id2": 0
+  },
+  {
+    "Content": "Trophy",
+    "Id": 240,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::npcName_21",
+    "Id": 240,
+    "Id2": 2
+  },
+  {
+    "Content": "Item Rack",
+    "Id": 240,
+    "Id2": 3
+  },
+  {
+    "Content": "$Terraria.Main::itemName_2442",
+    "Id": 240,
+    "Id2": 4
+  },
+  {
+    "Content": "$Terraria.Main::itemName_1417",
+    "Id": 241,
+    "Id2": 0
+  },
+  {
+    "Content": "Painting",
+    "Id": 242,
+    "Id2": 0
+  },
+  {
+    "Content": "Animal Skin",
+    "Id": 242,
+    "Id2": 1
+  },
+  {
+    "Content": "Imbuing Station",
+    "Id": 243,
+    "Id2": 0
+  },
+  {
+    "Content": "Bubble Machine",
+    "Id": 244,
+    "Id2": 0
+  },
+  {
+    "Content": "Picture",
+    "Id": 245,
+    "Id2": 0
+  },
+  {
+    "Content": "Picture",
+    "Id": 246,
+    "Id2": 0
+  },
+  {
+    "Content": "Autohammer",
+    "Id": 247,
+    "Id2": 0
+  },
+  {
+    "Content": "Pumpkin",
+    "Id": 254,
+    "Id2": 0
+  },
+  {
+    "Content": "Womannequin",
+    "Id": 269,
+    "Id2": 0
+  },
+  {
+    "Content": "Firefly in a Bottle",
+    "Id": 270,
+    "Id2": 0
+  },
+  {
+    "Content": "Lightning Bug in a Bottle",
+    "Id": 271,
+    "Id2": 0
+  },
+  {
+    "Content": "Bunny Cage",
+    "Id": 275,
+    "Id2": 0
+  },
+  {
+    "Content": "Squirrel Cage",
+    "Id": 276,
+    "Id2": 0
+  },
+  {
+    "Content": "Mallard Duck Cage",
+    "Id": 277,
+    "Id2": 0
+  },
+  {
+    "Content": "Duck Cage",
+    "Id": 278,
+    "Id2": 0
+  },
+  {
+    "Content": "Bird Cage",
+    "Id": 279,
+    "Id2": 0
+  },
+  {
+    "Content": "Blue Jay Cage",
+    "Id": 280,
+    "Id2": 0
+  },
+  {
+    "Content": "Cardinal Cage",
+    "Id": 281,
+    "Id2": 0
+  },
+  {
+    "Content": "Fish Bowl",
+    "Id": 282,
+    "Id2": 0
+  },
+  {
+    "Content": "Orange Squirrel Cage",
+    "Id": 413,
+    "Id2": 0
+  },
+  {
+    "Content": "Heavy Work Bench",
+    "Id": 283,
+    "Id2": 0
+  },
+  {
+    "Content": "Snail Cage",
+    "Id": 285,
+    "Id2": 0
+  },
+  {
+    "Content": "Glowing Snail Cage",
+    "Id": 286,
+    "Id2": 0
+  },
+  {
+    "Content": "Ammo Box",
+    "Id": 287,
+    "Id2": 0
+  },
+  {
+    "Content": "Monarch Butterfly Jar",
+    "Id": 288,
+    "Id2": 0
+  },
+  {
+    "Content": "Purple Emperor Butterfly Jar",
+    "Id": 289,
+    "Id2": 0
+  },
+  {
+    "Content": "Red Admiral Butterfly Jar",
+    "Id": 290,
+    "Id2": 0
+  },
+  {
+    "Content": "Ulysses Butterfly Jar",
+    "Id": 291,
+    "Id2": 0
+  },
+  {
+    "Content": "Sulphur Butterfly Jar",
+    "Id": 292,
+    "Id2": 0
+  },
+  {
+    "Content": "Tree Nymph Butterfly Jar",
+    "Id": 293,
+    "Id2": 0
+  },
+  {
+    "Content": "Zebra Swallowtail Butterfly Jar",
+    "Id": 294,
+    "Id2": 0
+  },
+  {
+    "Content": "Julia Butterfly Jar",
+    "Id": 295,
+    "Id2": 0
+  },
+  {
+    "Content": "Scorpion Cage",
+    "Id": 296,
+    "Id2": 0
+  },
+  {
+    "Content": "Black Scorpion Cage",
+    "Id": 297,
+    "Id2": 0
+  },
+  {
+    "Content": "Frog Cage",
+    "Id": 298,
+    "Id2": 0
+  },
+  {
+    "Content": "Mouse Cage",
+    "Id": 299,
+    "Id2": 0
+  },
+  {
+    "Content": "Bone Welder",
+    "Id": 300,
+    "Id2": 0
+  },
+  {
+    "Content": "Flesh Cloning Vat",
+    "Id": 301,
+    "Id2": 0
+  },
+  {
+    "Content": "Glass Kiln",
+    "Id": 302,
+    "Id2": 0
+  },
+  {
+    "Content": "Lihzahrd Furnace",
+    "Id": 303,
+    "Id2": 0
+  },
+  {
+    "Content": "Living Loom",
+    "Id": 304,
+    "Id2": 0
+  },
+  {
+    "Content": "Sky Mill",
+    "Id": 305,
+    "Id2": 0
+  },
+  {
+    "Content": "Ice Machine",
+    "Id": 306,
+    "Id2": 0
+  },
+  {
+    "Content": "Steampunk Boiler",
+    "Id": 307,
+    "Id2": 0
+  },
+  {
+    "Content": "Honey Dispenser",
+    "Id": 308,
+    "Id2": 0
+  },
+  {
+    "Content": "Penguin Cage",
+    "Id": 309,
+    "Id2": 0
+  },
+  {
+    "Content": "Worm Cage",
+    "Id": 310,
+    "Id2": 0
+  },
+  {
+    "Content": "Blue Jellyfish Bowl",
+    "Id": 316,
+    "Id2": 0
+  },
+  {
+    "Content": "Green Jellyfish Bowl",
+    "Id": 317,
+    "Id2": 0
+  },
+  {
+    "Content": "Pink Jellyfish Bowl",
+    "Id": 318,
+    "Id2": 0
+  },
+  {
+    "Content": "Ship in a Bottle",
+    "Id": 319,
+    "Id2": 0
+  },
+  {
+    "Content": "Seaweed Planter",
+    "Id": 320,
+    "Id2": 0
+  },
+  {
+    "Content": "Palm Tree",
+    "Id": 323,
+    "Id2": 0
+  },
+  {
+    "Content": "Minecart Track",
+    "Id": 314,
+    "Id2": 0
+  },
+  {
+    "Content": "Vine Rope",
+    "Id": 353,
+    "Id2": 0
+  },
+  {
+    "Content": "Bewitching Table",
+    "Id": 354,
+    "Id2": 0
+  },
+  {
+    "Content": "Alchemy Table",
+    "Id": 355,
+    "Id2": 0
+  },
+  {
+    "Content": "Enchanted Sundial",
+    "Id": 356,
+    "Id2": 0
+  },
+  {
+    "Content": "Silk Rope",
+    "Id": 365,
+    "Id2": 0
+  },
+  {
+    "Content": "Web Rope",
+    "Id": 366,
+    "Id2": 0
+  },
+  {
+    "Content": "Dripping Water",
+    "Id": 373,
+    "Id2": 0
+  },
+  {
+    "Content": "Dripping Lava",
+    "Id": 374,
+    "Id2": 0
+  },
+  {
+    "Content": "Dripping Honey",
+    "Id": 375,
+    "Id2": 0
+  },
+  {
+    "Content": "Sand Flow",
+    "Id": 461,
+    "Id2": 0
+  },
+  {
+    "Content": "Sharpening Station",
+    "Id": 377,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3117",
+    "Id": 372,
+    "Id2": 0
+  },
+  {
+    "Content": "Announcement Box",
+    "Id": 425,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3603",
+    "Id": 420,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3604",
+    "Id": 420,
+    "Id2": 1
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3605",
+    "Id": 420,
+    "Id2": 2
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3606",
+    "Id": 420,
+    "Id2": 3
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3607",
+    "Id": 420,
+    "Id2": 4
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3608",
+    "Id": 420,
+    "Id2": 5
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3613",
+    "Id": 423,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3614",
+    "Id": 423,
+    "Id2": 1
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3615",
+    "Id": 423,
+    "Id2": 2
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3726",
+    "Id": 423,
+    "Id2": 3
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3727",
+    "Id": 423,
+    "Id2": 4
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3728",
+    "Id": 423,
+    "Id2": 5
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3729",
+    "Id": 423,
+    "Id2": 6
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3644",
+    "Id": 440,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3645",
+    "Id": 440,
+    "Id2": 1
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3646",
+    "Id": 440,
+    "Id2": 2
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3647",
+    "Id": 440,
+    "Id2": 3
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3648",
+    "Id": 440,
+    "Id2": 4
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3649",
+    "Id": 440,
+    "Id2": 5
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3650",
+    "Id": 440,
+    "Id2": 6
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3616",
+    "Id": 424,
+    "Id2": 0
+  },
+  {
+    "Content": "Bee Hive",
+    "Id": 444,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3816",
+    "Id": 466,
+    "Id2": 0
+  },
+  {
+    "Content": "$Terraria.Main::itemName_3813",
+    "Id": 463,
+    "Id2": 0
+  }
+]

@@ -1,0 +1,334 @@
+﻿[
+  {
+    "Content": "Large",
+    "Id": 1
+  },
+  {
+    "Content": "Massive",
+    "Id": 2
+  },
+  {
+    "Content": "Dangerous",
+    "Id": 3
+  },
+  {
+    "Content": "Savage",
+    "Id": 4
+  },
+  {
+    "Content": "Sharp",
+    "Id": 5
+  },
+  {
+    "Content": "Pointy",
+    "Id": 6
+  },
+  {
+    "Content": "Tiny",
+    "Id": 7
+  },
+  {
+    "Content": "Terrible",
+    "Id": 8
+  },
+  {
+    "Content": "Small",
+    "Id": 9
+  },
+  {
+    "Content": "Dull",
+    "Id": 10
+  },
+  {
+    "Content": "Unhappy",
+    "Id": 11
+  },
+  {
+    "Content": "Bulky",
+    "Id": 12
+  },
+  {
+    "Content": "Shameful",
+    "Id": 13
+  },
+  {
+    "Content": "Heavy",
+    "Id": 14
+  },
+  {
+    "Content": "Light",
+    "Id": 15
+  },
+  {
+    "Content": "Sighted",
+    "Id": 16
+  },
+  {
+    "Content": "Rapid",
+    "Id": 17
+  },
+  {
+    "Content": "Hasty",
+    "Id": 18
+  },
+  {
+    "Content": "Intimidating",
+    "Id": 19
+  },
+  {
+    "Content": "Deadly",
+    "Id": 20
+  },
+  {
+    "Content": "Staunch",
+    "Id": 21
+  },
+  {
+    "Content": "Awful",
+    "Id": 22
+  },
+  {
+    "Content": "Lethargic",
+    "Id": 23
+  },
+  {
+    "Content": "Awkward",
+    "Id": 24
+  },
+  {
+    "Content": "Powerful",
+    "Id": 25
+  },
+  {
+    "Content": "Frenzying",
+    "Id": 58
+  },
+  {
+    "Content": "Mystic",
+    "Id": 26
+  },
+  {
+    "Content": "Adept",
+    "Id": 27
+  },
+  {
+    "Content": "Masterful",
+    "Id": 28
+  },
+  {
+    "Content": "Inept",
+    "Id": 29
+  },
+  {
+    "Content": "Ignorant",
+    "Id": 30
+  },
+  {
+    "Content": "Deranged",
+    "Id": 31
+  },
+  {
+    "Content": "Intense",
+    "Id": 32
+  },
+  {
+    "Content": "Taboo",
+    "Id": 33
+  },
+  {
+    "Content": "Celestial",
+    "Id": 34
+  },
+  {
+    "Content": "Furious",
+    "Id": 35
+  },
+  {
+    "Content": "Manic",
+    "Id": 52
+  },
+  {
+    "Content": "Keen",
+    "Id": 36
+  },
+  {
+    "Content": "Superior",
+    "Id": 37
+  },
+  {
+    "Content": "Forceful",
+    "Id": 38
+  },
+  {
+    "Content": "Hurtful",
+    "Id": 53
+  },
+  {
+    "Content": "Strong",
+    "Id": 54
+  },
+  {
+    "Content": "Unpleasant",
+    "Id": 55
+  },
+  {
+    "Content": "Broken",
+    "Id": 39
+  },
+  {
+    "Content": "Damaged",
+    "Id": 40
+  },
+  {
+    "Content": "Weak",
+    "Id": 56
+  },
+  {
+    "Content": "Shoddy",
+    "Id": 41
+  },
+  {
+    "Content": "Ruthless",
+    "Id": 57
+  },
+  {
+    "Content": "Quick",
+    "Id": 42
+  },
+  {
+    "Content": "Deadly",
+    "Id": 43
+  },
+  {
+    "Content": "Agile",
+    "Id": 44
+  },
+  {
+    "Content": "Nimble",
+    "Id": 45
+  },
+  {
+    "Content": "Murderous",
+    "Id": 46
+  },
+  {
+    "Content": "Slow",
+    "Id": 47
+  },
+  {
+    "Content": "Sluggish",
+    "Id": 48
+  },
+  {
+    "Content": "Lazy",
+    "Id": 49
+  },
+  {
+    "Content": "Annoying",
+    "Id": 50
+  },
+  {
+    "Content": "Nasty",
+    "Id": 51
+  },
+  {
+    "Content": "Godly",
+    "Id": 59
+  },
+  {
+    "Content": "Demonic",
+    "Id": 60
+  },
+  {
+    "Content": "Zealous",
+    "Id": 61
+  },
+  {
+    "Content": "Hard",
+    "Id": 62
+  },
+  {
+    "Content": "Guarding",
+    "Id": 63
+  },
+  {
+    "Content": "Armored",
+    "Id": 64
+  },
+  {
+    "Content": "Warding",
+    "Id": 65
+  },
+  {
+    "Content": "Arcane",
+    "Id": 66
+  },
+  {
+    "Content": "Precise",
+    "Id": 67
+  },
+  {
+    "Content": "Lucky",
+    "Id": 68
+  },
+  {
+    "Content": "Jagged",
+    "Id": 69
+  },
+  {
+    "Content": "Spiked",
+    "Id": 70
+  },
+  {
+    "Content": "Angry",
+    "Id": 71
+  },
+  {
+    "Content": "Menacing",
+    "Id": 72
+  },
+  {
+    "Content": "Brisk",
+    "Id": 73
+  },
+  {
+    "Content": "Fleeting",
+    "Id": 74
+  },
+  {
+    "Content": "Hasty",
+    "Id": 75
+  },
+  {
+    "Content": "Quick",
+    "Id": 76
+  },
+  {
+    "Content": "Wild",
+    "Id": 77
+  },
+  {
+    "Content": "Rash",
+    "Id": 78
+  },
+  {
+    "Content": "Intrepid",
+    "Id": 79
+  },
+  {
+    "Content": "Violent",
+    "Id": 80
+  },
+  {
+    "Content": "Legendary",
+    "Id": 81
+  },
+  {
+    "Content": "Unreal",
+    "Id": 82
+  },
+  {
+    "Content": "Mythical",
+    "Id": 83
+  }
+]

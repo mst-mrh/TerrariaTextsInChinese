@@ -1,0 +1,554 @@
+﻿[
+  {
+    "Content": "Oh! Thanks for the fish I asked for, now scram!",
+    "Id": 0
+  },
+  {
+    "Content": "Awesome catch! It's all going according to plan! He he he!",
+    "Id": 1
+  },
+  {
+    "Content": "You make a great errand monkey! Now go away!",
+    "Id": 2
+  },
+  {
+    "Content": "Muahahahahaha! You did it! You're still in one piece though, how boring!",
+    "Id": 3
+  },
+  {
+    "Content": "Woah!? You actually did what I asked, and survived! Nice, hand it over and beat it!",
+    "Id": 4
+  },
+  {
+    "Content": "I don't have anything for you to do right now.",
+    "Id": 5
+  },
+  {
+    "Content": "You have entertained me enough for today, go.",
+    "Id": 6
+  },
+  {
+    "Content": "You are done, the grand ",
+    "Id": 7
+  },
+  {
+    "Content": " dismisses you!",
+    "Id": 8
+  },
+  {
+    "Content": "Only one fish a day, please go away!",
+    "Id": 9
+  },
+  {
+    "Content": "I haven't even used the last fish you gave me.  I don't need another.",
+    "Id": 10
+  },
+  {
+    "Content": "Na na na na na na na Bat-FISH!",
+    "Id": 11
+  },
+  {
+    "Content": "That means go digging underground, fetch it, and bring it to me!",
+    "Id": 12
+  },
+  {
+    "Content": "\n(Caught in Underground & Caverns)",
+    "Id": 13
+  },
+  {
+    "Content": "The subterranean jungles of ",
+    "Id": 14
+  },
+  {
+    "Content": " have the weirdest things!",
+    "Id": 15
+  },
+  {
+    "Content": "Like, there's this fish I saw that looked just like a giant bumblebee!",
+    "Id": 16
+  },
+  {
+    "Content": "I'm allergic to bees, so you have to catch it for me! I bet it'd taste like a tuna and honey sandwich!",
+    "Id": 17
+  },
+  {
+    "Content": "\n(Caught in Honey)",
+    "Id": 18
+  },
+  {
+    "Content": "I finally found a jungle cat that likes water! I think it's because it's also part fish.",
+    "Id": 19
+  },
+  {
+    "Content": "I don't know why this happened, and I don't want to know.",
+    "Id": 20
+  },
+  {
+    "Content": "I just want it in my hands, and make it snappy!",
+    "Id": 21
+  },
+  {
+    "Content": "\n(Caught in Jungle Surface)",
+    "Id": 22
+  },
+  {
+    "Content": "There's a rumor going around that there are islands that float high up in the sky, and that they have amazing treasure!",
+    "Id": 23
+  },
+  {
+    "Content": "Who cares about that though, what's even cooler is that sometimes lakes form in the clouds, and in those lakes are fish made out of clouds!",
+    "Id": 24
+  },
+  {
+    "Content": "I wanna know what it tastes like, so you better go catch it for me!",
+    "Id": 25
+  },
+  {
+    "Content": "\n(Caught in Sky Lakes)",
+    "Id": 26
+  },
+  {
+    "Content": "There's a cursed fish swimming in the waters of the deepest corruption!",
+    "Id": 27
+  },
+  {
+    "Content": "It was forged of the cursed flames that spread from the fallen horrors that lurk down there.",
+    "Id": 28
+  },
+  {
+    "Content": "They say not even water can put out this fire, and that it can burn forever.",
+    "Id": 29
+  },
+  {
+    "Content": "I can think of some awesome things I can do with a fish like that! You gonna go get it for me, or are you too chicken!?",
+    "Id": 30
+  },
+  {
+    "Content": "\n(Caught in Corruption)",
+    "Id": 31
+  },
+  {
+    "Content": "I was reeling in the big one when this funny talking zombie burst out of the forest lake and started rambling on about this 'ferocious' species of fish made out of dirt!",
+    "Id": 32
+  },
+  {
+    "Content": "He says it could suffocate ten blokes his size, or something like that... I want it! NOW!",
+    "Id": 33
+  },
+  {
+    "Content": "\n(Caught in Surface, Underground, & Caverns)",
+    "Id": 34
+  },
+  {
+    "Content": "The demolitionist was raising cane about losing a stick of dynamite in the lake out in the forest. He has like, so many, so why does one matter?",
+    "Id": 35
+  },
+  {
+    "Content": "Apparently, because it grew fins and started swimming away! I don't know where he gets his materials to make those things, but that one is clearly possessed!",
+    "Id": 36
+  },
+  {
+    "Content": "Reel it in and bring it to me, I always wanted a suicide bombing fish! Don't ask why...",
+    "Id": 37
+  },
+  {
+    "Content": "\n(Caught in Surface)",
+    "Id": 38
+  },
+  {
+    "Content": "I bet you're not brave enough to find the Eater of Plankton.",
+    "Id": 39
+  },
+  {
+    "Content": "A corrupt fish that was mutated from a severed piece of the Eater of Worlds itself!",
+    "Id": 40
+  },
+  {
+    "Content": "Capture it and bring it to me, and prove to me you're not a wuss!",
+    "Id": 41
+  },
+  {
+    "Content": "\n(Caught in Corruption)",
+    "Id": 42
+  },
+  {
+    "Content": "I love collecting those bright yellow stars that fall from the sky! I love it even more when they land on someone's head.",
+    "Id": 43
+  },
+  {
+    "Content": "But.. but.. nothing beats a star that falls in a foresty lake and turns into a fish!",
+    "Id": 44
+  },
+  {
+    "Content": "That's just totally rad, and you're just rad enough to get it for me!",
+    "Id": 45
+  },
+  {
+    "Content": "\n(Caught in Sky Lakes)",
+    "Id": 46
+  },
+  {
+    "Content": "Apparently, Demon Eyes can sometimes be amphibious. They don't fly, they swim!",
+    "Id": 47
+  },
+  {
+    "Content": "I want to see the look on someone's face when they find it in their bathtub!",
+    "Id": 48
+  },
+  {
+    "Content": "They hang around the same areas. That means you reel one in for me!",
+    "Id": 49
+  },
+  {
+    "Content": "\n(Caught in Sky Lakes & Surface)",
+    "Id": 50
+  },
+  {
+    "Content": "I don't know what's worse, a bone fish or a bone fish with HANDS. This Fish-o-Tron deep in the caverns really freaks me out!",
+    "Id": 51
+  },
+  {
+    "Content": "I think it's possessed by the same evil spirits that possessed that old man by the dungeon!",
+    "Id": 52
+  },
+  {
+    "Content": "I double duck dare you to go catch it!",
+    "Id": 53
+  },
+  {
+    "Content": "\n(Caught in Caverns)",
+    "Id": 54
+  },
+  {
+    "Content": "I was trying to sleep by the hill lakeside when this fish swooped down at me. It was flying!",
+    "Id": 55
+  },
+  {
+    "Content": "It also had the face of a lady and had feathers! I think I screamed louder than she did!",
+    "Id": 56
+  },
+  {
+    "Content": "Hey you, go make her pay for scaring me like that!",
+    "Id": 57
+  },
+  {
+    "Content": "\n(Caught in Sky Lakes & Surface)",
+    "Id": 58
+  },
+  {
+    "Content": "There's a piece of the Hunger that morphed from the Wall of Flesh into a small fish-like thing that swims around aimlessly in the underworld and it's gross and it's yucky and I want it now!",
+    "Id": 59
+  },
+  {
+    "Content": "\n(Caught in Caverns)",
+    "Id": 60
+  },
+  {
+    "Content": "Did you know deep in the crimson, some of those creatures make this gross yellow stuff?",
+    "Id": 61
+  },
+  {
+    "Content": "I overheard a crazy story about a pool of it having melted together into a shape of a fish and it swims around and everything!",
+    "Id": 62
+  },
+  {
+    "Content": "Fetch it for me, so I can stick it in someone's toilet!",
+    "Id": 63
+  },
+  {
+    "Content": "\n(Caught in Crimson)",
+    "Id": 64
+  },
+  {
+    "Content": "Oooooohhh, I'm going to be SO rich! Deep in the caverns, there is a fish made out of gemstones!",
+    "Id": 65
+  },
+  {
+    "Content": "Don't ask me how, I don't know, all I know is that this fish is totally awesome and you're going to catch it for me!",
+    "Id": 66
+  },
+  {
+    "Content": "\n(Caught in Underground & Caverns)",
+    "Id": 67
+  },
+  {
+    "Content": "There's some interesting critters to be found in the deeper Hallows, I tell you!",
+    "Id": 68
+  },
+  {
+    "Content": "They glow this crazy purple color and it messes with my eyes!",
+    "Id": 69
+  },
+  {
+    "Content": "It's totally wild, so I want you to catch a fish like that for me!",
+    "Id": 70
+  },
+  {
+    "Content": "\n(Caught in Underground Hallow)",
+    "Id": 71
+  },
+  {
+    "Content": "What's white and tan and fluffy and lives in a frozen underground lake? A mutant flinxfin!",
+    "Id": 72
+  },
+  {
+    "Content": "I wasn't telling a joke, you know, there really is a mutated variety of Flinx that is more adapted to an aquatic lifestyle!",
+    "Id": 73
+  },
+  {
+    "Content": "I want it to adapt to my fishbowl, so make sure that happens!",
+    "Id": 74
+  },
+  {
+    "Content": "\n(Caught in Underground Tundra)",
+    "Id": 75
+  },
+  {
+    "Content": "It's a whale! It's a dolphin! No, it's a penguin fish! Oh, and look, it's you!",
+    "Id": 76
+  },
+  {
+    "Content": "You get to bring me one! You do know they only like cold water, right?",
+    "Id": 77
+  },
+  {
+    "Content": "\n(Caught in Tundra)",
+    "Id": 78
+  },
+  {
+    "Content": "There's a really really rare type of pixie that's born with so many wings that it can't actually fly!",
+    "Id": 79
+  },
+  {
+    "Content": "It swims with the fishes in the lakes surrounded by that blue colored grass.",
+    "Id": 80
+  },
+  {
+    "Content": "My fish tank needs a lamp, so I want you to catch me that pixie!",
+    "Id": 81
+  },
+  {
+    "Content": "\n(Caught in Hallow)",
+    "Id": 82
+  },
+  {
+    "Content": "I saw a fish that had eight legs! Nope! Not happening!",
+    "Id": 83
+  },
+  {
+    "Content": "You're fishing it for me, so it's not alive when I hold it!",
+    "Id": 84
+  },
+  {
+    "Content": "That's the last time I go fishing so deep in the cavern!",
+    "Id": 85
+  },
+  {
+    "Content": "\n(Caught in Underground & Caverns)",
+    "Id": 86
+  },
+  {
+    "Content": "You ever wonder why the lakes on the surface of the snowy areas of ",
+    "Id": 87
+  },
+  {
+    "Content": " never ice over? I don't.",
+    "Id": 88
+  },
+  {
+    "Content": "The fish, however, do! A fish made out of ice would make a great offering to the mighty and amazing ",
+    "Id": 89
+  },
+  {
+    "Content": "!",
+    "Id": 90
+  },
+  {
+    "Content": "Go, my loyal subject, and bring me this Tundra Trout with haste!",
+    "Id": 91
+  },
+  {
+    "Content": "\n(Caught in Surface Tundra)",
+    "Id": 92
+  },
+  {
+    "Content": "Unicorns and rainbows are absolutely great! They're everywhere, even in the water.",
+    "Id": 93
+  },
+  {
+    "Content": "No, really, I actually saw a unicorn fish in the Hallowed lake!",
+    "Id": 94
+  },
+  {
+    "Content": "Your job is to reel it up and let me have it as a pet!",
+    "Id": 95
+  },
+  {
+    "Content": "\n(Caught in Hallow)",
+    "Id": 96
+  },
+  {
+    "Content": "Those demons in the underworld really like voodoo dolls, but I think there's a doll out there who was blasted with way too much magic!",
+    "Id": 97
+  },
+  {
+    "Content": "It turned into a fish and it does stuff on its own. I dare you to go down and get me one!",
+    "Id": 98
+  },
+  {
+    "Content": "I'd watch out for the boiling lava, because it burns you to death and that won't get me my fish!",
+    "Id": 99
+  },
+  {
+    "Content": "\n(Caught in Caverns)",
+    "Id": 100
+  },
+  {
+    "Content": "I know something youuuuu don't! Fine, I'll tell you, there's a terrifying creature that flies among the stars! I'm not making this up!",
+    "Id": 101
+  },
+  {
+    "Content": "It's called a Wyvern! But, but, you knew that already, right? Well what you don't know is that they are born and raised as tadpoles!",
+    "Id": 102
+  },
+  {
+    "Content": "So, they're actually like.. well, a frog! Hop to it and get me one!",
+    "Id": 103
+  },
+  {
+    "Content": "\n(Caught in Sky Lakes)",
+    "Id": 104
+  },
+  {
+    "Content": "You won't believe it! I caught a fish in the forest at night that was already dead! Then it tried to eat me! I threw it away and ran!",
+    "Id": 105
+  },
+  {
+    "Content": "Now I want to stick it in someone's dresser to see what happens, so go fish it back up for me will ya?!",
+    "Id": 106
+  },
+  {
+    "Content": "\n(Caught in Surface)",
+    "Id": 107
+  },
+  {
+    "Content": "I found this spectacular place draped in giant glowing mushrooms! Everything was blue! I was picking some of the mushrooms I found next to a glistening blue lake, when one of the mushrooms snapped at me and swam away! I want to give it a taste of its own medicine, and give it a good chompin'! What I mean is, you gotta get it for me!",
+    "Id": 108
+  },
+  {
+    "Content": "\n(Caught in Glowing Mushroom Fields)",
+    "Id": 109
+  },
+  {
+    "Content": "Did you know there's magical islands that float up high in the sky? Bet you didn't! They say angels live in the sky, and I believe those angels have fins and gills and swim around! I believe you must catch one for me!",
+    "Id": 110
+  },
+  {
+    "Content": "\n(Caught in Sky Lakes)",
+    "Id": 111
+  },
+  {
+    "Content": "Ow! Don't get near me! I got stung by a Bloody Man-O-War! In case you're not smart enough to know what that is, it's the most menacing jellyfish in all of ",
+    "Id": 112
+  },
+  {
+    "Content": "! Go to that rotten crimson and catch it if you dare! ",
+    "Id": 113
+  },
+  {
+    "Content": "\n(Caught in Crimson)",
+    "Id": 114
+  },
+  {
+    "Content": "Normally I could care less if I see fishbones floating in the water underground, but this one was swimming! What, you thought that only human skeletons still flailed about in ",
+    "Id": 115
+  },
+  {
+    "Content": "? Get it for me so I can stick it in someone's bed!",
+    "Id": 116
+  },
+  {
+    "Content": "\n(Caught in Underground & Caverns)",
+    "Id": 117
+  },
+  {
+    "Content": "Out in the forest, I was fishing right? Well guess what! A bunny hopped up to me! Then another one hopped up, and another... suddenly I'm surrounded by bunnies! One even swam up to me from the water, but it had no legs! I fell outta my chair in surprise and all the bunnies scurried off! I want that bunny fish as a pet, so you better catch it for me! Pronto!",
+    "Id": 118
+  },
+  {
+    "Content": "\n(Caught in Surface)",
+    "Id": 119
+  },
+  {
+    "Content": "Yarr matey! Shiver me timbers! Avast, scallywags! There's a pirate captain who once had a pet fish named Cap'n Tunabeard, but during a big storm the fishbowl fell overboard! It has a hook for a tail, and an eyepatch and everything! You need to fetch me that fish, so I can be as cool as a pirate! Obviously it's out in the ocean somewhere! Duh!",
+    "Id": 120
+  },
+  {
+    "Content": "\n(Caught in Ocean)",
+    "Id": 121
+  },
+  {
+    "Content": "I saw this bright orange and colorful fish by the ocean, and it was looking around frantically as though it was seeking a lost family member! Go catch it for me, so that another one will show up looking frantically for him instead!",
+    "Id": 122
+  },
+  {
+    "Content": "\n(Caught in Ocean)",
+    "Id": 123
+  },
+  {
+    "Content": "I hear in the underworld, that the King of all demons is actually a fish! Just imagine the absolute power I would have if you caught it for me!",
+    "Id": 124
+  },
+  {
+    "Content": "\n(Caught in Caverns)",
+    "Id": 125
+  },
+  {
+    "Content": "Those Derplings in the jungle are the most scary creatures I've ever seen! Good thing is, sometimes they don't have legs! These ones live in the water and are a lot less scary! Catch me one now so I can see what they taste like without being scared half to death!",
+    "Id": 126
+  },
+  {
+    "Content": "\n(Caught in Jungle Surface)",
+    "Id": 127
+  },
+  {
+    "Content": "There's a legend of a mighty being known as the Fishron! It's part pig, part dragon, and part FISH! I hear it hangs around in the frozen subterranean lakes of the coldest part of the world! I'm not going there, so YOU go catch it and makes sure it lands in my hands! I'm so excited!",
+    "Id": 128
+  },
+  {
+    "Content": "\n(Caught in Underground Tundra)",
+    "Id": 129
+  },
+  {
+    "Content": "A really long fish that looks like a sword's sheath swims in the murky waters of the corruption! It looks a lot like ebonstone, so don't let it fool you! That's right, you. You're catching it, not me!",
+    "Id": 130
+  },
+  {
+    "Content": "\n(Caught in Corruption)",
+    "Id": 131
+  },
+  {
+    "Content": "Watch your step when wading through jungle waters! Why? No, not because I care about you being eaten by piranhas. I care because you'll step on one of my favorite kinds of fish, the Mud Fish! I also care a lot that you're going to grab me one as a pet!",
+    "Id": 132
+  },
+  {
+    "Content": "\n(Caught in Jungle)",
+    "Id": 133
+  },
+  {
+    "Content": "In the forest, the slimes are kinda gross. Slimefish are even more so! I don't want to swim with slimes, so yoink one out of the water for me!",
+    "Id": 134
+  },
+  {
+    "Content": "\n(Caught Anywhere)",
+    "Id": 135
+  },
+  {
+    "Content": "Piranhas and sharks are ugly! Soooo ugly! Did you know there's a fish that looks very pretty and still can eat your face off? I would pay 2 platinum to see that happen, by the way... To the point, though, you catchy for me. Just make sure I have it before you lose your face!",
+    "Id": 136
+  },
+  {
+    "Content": "\n(Caught Jungle Surface)",
+    "Id": 137
+  }
+]

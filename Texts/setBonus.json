@@ -1,0 +1,218 @@
+﻿[
+  {
+    "Content": "2 defense",
+    "Id": 0
+  },
+  {
+    "Content": "3 defense",
+    "Id": 1
+  },
+  {
+    "Content": "15% increased movement speed",
+    "Id": 2
+  },
+  {
+    "Content": "Space Gun costs 0 mana",
+    "Id": 3
+  },
+  {
+    "Content": "20% chance to not consume ammo",
+    "Id": 4
+  },
+  {
+    "Content": "16% reduced mana usage",
+    "Id": 5
+  },
+  {
+    "Content": "17% extra melee damage",
+    "Id": 6
+  },
+  {
+    "Content": "30% increased mining speed",
+    "Id": 7
+  },
+  {
+    "Content": "14% reduced mana usage",
+    "Id": 8
+  },
+  {
+    "Content": "15% increased melee speed",
+    "Id": 9
+  },
+  {
+    "Content": "20% chance to not consume ammo",
+    "Id": 10
+  },
+  {
+    "Content": "17% reduced mana usage",
+    "Id": 11
+  },
+  {
+    "Content": "5% increased melee critical strike chance",
+    "Id": 12
+  },
+  {
+    "Content": "20% chance to not consume ammo",
+    "Id": 13
+  },
+  {
+    "Content": "19% reduced mana usage",
+    "Id": 14
+  },
+  {
+    "Content": "18% increased melee and movement speed",
+    "Id": 15
+  },
+  {
+    "Content": "25% chance to not consume ammo",
+    "Id": 16
+  },
+  {
+    "Content": "20% reduced mana usage",
+    "Id": 17
+  },
+  {
+    "Content": "19% increased melee and movement speed",
+    "Id": 18
+  },
+  {
+    "Content": "25% chance to not consume ammo",
+    "Id": 19
+  },
+  {
+    "Content": "1 defense",
+    "Id": 20
+  },
+  {
+    "Content": "Greatly increased life regen",
+    "Id": 21
+  },
+  {
+    "Content": "Melee and ranged attacks cause frostburn",
+    "Id": 22
+  },
+  {
+    "Content": "Increases your max number of minions",
+    "Id": 23
+  },
+  {
+    "Content": "Greatly increases life regeneration after striking an enemy",
+    "Id": 24
+  },
+  {
+    "Content": "Flower petals will fall on your target for extra damage",
+    "Id": 25
+  },
+  {
+    "Content": "Become immune after striking an enemy",
+    "Id": 26
+  },
+  {
+    "Content": "Summons a powerful leaf crystal to shoot at nearby enemies",
+    "Id": 27
+  },
+  {
+    "Content": "10% increased magic critical strike chance",
+    "Id": 28
+  },
+  {
+    "Content": "Attackers also take full damage",
+    "Id": 29
+  },
+  {
+    "Content": "Magic damage done to enemies heals the player with lowest health",
+    "Id": 30
+  },
+  {
+    "Content": "Not moving puts you in stealth,\nincreasing ranged ability and reducing chance for enemies to target you",
+    "Id": 31
+  },
+  {
+    "Content": "4 defense",
+    "Id": 32
+  },
+  {
+    "Content": "10% increased damage",
+    "Id": 33
+  },
+  {
+    "Content": "Increases minion damage by 25%",
+    "Id": 34
+  },
+  {
+    "Content": "Magic damage done will hurt extra nearby enemies",
+    "Id": 35
+  },
+  {
+    "Content": "Increases maximum mana by 60",
+    "Id": 36
+  },
+  {
+    "Content": "Beetles protect you from damage",
+    "Id": 37
+  },
+  {
+    "Content": "Beetles increase your melee damage and speed",
+    "Id": 38
+  },
+  {
+    "Content": "Increases minion damage by 10%",
+    "Id": 39
+  },
+  {
+    "Content": "Increases minion damage by 12%",
+    "Id": 40
+  },
+  {
+    "Content": "33% chance to not consume thrown item",
+    "Id": 41
+  },
+  {
+    "Content": "50% chance to not consume thrown item",
+    "Id": 42
+  },
+  {
+    "Content": "Solar shields generate over time protecting you,\nconsume the shield power to dash, damaging enemies",
+    "Id": 43
+  },
+  {
+    "Content": "Double tap [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? UP : DOWN ] to toggle stealth,\nincreasing ranged ability and reducing chance for enemies to target you but slowing movement speed",
+    "Id": 44
+  },
+  {
+    "Content": "Hurting enemies has a chance to spawn buff boosters,\npick boosters up to get stacking buffs",
+    "Id": 45
+  },
+  {
+    "Content": "Double tap [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? UP : DOWN ] to direct your guardian to a location",
+    "Id": 46
+  },
+  {
+    "Content": "Double tap [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? UP : DOWN ] to call an ancient storm to the cursor location",
+    "Id": 47
+  },
+  {
+    "Content": "Increases your max number of sentries\nGreatly enhances Ballista effectiveness",
+    "Id": 48
+  },
+  {
+    "Content": "Increases your max number of sentries\nGreatly enhances Flameburst effectiveness",
+    "Id": 49
+  },
+  {
+    "Content": "Increases your max number of sentries\nGreatly enhances Explosive Traps effectiveness",
+    "Id": 50
+  },
+  {
+    "Content": "Increases your max number of sentries\nGreatly enhances Lightning Aura effectiveness",
+    "Id": 51
+  },
+  {
+    "Content": "Increases your max number of sentries\nBallista pierces more targets and panics when you take damage",
+    "Id": 52
+  },
+  {
+    "Content": "Increases your max number of sentries\nFlameburst field of view and range are dramatically increased",
+    "Id": 53
+  }
+]

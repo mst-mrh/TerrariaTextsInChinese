@@ -1,0 +1,1562 @@
+﻿[
+  {
+    "Content": "I hope a scrawny kid like you isn't all that is standing between us and Cthulhu's Eye.",
+    "Id": 1
+  },
+  {
+    "Content": "Look at that shoddy armor you're wearing. Better buy some more healing potions.",
+    "Id": 2
+  },
+  {
+    "Content": "I feel like an evil presence is watching me.",
+    "Id": 3
+  },
+  {
+    "Content": "Sword beats paper! Get one today.",
+    "Id": 4
+  },
+  {
+    "Content": "You want apples? You want carrots? You want pineapples? We got torches.",
+    "Id": 5
+  },
+  {
+    "Content": "Lovely morning, wouldn't you say? Was there something you needed?",
+    "Id": 6
+  },
+  {
+    "Content": "Night will be upon us soon, friend. Make your choices while you can.",
+    "Id": 7
+  },
+  {
+    "Content": "You have no idea how much Dirt Blocks sell for overseas.",
+    "Id": 8
+  },
+  {
+    "Content": "Ah, they will tell tales of $Player some day... good ones I'm sure.",
+    "Id": 9
+  },
+  {
+    "Content": "Check out my dirt blocks; they are extra dirty.",
+    "Id": 10
+  },
+  {
+    "Content": "Boy, that sun is hot! I do have some perfectly ventilated armor.",
+    "Id": 11
+  },
+  {
+    "Content": "The sun is high, but my prices are not.",
+    "Id": 12
+  },
+  {
+    "Content": "Oh, great. I can hear $Npc_124 and $Npc_18 arguing from here.",
+    "Id": 13
+  },
+  {
+    "Content": "Have you seen Chith...Shith.. Chat... The big eye?",
+    "Id": 14
+  },
+  {
+    "Content": "Hey, this house is secure, right? Right? $Player?",
+    "Id": 15
+  },
+  {
+    "Content": "Not even a blood moon can stop capitalism. Let's do some business.",
+    "Id": 16
+  },
+  {
+    "Content": "Keep your eye on the prize, buy a lense!",
+    "Id": 17
+  },
+  {
+    "Content": "Kosh, kapleck Mog. Oh sorry, that's klingon for 'Buy something or die.'",
+    "Id": 18
+  },
+  {
+    "Content": "$Player is it? I've heard good things, friend!",
+    "Id": 19
+  },
+  {
+    "Content": "I hear there's a secret treasure... oh never mind.",
+    "Id": 20
+  },
+  {
+    "Content": "Angel Statue you say? I'm sorry, I'm not a junk dealer.",
+    "Id": 21
+  },
+  {
+    "Content": "The last guy who was here left me some junk... er I mean... treasures!",
+    "Id": 22
+  },
+  {
+    "Content": "I wonder if the moon is made of cheese...huh, what? Oh yes, buy something!",
+    "Id": 23
+  },
+  {
+    "Content": "Did you say gold?  I'll take that off of ya.",
+    "Id": 24
+  },
+  {
+    "Content": "You better not get blood on me.",
+    "Id": 25
+  },
+  {
+    "Content": "Hurry up and stop bleeding.",
+    "Id": 26
+  },
+  {
+    "Content": "If you're going to die, do it outside.",
+    "Id": 27
+  },
+  {
+    "Content": "What is that supposed to mean?!",
+    "Id": 28
+  },
+  {
+    "Content": "I don't think I like your tone.",
+    "Id": 29
+  },
+  {
+    "Content": "Why are you even here? If you aren't bleeding, you don't need to be here. Get out.",
+    "Id": 30
+  },
+  {
+    "Content": "WHAT?!",
+    "Id": 31
+  },
+  {
+    "Content": "Have you seen that old man pacing around the dungeon? He looks troubled.",
+    "Id": 32
+  },
+  {
+    "Content": "I wish $Npc_38 would be more careful.  I'm getting tired of having to sew his limbs back on every day.",
+    "Id": 33
+  },
+  {
+    "Content": "Hey, has $Npc_19 mentioned needing to go to the doctor for any reason? Just wondering.",
+    "Id": 34
+  },
+  {
+    "Content": "I need to have a serious talk with $Npc_22. How many times a week can you come in with severe lava burns?",
+    "Id": 35
+  },
+  {
+    "Content": "I think you look better this way.",
+    "Id": 36
+  },
+  {
+    "Content": "Eww... What happened to your face?",
+    "Id": 37
+  },
+  {
+    "Content": "MY GOODNESS! I'm good, but I'm not THAT good.",
+    "Id": 38
+  },
+  {
+    "Content": "Dear friends we are gathered here today to bid farewell... Oh, you'll be fine.",
+    "Id": 39
+  },
+  {
+    "Content": "You left your arm over there. Let me get that for you...",
+    "Id": 40
+  },
+  {
+    "Content": "Quit being such a baby! I've seen worse.",
+    "Id": 41
+  },
+  {
+    "Content": "That's gonna need stitches!",
+    "Id": 42
+  },
+  {
+    "Content": "Trouble with those bullies again?",
+    "Id": 43
+  },
+  {
+    "Content": "Hold on, I've got some cartoon bandages around here somewhere.",
+    "Id": 44
+  },
+  {
+    "Content": "Walk it off, $Player, you'll be fine. Sheesh.",
+    "Id": 45
+  },
+  {
+    "Content": "Does it hurt when you do that? Don't do that.",
+    "Id": 46
+  },
+  {
+    "Content": "You look half digested. Have you been chasing slimes again?",
+    "Id": 47
+  },
+  {
+    "Content": "Turn your head and cough.",
+    "Id": 48
+  },
+  {
+    "Content": "That's not the biggest I've ever seen... Yes, I've seen bigger wounds for sure.",
+    "Id": 49
+  },
+  {
+    "Content": "Would you like a lollipop?",
+    "Id": 50
+  },
+  {
+    "Content": "Show me where it hurts.",
+    "Id": 51
+  },
+  {
+    "Content": "I'm sorry, but you can't afford me.",
+    "Id": 52
+  },
+  {
+    "Content": "I'm gonna need more gold than that.",
+    "Id": 53
+  },
+  {
+    "Content": "I don't work for free you know.",
+    "Id": 54
+  },
+  {
+    "Content": "I don't give happy endings.",
+    "Id": 55
+  },
+  {
+    "Content": "I can't do anymore for you without plastic surgery.",
+    "Id": 56
+  },
+  {
+    "Content": "Quit wasting my time.",
+    "Id": 57
+  },
+  {
+    "Content": "I heard there is a doll that looks very similar to $Npc_22 somewhere in the underworld.  I'd like to put a few rounds in it.",
+    "Id": 58
+  },
+  {
+    "Content": "Make it quick! I've got a date with $Npc_18 in an hour.",
+    "Id": 59
+  },
+  {
+    "Content": "I want what $Npc_18 is sellin'. What do you mean, she doesn't sell anything?",
+    "Id": 60
+  },
+  {
+    "Content": "$Npc_20 is a looker.  Too bad she's such a prude.",
+    "Id": 61
+  },
+  {
+    "Content": "Don't bother with $Npc_38, I've got all you need right here.",
+    "Id": 62
+  },
+  {
+    "Content": "What's $Npc_38's problem? Does he even realize we sell completely different stuff?",
+    "Id": 63
+  },
+  {
+    "Content": "Man, it's a good night not to talk to anybody, don't you think, $Player?",
+    "Id": 64
+  },
+  {
+    "Content": "I love nights like tonight.  There is never a shortage of things to kill!",
+    "Id": 65
+  },
+  {
+    "Content": "I see you're eyeballin' the Minishark.. You really don't want to know how it was made.",
+    "Id": 66
+  },
+  {
+    "Content": "Hey, this ain't a movie, pal. Ammo is extra.",
+    "Id": 67
+  },
+  {
+    "Content": "Keep your hands off my gun, buddy!",
+    "Id": 68
+  },
+  {
+    "Content": "Have you tried using purification powder on the ebonstone of the corruption?",
+    "Id": 69
+  },
+  {
+    "Content": "I wish $Npc_19 would stop flirting with me. Doesn't he realize I'm 500 years old?",
+    "Id": 70
+  },
+  {
+    "Content": "Why does $Npc_17 keep trying to sell me an angel statues? Everyone knows that they don't do anything.",
+    "Id": 71
+  },
+  {
+    "Content": "Have you seen the old man walking around the dungeon? He doesn't look well at all...",
+    "Id": 72
+  },
+  {
+    "Content": "I sell what I want! If you don't like it, too bad.",
+    "Id": 73
+  },
+  {
+    "Content": "Why do you have to be so confrontational during a time like this?",
+    "Id": 74
+  },
+  {
+    "Content": "I don't want you to buy my stuff. I want you to want to buy my stuff, ok?",
+    "Id": 75
+  },
+  {
+    "Content": "Dude, is it just me or is there like a million zombies out tonight?",
+    "Id": 76
+  },
+  {
+    "Content": "You must cleanse the world of this corruption.",
+    "Id": 77
+  },
+  {
+    "Content": "Be safe; Terraria needs you!",
+    "Id": 78
+  },
+  {
+    "Content": "The sands of time are flowing. And well, you are not aging very gracefully.",
+    "Id": 79
+  },
+  {
+    "Content": "What's this about me having more 'bark' than bite?",
+    "Id": 80
+  },
+  {
+    "Content": "So two goblins walk into a bar, and one says to the other, 'Want to get a Goblet of beer?!",
+    "Id": 81
+  },
+  {
+    "Content": "I cannot let you enter until you free me of my curse.",
+    "Id": 82
+  },
+  {
+    "Content": "Come back at night if you wish to enter.",
+    "Id": 83
+  },
+  {
+    "Content": "My master cannot be summoned under the light of day.",
+    "Id": 84
+  },
+  {
+    "Content": "You are far too weak to defeat my curse.  Come back when you aren't so worthless.",
+    "Id": 85
+  },
+  {
+    "Content": "You pathetic fool.  You cannot hope to face my master as you are now.",
+    "Id": 86
+  },
+  {
+    "Content": "I hope you have like six friends standing around behind you.",
+    "Id": 87
+  },
+  {
+    "Content": "Please, no, stranger. You'll only get yourself killed.",
+    "Id": 88
+  },
+  {
+    "Content": "You just might be strong enough to free me from my curse...",
+    "Id": 89
+  },
+  {
+    "Content": "Stranger, do you possess the strength to defeat my master?",
+    "Id": 90
+  },
+  {
+    "Content": "Please! Battle my captor and free me! I beg you!",
+    "Id": 91
+  },
+  {
+    "Content": "Defeat my master, and I will grant you passage into the Dungeon.",
+    "Id": 92
+  },
+  {
+    "Content": "Trying to get past that ebonrock, eh?  Why not introduce it to one of these explosives!",
+    "Id": 93
+  },
+  {
+    "Content": "Hey, have you seen a clown around?",
+    "Id": 94
+  },
+  {
+    "Content": "There was a bomb sitting right here, and now I can't seem to find it...",
+    "Id": 95
+  },
+  {
+    "Content": "I've got something for them zombies alright!",
+    "Id": 96
+  },
+  {
+    "Content": "Even $Npc_19 wants what I'm selling!",
+    "Id": 97
+  },
+  {
+    "Content": "Would you rather have a bullet hole or a grenade hole? That's what I thought.",
+    "Id": 98
+  },
+  {
+    "Content": "I'm sure $Npc_18 will help if you accidentally lose a limb to these.",
+    "Id": 99
+  },
+  {
+    "Content": "Why purify the world when you can just blow it up?",
+    "Id": 100
+  },
+  {
+    "Content": "If you throw this one in the bathtub and close all the windows, it'll clear your sinuses and pop your ears!",
+    "Id": 101
+  },
+  {
+    "Content": "Wanna play Fuse Chicken?",
+    "Id": 102
+  },
+  {
+    "Content": "Hey, could you sign this Griefing Waiver?",
+    "Id": 103
+  },
+  {
+    "Content": "NO SMOKING IN HERE!!",
+    "Id": 104
+  },
+  {
+    "Content": "Explosives are da' bomb these days.  Buy some now!",
+    "Id": 105
+  },
+  {
+    "Content": "It's a good day to die!",
+    "Id": 106
+  },
+  {
+    "Content": "I wonder what happens if I... (BOOM!)... Oh, sorry, did you need that leg?",
+    "Id": 107
+  },
+  {
+    "Content": "Dynamite, my own special cure-all for what ails ya.",
+    "Id": 108
+  },
+  {
+    "Content": "Check out my goods; they have explosive prices!",
+    "Id": 109
+  },
+  {
+    "Content": "I keep having vague memories of tying up a woman and throwing her in a dungeon.",
+    "Id": 110
+  },
+  {
+    "Content": "... we have a problem! Its a blood moon out there!",
+    "Id": 111
+  },
+  {
+    "Content": "T'were I younger, I would ask $Npc_18 out. I used to be quite the lady killer.",
+    "Id": 112
+  },
+  {
+    "Content": "That Red Hat of yours looks familiar...",
+    "Id": 113
+  },
+  {
+    "Content": "Thanks again for freeing me from my curse. Felt like something jumped up and bit me.",
+    "Id": 114
+  },
+  {
+    "Content": "Mama always said I would make a great tailor.",
+    "Id": 115
+  },
+  {
+    "Content": "Life's like a box of clothes; you never know what you are gonna wear!",
+    "Id": 116
+  },
+  {
+    "Content": "Of course embroidery is hard! If it wasn't hard, no one would do it! That's what makes it great.",
+    "Id": 117
+  },
+  {
+    "Content": "I know everything they is to know about the clothierin' business.",
+    "Id": 118
+  },
+  {
+    "Content": "Being cursed was lonely, so I once made a friend out of leather. I named him Wilson.",
+    "Id": 119
+  },
+  {
+    "Content": "Thank you for freeing me, human.  I was tied up and left here by the other goblins.  You could say that we didn't get along very well.",
+    "Id": 120
+  },
+  {
+    "Content": "I can't believe they tied me up and left me here just for pointing out that they weren't going east!",
+    "Id": 121
+  },
+  {
+    "Content": "Now that I'm an outcast, can I throw away the spiked balls? My pockets hurt.",
+    "Id": 122
+  },
+  {
+    "Content": "Looking for a gadgets expert? I'm your goblin!",
+    "Id": 123
+  },
+  {
+    "Content": "Thanks for your help. Now, I have to finish pacing around aimlessly here. I'm sure we'll meet again.",
+    "Id": 124
+  },
+  {
+    "Content": "I thought you'd be taller.",
+    "Id": 125
+  },
+  {
+    "Content": "Hey...what's $Npc_124 up to? Have you...have you talked to her, by chance?",
+    "Id": 126
+  },
+  {
+    "Content": "Hey, does your hat need a motor? I think I have a motor that would fit exactly in that hat.",
+    "Id": 127
+  },
+  {
+    "Content": "Yo, I heard you like rockets and running boots, so I put some rockets in your running boots.",
+    "Id": 128
+  },
+  {
+    "Content": "Silence is golden. Duct tape is silver.",
+    "Id": 129
+  },
+  {
+    "Content": "YES, gold is stronger than iron. What are they teaching these humans nowadays?",
+    "Id": 130
+  },
+  {
+    "Content": "You know, that mining helmet-flipper combination was a much better idea on paper.",
+    "Id": 131
+  },
+  {
+    "Content": "Goblins are surprisingly easy to anger. In fact, they could start a war over cloth!",
+    "Id": 132
+  },
+  {
+    "Content": "To be honest, most goblins aren't exactly rocket scientists. Well, some are.",
+    "Id": 133
+  },
+  {
+    "Content": "Do you know why we all carry around these spiked balls? Because I don't.",
+    "Id": 134
+  },
+  {
+    "Content": "I just finished my newest creation! This version doesn't explode violently if you breathe on it too hard.",
+    "Id": 135
+  },
+  {
+    "Content": "Goblin thieves aren't very good at their job. They can't even steal from an unlocked chest!",
+    "Id": 136
+  },
+  {
+    "Content": "Thanks for saving me, friend!  This bondage was starting to chafe.",
+    "Id": 137
+  },
+  {
+    "Content": "Ohh, my hero!",
+    "Id": 138
+  },
+  {
+    "Content": "Oh, how heroic! Thank you for saving me, young lady!",
+    "Id": 139
+  },
+  {
+    "Content": "Oh, how heroic! Thank you for saving me, young man!",
+    "Id": 140
+  },
+  {
+    "Content": "Now that we know each other, I can move in with you, right?",
+    "Id": 141
+  },
+  {
+    "Content": "Well, hi there, $Npc_22! What can I do for you today?",
+    "Id": 142
+  },
+  {
+    "Content": "Well, hi there, $Npc_38! What can I do for you today?",
+    "Id": 143
+  },
+  {
+    "Content": "Well, hi there, $Npc_107! What can I do for you today?",
+    "Id": 144
+  },
+  {
+    "Content": "Well, hi there, $Npc_18! What can I do for you today?",
+    "Id": 145
+  },
+  {
+    "Content": "Well, hi there, $Npc_124! What can I do for you today?",
+    "Id": 146
+  },
+  {
+    "Content": "Well, hi there, $Npc_20! What can I do for you today?",
+    "Id": 147
+  },
+  {
+    "Content": "Want me to pull a coin from behind your ear? No? Ok.",
+    "Id": 148
+  },
+  {
+    "Content": "Do you want some magic candy? No? Ok.",
+    "Id": 149
+  },
+  {
+    "Content": "I make a rather enchanting hot chocolate if you'd be inter...No? Ok.",
+    "Id": 150
+  },
+  {
+    "Content": "Are you here for a peek at my crystal ball?",
+    "Id": 151
+  },
+  {
+    "Content": "Ever wanted an enchanted ring that turns rocks into slimes? Well neither did I.",
+    "Id": 152
+  },
+  {
+    "Content": "Someone once told me friendship is magic. That's ridiculous. You can't turn people into frogs with friendship.",
+    "Id": 153
+  },
+  {
+    "Content": "I can see your future now... You will buy a lot of items from me!",
+    "Id": 154
+  },
+  {
+    "Content": "I once tried to bring an Angel Statue to life. It didn't do anything.",
+    "Id": 155
+  },
+  {
+    "Content": "Thanks!  It was just a matter of time before I ended up like the rest of the skeletons down here.",
+    "Id": 156
+  },
+  {
+    "Content": "Hey, watch where you're going! I was over there a little while ago!",
+    "Id": 157
+  },
+  {
+    "Content": "Hold on, I've almost got wifi going down here.",
+    "Id": 158
+  },
+  {
+    "Content": "But I was almost done putting blinking lights up here!",
+    "Id": 159
+  },
+  {
+    "Content": "DON'T MOVE. I DROPPED MY CONTACT.",
+    "Id": 160
+  },
+  {
+    "Content": "All I want is for the switch to make the... What?!",
+    "Id": 161
+  },
+  {
+    "Content": "Oh, let me guess. Didn't buy enough wire. Idiot.",
+    "Id": 162
+  },
+  {
+    "Content": "Just-could you just... Please? Ok? Ok. Ugh.",
+    "Id": 163
+  },
+  {
+    "Content": "I don't appreciate the way you're looking at me. I am WORKING right now.",
+    "Id": 164
+  },
+  {
+    "Content": "Hey, $Player, did you just come from $Npc_107's? Did he say anything about me by chance?",
+    "Id": 165
+  },
+  {
+    "Content": "$Npc_19 keeps talking about pressing my pressure plate. I told him it was for stepping on.",
+    "Id": 166
+  },
+  {
+    "Content": "Always buy more wire than you need!",
+    "Id": 167
+  },
+  {
+    "Content": "Did you make sure your device was plugged in?",
+    "Id": 168
+  },
+  {
+    "Content": "Oh, you know what this house needs? More blinking lights.",
+    "Id": 169
+  },
+  {
+    "Content": "You can tell a Blood Moon is out when the sky turns red. There is something about it that causes monsters to swarm.",
+    "Id": 170
+  },
+  {
+    "Content": "Hey, buddy, do you know where any deathweed is? Oh, no reason; just wondering, is all.",
+    "Id": 171
+  },
+  {
+    "Content": "If you were to look up, you'd see that the moon is red right now.",
+    "Id": 172
+  },
+  {
+    "Content": "You should stay indoors at night. It is very dangerous to be wandering around in the dark.",
+    "Id": 173
+  },
+  {
+    "Content": "Greetings, $Player. Is there something I can help you with?",
+    "Id": 174
+  },
+  {
+    "Content": "I am here to give you advice on what to do next.  It is recommended that you talk with me anytime you get stuck.",
+    "Id": 175
+  },
+  {
+    "Content": "They say there is a person who will tell you how to survive in this land... oh wait. That's me.",
+    "Id": 176
+  },
+  {
+    "Content": "You can use your pickaxe to dig through dirt, and your axe to chop down trees. Just place your cursor over the tile and click!",
+    "Id": 177
+  },
+  {
+    "Content": "If you want to survive, you will need to create weapons and shelter. Start by chopping down trees and gathering wood.",
+    "Id": 178
+  },
+  {
+    "Content": "Press $Terraria.Main::cInv to access your crafting menu. When you have enough wood, create a workbench. This will allow you to create more complicated things, as long as you are standing close to it.",
+    "Id": 179
+  },
+  {
+    "Content": "You can build a shelter by placing wood or other blocks in the world. Don't forget to create and place walls.",
+    "Id": 180
+  },
+  {
+    "Content": "Once you have a wooden sword, you might try to gather some gel from the slimes. Combine wood and gel to make a torch!",
+    "Id": 181
+  },
+  {
+    "Content": "To interact with backgrounds, use a hammer!",
+    "Id": 182
+  },
+  {
+    "Content": "You should do some mining to find metal ore. You can craft very useful things with it.",
+    "Id": 183
+  },
+  {
+    "Content": "Now that you have some ore, you will need to turn it into a bar in order to make items with it. This requires a furnace!",
+    "Id": 184
+  },
+  {
+    "Content": "You can create a furnace out of torches, wood, and stone. Make sure you are standing near a work bench.",
+    "Id": 185
+  },
+  {
+    "Content": "You will need an anvil to make most things out of metal bars.",
+    "Id": 186
+  },
+  {
+    "Content": "Anvils can be crafted out of iron, or purchased from a merchant.",
+    "Id": 187
+  },
+  {
+    "Content": "Underground are crystal hearts which can be used to increase your max life. You can smash them with a pickaxe.",
+    "Id": 188
+  },
+  {
+    "Content": "If you gather 5 fallen stars, they can be combined to create an item that will increase your magic capacity.",
+    "Id": 189
+  },
+  {
+    "Content": "Stars fall all over the world at night. They can be used for all sorts of usefull things. If you see one, be sure to grab it because they disappear after sunrise.",
+    "Id": 190
+  },
+  {
+    "Content": "There are many different ways you can attract people to move in to our town. They will of course need a home to live in.",
+    "Id": 191
+  },
+  {
+    "Content": "In order for a room to be considered a home, it needs to have a door, a chair, a table, and a light source.  Make sure the house has walls as well.",
+    "Id": 192
+  },
+  {
+    "Content": "Two people will not live in the same home. Also, if their home is destroyed, they will look for a new place to live.",
+    "Id": 193
+  },
+  {
+    "Content": "You can use the housing interface to assign and view housing. Open your inventory and click the house icon.",
+    "Id": 194
+  },
+  {
+    "Content": "If you want a merchant to move in, you will need to gather plenty of money. 50 silver coins should do the trick!",
+    "Id": 195
+  },
+  {
+    "Content": "For a nurse to move in, you might want to increase your maximum life.",
+    "Id": 196
+  },
+  {
+    "Content": "If you had a gun, I bet an arms dealer might show up to sell you some ammo!",
+    "Id": 197
+  },
+  {
+    "Content": "You should prove yourself by defeating a strong monster. That will get the attention of a dryad.",
+    "Id": 198
+  },
+  {
+    "Content": "Make sure to explore the dungeon thoroughly. There may be prisoners held deep within.",
+    "Id": 199
+  },
+  {
+    "Content": "Perhaps the old man by the dungeon would like to join us now that his curse has been lifted.",
+    "Id": 200
+  },
+  {
+    "Content": "Hang on to any bombs you might find. A demolitionist may want to have a look at them.",
+    "Id": 201
+  },
+  {
+    "Content": "Are goblins really so different from us that we couldn't live together peacefully?",
+    "Id": 202
+  },
+  {
+    "Content": "I heard there was a powerful wizard who lives in these parts.  Make sure to keep an eye out for him next time you go underground.",
+    "Id": 203
+  },
+  {
+    "Content": "If you combine lenses at a demon altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.",
+    "Id": 204
+  },
+  {
+    "Content": "You can create worm bait with rotten chunks and vile powder. Make sure you are in a corrupt area before using it.",
+    "Id": 205
+  },
+  {
+    "Content": "Demonic altars can usually be found in the corruption. You will need to be near them to craft some items.",
+    "Id": 206
+  },
+  {
+    "Content": "You can make a grappling hook from a hook and 3 chains. Skeletons found deep underground usually carry hooks, and chains can be made from iron bars.",
+    "Id": 207
+  },
+  {
+    "Content": "If you see a pot, be sure to smash it open. They contain all sorts of useful supplies.",
+    "Id": 208
+  },
+  {
+    "Content": "There is treasure hidden all over the world. Some amazing things can be found deep underground!",
+    "Id": 209
+  },
+  {
+    "Content": "Smashing a shadow orb will sometimes cause a meteor to fall out of the sky. Shadow orbs can usually be found in the chasms around corrupt areas.",
+    "Id": 210
+  },
+  {
+    "Content": "You should focus on gathering more life crystals to increase your maximum life.",
+    "Id": 211
+  },
+  {
+    "Content": "Your current equipment simply won't do. You need to make better armor.",
+    "Id": 212
+  },
+  {
+    "Content": "I think you are ready for your first major battle. Gather some lenses from the eyeballs at night and take them to a demon altar.",
+    "Id": 213
+  },
+  {
+    "Content": "You will want to increase your life before facing your next challenge. Fifteen hearts should be enough.",
+    "Id": 214
+  },
+  {
+    "Content": "The ebonstone in the corruption can be purified using some powder from a dryad, or it can be destroyed with explosives.",
+    "Id": 215
+  },
+  {
+    "Content": "Your next step should be to explore the corrupt chasms.  Find and destroy any shadow orb you find.",
+    "Id": 216
+  },
+  {
+    "Content": "There is a old dungeon not far from here. Now would be a good time to go check it out.",
+    "Id": 217
+  },
+  {
+    "Content": "You should make an attempt to max out your available life. Try to gather twenty hearts.",
+    "Id": 218
+  },
+  {
+    "Content": "There are many treasures to be discovered in the jungle, if you are willing to dig deep enough.",
+    "Id": 219
+  },
+  {
+    "Content": "The underworld is made of a material called hellstone. It's perfect for making weapons and armor.",
+    "Id": 220
+  },
+  {
+    "Content": "When you are ready to challenge the keeper of the underworld, you will have to make a living sacrifice. Everything you need for it can be found in the underworld.",
+    "Id": 221
+  },
+  {
+    "Content": "Make sure to smash any demon altar you can find. Something good is bound to happen if you do!",
+    "Id": 222
+  },
+  {
+    "Content": "Souls can sometimes be gathered from fallen creatures in places of extreme light or dark.",
+    "Id": 223
+  },
+  {
+    "Content": "Ho ho ho, and a bottle of... Egg Nog!",
+    "Id": 224
+  },
+  {
+    "Content": "Care to bake me some cookies?",
+    "Id": 225
+  },
+  {
+    "Content": "What? You thought I wasn't real?",
+    "Id": 226
+  },
+  {
+    "Content": "I managed to sew your face back on. Be more careful next time.",
+    "Id": 227
+  },
+  {
+    "Content": "That's probably going to leave a scar.",
+    "Id": 228
+  },
+  {
+    "Content": "All better. I don't want to see you jumping off anymore cliffs.",
+    "Id": 229
+  },
+  {
+    "Content": "That didn't hurt too bad, now did it?",
+    "Id": 230
+  },
+  {
+    "Content": "As if living underground wasn't bad enough, jerks like you come in while I'm sleeping and steal my children.",
+    "Id": 231
+  },
+  {
+    "Content": "Between you and me, $Npc_20 is the only one I trust. She is the only one here who hasn't tried to eat me or use me in a potion.",
+    "Id": 232
+  },
+  {
+    "Content": "I tried to lick myself the other day to see what the big deal was, everything started glowing blue.",
+    "Id": 233
+  },
+  {
+    "Content": "Everytime I see the color blue, it makes me depressed and lazy.",
+    "Id": 234
+  },
+  {
+    "Content": "You haven't seen any pigs around here have you? My brother lost his leg to one.",
+    "Id": 235
+  },
+  {
+    "Content": "Everyone in this town feels a bit off. I woke up to the clothier chewing on my foot last night.",
+    "Id": 236
+  },
+  {
+    "Content": "I'll give you a discount on your wears if you can convince $Npc_160 to come over for a...sizing.",
+    "Id": 237
+  },
+  {
+    "Content": "I feel like $Npc_160 is a bit misunderstood, he really is a fun guy.",
+    "Id": 238
+  },
+  {
+    "Content": "I don't know the 'Truffle Shuffle,' so stop asking!",
+    "Id": 240
+  },
+  {
+    "Content": "There's been such a huge rumor that's being spread about me, 'If you can't beat him, eat him!'",
+    "Id": 241
+  },
+  {
+    "Content": "Oy, whatchu got in you jiminy fluffer?",
+    "Id": 242
+  },
+  {
+    "Content": "Should I become an air pirate? I've considered becoming an air pirate.",
+    "Id": 243
+  },
+  {
+    "Content": "Be it what it would, a jetpack would suit you nicely!",
+    "Id": 244
+  },
+  {
+    "Content": "I'm feeling a bit peevish as of late, so enough with your palaver you ragamuffin!",
+    "Id": 245
+  },
+  {
+    "Content": "I'm mighty curious about that $Npc_209 fellow. By what manner of consumption does he maintain such locomotion?",
+    "Id": 246
+  },
+  {
+    "Content": "That captain fellow seems to me to be 'pretty well over the bay' if you know what I mean!",
+    "Id": 247
+  },
+  {
+    "Content": "Show me some gears!",
+    "Id": 248
+  },
+  {
+    "Content": "I like your... gear. Does it come in brass?",
+    "Id": 249
+  },
+  {
+    "Content": "Once you enter hallowed land, you will see a rainbow in the sky. I can help you with painting that if you want.",
+    "Id": 250
+  },
+  {
+    "Content": "Check out $Npc_208. Now that's a girl who can paint the town red!",
+    "Id": 251
+  },
+  {
+    "Content": "I know the difference between turquoise and blue-green. But I won't tell you.",
+    "Id": 252
+  },
+  {
+    "Content": "I'm all out of titanium white, so don't even ask.",
+    "Id": 253
+  },
+  {
+    "Content": "Try swirly pink and purple, it works, I swear!",
+    "Id": 254
+  },
+  {
+    "Content": "No, no, no... There's TONS of different grays! Don't get me started...",
+    "Id": 255
+  },
+  {
+    "Content": "I hope it doesn't rain again until this paint dries. That would be a disaster!",
+    "Id": 256
+  },
+  {
+    "Content": "I bring you the richest colors in exchange for your riches!",
+    "Id": 257
+  },
+  {
+    "Content": "My dear, what you're wearing is much too drab. You absolutely must take a lesson in dyeing your tired attire!",
+    "Id": 258
+  },
+  {
+    "Content": "The only kind of wood I would bother dyeing is RICH Mahogany. Dyeing any other wood is such a waste.",
+    "Id": 259
+  },
+  {
+    "Content": "You must do something about $Npc_229.  Everytime he comes over here, it takes me a week to get the smell off!",
+    "Id": 260
+  },
+  {
+    "Content": "Which doctor am I? The Witch Doctor am I.",
+    "Id": 261
+  },
+  {
+    "Content": "The heart of magic is nature. The nature of hearts is magic.",
+    "Id": 262
+  },
+  {
+    "Content": "$Npc_18 may help heal your body, but I can make you embody healing.",
+    "Id": 263
+  },
+  {
+    "Content": "Choose wisely, $Player, my commodities are volatile and my dark arts, mysterious.",
+    "Id": 264
+  },
+  {
+    "Content": "We have to talk. It's... it's about parties.",
+    "Id": 265
+  },
+  {
+    "Content": "I can't decide what I like more: parties, or after-parties.",
+    "Id": 266
+  },
+  {
+    "Content": "We should set up a blinkroot party, and we should also set up an after-party.",
+    "Id": 267
+  },
+  {
+    "Content": "Wow, $Player, meeting an adventurous man like you makes me want to party!",
+    "Id": 268
+  },
+  {
+    "Content": "Put up a disco ball and then I'll show you how to party.",
+    "Id": 269
+  },
+  {
+    "Content": "I went to Sweden once, they party hard, why aren't you like that?",
+    "Id": 270
+  },
+  {
+    "Content": "My name's $Npc_208 but people call me party pooper. Yeah I don't know, it sounds cool though.",
+    "Id": 271
+  },
+  {
+    "Content": "Do you party? Sometimes? Hm, okay then we can talk...",
+    "Id": 272
+  },
+  {
+    "Content": "I'm no landlubber, but it's better to have lubbed and lost than never to have lubbed at all.",
+    "Id": 273
+  },
+  {
+    "Content": "Yo ho ho and a bottle of....blinkroots!",
+    "Id": 274
+  },
+  {
+    "Content": "YAR!  Funny ye should be mentionin' parrots b'cause...um...What t'were we talkin' 'bout?",
+    "Id": 275
+  },
+  {
+    "Content": "$Player, Ye be one o' the finest lookin' lassies this here captain's seen in many a fortnight!",
+    "Id": 276
+  },
+  {
+    "Content": "Stay off me booty, ya scallywag!",
+    "Id": 277
+  },
+  {
+    "Content": "What in blazes are ye talkin' about? Moby Dick is mine!",
+    "Id": 278
+  },
+  {
+    "Content": "*Yarr Blarr Harrdarr*",
+    "Id": 279
+  },
+  {
+    "Content": "And then Unit 492-8 said, 'Who do you think I am, Unit 472-6?' HA. HA. HA.",
+    "Id": 280
+  },
+  {
+    "Content": "My expedition efficiency was critically reduced when a projectile impacted my locomotive actuator.",
+    "Id": 281
+  },
+  {
+    "Content": "This sentence is false , or is it?",
+    "Id": 282
+  },
+  {
+    "Content": "So that 'punk' lookin' chick is an inventor, eh? I think I could show her a thing or two!",
+    "Id": 283
+  },
+  {
+    "Content": "Sure, me and $Npc_229 are pals, but I hate it when his parrot does his business on me. That stuff's corrosive!",
+    "Id": 284
+  },
+  {
+    "Content": "I built myself a taste mechanism, so I can drink some ale!",
+    "Id": 285
+  },
+  {
+    "Content": "Sometimes I come off a bit... Get it? a bit?",
+    "Id": 286
+  },
+  {
+    "Content": "'Short back and sides' is it?",
+    "Id": 287
+  },
+  {
+    "Content": "Those highlights really bring out your eyes!",
+    "Id": 288
+  },
+  {
+    "Content": "My hands are sticky from all that... wax.",
+    "Id": 289
+  },
+  {
+    "Content": "Tea? Coffee? Or is it just orange juice again?",
+    "Id": 290
+  },
+  {
+    "Content": "Doll, we seriously need to fix those split ends.",
+    "Id": 291
+  },
+  {
+    "Content": "Gurrllll! You are my favorite gossip ever.",
+    "Id": 292
+  },
+  {
+    "Content": "Which aftershave can I interest you in today, sir?",
+    "Id": 293
+  },
+  {
+    "Content": "Sit down for a second and I'll have you steppin' razor.",
+    "Id": 294
+  },
+  {
+    "Content": "Either you have style, or you get styled.",
+    "Id": 295
+  },
+  {
+    "Content": "For you I think we'll do something... low maintenance.",
+    "Id": 296
+  },
+  {
+    "Content": "I tried using one of the Dye Master's products once. Ends fried. Disaster.",
+    "Id": 297
+  },
+  {
+    "Content": "Oh you poor, poor thing. Just... just sit down here. It'll be okay. Shhhh.",
+    "Id": 298
+  },
+  {
+    "Content": "Check my fresh.",
+    "Id": 299
+  },
+  {
+    "Content": "Hello sir, I'm $Npc_353, and I'll be your barber today.",
+    "Id": 300
+  },
+  {
+    "Content": "Just a little off the top?  That's no fun...",
+    "Id": 301
+  },
+  {
+    "Content": "I hope you like what I did to $Npc_208's hair!",
+    "Id": 302
+  },
+  {
+    "Content": "There is nothing I can do for $Npc_38's singed head. He's a lost cause.",
+    "Id": 303
+  },
+  {
+    "Content": "Tipping IS optional, but remember I have access to scissors and your head.",
+    "Id": 304
+  },
+  {
+    "Content": "This is a cut-throat razer by the way.",
+    "Id": 305
+  },
+  {
+    "Content": "You better stay outta my hair tonight, hun. I just sharpened my scissors, and I'm looking for an excuse to use them!",
+    "Id": 306
+  },
+  {
+    "Content": "Mhmm, I heard from $Npc_208 that $Npc_124's friend $Npc_18 spent her boyfriend's last paycheck on shoes.",
+    "Id": 307
+  },
+  {
+    "Content": "One time I put a wig on $Npc_209 just so I could cut his hair. I think he kinda liked it!",
+    "Id": 308
+  },
+  {
+    "Content": "I tried to visit $Npc_353 one time. She just looked at me and said 'nope.'",
+    "Id": 309
+  },
+  {
+    "Content": "I think it is about time I got my hair did!",
+    "Id": 310
+  },
+  {
+    "Content": "Did you even try to brush your hair today?",
+    "Id": 311
+  },
+  {
+    "Content": "So a pixie cut, would you like to keep some lady burns?",
+    "Id": 312
+  },
+  {
+    "Content": "I have no problem cleaning up ears and eyebrows, but I draw the line at nose hair.",
+    "Id": 313
+  },
+  {
+    "Content": "Alright, you sit and marinate. I'll be back to rinse your color out in 25 minutes...",
+    "Id": 314
+  },
+  {
+    "Content": "Thanks hun! Now I can finally do my hair.",
+    "Id": 315
+  },
+  {
+    "Content": "I would have given you a free cut if you'd come earlier.",
+    "Id": 316
+  },
+  {
+    "Content": "Don't go exploring with scissors, they said. You won't get trapped in a spider's web, they said!",
+    "Id": 317
+  },
+  {
+    "Content": "Ew, my hair, there's spider web all over it!",
+    "Id": 318
+  },
+  {
+    "Content": "Meet me behind $Npc_22's house in about three hours, I think I have something you will find very appealing.",
+    "Id": 319
+  },
+  {
+    "Content": "That $Npc_17, he really has no appreciation for a really good deal.",
+    "Id": 320
+  },
+  {
+    "Content": "I sell only what I can get. $Npc_54 keeps hounding me for exotic clothing.",
+    "Id": 321
+  },
+  {
+    "Content": "Hmm, you look like you could use an Angel Statue! They slice, and dice, and make everything nice!",
+    "Id": 322
+  },
+  {
+    "Content": "I don't refund for \"buyer's remorse...\" Or for any other reason, really.",
+    "Id": 323
+  },
+  {
+    "Content": "Buy now and get free shipping!",
+    "Id": 324
+  },
+  {
+    "Content": "I sell wares from places that might not even exist!",
+    "Id": 325
+  },
+  {
+    "Content": "You want two penny farthings!? Make it one and we have a deal.",
+    "Id": 326
+  },
+  {
+    "Content": "Combination hookah and coffee maker! Also makes julienne fries!",
+    "Id": 327
+  },
+  {
+    "Content": "Come and have a look! One pound fish! Very, very good! One pound fish!",
+    "Id": 328
+  },
+  {
+    "Content": "If you're looking for junk, you've come to the wrong place.",
+    "Id": 329
+  },
+  {
+    "Content": "A thrift shop?  No, I am only selling the highest quality items on the market.",
+    "Id": 330
+  },
+  {
+    "Content": "Smashing a crimson heart will sometimes cause a meteor to fall out of the sky. Crimson hearts can usually be found in the chasms around crimtane areas.",
+    "Id": 331
+  },
+  {
+    "Content": "Have you tried using purification powder on the crimstone of the crimson?",
+    "Id": 332
+  },
+  {
+    "Content": "You must cleanse the world of this crimson.",
+    "Id": 333
+  },
+  {
+    "Content": "Psst! I might have a job for you. Don't think you can say no, either!",
+    "Id": 334
+  },
+  {
+    "Content": "I want a fish and you're going to find me one! Ask me about it!",
+    "Id": 335
+  },
+  {
+    "Content": "Hey! Just the sacrifi- I mean competent fishing master that I've been looking for! ",
+    "Id": 336
+  },
+  {
+    "Content": "$Npc_369 wants YOU as the official $Terraria.Main::worldName errand monkey!",
+    "Id": 337
+  },
+  {
+    "Content": "Whaaaat?! Can't you see I'm winding up fishing line??",
+    "Id": 338
+  },
+  {
+    "Content": "I have enough fish! I don't need your help right now!",
+    "Id": 339
+  },
+  {
+    "Content": "There's no chefs in all of $Terraria.Main::worldName, so I have to cook all this fish myself! ",
+    "Id": 340
+  },
+  {
+    "Content": "Hey! Watch it! I'm setting up traps for my biggest prank ever! No one will see it coming! Don't you dare tell anyone!",
+    "Id": 341
+  },
+  {
+    "Content": "Let a kid give you some advice, never touch your tongue to an ice block! Wait, forget what I said, I totally want to see you do it!",
+    "Id": 342
+  },
+  {
+    "Content": "Ever heard of a barking fish?! I haven't, I'm just wondering if you did!",
+    "Id": 343
+  },
+  {
+    "Content": "$Terraria.Main::worldName is filled to the brim with the most outlandish kinds of fish!",
+    "Id": 344
+  },
+  {
+    "Content": "I'm bummed out! There's probably been fish that have gone extinct before I even was born, and that's not fair!",
+    "Id": 345
+  },
+  {
+    "Content": "I don't have a mommy or a daddy, but I have a lot of fish! It's close enough!",
+    "Id": 346
+  },
+  {
+    "Content": "Heh heh, you shoulda seen the look on $Npc_20's face when I stuck that piranha tooth in the chair!",
+    "Id": 347
+  },
+  {
+    "Content": "I have a request for you! No, I don't care that there's a zombie apocalypse right now!",
+    "Id": 348
+  },
+  {
+    "Content": "Hurry up and listen! I need you to catch something for me right now!",
+    "Id": 349
+  },
+  {
+    "Content": "I hate blood moons! I stay up all night because of all the scary noises!",
+    "Id": 350
+  },
+  {
+    "Content": "Blood moon is the worst time to fish! The fish bite, yes, but so do the zombies!",
+    "Id": 351
+  },
+  {
+    "Content": "There's a bajillion monsters running around out there right now!",
+    "Id": 352
+  },
+  {
+    "Content": "Thanks, I guess, for saving me or whatever. You'd be a great helper minion!",
+    "Id": 353
+  },
+  {
+    "Content": "Wha? Who might you be? I totally wasn't just drowning or anything!",
+    "Id": 354
+  },
+  {
+    "Content": "You saved me! You're awful nice, I could use you... er, I mean, totally hire you to do some awesome stuff for me!",
+    "Id": 355
+  },
+  {
+    "Content": "Got any spare bones for sale? I'm looking to replace my broken hip... again.",
+    "Id": 356
+  },
+  {
+    "Content": "Excellent! Someone's finally come by to take some of these maggots off my hands.",
+    "Id": 357
+  },
+  {
+    "Content": "There's no illness or condition that can't be cured by some of my Slime Oil! Trust me, it works, just look at my lively figure!",
+    "Id": 358
+  },
+  {
+    "Content": "You've got a real backbone coming way down here, how 'bout ya buy somethin?",
+    "Id": 359
+  },
+  {
+    "Content": "You would not believe some of the things people throw at me... Wanna buy some of it?",
+    "Id": 360
+  },
+  {
+    "Content": "I'd lend you a hand, but last time I did that, I didn't get it back for a month",
+    "Id": 361
+  },
+  {
+    "Content": "Stay away from the spiders. They'll suck out your insides and leave you a hollow shell of a man. Trust me on this one.",
+    "Id": 362
+  },
+  {
+    "Content": "The only things constant in this world are death and taxes, I've got both!",
+    "Id": 363
+  },
+  {
+    "Content": "You again? Suppose you want more money!?",
+    "Id": 364
+  },
+  {
+    "Content": "Must everyone open and shut doors so incredibly noisily around here?!",
+    "Id": 365
+  },
+  {
+    "Content": "I see you're free of time, as usual. Can't imagine what work life would be for your kind of folk.",
+    "Id": 366
+  },
+  {
+    "Content": "Yes, yes, yes! -- I'll give you your share in just a moment. I'd think you to be a bit more patient, what with me doing all the work and all.",
+    "Id": 367
+  },
+  {
+    "Content": "What does a man have to do to be left alone in this place? Go bugger someone less busy!",
+    "Id": 368
+  },
+  {
+    "Content": "...two barrels of molasses, plus -- Oh, nevermind that, you're here. Here's your money.",
+    "Id": 369
+  },
+  {
+    "Content": "Just between you and me... I have no idea why they're bothering to pay the rent",
+    "Id": 370
+  },
+  {
+    "Content": "Tried to get $Npc_20 to pay me with favors once, now I have fungus growing in strange places.",
+    "Id": 371
+  },
+  {
+    "Content": "Go tell $Npc_19 to stop offering to pay me with ammo, I don't even own a gun.",
+    "Id": 372
+  },
+  {
+    "Content": "Why don't YOU try collecting money from $Npc_38 and not lose a hand or foot or...",
+    "Id": 373
+  },
+  {
+    "Content": "I just came from $Npc_17's. He wanted to know if I took credit cards.",
+    "Id": 374
+  },
+  {
+    "Content": "Here's your cut of the taxes that I've taken from our surplus population!",
+    "Id": 380
+  },
+  {
+    "Content": "Here you are again, taking all my coin! Just grab it and begone from my sight!",
+    "Id": 381
+  },
+  {
+    "Content": "Bah! Here, take your shillings and get out of my sight!",
+    "Id": 382
+  },
+  {
+    "Content": "This is all you're gonna get for now, not a penny more! Take it and spend it wisely.",
+    "Id": 383
+  },
+  {
+    "Content": "...And people call me greedy? No, I have nothing else for you.",
+    "Id": 390
+  },
+  {
+    "Content": "Oh, so you just see me as a coin sign, eh? 'Cus every time you see me, you ask me.",
+    "Id": 391
+  },
+  {
+    "Content": "Don't you ever stop just to say 'Hi?'",
+    "Id": 392
+  },
+  {
+    "Content": "Bah! You again? You just grabbed some of my coin just moments ago, so bugger off and come back later!",
+    "Id": 393
+  },
+  {
+    "Content": "I just gave you half a crown five minutes ago! Scram!",
+    "Id": 394
+  },
+  {
+    "Content": "Reaching into my moneybags again already!? And you call ME greedy.",
+    "Id": 395
+  },
+  {
+    "Content": "You just received your pay, and not a farthing more! Get out!",
+    "Id": 396
+  },
+  {
+    "Content": "Money doesn't grow on trees, so don't overpick my fruit! Bah! ",
+    "Id": 397
+  },
+  {
+    "Content": "You already managed to spend every pence I paid you!? Bah, I'm not a charity, go kill a slime!",
+    "Id": 398
+  },
+  {
+    "Content": "Not so fast! You got your money, now begone! ",
+    "Id": 399
+  },
+  {
+    "Content": "Begging so soon?! Don't look at me like I'll have a change of heart overnight! ",
+    "Id": 400
+  },
+  {
+    "Content": "Make sure to smash any crimson altar you can find. Something good is bound to happen if you do!",
+    "Id": 401
+  },
+  {
+    "Content": "Crimson altars can usually be found in the crimson. You will need to be near them to craft some items.",
+    "Id": 402
+  }
+]
