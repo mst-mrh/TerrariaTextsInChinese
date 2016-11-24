@@ -8,7 +8,7 @@
     "Id": 98
   },
   {
-    "Content": "Increases alchemy plant collection when used to gather",
+    "Content": "用来采集炼金植物可提升采集数",
     "Id": 213
   },
   {
@@ -684,295 +684,295 @@
     "Id": 2609
   },
   {
-    "Content": "7% increased ranged critical strike chance",
+    "Content": "提高7%的远程暴击率",
     "Id": 2757
   },
   {
-    "Content": "25% chance not to consume ammo",
+    "Content": "25%的几率不消耗子弹",
     "Id": 2758
   },
   {
-    "Content": "10% increased movement speed",
+    "Content": "提高10%的移动速度",
     "Id": 2759
   },
   {
-    "Content": "7% increased magic damage and critical strike chance",
+    "Content": "增加7%魔法伤害和暴击率",
     "Id": 2760
   },
   {
-    "Content": "10% increased movement speed",
+    "Content": "提高10%移动速度",
     "Id": 2762
   },
   {
-    "Content": "Enemies are more likely to target you",
+    "Content": "敌人更容易攻击你",
     "Id": 2763
   },
   {
-    "Content": "Enemies are more likely to target you",
+    "Content": "敌人更容易攻击你",
     "Id": 2764
   },
   {
-    "Content": "Enemies are more likely to target you",
+    "Content": "敌人更容易攻击你",
     "Id": 2765
   },
   {
-    "Content": "'In loving memory'",
+    "Content": "'在甜蜜的回忆里'",
     "Id": 2995
   },
   {
-    "Content": "Click their head on the fullscreen map",
+    "Content": "在大地图上点击他们的头像",
     "Id": 2997
   },
   {
-    "Content": "5% increased damage and critical strike chance",
+    "Content": "增加5%的伤害和暴击率",
     "Id": 3015
   },
   {
-    "Content": "Hitting enemies will sometimes drop extra coins",
+    "Content": "攻击敌人一定几率会掉落更多的金币",
     "Id": 3034
   },
   {
-    "Content": "Hitting enemies will sometimes drop extra coins",
+    "Content": "攻击敌人一定几率会掉落更多的金币",
     "Id": 3035
   },
   {
-    "Content": "Automatically paints placed objects",
+    "Content": "自动给放置的物体上色",
     "Id": 3061
   },
   {
-    "Content": "Requires a Golden Key",
+    "Content": "需要一把金钥匙",
     "Id": 3085
   },
   {
-    "Content": "Double tap a direction",
+    "Content": "双击方向键",
     "Id": 3097
   },
   {
-    "Content": "Minor increases to all stats",
+    "Content": "微量提升全部能力值",
     "Id": 3110
   },
   {
-    "Content": "Very bouncy",
+    "Content": "弹性十足",
     "Id": 3115
   },
   {
-    "Content": "Very bouncy",
+    "Content": "弹性十足",
     "Id": 3116
   },
   {
-    "Content": "Allows you to return home at will",
+    "Content": "想回家，就回家！",
     "Id": 3124
   },
   {
-    "Content": "Become the wind, ride the lightning.",
+    "Content": "化身成风，驾驭雷霆",
     "Id": 3226
   },
   {
-    "Content": "Bejeweled and elegant for soaring through the thundering skies",
+    "Content": "妆点着宝石，飞过雷云密布的苍穹。",
     "Id": 3227
   },
   {
-    "Content": "The Valkyrie Satellite Barrier Platform is totally safe. Most of the time.",
+    "Content": "绝大多数情况下，女武神卫星防御平台都是安全的。",
     "Id": 3228
   },
   {
-    "Content": "Allows the holder to double jump",
+    "Content": "装备上你就可以二段跳了",
     "Id": 3241
   },
   {
-    "Content": "33% chance to not consume bone",
+    "Content": "33%的概率不消耗骨头",
     "Id": 3245
   },
   {
-    "Content": "Increases jump height and negates fall damage",
+    "Content": "增加跳跃高度并抵消掉落伤害",
     "Id": 3250
   },
   {
-    "Content": "Increases jump height and negates fall damage",
+    "Content": "增加跳跃高度并抵消掉落伤害",
     "Id": 3251
   },
   {
-    "Content": "Increases jump height and negates fall damage",
+    "Content": "增加跳跃高度并抵消掉落伤害",
     "Id": 3252
   },
   {
-    "Content": "'I didn't get this off of a Schmoo'",
+    "Content": "'我不是作弊得到的'",
     "Id": 3368
   },
   {
-    "Content": "Increases minion damage by 22%",
+    "Content": "提高召唤物22%的伤害",
     "Id": 3381
   },
   {
-    "Content": "Increases minion damage by 22%",
+    "Content": "提高召唤物22%的伤害",
     "Id": 3382
   },
   {
-    "Content": "Increases minion damage by 22%",
+    "Content": "提高召唤物22%的伤害",
     "Id": 3383
   },
   {
-    "Content": "'Cultivate the most beautiful cellular infection'",
+    "Content": "'培养出最好看的细胞'",
     "Id": 3474
   },
   {
-    "Content": "'The catastrophic mixture of pew pew and boom boom.'",
+    "Content": "'电磁和爆炸的灾难性结合'",
     "Id": 3475
   },
   {
-    "Content": "'Who needs a horde of minions when you have a giant dragon?'",
+    "Content": "'有了一条巨龙谁还需要一大堆召唤物？'",
     "Id": 3531
   },
   {
-    "Content": "'Bacon? Bacon.'",
+    "Content": "'培根？培根。'",
     "Id": 3532
   },
   {
-    "Content": "'The colors, Duke, the colors!'",
+    "Content": "'The colors, Duke, the colors!'",//https://www.youtube.com/watch?v=iavURrznqjQ
     "Id": 3571
   },
   {
-    "Content": "'I know what you're thinking....'",
+    "Content": "'我知道你在想什么....'",
     "Id": 3577
   },
   {
-    "Content": "Whatever this accessory does to you is not a bug!",
+    "Content": "不管这个饰品改变了你什么都不是bug!",
     "Id": 3580
   },
   {
-    "Content": "If you see this you should probably run away...",
+    "Content": "当你看到这个的时候，赶紧跑...",
     "Id": 3581
   },
   {
-    "Content": "Disorder came from order, fear came from courage, weakness came from strength",
+    "Content": "秩序滋生混沌, 害怕源于勇气, 懦弱来自强大",
     "Id": 3589
   },
   {
-    "Content": "Know thy self, know thy enemy. A thousand battles, a thousand victories…",
+    "Content": "知己知彼，百战不殆...",
     "Id": 3590
   },
   {
-    "Content": "Wheels of justice grind slow but grind fine.",
+    "Content": "正义也许会迟到,但绝不会缺席",
     "Id": 3591
   },
   {
-    "Content": "Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.",
+    "Content": "静若子夜，动如响雷",
     "Id": 3592
   },
   {
-    "Content": "Activates when all lamps are on, Deactivates otherwise",
+    "Content": "所有灯亮起则激活, 否则关闭",
     "Id": 3603
   },
   {
-    "Content": "Activates when any lamp is on, Deactivates otherwise",
+    "Content": "任意灯亮起则激活, 否则关闭",
     "Id": 3604
   },
   {
-    "Content": "Activates when not all lamps are on, Deactivates otherwise",
+    "Content": "任意灯不亮则激活, 否则关闭",
     "Id": 3605
   },
   {
-    "Content": "Activates when no lamp is on, Deactivates otherwise",
+    "Content": "所有灯不亮则激活, 否则关闭",
     "Id": 3606
   },
   {
-    "Content": "Activates when only one lamp is on, Deactivates otherwise",
+    "Content": "只有一个灯亮则激活, 否则关闭",
     "Id": 3607
   },
   {
-    "Content": "Activates when the total 'on' lamps is not one, Deactivates otherwise\nAlso often called NXOR",
+    "Content": "亮灯数不等于一则激活, 否则关闭",
     "Id": 3608
   },
   {
-    "Content": "<right> while holding to edit wire settings",
+    "Content": "按住<right> 来编辑线路",
     "Id": 3611
   },
   {
-    "Content": "May contain a suprise!",
+    "Content": "内藏惊喜！",
     "Id": 3746
   },
   {
-    "Content": "'Great for impersonating streamers!'",
+    "Content": "'假装你是只企鹅！'",
     "Id": 3757
   },
   {
-    "Content": "'Great for impersonating streamers!'",
+    "Content": "'假装你是只企鹅！'",
     "Id": 3758
   },
   {
-    "Content": "'Great for impersonating streamers!'",
+    "Content": "'假装你是只企鹅！'",
     "Id": 3759
   },
   {
-    "Content": "'Great for impersonating streamers!'",
+    "Content": "'假装你是只企鹅！'",
     "Id": 3763
   },
   {
-    "Content": "Increases minion damage by 10%",
+    "Content": "增强召唤物伤害10%",
     "Id": 3809
   },
   {
-    "Content": "Increases minion damage by 10%",
+    "Content": "增强召唤物伤害10%",
     "Id": 3810
   },
   {
-    "Content": "Increases minion damage by 10%",
+    "Content": "增强召唤物伤害10%",
     "Id": 3811
   },
   {
-    "Content": "Increases minion damage by 10%",
+    "Content": "增强召唤物伤害10%",
     "Id": 3812
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3818
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3819
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3820
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3824
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3825
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3826
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3829
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3830
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3831
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3832
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3833
   },
   {
-    "Content": "Use 10 Etherian Mana to summon more than one",
+    "Content": "使用10点Etherian 魔力再次召唤一个",
     "Id": 3834
   },
   {
-    "Content": "<right> to cast a powerful tornado",
+    "Content": "按<right>来制造一股强大的旋风",
     "Id": 3852
   }
 ]
