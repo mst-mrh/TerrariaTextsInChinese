@@ -308,11 +308,11 @@
     "Id": 85
   },
   {
-    "Content": "增加怪物刷新频率",
+    "Content": "增加怪物刷新率",
     "Id": 86
   },
   {
-    "Content": "Decreased monster spawn rate",
+    "Content": "减少怪物刷新率",
     "Id": 157
   },
   {
@@ -372,11 +372,11 @@
     "Id": 100
   },
   {
-    "Content": "仙女跟随你",
+    "Content": "精灵跟随你",
     "Id": 101
   },
   {
-    "Content": "仙女跟随你",
+    "Content": "精灵跟随你",
     "Id": 102
   },
   {
@@ -440,11 +440,11 @@
     "Id": 117
   },
   {
-    "Content": "你正坐在矿车上",
+    "Content": "坐在矿车上",
     "Id": 118
   },
   {
-    "Content": "你正坐在矿车上",
+    "Content": "坐在矿车上",
     "Id": 138
   },
   {
@@ -516,11 +516,11 @@
     "Id": 135
   },
   {
-    "Content": "你是怎么折服这只迷你牛头人的？",
+    "Content": "你是怎么折服这只小牛头人的？",
     "Id": 136
   },
   {
-    "Content": "你又黏又臭",
+    "Content": "身上不停滴落粘液",
     "Id": 137
   },
   {
@@ -528,267 +528,267 @@
     "Id": 139
   },
   {
-    "Content": "The UFO will fight for you",
+    "Content": "UFO将为你而战",
     "Id": 140
   },
   {
-    "Content": "It's a good thing you had a MAC",
+    "Content": "有一台MAC真是太棒了！",
     "Id": 141
   },
   {
-    "Content": "Riding in a flying drill",
+    "Content": "坐在飞行的挖掘机上",
     "Id": 142
   },
   {
-    "Content": "Pew Pew",
+    "Content": "发射激光 Biu Biu Biu!",
     "Id": 143
   },
   {
-    "Content": "You cannot move",
+    "Content": "无法移动",
     "Id": 144
   },
   {
-    "Content": "You are unable to absorb healing effects",
+    "Content": "无法使用吸血效果",
     "Id": 145
   },
   {
-    "Content": "Movement speed increased and monster spawns reduced",
+    "Content": "增加移动速度，降低怪物刷新率",
     "Id": 146
   },
   {
-    "Content": "Increased damage and defense from the following:",
+    "Content": "跟下列怪物战斗会增加攻击和防御：",
     "Id": 147
   },
   {
-    "Content": "Increased damage, Decreased life regen, Causes status effects",
+    "Content": "增加伤害，减少生命恢复速度，引起异常状态",
     "Id": 148
   },
   {
-    "Content": "You are stuck",
+    "Content": "你被粘住了",
     "Id": 149
   },
   {
-    "Content": "Increased max number of minions",
+    "Content": "增加1召唤物上限",
     "Id": 150
   },
   {
-    "Content": "Increased life regeneration",
+    "Content": "增加生命回复速度",
     "Id": 151
   },
   {
-    "Content": "An enchanted lantern is lighting your way",
+    "Content": "具有魔力的灯笼将照亮你的前路",
     "Id": 152
   },
   {
-    "Content": "Losing life",
+    "Content": "逐渐失去生命",
     "Id": 153
   },
   {
-    "Content": "A magical heart that provides light",
+    "Content": "具有魔力的心脏，能够提供光芒",
     "Id": 155
   },
   {
-    "Content": "A baby face monster is following you",
+    "Content": "巨脸怪幼体跟随着你",
     "Id": 154
   },
   {
-    "Content": "Bleeding Out",
+    "Content": "血流不止",
     "Id": 169
   },
   {
-    "Content": "The stardust cell will fight for you",
+    "Content": "星辰细胞将为你而战",
     "Id": 182
   },
   {
-    "Content": "being eaten by cells",
+    "Content": "逐渐被细胞蚕食",
     "Id": 183
   },
   {
-    "Content": "The power of nature compells you",
+    "Content": "自然之力庇佑你",
     "Id": 186
   },
   {
-    "Content": "The stardust guardian will protect you",
+    "Content": "星辰守护者将保护你",
     "Id": 187
   },
   {
-    "Content": "The stardust dragon will protect you",
+    "Content": "星辰巨龙将保护你",
     "Id": 188
   },
   {
-    "Content": "Incenerated by solar rays",
+    "Content": "被太阳射线焚烧殆尽",
     "Id": 189
   },
   {
-    "Content": "A suspicious looking eye that provides light",
+    "Content": "一个可疑的眼球，能够提供光芒",
     "Id": 190
   },
   {
-    "Content": "Will never threaten to stab you and, in fact, cannot speak",
+    "Content": "它绝对不会刺你（才怪），也不会说话",
     "Id": 191
   },
   {
-    "Content": "A propeller gato is following you",
+    "Content": "螺旋猫跟随着你",
     "Id": 200
   },
   {
-    "Content": "A flickerwick is following you",
+    "Content": "摇曳烛芯跟随着你",
     "Id": 201
   },
   {
-    "Content": "A hoardagron is following you",
+    "Content": "霍尔龙跟随着你",
     "Id": 202
   },
   {
-    "Content": "Defense is lowered",
+    "Content": "防御降低了",
     "Id": 203
   },
   {
-    "Content": "Taking more damage from being on fire",
+    "Content": "着火的时候承受更多伤害",
     "Id": 204
   },
   {
-    "Content": "You are completely petrified!",
+    "Content": "你完全被吓傻了！",
     "Id": 156
   },
   {
-    "Content": "Increased mana regeneration",
+    "Content": "增加魔力恢复速度",
     "Id": 158
   },
   {
-    "Content": "Melee weapons have armor penetration",
+    "Content": "近战武器拥有破甲效果",
     "Id": 159
   },
   {
-    "Content": "Movement is greatly slowed",
+    "Content": "移动速度大大降低",
     "Id": 160
   },
   {
-    "Content": "The Deadly Sphere will fight for you",
+    "Content": "致命球将为你而战",
     "Id": 161
   },
   {
-    "Content": "You can't see!",
+    "Content": "你看不见了！",
     "Id": 163
   },
   {
-    "Content": "Gravity around you is distorted",
+    "Content": "你周围的重力被扭曲",
     "Id": 164
   },
   {
-    "Content": "The power of nature protects you",
+    "Content": "自然之力庇佑你",
     "Id": 165
   },
   {
-    "Content": "The wind moves you around!",
+    "Content": "狂风在你身边呼啸！",
     "Id": 194
   },
   {
-    "Content": "Your armor is lowered!",
+    "Content": "你的护甲破损！",
     "Id": 195
   },
   {
-    "Content": "Your attacks are weaker!",
+    "Content": "你的攻击减弱！",
     "Id": 196
   },
   {
-    "Content": "Movement is significantly reduced",
+    "Content": "移动速度明显降低",
     "Id": 197
   },
   {
-    "Content": "500% increased damage for next melee strike",
+    "Content": "下一击增加500%威力",
     "Id": 198
   },
   {
-    "Content": "Your ballistas rapidly shoot in panic!",
+    "Content": "你的弩车正因为恐慌而在快速射击",
     "Id": 205
   },
   {
-    "Content": "Riding in a minecart",
+    "Content": "坐在矿车上",
     "Id": 166
   },
   {
-    "Content": "Riding in a minecart",
+    "Content": "坐在矿车上",
     "Id": 167
   },
   {
-    "Content": "Riding in a minecart",
+    "Content": "坐在矿车上",
     "Id": 185
   },
   {
-    "Content": "Riding in a minecart",
+    "Content": "坐在矿车上",
     "Id": 184
   },
   {
-    "Content": "Damage taken reduced by 30%, repel enemies when taking damage",
+    "Content": "减少30%受到的伤害，在受到伤害时击退敌人",
     "Id": 170
   },
   {
-    "Content": "Damage taken reduced by 30%, repel enemies when taking damage",
+    "Content": "减少30%受到的伤害，在受到伤害时击退敌人",
     "Id": 171
   },
   {
-    "Content": "Damage taken reduced by 30%, repel enemies when taking damage",
+    "Content": "减少30%受到的伤害，在受到伤害时击退敌人",
     "Id": 172
   },
   {
-    "Content": "15% increased damage",
+    "Content": "提升15%伤害",
     "Id": 179
   },
   {
-    "Content": "30% increased damage",
+    "Content": "提升30%伤害",
     "Id": 180
   },
   {
-    "Content": "45% increased damage",
+    "Content": "提升45%伤害",
     "Id": 181
   },
   {
-    "Content": "Increased life regeneration",
+    "Content": "增加生命恢复速度",
     "Id": 173
   },
   {
-    "Content": "Increased life regeneration",
+    "Content": "增加生命恢复速度",
     "Id": 174
   },
   {
-    "Content": "Increased life regeneration",
+    "Content": "增加生命恢复速度",
     "Id": 175
   },
   {
-    "Content": "Increased mana regeneration",
+    "Content": "增加魔力恢复速度",
     "Id": 176
   },
   {
-    "Content": "Increased mana regeneration",
+    "Content": "增加魔力恢复速度",
     "Id": 177
   },
   {
-    "Content": "Increased mana regeneration",
+    "Content": "增加魔力恢复速度",
     "Id": 178
   },
   {
-    "Content": "Charge ahead... fabulously!",
+    "Content": "冲过去...干得漂亮！",
     "Id": 162
   },
   {
-    "Content": "Just don't make it crawl.",
+    "Content": "只要别让它在地上爬就行.",
     "Id": 168
   },
   {
-    "Content": "Crash into anyone... and EVERYONE!",
+    "Content": "撞飞所有挡路者...所有！",
     "Id": 193
   },
   {
-    "Content": "You have lost the power of creation!",
+    "Content": "你失去了创造的力量！",
     "Id": 199
   },
   {
-    "Content": "近战攻击能给敌人涂毒",
+    "Content": "近战攻击能使敌人中毒",
     "Id": 71
   },
   {
-    "Content": "近战攻击能使敌人带上诅咒之炎",
+    "Content": "近战攻击能使敌人带上咒火",
     "Id": 73
   },
   {
