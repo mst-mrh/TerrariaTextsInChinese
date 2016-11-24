@@ -1,26 +1,26 @@
 ﻿[
   {
-    "Content": "Brilliant, my dear! You have brought me an exquisite sample of the world's beautiful colors and aroma. In exchange, you may take this special bottle of dye.",
+    "Content": "亲爱的, 棒极了! 如此精致的样本, 你给我带来了这个世界最美的色彩和芬芳. 作为交换, 现在这小瓶特别的染料就归你了.",
     "Id": -1
   },
   {
-    "Content": "You bring me a beautiful, rare flower... yes, yes? Take this bottle of special dye for your troubles, friend!",
+    "Content": "你给我带来了这个美丽又罕见的花... 把这瓶染料拿走吧,就当是你的劳务费咯, 朋友!",
     "Id": -1
   },
   {
-    "Content": "Fantabulous, wonderful friend! With this delicate specimen, I may mix the most amazing dyes $Terraria.Main::worldName has ever seen! You may take this one right away!",
+    "Content": "妙极了! 棒极了伙计耶！看看这朵纤细的宝贝东西, 有了它我能调制出在 $Terraria.Main::worldName 里最令人惊叹的, 你从未见到过的颜料！快拿上这瓶染料吧!",
     "Id": -1
   },
   {
-    "Content": "Oh no no, this will not do.  For these money is no good, you must return to me with a rare specimen of a plant!",
+    "Content": "哦, 不不不, 这可行不通. 这些钱可不管用, 你必须给我带一个稀有植物的样本回来才行！",
     "Id": -1
   },
   {
-    "Content": "You think you can pull a fast one on $Npc_207, I don't think so! I only take the rarest of flowers for these special bottles!",
+    "Content": "看来你以为你从 $Npc_207 身上悄悄扯下一根藤蔓就可以了, 我 可 不 这 么 认 为! 我只把最最稀有的植物放进这些调制染料的瓶子里!",
     "Id": -1
   },
   {
-    "Content": "These dye bottles? Sorry dear friend, these don't take coin. I only take the most precious and rare of flora in exchange for one of this!",
+    "Content": "喜欢这些颜料瓶么? 抱歉了小可爱, 这些小玩意儿每一个可都是无价的. 你把那些宝贝般的植物样本拿来换吧, 这是我唯一接受的交换了!",
     "Id": -1
   }
 ]
