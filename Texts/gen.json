@@ -1,330 +1,330 @@
 ﻿[
   {
-    "Content": "Generating world terrain",
+    "Content": "生成世界地形",
     "Id": 0
   },
   {
-    "Content": "Adding sand",
+    "Content": "加入沙子",
     "Id": 1
   },
   {
-    "Content": "Generating hills",
+    "Content": "生成山丘",
     "Id": 2
   },
   {
-    "Content": "Puttin dirt behind dirt",
+    "Content": "生成泥土",
     "Id": 3
   },
   {
-    "Content": "Placing rocks in the dirt",
+    "Content": "把岩石放进泥土里",
     "Id": 4
   },
   {
-    "Content": "Placing dirt in the rocks",
+    "Content": "把泥土放进岩石里",
     "Id": 5
   },
   {
-    "Content": "Adding clay",
+    "Content": "加入粘土",
     "Id": 6
   },
   {
-    "Content": "Making random holes",
+    "Content": "随机打洞",
     "Id": 7
   },
   {
-    "Content": "Generating small caves",
+    "Content": "生成小型洞穴",
     "Id": 8
   },
   {
-    "Content": "Generating large caves",
+    "Content": "生成大型洞穴",
     "Id": 9
   },
   {
-    "Content": "Generating surface caves",
+    "Content": "生成地表洞穴",
     "Id": 10
   },
   {
-    "Content": "Generating jungle",
+    "Content": "生成丛林",
     "Id": 11
   },
   {
-    "Content": "Generating floating islands",
+    "Content": "生成浮空岛",
     "Id": 12
   },
   {
-    "Content": "Adding mushroom patches",
+    "Content": "添加蘑菇丛",
     "Id": 13
   },
   {
-    "Content": "Placing mud in the dirt",
+    "Content": "添加黏土",
     "Id": 14
   },
   {
-    "Content": "Adding silt",
+    "Content": "添加淤泥",
     "Id": 15
   },
   {
-    "Content": "Adding shinies",
+    "Content": "添加光亮",
     "Id": 16
   },
   {
-    "Content": "Adding webs",
+    "Content": "添加蛛网",
     "Id": 17
   },
   {
-    "Content": "Creating underworld",
+    "Content": "建造地下世界",
     "Id": 18
   },
   {
-    "Content": "Adding water bodies",
+    "Content": "生成水体",
     "Id": 19
   },
   {
-    "Content": "Making the world evil",
+    "Content": "正在使世界邪恶化",
     "Id": 20
   },
   {
-    "Content": "Generating mountain caves",
+    "Content": "生成山洞",
     "Id": 21
   },
   {
-    "Content": "Creating beaches",
+    "Content": "生成海滩",
     "Id": 22
   },
   {
-    "Content": "Adding gems",
+    "Content": "添加宝石",
     "Id": 23
   },
   {
-    "Content": "Gravitating sand",
+    "Content": "使沙子下落",
     "Id": 24
   },
   {
-    "Content": "Cleaning up dirt backgrounds",
+    "Content": "清理泥土", // Cleaning up dirt backgrounds
     "Id": 25
   },
   {
-    "Content": "Placing altars",
+    "Content": "放置祭坛",
     "Id": 26
   },
   {
-    "Content": "Settling liquids",
+    "Content": "平衡液体",
     "Id": 27
   },
   {
-    "Content": "Placing life crystals",
+    "Content": "放置生命水晶",
     "Id": 28
   },
   {
-    "Content": "Placing statues",
+    "Content": "放置雕像",
     "Id": 29
   },
   {
-    "Content": "Hiding treasure",
+    "Content": "掩埋宝物",
     "Id": 30
   },
   {
-    "Content": "Hiding more treasure",
+    "Content": "放更多的宝藏",
     "Id": 31
   },
   {
-    "Content": "Hiding jungle treasure",
+    "Content": "藏好丛林宝藏",
     "Id": 32
   },
   {
-    "Content": "Hiding water treasure",
+    "Content": "藏好水下宝藏",
     "Id": 33
   },
   {
-    "Content": "Placing traps",
+    "Content": "布置陷阱",
     "Id": 34
   },
   {
-    "Content": "Placing breakables",
+    "Content": "放置易碎品",
     "Id": 35
   },
   {
-    "Content": "Placing hellforges",
+    "Content": "放置地狱熔炉",
     "Id": 36
   },
   {
-    "Content": "Spreading grass",
+    "Content": "散播草种",
     "Id": 37
   },
   {
-    "Content": "Growing cacti",
+    "Content": "培育仙人掌",
     "Id": 38
   },
   {
-    "Content": "Planting sunflowers",
+    "Content": "种植太阳花",
     "Id": 39
   },
   {
-    "Content": "Planting trees",
+    "Content": "种植树林",
     "Id": 40
   },
   {
-    "Content": "Planting herbs",
+    "Content": "种植药草",
     "Id": 41
   },
   {
-    "Content": "Planting weeds",
+    "Content": "种植杂草",
     "Id": 42
   },
   {
-    "Content": "Growing vines",
+    "Content": "种植藤蔓",
     "Id": 43
   },
   {
-    "Content": "Planting flowers",
+    "Content": "种植鲜花",
     "Id": 44
   },
   {
-    "Content": "Planting mushrooms",
+    "Content": "种植蘑菇",
     "Id": 45
   },
   {
-    "Content": "Freeing unused resources",
+    "Content": "释放多余资源",
     "Id": 46
   },
   {
-    "Content": "Resetting game objects",
+    "Content": "重置游戏对象",
     "Id": 47
   },
   {
-    "Content": "Setting hard mode",
+    "Content": "设置困难模式",
     "Id": 48
   },
   {
-    "Content": "Saving world data:",
+    "Content": "保存世界数据:",
     "Id": 49
   },
   {
-    "Content": "Backing up world file",
+    "Content": "备份世界文件",
     "Id": 50
   },
   {
-    "Content": "Loading world data:",
+    "Content": "正在载入世界:",
     "Id": 51
   },
   {
-    "Content": "Checking tile alignment:",
+    "Content": "检查物块边界:",
     "Id": 52
   },
   {
-    "Content": "Load failed!",
+    "Content": "载入失败!",
     "Id": 53
   },
   {
-    "Content": "No backup found.",
+    "Content": "未找到备份文件.",
     "Id": 54
   },
   {
-    "Content": "Finding tile frames:",
+    "Content": "寻找物块边框:",
     "Id": 55
   },
   {
-    "Content": "Adding snow",
+    "Content": "加入雪块",
     "Id": 56
   },
   {
-    "Content": "World",
+    "Content": "世界",
     "Id": 57
   },
   {
-    "Content": "Creating dungeon",
+    "Content": "建造地牢",
     "Id": 58
   },
   {
-    "Content": "A meteorite has landed!",
+    "Content": "一颗陨石已落地!",
     "Id": 59
   },
   {
-    "Content": "Smoothing the world",
+    "Content": "平滑地表",
     "Id": 60
   },
   {
-    "Content": "Mossification",
+    "Content": "生长苔藓",
     "Id": 61
   },
   {
-    "Content": "Gemification",
+    "Content": "生成宝石",
     "Id": 62
   },
   {
-    "Content": "Making cave walls",
+    "Content": "生成洞穴墙壁",
     "Id": 63
   },
   {
-    "Content": "Growing spider caves",
+    "Content": "生成蜘蛛洞",
     "Id": 64
   },
   {
-    "Content": "Clearing map data:",
+    "Content": "正在清除地图数据:",
     "Id": 65
   },
   {
-    "Content": "Saving map data:",
+    "Content": "正在保存地图数据:",
     "Id": 66
   },
   {
-    "Content": "Loading map data:",
+    "Content": "载入世界中:",
     "Id": 67
   },
   {
-    "Content": "Drawing map:",
+    "Content": "绘制地图:",
     "Id": 68
   },
   {
-    "Content": "Creating waterfalls",
+    "Content": "建造瀑布",
     "Id": 69
   },
   {
-    "Content": "Creating jungle ruins",
+    "Content": "建造丛林废墟",
     "Id": 70
   },
   {
-    "Content": "Creating hornet nests",
+    "Content": "建造蜂巢",
     "Id": 71
   },
   {
-    "Content": "Making the world bloody",
+    "Content": "正在使世界血腥化",
     "Id": 72
   },
   {
-    "Content": "Validating world save:",
+    "Content": "验证世界文件保存:",
     "Id": 73
   },
   {
-    "Content": "Slime is falling from the sky!",
+    "Content": "史莱姆从天而降!",
     "Id": 74
   },
   {
-    "Content": "Slime has stopped falling from the sky.",
+    "Content": "史莱姆停止了降落.",
     "Id": 75
   },
   {
-    "Content": "Generating Structures.",
+    "Content": "生成结构.",
     "Id": 76
   },
   {
-    "Content": "Adding more grass",
+    "Content": "添加更多的草丛",
     "Id": 77
   },
   {
-    "Content": "Desertification",
+    "Content": "沙漠化",
     "Id": 78
   },
   {
-    "Content": "Spicing up walls",
+    "Content": "点缀墙壁",
     "Id": 79
   },
   {
-    "Content": "Chiseling marble",
+    "Content": "凿取大理石",
     "Id": 80
   },
   {
-    "Content": "Growing granite",
+    "Content": "生成花岗岩",
     "Id": 81
   }
 ]
