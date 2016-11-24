@@ -1,26 +1,26 @@
 ﻿[
   {
-    "Content": "Recieve:",
+    "Content": "接收:",
     "Id": 0
   },
   {
-    "Content": "Incorrect password.",
+    "Content": "密码不正确.",
     "Id": 1
   },
   {
-    "Content": "Invalid operation at this state.",
+    "Content": "操作在当前状态下无效.",
     "Id": 2
   },
   {
-    "Content": "You are banned from this server.",
+    "Content": "你被封禁, 无法进入本服务器.",
     "Id": 3
   },
   {
-    "Content": "You are not using the same version as this server.",
+    "Content": "游戏版本与服务器不符.",
     "Id": 4
   },
   {
-    "Content": "is already on this server.",
+    "Content": "已经在服务器上.",
     "Id": 5
   },
   {
@@ -28,7 +28,7 @@
     "Id": 6
   },
   {
-    "Content": "Current players:",
+    "Content": "当前玩家:",
     "Id": 7
   },
   {
@@ -40,47 +40,47 @@
     "Id": 9
   },
   {
-    "Content": "You are not in a party!",
+    "Content": "你没有在队伍中!",
     "Id": 10
   },
   {
-    "Content": "has enabled PvP!",
+    "Content": "开启了 PvP 模式!",
     "Id": 11
   },
   {
-    "Content": "has disabled PvP!",
+    "Content": "关闭了 PvP 模式!",
     "Id": 12
   },
   {
-    "Content": "is no longer on a party.",
+    "Content": "退出了队伍.",
     "Id": 13
   },
   {
-    "Content": "has joined the red party.",
+    "Content": "加入了红队.",
     "Id": 14
   },
   {
-    "Content": "has joined the green party.",
+    "Content": "加入了绿队.",
     "Id": 15
   },
   {
-    "Content": "has joined the blue party.",
+    "Content": "加入了蓝队.",
     "Id": 16
   },
   {
-    "Content": "has joined the yellow party.",
+    "Content": "加入了黄队.",
     "Id": 17
   },
   {
-    "Content": "Welcome to",
+    "Content": "欢迎来到",
     "Id": 18
   },
   {
-    "Content": "has joined.",
+    "Content": "加入游戏.",
     "Id": 19
   },
   {
-    "Content": "has left.",
+    "Content": "离开游戏.",
     "Id": 20
   },
   {
@@ -88,7 +88,7 @@
     "Id": 21
   },
   {
-    "Content": "has joined the pink party.",
+    "Content": "加入了粉队.",
     "Id": 22
   }
 ]
