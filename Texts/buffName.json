@@ -1,314 +1,314 @@
 ﻿[
   {
-    "Content": "Obsidian Skin",
+    "Content": "黑曜石皮肤",
     "Id": 1
   },
   {
-    "Content": "Regeneration",
+    "Content": "再生",
     "Id": 2
   },
   {
-    "Content": "Swiftness",
+    "Content": "迅捷",
     "Id": 3
   },
   {
-    "Content": "Gills",
+    "Content": "鱼鳃",
     "Id": 4
   },
   {
-    "Content": "Ironskin",
+    "Content": "铁皮",
     "Id": 5
   },
   {
-    "Content": "Mana Regeneration",
+    "Content": "法力再生",
     "Id": 6
   },
   {
-    "Content": "Magic Power",
+    "Content": "魔力强化",
     "Id": 7
   },
   {
-    "Content": "Featherfall",
+    "Content": "羽落",
     "Id": 8
   },
   {
-    "Content": "Spelunker",
+    "Content": "探索者",
     "Id": 9
   },
   {
-    "Content": "Invisibility",
+    "Content": "隐身",
     "Id": 10
   },
   {
-    "Content": "Shine",
+    "Content": "闪光",
     "Id": 11
   },
   {
-    "Content": "Night Owl",
+    "Content": "猫头鹰",
     "Id": 12
   },
   {
-    "Content": "Battle",
+    "Content": "战斗吧",
     "Id": 13
   },
   {
-    "Content": "Thorns",
+    "Content": "荆刺",
     "Id": 14
   },
   {
-    "Content": "Water Walking",
+    "Content": "水上行走",
     "Id": 15
   },
   {
-    "Content": "Archery",
+    "Content": "箭术精通",
     "Id": 16
   },
   {
-    "Content": "Hunter",
+    "Content": "猎人",
     "Id": 17
   },
   {
-    "Content": "Gravitation",
+    "Content": "重力",
     "Id": 18
   },
   {
-    "Content": "Shadow Orb",
+    "Content": "光球",
     "Id": 19
   },
   {
-    "Content": "Poisoned",
+    "Content": "中毒",
     "Id": 20
   },
   {
-    "Content": "Potion Sickness",
+    "Content": "抗药性",
     "Id": 21
   },
   {
-    "Content": "Darkness",
+    "Content": "黑暗",
     "Id": 22
   },
   {
-    "Content": "Cursed",
+    "Content": "诅咒",
     "Id": 23
   },
   {
-    "Content": "On Fire!",
+    "Content": "着火了！",
     "Id": 24
   },
   {
-    "Content": "Tipsy",
+    "Content": "酒劲",
     "Id": 25
   },
   {
-    "Content": "Well Fed",
+    "Content": "吃饱喝足",
     "Id": 26
   },
   {
-    "Content": "Fairy",
+    "Content": "精灵",
     "Id": 27
   },
   {
-    "Content": "Werewolf",
+    "Content": "狼人",
     "Id": 28
   },
   {
-    "Content": "Clairvoyance",
+    "Content": "智慧",
     "Id": 29
   },
   {
-    "Content": "Bleeding",
+    "Content": "流血",
     "Id": 30
   },
   {
-    "Content": "Confused",
+    "Content": "迷乱",
     "Id": 31
   },
   {
-    "Content": "Slow",
+    "Content": "缓速",
     "Id": 32
   },
   {
-    "Content": "Weak",
+    "Content": "虚弱",
     "Id": 33
   },
   {
-    "Content": "Merfolk",
+    "Content": "人鱼",
     "Id": 34
   },
   {
-    "Content": "Silenced",
+    "Content": "沉默",
     "Id": 35
   },
   {
-    "Content": "Broken Armor",
+    "Content": "破甲",
     "Id": 36
   },
   {
-    "Content": "Horrified",
+    "Content": "威慑",
     "Id": 37
   },
   {
-    "Content": "The Tongue",
+    "Content": "舌",
     "Id": 38
   },
   {
-    "Content": "Cursed Inferno",
+    "Content": "诅咒之炎",
     "Id": 39
   },
   {
-    "Content": "Pet Bunny",
+    "Content": "宠物小兔",
     "Id": 40
   },
   {
-    "Content": "Baby Penguin",
+    "Content": "小企鹅",
     "Id": 41
   },
   {
-    "Content": "Pet Turtle",
+    "Content": "宠物海龟",
     "Id": 42
   },
   {
-    "Content": "Paladin's Shield",
+    "Content": "圣骑士之盾",
     "Id": 43
   },
   {
-    "Content": "Frostburn",
+    "Content": "寒焰",
     "Id": 44
   },
   {
-    "Content": "Baby Eater",
+    "Content": "小噬魂",
     "Id": 45
   },
   {
-    "Content": "Chilled",
+    "Content": "霜冻",
     "Id": 46
   },
   {
-    "Content": "Frozen",
+    "Content": "冻结",
     "Id": 47
   },
   {
-    "Content": "Honey",
+    "Content": "甜蜜",
     "Id": 48
   },
   {
-    "Content": "Pygmies",
+    "Content": "俾格米首领",
     "Id": 49
   },
   {
-    "Content": "Baby Skeletron Head",
+    "Content": "小骷髅头",
     "Id": 50
   },
   {
-    "Content": "Baby Hornet",
+    "Content": "小黄蜂",
     "Id": 51
   },
   {
-    "Content": "Tiki Spirit",
+    "Content": "提基之灵",
     "Id": 52
   },
   {
-    "Content": "Pet Lizard",
+    "Content": "宠物蜥蜴",
     "Id": 53
   },
   {
-    "Content": "Pet Parrot",
+    "Content": "宠物鹦鹉",
     "Id": 54
   },
   {
-    "Content": "Baby Truffle",
+    "Content": "小蘑菇",
     "Id": 55
   },
   {
-    "Content": "Pet Sapling",
+    "Content": "宠物树苗",
     "Id": 56
   },
   {
-    "Content": "Wisp",
+    "Content": "小精灵",
     "Id": 57
   },
   {
-    "Content": "Rapid Healing",
+    "Content": "快速治疗",
     "Id": 58
   },
   {
-    "Content": "Shadow Dodge",
+    "Content": "影分身",
     "Id": 59
   },
   {
-    "Content": "Leaf Crystal",
+    "Content": "叶绿水晶",
     "Id": 60
   },
   {
-    "Content": "Baby Dinosaur",
+    "Content": "小恐龙",
     "Id": 61
   },
   {
-    "Content": "Ice Barrier",
+    "Content": "冰霜护盾",
     "Id": 62
   },
   {
-    "Content": "Panic!",
+    "Content": "恐慌",
     "Id": 63
   },
   {
-    "Content": "Baby Slime",
+    "Content": "小史莱姆",
     "Id": 64
   },
   {
-    "Content": "Eyeball Spring",
+    "Content": "弹簧眼球",
     "Id": 65
   },
   {
-    "Content": "Baby Snowman",
+    "Content": "小雪人",
     "Id": 66
   },
   {
-    "Content": "Burning",
+    "Content": "燃烧",
     "Id": 67
   },
   {
-    "Content": "Suffocation",
+    "Content": "窒息",
     "Id": 68
   },
   {
-    "Content": "Ichor",
+    "Content": "脓水腐蚀",
     "Id": 69
   },
   {
-    "Content": "Venom",
+    "Content": "毒液",
     "Id": 70
   },
   {
-    "Content": "Midas",
+    "Content": "金手指",
     "Id": 72
   },
   {
-    "Content": "Blackout",
+    "Content": "致盲",
     "Id": 80
   },
   {
-    "Content": "Pet Spider",
+    "Content": "宠物蜘蛛",
     "Id": 81
   },
   {
-    "Content": "Squashling",
+    "Content": "南瓜",
     "Id": 82
   },
   {
-    "Content": "Ravens",
+    "Content": "黑鸦",
     "Id": 83
   },
   {
-    "Content": "Black Cat",
+    "Content": "黑猫",
     "Id": 84
   },
   {
-    "Content": "Cursed Sapling",
+    "Content": "诅咒树苗",
     "Id": 85
   },
   {
-    "Content": "Water Candle",
+    "Content": "水蜡烛",
     "Id": 86
   },
   {
@@ -316,215 +316,215 @@
     "Id": 157
   },
   {
-    "Content": "Cozy Fire",
+    "Content": "篝火",
     "Id": 87
   },
   {
-    "Content": "Chaos State",
+    "Content": "混沌",
     "Id": 88
   },
   {
-    "Content": "Heart Lamp",
+    "Content": "心形吊灯",
     "Id": 89
   },
   {
-    "Content": "Rudolph",
+    "Content": "鲁道夫",
     "Id": 90
   },
   {
-    "Content": "Puppy",
+    "Content": "狗狗",
     "Id": 91
   },
   {
-    "Content": "Baby Grinch",
+    "Content": "小圣诞怪杰",
     "Id": 92
   },
   {
-    "Content": "Ammo Box",
+    "Content": "弹药箱",
     "Id": 93
   },
   {
-    "Content": "Mana Sickness",
+    "Content": "法力病",
     "Id": 94
   },
   {
-    "Content": "Beetle Endurance",
+    "Content": "耐力甲虫",
     "Id": 95
   },
   {
-    "Content": "Beetle Endurance",
+    "Content": "耐力甲虫",
     "Id": 96
   },
   {
-    "Content": "Beetle Endurance",
+    "Content": "耐力甲虫",
     "Id": 97
   },
   {
-    "Content": "Beetle Might",
+    "Content": "力量甲虫",
     "Id": 98
   },
   {
-    "Content": "Beetle Might",
+    "Content": "力量甲虫",
     "Id": 99
   },
   {
-    "Content": "Beetle Might",
+    "Content": "力量甲虫",
     "Id": 100
   },
   {
-    "Content": "Fairy",
+    "Content": "仙女",
     "Id": 101
   },
   {
-    "Content": "Fairy",
+    "Content": "仙女",
     "Id": 102
   },
   {
-    "Content": "Wet",
+    "Content": "潮湿",
     "Id": 103
   },
   {
-    "Content": "Mining",
+    "Content": "矿工之力",
     "Id": 104
   },
   {
-    "Content": "Heartreach",
+    "Content": "心灵链接",
     "Id": 105
   },
   {
-    "Content": "Calm",
+    "Content": "心如止水",
     "Id": 106
   },
   {
-    "Content": "Builder",
+    "Content": "建筑党",
     "Id": 107
   },
   {
-    "Content": "Titan",
+    "Content": "泰坦之力",
     "Id": 108
   },
   {
-    "Content": "Flipper",
+    "Content": "脚蹼",
     "Id": 109
   },
   {
-    "Content": "Summoning",
+    "Content": "召唤增幅",
     "Id": 110
   },
   {
-    "Content": "Dangersense",
+    "Content": "危机感知",
     "Id": 111
   },
   {
-    "Content": "Ammo Reservation",
+    "Content": "弹药狂人",
     "Id": 112
   },
   {
-    "Content": "Lifeforce",
+    "Content": "生命之力",
     "Id": 113
   },
   {
-    "Content": "Endurance",
+    "Content": "坚韧不拔",
     "Id": 114
   },
   {
-    "Content": "Rage",
+    "Content": "狂暴",
     "Id": 115
   },
   {
-    "Content": "Inferno",
+    "Content": "熔岩领域",
     "Id": 116
   },
   {
-    "Content": "Wrath",
+    "Content": "怒火中烧",
     "Id": 117
   },
   {
-    "Content": "Minecart",
+    "Content": "矿车",
     "Id": 118
   },
   {
-    "Content": "Minecart",
+    "Content": "矿车",
     "Id": 138
   },
   {
-    "Content": "Lovestruck",
+    "Content": "爱情冲击",
     "Id": 119
   },
   {
-    "Content": "Stinky",
+    "Content": "恶臭",
     "Id": 120
   },
   {
-    "Content": "Fishing",
+    "Content": "钓技",
     "Id": 121
   },
   {
-    "Content": "Sonar",
+    "Content": "声呐",
     "Id": 122
   },
   {
-    "Content": "Crate",
+    "Content": "板条箱",
     "Id": 123
   },
   {
-    "Content": "Warmth",
+    "Content": "温暖",
     "Id": 124
   },
   {
-    "Content": "Hornet",
+    "Content": "蜜蜂",
     "Id": 125
   },
   {
-    "Content": "Imp",
+    "Content": "魔精",
     "Id": 126
   },
   {
-    "Content": "Zephyr Fish",
+    "Content": "微风鱼",
     "Id": 127
   },
   {
-    "Content": "Bunny Mount",
+    "Content": "兔子坐骑",
     "Id": 128
   },
   {
-    "Content": "Pigron Mount",
+    "Content": "猪龙坐骑",
     "Id": 129
   },
   {
-    "Content": "Slime Mount",
+    "Content": "史莱姆坐骑",
     "Id": 130
   },
   {
-    "Content": "Turtle Mount",
+    "Content": "乌龟坐骑",
     "Id": 131
   },
   {
-    "Content": "Bee Mount",
+    "Content": "蜜蜂坐骑",
     "Id": 132
   },
   {
-    "Content": "Spider",
+    "Content": "蜘蛛",
     "Id": 133
   },
   {
-    "Content": "Twins",
+    "Content": "双子魔眼",
     "Id": 134
   },
   {
-    "Content": "Pirate",
+    "Content": "海盗",
     "Id": 135
   },
   {
-    "Content": "Mini Minotaur",
+    "Content": "迷你牛头人",
     "Id": 136
   },
   {
-    "Content": "Slime",
+    "Content": "黏糊",
     "Id": 137
   },
   {
-    "Content": "Sharknado",
+    "Content": "鲨龙卷",
     "Id": 139
   },
   {
@@ -784,35 +784,35 @@
     "Id": 199
   },
   {
-    "Content": "Weapon Imbue: Venom",
+    "Content": "武器附魔：毒液",
     "Id": 71
   },
   {
-    "Content": "Weapon Imbue: Cursed Flames",
+    "Content": "武器附魔：咒火",
     "Id": 73
   },
   {
-    "Content": "Weapon Imbue: Fire",
+    "Content": "武器附魔：火焰",
     "Id": 74
   },
   {
-    "Content": "Weapon Imbue: Gold",
+    "Content": "武器附魔：黄金",
     "Id": 75
   },
   {
-    "Content": "Weapon Imbue: Ichor",
+    "Content": "武器附魔：脓水",
     "Id": 76
   },
   {
-    "Content": "Weapon Imbue: Nanites",
+    "Content": "武器附魔：纳米机器人",
     "Id": 77
   },
   {
-    "Content": "Weapon Imbue: Confetti",
+    "Content": "武器附魔：彩纸",
     "Id": 78
   },
   {
-    "Content": "Weapon Imbue: Poison",
+    "Content": "武器附魔：毒药",
     "Id": 79
   }
 ]

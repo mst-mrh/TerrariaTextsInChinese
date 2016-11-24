@@ -1,314 +1,314 @@
 ﻿[
   {
-    "Content": "Immune to lava",
+    "Content": "免疫熔岩烫伤",
     "Id": 1
   },
   {
-    "Content": "Provides life regeneration",
+    "Content": "加强生命回复",
     "Id": 2
   },
   {
-    "Content": "25% increased movement speed",
+    "Content": "增加 25% 移动速度",
     "Id": 3
   },
   {
-    "Content": "Breathe water instead of air",
+    "Content": "在水中呼吸",
     "Id": 4
   },
   {
-    "Content": "Increase defense by 8",
+    "Content": "增加8点防御",
     "Id": 5
   },
   {
-    "Content": "Increased mana regeneration",
+    "Content": "加速法力回复",
     "Id": 6
   },
   {
-    "Content": "20% increased magic damage",
+    "Content": "增加20%魔法伤害",
     "Id": 7
   },
   {
-    "Content": "Press UP or DOWN to control speed of descent",
+    "Content": "按UP或DOWN来控制下降速度",
     "Id": 8
   },
   {
-    "Content": "Shows the location of treasure and ore",
+    "Content": "显示的宝藏和矿石的位置",
     "Id": 9
   },
   {
-    "Content": "Grants invisibility",
+    "Content": "别人看不到你了",
     "Id": 10
   },
   {
-    "Content": "Emitting light",
+    "Content": "自身发出亮光",
     "Id": 11
   },
   {
-    "Content": "Increased night vision",
+    "Content": "强化夜视能力",
     "Id": 12
   },
   {
-    "Content": "Increased enemy spawn rate",
+    "Content": "增加怪物刷新的速率",
     "Id": 13
   },
   {
-    "Content": "Attackers also take damage",
+    "Content": "反弹伤害",
     "Id": 14
   },
   {
-    "Content": "Press DOWN to enter water",
+    "Content": "按DOWN键进入水下",
     "Id": 15
   },
   {
-    "Content": "20% increased arrow damage and speed",
+    "Content": "增加20%的弓箭伤害和速度",
     "Id": 16
   },
   {
-    "Content": "Shows the location of enemies",
+    "Content": "显示怪物的位置",
     "Id": 17
   },
   {
-    "Content": "Press UP to reverse gravity",
+    "Content": "按UP来转换重力的方向",
     "Id": 18
   },
   {
-    "Content": "A magical orb that provides light",
+    "Content": "一个发出微光的魔法小球",
     "Id": 19
   },
   {
-    "Content": "Slowly losing life",
+    "Content": "逐渐失去生命值",
     "Id": 20
   },
   {
-    "Content": "Cannot consume anymore healing items",
+    "Content": "不能使用恢复生命类的药剂",
     "Id": 21
   },
   {
-    "Content": "Decreased light vision",
+    "Content": "好黑好黑！",
     "Id": 22
   },
   {
-    "Content": "Cannot use any items",
+    "Content": "不能使用任何物品",
     "Id": 23
   },
   {
-    "Content": "Slowly losing life",
+    "Content": "缓慢失去生命值",
     "Id": 24
   },
   {
-    "Content": "Increased melee abilities, lowered defense",
+    "Content": "增加近战能力，降低防御",
     "Id": 25
   },
   {
-    "Content": "Minor improvements to all stats",
+    "Content": "全部能力都稍微提升了",
     "Id": 26
   },
   {
-    "Content": "A fairy is following you",
+    "Content": "召唤一个小精灵跟着你",
     "Id": 27
   },
   {
-    "Content": "Physical abilities are increased",
+    "Content": "身体能力提升了",
     "Id": 28
   },
   {
-    "Content": "Magic powers are increased",
+    "Content": "魔法能力提升了",
     "Id": 29
   },
   {
-    "Content": "Cannot regenerate life",
+    "Content": "停止了生命再生",
     "Id": 30
   },
   {
-    "Content": "Movement is reversed",
+    "Content": "倒转了方向感",
     "Id": 31
   },
   {
-    "Content": "Movement speed is reduced",
+    "Content": "移动速度降低了",
     "Id": 32
   },
   {
-    "Content": "Physical abilities are decreased",
+    "Content": "身体能力降低了",
     "Id": 33
   },
   {
-    "Content": "Can breathe and move easily underwater",
+    "Content": "在水下自由行动",
     "Id": 34
   },
   {
-    "Content": "Cannot use items that require mana",
+    "Content": "不能使用魔法物品",
     "Id": 35
   },
   {
-    "Content": "Defense is cut in half",
+    "Content": "防御减半",
     "Id": 36
   },
   {
-    "Content": "You have seen something nasty, there is no escape.",
+    "Content": "你看到了污浊之物，不能逃脱.",
     "Id": 37
   },
   {
-    "Content": "You are being sucked into the mouth",
+    "Content": "你被吞进了嘴里",
     "Id": 38
   },
   {
-    "Content": "Losing life",
+    "Content": "失去生命",
     "Id": 39
   },
   {
-    "Content": "I think it wants your carrot",
+    "Content": "它像是想吃你手上的胡萝卜？",
     "Id": 40
   },
   {
-    "Content": "I think it wants your fish",
+    "Content": "我认为它想吃掉这条鱼",
     "Id": 41
   },
   {
-    "Content": "Happy turtle time!",
+    "Content": "快乐的小海龟!",
     "Id": 42
   },
   {
-    "Content": "25% of damage taken will be redirected to another player",
+    "Content": "为队友吸收25%伤害",
     "Id": 43
   },
   {
-    "Content": "It's either really hot or really cold. Either way it REALLY hurts",
+    "Content": "你也不知道它是热还是冷，反正就是疼",
     "Id": 44
   },
   {
-    "Content": "A baby Eater of Souls is following you",
+    "Content": "噬魂与你同在",
     "Id": 45
   },
   {
-    "Content": "Your movement speed has been reduced",
+    "Content": "你的移动速度已经降低",
     "Id": 46
   },
   {
-    "Content": "You can't move!",
+    "Content": "不能动了!",
     "Id": 47
   },
   {
-    "Content": "Life regeneration is increased",
+    "Content": "生命回复速度提升",
     "Id": 48
   },
   {
-    "Content": "The pygmies will fight for you",
+    "Content": "俾格米人会为你而战",
     "Id": 49
   },
   {
-    "Content": "Don't even ask...",
+    "Content": "啥都别问...",
     "Id": 50
   },
   {
-    "Content": "It thinks you are its mother",
+    "Content": "它把你当妈了",
     "Id": 51
   },
   {
-    "Content": "A friendly spirit is following you",
+    "Content": "友好地跟着你",
     "Id": 52
   },
   {
-    "Content": "Chillin' like a reptilian",
+    "Content": "它在慢慢爬...",
     "Id": 53
   },
   {
-    "Content": "Polly want's the cracker",
+    "Content": "波莉想要饼干",
     "Id": 54
   },
   {
-    "Content": "Isn't this just soooo cute?",
+    "Content": "这货不也是蛮可爱的嘛？",
     "Id": 55
   },
   {
-    "Content": "A little sapling is following you",
+    "Content": "不要把它种下地",
     "Id": 56
   },
   {
-    "Content": "A wisp is following you",
+    "Content": "它随着你飘动",
     "Id": 57
   },
   {
-    "Content": "Life regeneration is greatly increased",
+    "Content": "生命回复速度大大增加",
     "Id": 58
   },
   {
-    "Content": "You will dodge the next attack",
+    "Content": "你能闪避下次攻击",
     "Id": 59
   },
   {
-    "Content": "Shoots crystal leaves at nearby enemies",
+    "Content": "它会射出水晶叶子攻击敌人",
     "Id": 60
   },
   {
-    "Content": "A baby dinosaur is following you",
+    "Content": "它想吃掉里面的蚊子",
     "Id": 61
   },
   {
-    "Content": "Damage taken is reduced by 25%",
+    "Content": "防御增加30",
     "Id": 62
   },
   {
-    "Content": "Movement speed is increased",
+    "Content": "移动速度加快",
     "Id": 63
   },
   {
-    "Content": "The baby slime will fight for you",
+    "Content": "其实是团子",
     "Id": 64
   },
   {
-    "Content": "An eyeball spring is following you",
+    "Content": "蹦蹦跳跳地移动",
     "Id": 65
   },
   {
-    "Content": "A baby snowman is following you",
+    "Content": "自带雪橇",
     "Id": 66
   },
   {
-    "Content": "Losing life and slowed movement",
+    "Content": "失去生命并减慢速度",
     "Id": 67
   },
   {
-    "Content": "Losing life",
+    "Content": "失去生命",
     "Id": 68
   },
   {
-    "Content": "Reduced defense",
+    "Content": "减少防御",
     "Id": 69
   },
   {
-    "Content": "Losing life",
+    "Content": "失去生命",
     "Id": 70
   },
   {
-    "Content": "Drop more money on death",
+    "Content": "击杀目标会得到更多钱",
     "Id": 72
   },
   {
-    "Content": "Light vision severely reduced",
+    "Content": "世界都变暗了",
     "Id": 80
   },
   {
-    "Content": "A spider is following you",
+    "Content": "爬墙结网",
     "Id": 81
   },
   {
-    "Content": "A squashling is following you",
+    "Content": "这南瓜会动啊",
     "Id": 82
   },
   {
-    "Content": "The ravens will attack your enemies",
+    "Content": "有只乌鸦为你战斗",
     "Id": 83
   },
   {
-    "Content": "A black kitty is following you",
+    "Content": "果然还是黑喵最萌了",
     "Id": 84
   },
   {
-    "Content": "A cursed sapling is following you",
+    "Content": "它会告诉你什么叫圆周运动",
     "Id": 85
   },
   {
-    "Content": "Increased monster spawn rate",
+    "Content": "增加怪物刷新频率",
     "Id": 86
   },
   {
@@ -316,179 +316,179 @@
     "Id": 157
   },
   {
-    "Content": "Life regen is slightly increased",
+    "Content": "略微增加生命回复速度",
     "Id": 87
   },
   {
-    "Content": "Using the Rod of Discord will take life",
+    "Content": "继续使用传送法杖将造成伤害",
     "Id": 88
   },
   {
-    "Content": "Life regen is increased",
+    "Content": "增加生命回复速度",
     "Id": 89
   },
   {
-    "Content": "Riding the red nosed reindeer",
+    "Content": "骑着红鼻子的驯鹿",
     "Id": 90
   },
   {
-    "Content": "A puppy is following you",
+    "Content": "粘着你的狗狗",
     "Id": 91
   },
   {
-    "Content": "A baby grinch is following you",
+    "Content": "粘着你的小圣诞怪杰",
     "Id": 92
   },
   {
-    "Content": "20% chance to not consume ammo",
+    "Content": "20%的机会不消耗弹药",
     "Id": 93
   },
   {
-    "Content": "Magic damage reduced by ",
+    "Content": "魔法伤害减少 ",
     "Id": 94
   },
   {
-    "Content": "Damage taken reduced by 15%",
+    "Content": "减少伤害15%",
     "Id": 95
   },
   {
-    "Content": "Damage taken reduced by 30%",
+    "Content": "减少伤害 30%",
     "Id": 96
   },
   {
-    "Content": "Damage taken reduced by 45%",
+    "Content": "减少伤害 45%",
     "Id": 97
   },
   {
-    "Content": "Melee damage and speed increase by 10%",
+    "Content": "增加近战伤害和攻速 10%",
     "Id": 98
   },
   {
-    "Content": "Melee damage and speed increase by 20%",
+    "Content": "增加近战伤害和攻速 20%",
     "Id": 99
   },
   {
-    "Content": "Melee damage and speed increase by 30%",
+    "Content": "增加近战伤害和攻速 30%",
     "Id": 100
   },
   {
-    "Content": "A fairy is following you",
+    "Content": "仙女跟随你",
     "Id": 101
   },
   {
-    "Content": "A fairy is following you",
+    "Content": "仙女跟随你",
     "Id": 102
   },
   {
-    "Content": "You are dripping water",
+    "Content": "你掉进水里了！",
     "Id": 103
   },
   {
-    "Content": "25% increased mining speed",
+    "Content": "提升25%的挖掘速度",
     "Id": 104
   },
   {
-    "Content": "Increased heart pickup range",
+    "Content": "提升红心的拾取范围",
     "Id": 105
   },
   {
-    "Content": "Reduced enemy aggression",
+    "Content": "减少怪物出现的几率",
     "Id": 106
   },
   {
-    "Content": "Increased placement speed and range",
+    "Content": "增加物块放置速度及距离",
     "Id": 107
   },
   {
-    "Content": "Increased knockback",
+    "Content": "增加你的击退",
     "Id": 108
   },
   {
-    "Content": "Move like normal in water",
+    "Content": "获得在水里游泳的能力",
     "Id": 109
   },
   {
-    "Content": "Increased max number of minions",
+    "Content": "增加你的最大召唤数量",
     "Id": 110
   },
   {
-    "Content": "You can see nearby hazards",
+    "Content": "你将能感知到附近的危险",
     "Id": 111
   },
   {
-    "Content": "20% chance to not consume ammo",
+    "Content": "减少20%的子弹消耗",
     "Id": 112
   },
   {
-    "Content": "20% increased max life",
+    "Content": "提升你20%的生命上限",
     "Id": 113
   },
   {
-    "Content": "10% reduced damage",
+    "Content": "减少10%受到的伤害",
     "Id": 114
   },
   {
-    "Content": "10% increased critical chance",
+    "Content": "提升10%的暴击率",
     "Id": 115
   },
   {
-    "Content": "Nearby enemies are ignited",
+    "Content": "附近的敌人将被你点燃",
     "Id": 116
   },
   {
-    "Content": "10% increased damage",
+    "Content": "提升你10%的所有伤害",
     "Id": 117
   },
   {
-    "Content": "Riding in a minecart",
+    "Content": "你正坐在矿车上",
     "Id": 118
   },
   {
-    "Content": "Riding in a minecart",
+    "Content": "你正坐在矿车上",
     "Id": 138
   },
   {
-    "Content": "You are in love!",
+    "Content": "你被浓浓的爱意包围了！",
     "Id": 119
   },
   {
-    "Content": "You smell terrible",
+    "Content": "你闻起来真臭",
     "Id": 120
   },
   {
-    "Content": "Increased fishing level",
+    "Content": "提升你15%的钓鱼能力",
     "Id": 121
   },
   {
-    "Content": "You can see what's biting your hook",
+    "Content": "你可以看到是什么咬/挂住了你的鱼钩",
     "Id": 122
   },
   {
-    "Content": "Greater chance of fishing up a crate",
+    "Content": "大幅度提升钓到板条箱的概率",
     "Id": 123
   },
   {
-    "Content": "Reduced damage from cold sources",
+    "Content": "减少寒冷伤害",
     "Id": 124
   },
   {
-    "Content": "The hornet will fight for you",
+    "Content": "蜜蜂将为你而战",
     "Id": 125
   },
   {
-    "Content": "The imp will fight for you",
+    "Content": "魔精将为你而战",
     "Id": 126
   },
   {
-    "Content": "It likes swimming around you",
+    "Content": "它喜欢在你周围游泳",
     "Id": 127
   },
   {
-    "Content": "You are craving carrots",
+    "Content": "你正拿着胡萝卜呐.....",
     "Id": 128
   },
   {
-    "Content": "Now you see me....",
+    "Content": "现在看我的....",
     "Id": 129
   },
   {
@@ -496,7 +496,7 @@
     "Id": 130
   },
   {
-    "Content": "Slow if by land, zoom if by sea",
+    "Content": "在岸上缓慢爬行，在海里飞速前进",
     "Id": 131
   },
   {
@@ -504,27 +504,27 @@
     "Id": 132
   },
   {
-    "Content": "The spider will fight for you",
+    "Content": "蜘蛛将为你而战",
     "Id": 133
   },
   {
-    "Content": "The twins will fight for you",
+    "Content": "双子魔眼将为你而战",
     "Id": 134
   },
   {
-    "Content": "The pirate will fight for you",
+    "Content": "海盗将为你而战",
     "Id": 135
   },
   {
-    "Content": "How do you defeat a mini Minotaur?",
+    "Content": "你是怎么折服这只迷你牛头人的？",
     "Id": 136
   },
   {
-    "Content": "You are slimy and sticky",
+    "Content": "你又黏又臭",
     "Id": 137
   },
   {
-    "Content": "The sharknado will fight for you",
+    "Content": "鲨龙卷将为你而战",
     "Id": 139
   },
   {
@@ -784,35 +784,35 @@
     "Id": 199
   },
   {
-    "Content": "Melee attacks inflict venom on your targets",
+    "Content": "近战攻击能给敌人涂毒",
     "Id": 71
   },
   {
-    "Content": "Melee attacks inflict enemies with cursed flames",
+    "Content": "近战攻击能使敌人带上诅咒之炎",
     "Id": 73
   },
   {
-    "Content": "Melee attacks set enemies on fire",
+    "Content": "近战攻击能使敌人着火",
     "Id": 74
   },
   {
-    "Content": "Melee attacks make enemies drop more gold",
+    "Content": "近战攻击获得更多金币",
     "Id": 75
   },
   {
-    "Content": "Melee attacks decrease enemies defense",
+    "Content": "近战攻击能减少敌人防御",
     "Id": 76
   },
   {
-    "Content": "Melee attacks confuse enemies",
+    "Content": "近战攻击能使敌人混乱",
     "Id": 77
   },
   {
-    "Content": "Melee attacks cause confetti to appear",
+    "Content": "近战攻击会带出各色彩纸",
     "Id": 78
   },
   {
-    "Content": "Melee attacks poison enemies",
+    "Content": "近战攻击能使敌人中毒",
     "Id": 79
   }
 ]

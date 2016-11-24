@@ -1,362 +1,362 @@
 ﻿[
   {
-    "Content": "Oh! Thanks for the fish I asked for, now scram!",
+    "Content": "呜哇！谢谢你钓来我需要的鱼！现在，尖叫吧！",
     "Id": 0
   },
   {
-    "Content": "Awesome catch! It's all going according to plan! He he he!",
+    "Content": "一次惊艳的捕捉！一切都在计划之中！呵呵呵！",
     "Id": 1
   },
   {
-    "Content": "You make a great errand monkey! Now go away!",
+    "Content": "你是一个不错的跑腿苦力…… 愣着干什么快滚！",
     "Id": 2
   },
   {
-    "Content": "Muahahahahaha! You did it! You're still in one piece though, how boring!",
+    "Content": "姆哈哈哈哈！ 你做到了！ 虽然你在我看来战斗力仍然只有5, 太无聊了！",
     "Id": 3
   },
   {
-    "Content": "Woah!? You actually did what I asked, and survived! Nice, hand it over and beat it!",
+    "Content": "哇哦？！你居然完成了我的要求！现在把它给我，顺便再给它一锤子！",
     "Id": 4
   },
   {
-    "Content": "I don't have anything for you to do right now.",
+    "Content": "我现在没有任务让你做.",
     "Id": 5
   },
   {
-    "Content": "You have entertained me enough for today, go.",
+    "Content": "你今天已经款待我够了, 走吧.",
     "Id": 6
   },
   {
-    "Content": "You are done, the grand ",
+    "Content": "你完成了一件大事",
     "Id": 7
   },
   {
-    "Content": " dismisses you!",
+    "Content": " 再见！",
     "Id": 8
   },
   {
-    "Content": "Only one fish a day, please go away!",
+    "Content": "一天只要一条鱼，现在麻烦一边去。",
     "Id": 9
   },
   {
-    "Content": "I haven't even used the last fish you gave me.  I don't need another.",
+    "Content": "刚刚你给我的鱼我还没吃呢，我现在不需要其他的了。",
     "Id": 10
   },
   {
-    "Content": "Na na na na na na na Bat-FISH!",
+    "Content": "喏呐喏呐呐，快看是蝙蝠鱼！",
     "Id": 11
   },
   {
-    "Content": "That means go digging underground, fetch it, and bring it to me!",
+    "Content": "这意味着你要挖到地下，钓上来鱼，然后带回来给我！",
     "Id": 12
   },
   {
-    "Content": "\n(Caught in Underground & Caverns)",
+    "Content": "\n(在地下和大洞穴里)",
     "Id": 13
   },
   {
-    "Content": "The subterranean jungles of ",
+    "Content": "这个世界 ",
     "Id": 14
   },
   {
-    "Content": " have the weirdest things!",
+    "Content": " 的地下丛林，有不少稀奇古怪的东西！",
     "Id": 15
   },
   {
-    "Content": "Like, there's this fish I saw that looked just like a giant bumblebee!",
+    "Content": "看看，这条鱼在我看来就像一只特大号的熊蜂！",
     "Id": 16
   },
   {
-    "Content": "I'm allergic to bees, so you have to catch it for me! I bet it'd taste like a tuna and honey sandwich!",
+    "Content": "我对蜜蜂过敏，所以需要你帮我把它抓来！ 我赌五毛它吃起来就跟金枪鱼三明治加蜂蜜一样。",
     "Id": 17
   },
   {
-    "Content": "\n(Caught in Honey)",
+    "Content": "\n(在蜂蜜里)",
     "Id": 18
   },
   {
-    "Content": "I finally found a jungle cat that likes water! I think it's because it's also part fish.",
+    "Content": "我终于发现了一种不怕水的丛林猫了……但貌似它其实是一种鱼。",
     "Id": 19
   },
   {
-    "Content": "I don't know why this happened, and I don't want to know.",
+    "Content": "我不知道也不想知道这事是怎么发生的。",
     "Id": 20
   },
   {
-    "Content": "I just want it in my hands, and make it snappy!",
+    "Content": "我现在只想让它出现在我手上，然后轻轻咬我一口！",
     "Id": 21
   },
   {
-    "Content": "\n(Caught in Jungle Surface)",
+    "Content": "\n(在丛林地面)",
     "Id": 22
   },
   {
-    "Content": "There's a rumor going around that there are islands that float high up in the sky, and that they have amazing treasure!",
+    "Content": "我曾经听说过一个传言，说有不可思议的岛屿飘浮在天空中，而且上面有着令人震惊的宝藏！",
     "Id": 23
   },
   {
-    "Content": "Who cares about that though, what's even cooler is that sometimes lakes form in the clouds, and in those lakes are fish made out of clouds!",
+    "Content": "不管是真是假，有一件超级酷的事是，在有时候云上面会有个湖，在里面可以钓到像云一样的鱼！",
     "Id": 24
   },
   {
-    "Content": "I wanna know what it tastes like, so you better go catch it for me!",
+    "Content": "我想知道它尝起来怎样，所以你最好帮我把它抓来。",
     "Id": 25
   },
   {
-    "Content": "\n(Caught in Sky Lakes)",
+    "Content": "\n(在天上的湖)", // skylake
     "Id": 26
   },
   {
-    "Content": "There's a cursed fish swimming in the waters of the deepest corruption!",
+    "Content": "这是一种被诅咒的鱼类，它们生活在腐化之地深处的水里。",
     "Id": 27
   },
   {
-    "Content": "It was forged of the cursed flames that spread from the fallen horrors that lurk down there.",
+    "Content": "它是由诅咒魔焰组成，并且由一些隐藏在这里的堕落邪恶所创造。",
     "Id": 28
   },
   {
-    "Content": "They say not even water can put out this fire, and that it can burn forever.",
+    "Content": "别人说就算是水也不能熄灭这种火焰，它会永远的燃烧下去。",
     "Id": 29
   },
   {
-    "Content": "I can think of some awesome things I can do with a fish like that! You gonna go get it for me, or are you too chicken!?",
+    "Content": "我可以想象的到我能用这条鱼做到什么不可思议的东西！你能把它带给我么，或者说你是一只无能的菜鸟？",
     "Id": 30
   },
   {
-    "Content": "\n(Caught in Corruption)",
+    "Content": "\n(在腐化地)",
     "Id": 31
   },
   {
-    "Content": "I was reeling in the big one when this funny talking zombie burst out of the forest lake and started rambling on about this 'ferocious' species of fish made out of dirt!",
+    "Content": "我正在收拾我钓上来的一条大鱼的时候，一只会说话的逗比僵尸忽然从树林里的湖中冲了出来，对着那条沾满了泥土做成的凶猛鱼类发起了猛烈的吐槽。",
     "Id": 32
   },
   {
-    "Content": "He says it could suffocate ten blokes his size, or something like that... I want it! NOW!",
+    "Content": "它说这儿太小了，才十格，容不下它，或者是什么类似的话...我要它，那条鱼而不是僵尸！现在！",
     "Id": 33
   },
   {
-    "Content": "\n(Caught in Surface, Underground, & Caverns)",
+    "Content": "\n(在地表, 地下和洞穴里)",
     "Id": 34
   },
   {
-    "Content": "The demolitionist was raising cane about losing a stick of dynamite in the lake out in the forest. He has like, so many, so why does one matter?",
+    "Content": "那个卖炸弹说他掉了一些雷管在丛林的湖里，但他明明还有那么多为何纠结于这一个？",
     "Id": 35
   },
   {
-    "Content": "Apparently, because it grew fins and started swimming away! I don't know where he gets his materials to make those things, but that one is clearly possessed!",
+    "Content": "据说那些雷管开始长鳍而且能游泳了！我不知道它从哪得来的能力做到这些事情，但是很明显它成功了！开始长鳍而且能游泳了！我不知道它从哪得来的能力做到这些事情，但是很明显它成功了！",
     "Id": 36
   },
   {
-    "Content": "Reel it in and bring it to me, I always wanted a suicide bombing fish! Don't ask why...",
+    "Content": "把它打包带给我！我早就想要一条自杀式炸弹鱼了，不要问为什么...",
     "Id": 37
   },
   {
-    "Content": "\n(Caught in Surface)",
+    "Content": "\n(在地表)",
     "Id": 38
   },
   {
-    "Content": "I bet you're not brave enough to find the Eater of Plankton.",
+    "Content": "我赌五毛，你才不会勇敢到能弄到一条吞噬鱼的地步。",
     "Id": 39
   },
   {
-    "Content": "A corrupt fish that was mutated from a severed piece of the Eater of Worlds itself!",
+    "Content": "这种鱼其实是世界吞噬者身上掉下了的碎片！曾是它的一节！",
     "Id": 40
   },
   {
-    "Content": "Capture it and bring it to me, and prove to me you're not a wuss!",
+    "Content": "捉住它带给我！向我证明你不是一个懦夫！",
     "Id": 41
   },
   {
-    "Content": "\n(Caught in Corruption)",
+    "Content": "\n(在腐化地)",
     "Id": 42
   },
   {
-    "Content": "I love collecting those bright yellow stars that fall from the sky! I love it even more when they land on someone's head.",
+    "Content": "我收集这种闪亮的漂亮星星，我特别喜欢它，尤其是当它降落在某人头顶上时。",
     "Id": 43
   },
   {
-    "Content": "But.. but.. nothing beats a star that falls in a foresty lake and turns into a fish!",
+    "Content": "但.. 但是.. 没有什么比得上它落在一个森林的湖中，然后居然变成了一条鱼！",
     "Id": 44
   },
   {
-    "Content": "That's just totally rad, and you're just rad enough to get it for me!",
+    "Content": "是不是很有趣啊！嗯，你也是个很有趣的人，所以，去给我把它抓来！",
     "Id": 45
   },
   {
-    "Content": "\n(Caught in Sky Lakes)",
+    "Content": "\n(在天上的湖)",
     "Id": 46
   },
   {
-    "Content": "Apparently, Demon Eyes can sometimes be amphibious. They don't fly, they swim!",
+    "Content": "据说，有时候恶魔之眼会变得奇怪而且异常，它们不再飞翔，然后居然游起了泳。",
     "Id": 47
   },
   {
-    "Content": "I want to see the look on someone's face when they find it in their bathtub!",
+    "Content": "我想要看看当一个人发现它在他的浴缸里直溜溜盯着他，会是什么样子！",
     "Id": 48
   },
   {
-    "Content": "They hang around the same areas. That means you reel one in for me!",
+    "Content": "它们在一些地方游荡，我的意思是你帮我打包一条回来。",
     "Id": 49
   },
   {
-    "Content": "\n(Caught in Sky Lakes & Surface)",
+    "Content": "\n(在天上的湖和地表)",
     "Id": 50
   },
   {
-    "Content": "I don't know what's worse, a bone fish or a bone fish with HANDS. This Fish-o-Tron deep in the caverns really freaks me out!",
+    "Content": "我不知道发生了什么怪事，一条骨头做的鱼，或者说有手的鱼骨头？这条生活在洞穴里的骸骨魔鱼真的吓到我了！",
     "Id": 51
   },
   {
-    "Content": "I think it's possessed by the same evil spirits that possessed that old man by the dungeon!",
+    "Content": "我想它拥有和把那位老人家封印在地牢门口的邪恶存在一样的灵魂！",
     "Id": 52
   },
   {
-    "Content": "I double duck dare you to go catch it!",
+    "Content": "我万分怀疑你是否能把它弄回来！",
     "Id": 53
   },
   {
-    "Content": "\n(Caught in Caverns)",
+    "Content": "\n(在洞穴中)",
     "Id": 54
   },
   {
-    "Content": "I was trying to sleep by the hill lakeside when this fish swooped down at me. It was flying!",
+    "Content": "当时我正在一个山坡上的湖边打瞌睡，这条鱼就向我冲了下来，它居然在飞！",
     "Id": 55
   },
   {
-    "Content": "It also had the face of a lady and had feathers! I think I screamed louder than she did!",
+    "Content": "它还有一张女人的脸和羽毛，不过我想我当时尖叫起来比它还大声。",
     "Id": 56
   },
   {
-    "Content": "Hey you, go make her pay for scaring me like that!",
+    "Content": "嘿，就是你，去把她给我抓来，我要让她明白吓到我的代价！",
     "Id": 57
   },
   {
-    "Content": "\n(Caught in Sky Lakes & Surface)",
+    "Content": "\n(在天上的湖和地表)",
     "Id": 58
   },
   {
-    "Content": "There's a piece of the Hunger that morphed from the Wall of Flesh into a small fish-like thing that swims around aimlessly in the underworld and it's gross and it's yucky and I want it now!",
+    "Content": "据说血肉魔墙饥饿的触手有一部分变成了一条鱼一样的存在，它漫无目的地在地狱里游荡着，它看起来丑陋而又恶心，但是我现在想要它！",
     "Id": 59
   },
   {
-    "Content": "\n(Caught in Caverns)",
+    "Content": "\n(在洞穴中)",
     "Id": 60
   },
   {
-    "Content": "Did you know deep in the crimson, some of those creatures make this gross yellow stuff?",
+    "Content": "你知道在猩红之地地下深处，一些生物制造了这种恶心的黄色玩意。",
     "Id": 61
   },
   {
-    "Content": "I overheard a crazy story about a pool of it having melted together into a shape of a fish and it swims around and everything!",
+    "Content": "我曾经听过一个疯狂的故事，一池子的这种东西会融合到一起，变成一条能在四周游动的鱼！",
     "Id": 62
   },
   {
-    "Content": "Fetch it for me, so I can stick it in someone's toilet!",
+    "Content": "给我把它抓来，这样我就能把它塞进某人的厕所里！",
     "Id": 63
   },
   {
-    "Content": "\n(Caught in Crimson)",
+    "Content": "\n(在血腥地)",
     "Id": 64
   },
   {
-    "Content": "Oooooohhh, I'm going to be SO rich! Deep in the caverns, there is a fish made out of gemstones!",
+    "Content": "喔噢噢噢噢，我要变成土豪了！在洞穴的深处，有一种由宝石构成的鱼！",
     "Id": 65
   },
   {
-    "Content": "Don't ask me how, I don't know, all I know is that this fish is totally awesome and you're going to catch it for me!",
+    "Content": "不要问我怎么做，我不知道！我只知道这鱼实在酷爆了，赶紧给我把它抓来！",
     "Id": 66
   },
   {
-    "Content": "\n(Caught in Underground & Caverns)",
+    "Content": "\n(在地下和洞穴里)",
     "Id": 67
   },
   {
-    "Content": "There's some interesting critters to be found in the deeper Hallows, I tell you!",
+    "Content": "我跟你讲，圣地地下深处有一种很有趣的生物。",
     "Id": 68
   },
   {
-    "Content": "They glow this crazy purple color and it messes with my eyes!",
+    "Content": "它们会发出闪瞎我狗眼的紫光！",
     "Id": 69
   },
   {
-    "Content": "It's totally wild, so I want you to catch a fish like that for me!",
+    "Content": "实在是太凶残了！所以我要你帮我去捉一条这样的鱼。",
     "Id": 70
   },
   {
-    "Content": "\n(Caught in Underground Hallow)",
+    "Content": "\n(在神圣地下)",
     "Id": 71
   },
   {
-    "Content": "What's white and tan and fluffy and lives in a frozen underground lake? A mutant flinxfin!",
+    "Content": "什么东西是白褐色又毛绒绒的而又会住在雪地之中，当然是一只变种雪球怪啦。",
     "Id": 72
   },
   {
-    "Content": "I wasn't telling a joke, you know, there really is a mutated variety of Flinx that is more adapted to an aquatic lifestyle!",
+    "Content": "我可不是在逗你，你懂的， 这对雪球怪来说是一种能让它更适应水中环境的突变。",
     "Id": 73
   },
   {
-    "Content": "I want it to adapt to my fishbowl, so make sure that happens!",
+    "Content": "不过我想让它先适应我的鱼缸，嗯，去完成这件事。",
     "Id": 74
   },
   {
-    "Content": "\n(Caught in Underground Tundra)",
+    "Content": "\n(在雪地地下)",
     "Id": 75
   },
   {
-    "Content": "It's a whale! It's a dolphin! No, it's a penguin fish! Oh, and look, it's you!",
+    "Content": "它，是一条鲸鱼吗？是一条海豚吗？不，它是一条企鹅鱼！哦,看！长得就和你一样！",
     "Id": 76
   },
   {
-    "Content": "You get to bring me one! You do know they only like cold water, right?",
+    "Content": "你得帮我弄来一条。你知道它们喜欢呆在寒冷的水中，对吗？",
     "Id": 77
   },
   {
-    "Content": "\n(Caught in Tundra)",
+    "Content": "\n(在雪地)",
     "Id": 78
   },
   {
-    "Content": "There's a really really rare type of pixie that's born with so many wings that it can't actually fly!",
+    "Content": "这是一种非常非常稀有的小精灵，它长了太多的翅膀结果连飞行都不会了。",
     "Id": 79
   },
   {
-    "Content": "It swims with the fishes in the lakes surrounded by that blue colored grass.",
+    "Content": "于是它只能在被蓝色草地包围和湖中和鱼一起游泳。",
     "Id": 80
   },
   {
-    "Content": "My fish tank needs a lamp, so I want you to catch me that pixie!",
+    "Content": "我的鱼缸需要一个灯，所以你得帮我抓一只这种小精灵。",
     "Id": 81
   },
   {
-    "Content": "\n(Caught in Hallow)",
+    "Content": "\n(在圣地)",
     "Id": 82
   },
   {
-    "Content": "I saw a fish that had eight legs! Nope! Not happening!",
+    "Content": "我好像看见一条鱼长了八条腿。不，这不科学！",
     "Id": 83
   },
   {
-    "Content": "You're fishing it for me, so it's not alive when I hold it!",
+    "Content": "你得帮我钓到它，当我拿到它时，它就不会再存在了。",
     "Id": 84
   },
   {
-    "Content": "That's the last time I go fishing so deep in the cavern!",
+    "Content": "我记得是上次我在地下深处钓鱼时看到的。",
     "Id": 85
   },
   {
-    "Content": "\n(Caught in Underground & Caverns)",
+    "Content": "\n(在地下和洞穴里)",
     "Id": 86
   },
   {
-    "Content": "You ever wonder why the lakes on the surface of the snowy areas of ",
+    "Content": "你又没有想过为什么 ",
     "Id": 87
   },
   {
-    "Content": " never ice over? I don't.",
+    "Content": " 的雪地里湖不结冰呢？我没想过。",
     "Id": 88
   },
   {
-    "Content": "The fish, however, do! A fish made out of ice would make a great offering to the mighty and amazing ",
+    "Content": "因为，我知道这是一条鱼干的！一条全部由冰雪构成的鱼造成了这一神奇的现象 ",
     "Id": 89
   },
   {
@@ -364,191 +364,191 @@
     "Id": 90
   },
   {
-    "Content": "Go, my loyal subject, and bring me this Tundra Trout with haste!",
+    "Content": "去吧，我忠诚的下仆！ 速速给我把这条寒冰鲑鱼抓来！",
     "Id": 91
   },
   {
-    "Content": "\n(Caught in Surface Tundra)",
+    "Content": "\n(在雪地地表)",
     "Id": 92
   },
   {
-    "Content": "Unicorns and rainbows are absolutely great! They're everywhere, even in the water.",
+    "Content": "独角兽配上彩虹简直太赞了！到处都能看到它们，包括在水中。",
     "Id": 93
   },
   {
-    "Content": "No, really, I actually saw a unicorn fish in the Hallowed lake!",
+    "Content": "这是真的，我真的看到了一条独角兽鱼出现在神圣之地的湖中。",
     "Id": 94
   },
   {
-    "Content": "Your job is to reel it up and let me have it as a pet!",
+    "Content": "那么你的任务就是去把它弄来给我当宠物！",
     "Id": 95
   },
   {
-    "Content": "\n(Caught in Hallow)",
+    "Content": "\n(在圣地)",
     "Id": 96
   },
   {
-    "Content": "Those demons in the underworld really like voodoo dolls, but I think there's a doll out there who was blasted with way too much magic!",
+    "Content": "这些地狱中的恶魔还真是喜欢巫毒娃娃呢，不过我想它们不会知道还有这么一种神奇的娃娃吧。",
     "Id": 97
   },
   {
-    "Content": "It turned into a fish and it does stuff on its own. I dare you to go down and get me one!",
+    "Content": "这种娃娃整个就变成了一条鱼！我打赌你不敢下去给我抓一只上来。",
     "Id": 98
   },
   {
-    "Content": "I'd watch out for the boiling lava, because it burns you to death and that won't get me my fish!",
+    "Content": "不过我还是告诉你得小心别让地狱里翻涌的岩浆给烧着了，不然我的鱼就没了。",
     "Id": 99
   },
   {
-    "Content": "\n(Caught in Caverns)",
+    "Content": "\n(在洞穴内)",
     "Id": 100
   },
   {
-    "Content": "I know something youuuuu don't! Fine, I'll tell you, there's a terrifying creature that flies among the stars! I'm not making this up!",
+    "Content": "我知道你所不知道的东西，好吧，我就告诉你吧。有一种遨游在群星之种的恐怖生物，我没开玩笑。 ",
     "Id": 101
   },
   {
-    "Content": "It's called a Wyvern! But, but, you knew that already, right? Well what you don't know is that they are born and raised as tadpoles!",
+    "Content": "它叫做虚空白龙。好吧好吧你知道这段，不过，我想你不知道它还能长得和蝌蚪差不多吧。",
     "Id": 102
   },
   {
-    "Content": "So, they're actually like.. well, a frog! Hop to it and get me one!",
+    "Content": "实际上长得像…青蛙。把它给我钓回来！",
     "Id": 103
   },
   {
-    "Content": "\n(Caught in Sky Lakes)",
+    "Content": "\n(在天上的湖)",
     "Id": 104
   },
   {
-    "Content": "You won't believe it! I caught a fish in the forest at night that was already dead! Then it tried to eat me! I threw it away and ran!",
+    "Content": "不管你信不信，一天晚上我在森林里钓到一条已经死了的鱼，它居然想吃掉我的脑子，于是我赶紧扔掉跑路了",
     "Id": 105
   },
   {
-    "Content": "Now I want to stick it in someone's dresser to see what happens, so go fish it back up for me will ya?!",
+    "Content": "N现在我想把它塞进某人的梳妆台里看看会不会发生什么有趣的事，所以，你丫赶紧去给我弄一条来！",
     "Id": 106
   },
   {
-    "Content": "\n(Caught in Surface)",
+    "Content": "\n(在地表)",
     "Id": 107
   },
   {
-    "Content": "I found this spectacular place draped in giant glowing mushrooms! Everything was blue! I was picking some of the mushrooms I found next to a glistening blue lake, when one of the mushrooms snapped at me and swam away! I want to give it a taste of its own medicine, and give it a good chompin'! What I mean is, you gotta get it for me!",
+    "Content": "我发现了一片涨满了巨大蘑菇的奇葩之地，入眼一片蓝色！当我在一片蓝色的湖岸边采蘑菇时，一只蘑菇突然咬了我一口然后游走了。我想让它常常它自己牙齿的味道，嗯，我的意思是说，你去把它给我抓来！",
     "Id": 108
   },
   {
-    "Content": "\n(Caught in Glowing Mushroom Fields)",
+    "Content": "\n(在夜光蘑菇地)",
     "Id": 109
   },
   {
-    "Content": "Did you know there's magical islands that float up high in the sky? Bet you didn't! They say angels live in the sky, and I believe those angels have fins and gills and swim around! I believe you must catch one for me!",
+    "Content": "你知道天空之中有漂浮着的魔法岛屿吗？我赌五毛你不知道！他们说上面住着天使，不过我想这些天使还长着鳍和鳃吧。我相信你能我给抓一只来的。",
     "Id": 110
   },
   {
-    "Content": "\n(Caught in Sky Lakes)",
+    "Content": "\n(在天上的湖)",
     "Id": 111
   },
   {
-    "Content": "Ow! Don't get near me! I got stung by a Bloody Man-O-War! In case you're not smart enough to know what that is, it's the most menacing jellyfish in all of ",
+    "Content": "噢，不要靠近我！我刚被一只血腥水母给螫了！好吧我想你这个笨蛋不知道我说的啥吧。它可是 ",
     "Id": 112
   },
   {
-    "Content": "! Go to that rotten crimson and catch it if you dare! ",
+    "Content": " 里最凶残的水母！去猩红之地给我抓一条来，如果你敢的话。",
     "Id": 113
   },
   {
-    "Content": "\n(Caught in Crimson)",
+    "Content": "\n(在血腥地)",
     "Id": 114
   },
   {
-    "Content": "Normally I could care less if I see fishbones floating in the water underground, but this one was swimming! What, you thought that only human skeletons still flailed about in ",
+    "Content": "正常情况下你不会去关心一条漂浮在地下湖水上的鱼骨头，不过，这条可是在游动的啊！啥？你说这只是 ",
     "Id": 115
   },
   {
-    "Content": "? Get it for me so I can stick it in someone's bed!",
+    "Content": "里的人骨头在摆动？好吧别管这些给我弄一只来，我就能把它塞进某人的床里！",
     "Id": 116
   },
   {
-    "Content": "\n(Caught in Underground & Caverns)",
+    "Content": "\n(在地下和洞穴里)",
     "Id": 117
   },
   {
-    "Content": "Out in the forest, I was fishing right? Well guess what! A bunny hopped up to me! Then another one hopped up, and another... suddenly I'm surrounded by bunnies! One even swam up to me from the water, but it had no legs! I fell outta my chair in surprise and all the bunnies scurried off! I want that bunny fish as a pet, so you better catch it for me! Pronto!",
+    "Content": "森林中，嗯，我在钓鱼，好吧你猜发生了啥？一只兔子跳到了我跟前！然后又一只，又一只... 一瞬间我就被兔子们强势围观了！居然还有一只是从水中跳过来的，它可没有腿！于是我怒了从椅子上站了起来，兔子们就全都跑了。好吧，我是说我想要一只兔子鱼做宠物，所以，快去给我抓一只来！",
     "Id": 118
   },
   {
-    "Content": "\n(Caught in Surface)",
+    "Content": "\n(在地表)",
     "Id": 119
   },
   {
-    "Content": "Yarr matey! Shiver me timbers! Avast, scallywags! There's a pirate captain who once had a pet fish named Cap'n Tunabeard, but during a big storm the fishbowl fell overboard! It has a hook for a tail, and an eyepatch and everything! You need to fetch me that fish, so I can be as cool as a pirate! Obviously it's out in the ocean somewhere! Duh!",
+    "Content": "嘿，伙计！快停船！我们要完蛋了！魂淡！有一位海盗船长曾经有一条宠物鱼叫做图纳比尔德船长，但是在一个暴风雨之夜这鱼缸掉出船外了。这条鱼只剩一个钩子尾巴和一条眼罩。你得给我把它弄来，这样我就能变成一个酷爆了的海盗了！很明显，它就在大海中的某个地方，快！",
     "Id": 120
   },
   {
-    "Content": "\n(Caught in Ocean)",
+    "Content": "\n(在大海)",
     "Id": 121
   },
   {
-    "Content": "I saw this bright orange and colorful fish by the ocean, and it was looking around frantically as though it was seeking a lost family member! Go catch it for me, so that another one will show up looking frantically for him instead!",
+    "Content": "我在海边看到一条亮橙色的鱼，它疯狂地到处乱串仿佛是在寻找它失踪的家人。去把它给我抓来，然后就会有另一只来疯狂地找它了！",
     "Id": 122
   },
   {
-    "Content": "\n(Caught in Ocean)",
+    "Content": "\n(在大海)",
     "Id": 123
   },
   {
-    "Content": "I hear in the underworld, that the King of all demons is actually a fish! Just imagine the absolute power I would have if you caught it for me!",
+    "Content": "传说，在无尽的灼热地狱之中，那些残暴的恶魔的王，其实，是一条鱼！想想那绝对的力量吧，如果你帮我把它抓来，我就会得到这股庞大的力量，成为新世界的卡密！啊哈哈哈哈哈！",
     "Id": 124
   },
   {
-    "Content": "\n(Caught in Caverns)",
+    "Content": "\n(在洞穴内)",
     "Id": 125
   },
   {
-    "Content": "Those Derplings in the jungle are the most scary creatures I've ever seen! Good thing is, sometimes they don't have legs! These ones live in the water and are a lot less scary! Catch me one now so I can see what they taste like without being scared half to death!",
+    "Content": "这些巨眼怪是我在丛林里见过的最可怕的生物！不过好消息是，它们有时候没长出退来！这种生活在水里的就和谐多了。现在就去给我抓一只来让我能知道如果不把人吓得半死它会是一种什么样的味道。",
     "Id": 126
   },
   {
-    "Content": "\n(Caught in Jungle Surface)",
+    "Content": "\n(在丛林地表)",
     "Id": 127
   },
   {
-    "Content": "There's a legend of a mighty being known as the Fishron! It's part pig, part dragon, and part FISH! I hear it hangs around in the frozen subterranean lakes of the coldest part of the world! I'm not going there, so YOU go catch it and makes sure it lands in my hands! I'm so excited!",
+    "Content": "传说有一种叫做龙猪鱼的强大生物！它一部分是猪，一部分是龙，还有一部分，是鱼！我听说它们就住在这个世界最寒冷的冰雪之地地下的湖中。不过，我是不会去那种鬼地方的，所以，你就得替我跑一趟了，确保它们落到我的手中，如果收集到七个……呵呵…呵呵呵呵呵！",
     "Id": 128
   },
   {
-    "Content": "\n(Caught in Underground Tundra)",
+    "Content": "\n(在雪地地下)",
     "Id": 129
   },
   {
-    "Content": "A really long fish that looks like a sword's sheath swims in the murky waters of the corruption! It looks a lot like ebonstone, so don't let it fool you! That's right, you. You're catching it, not me!",
+    "Content": "这是一种真的很长的鱼，如同剑鞘一般，它游弋在腐蚀之地的黑暗水域中，它看起来还像一块黑檀石，所以你不要被它骗了。嗯，要去抓住它的是你，不是我！",
     "Id": 130
   },
   {
-    "Content": "\n(Caught in Corruption)",
+    "Content": "\n(在腐化地)",
     "Id": 131
   },
   {
-    "Content": "Watch your step when wading through jungle waters! Why? No, not because I care about you being eaten by piranhas. I care because you'll step on one of my favorite kinds of fish, the Mud Fish! I also care a lot that you're going to grab me one as a pet!",
+    "Content": "当你经过丛林中的水域时，注意你的脚下！你说问啥？不是因为我担心你会被食人鱼吃掉，而是因为我担心你把我最喜欢的一种鱼踩坏了。嗯，就是淤泥鱼！嗯，我更想让你快点鱼抓一只来给我做宠物。",
     "Id": 132
   },
   {
-    "Content": "\n(Caught in Jungle)",
+    "Content": "\n(在丛林)",
     "Id": 133
   },
   {
-    "Content": "In the forest, the slimes are kinda gross. Slimefish are even more so! I don't want to swim with slimes, so yoink one out of the water for me!",
+    "Content": "在森林中，史莱姆是一种很恶心的东西，史莱姆鱼就更恶心了！我可不想和它们一起游泳，所以，快给我把它们从水里抓出去！",
     "Id": 134
   },
   {
-    "Content": "\n(Caught Anywhere)",
+    "Content": "\n(在任何地点)",
     "Id": 135
   },
   {
-    "Content": "Piranhas and sharks are ugly! Soooo ugly! Did you know there's a fish that looks very pretty and still can eat your face off? I would pay 2 platinum to see that happen, by the way... To the point, though, you catchy for me. Just make sure I have it before you lose your face!",
+    "Content": "食人鱼和鲨鱼都很丑！非常丑！你知道有一种长得很漂亮的鱼但还是会吃掉你的脸么？呵呵，如果你让我看到这等事我会给你两个白金币哦！好吧... 我们说重点，你去把它给我抓来，让我在你的脸被它吃掉之前得到它。",
     "Id": 136
   },
   {
-    "Content": "\n(Caught Jungle Surface)",
+    "Content": "\n(在丛林地表)",
     "Id": 137
   }
 ]

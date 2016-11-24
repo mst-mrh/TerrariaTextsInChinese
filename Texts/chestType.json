@@ -1,126 +1,126 @@
 ﻿[
   {
-    "Content": "Chest",
+    "Content": "箱子",
     "Id": 0
   },
   {
-    "Content": "Gold Chest",
+    "Content": "金箱子",
     "Id": 1
   },
   {
-    "Content": "Locked Gold Chest",
+    "Content": "上锁的金箱子",
     "Id": 2
   },
   {
-    "Content": "Shadow Chest",
+    "Content": "暗影箱子",
     "Id": 3
   },
   {
-    "Content": "Locked Shadow Chest",
+    "Content": "上锁的暗影箱子",
     "Id": 4
   },
   {
-    "Content": "Barrel",
+    "Content": "桶",
     "Id": 5
   },
   {
-    "Content": "Trash Can",
+    "Content": "垃圾箱",
     "Id": 6
   },
   {
-    "Content": "Ebonwood Chest",
+    "Content": "死亡木箱",
     "Id": 7
   },
   {
-    "Content": "Rich Mahogany Chest",
+    "Content": "丛林木箱",
     "Id": 8
   },
   {
-    "Content": "Pearlwood Chest",
+    "Content": "珍珠木箱",
     "Id": 9
   },
   {
-    "Content": "Ivy Chest",
+    "Content": "常春藤箱",
     "Id": 10
   },
   {
-    "Content": "Ice Chest",
+    "Content": "冰箱子",
     "Id": 11
   },
   {
-    "Content": "Living Wood Chest",
+    "Content": "生命木箱",
     "Id": 12
   },
   {
-    "Content": "Skyware Chest",
+    "Content": "云岛箱",
     "Id": 13
   },
   {
-    "Content": "Shadewood Chest",
+    "Content": "暗影木箱",
     "Id": 14
   },
   {
-    "Content": "Web Covered Chest",
+    "Content": "覆网箱子",
     "Id": 15
   },
   {
-    "Content": "Lihzahrd Chest",
+    "Content": "神庙箱子",
     "Id": 16
   },
   {
-    "Content": "Water Chest",
+    "Content": "水下箱子",
     "Id": 17
   },
   {
-    "Content": "Jungle Chest",
+    "Content": "丛林箱子",
     "Id": 18
   },
   {
-    "Content": "Corruption Chest",
+    "Content": "腐化箱子",
     "Id": 19
   },
   {
-    "Content": "Crimson Chest",
+    "Content": "血腥箱子",
     "Id": 20
   },
   {
-    "Content": "Hallowed Chest",
+    "Content": "神圣箱子",
     "Id": 21
   },
   {
-    "Content": "Frozen Chest",
+    "Content": "冰霜箱子",
     "Id": 22
   },
   {
-    "Content": "Locked Jungle Chest",
+    "Content": "上锁的丛林宝箱",
     "Id": 23
   },
   {
-    "Content": "Locked Corruption Chest",
+    "Content": "上锁的腐化宝箱",
     "Id": 24
   },
   {
-    "Content": "Locked Crimson Chest",
+    "Content": "上锁的血腥宝箱",
     "Id": 25
   },
   {
-    "Content": "Locked Hallowed Chest",
+    "Content": "上锁的神圣宝箱",
     "Id": 26
   },
   {
-    "Content": "Locked Frozen Chest",
+    "Content": "上锁的冰霜宝箱",
     "Id": 27
   },
   {
-    "Content": "Dynasty Chest",
+    "Content": "皇家箱子",
     "Id": 28
   },
   {
-    "Content": "Honey Chest",
+    "Content": "蜂蜜箱子",
     "Id": 29
   },
   {
-    "Content": "Steampunk Chest",
+    "Content": "蒸汽朋克箱子",
     "Id": 30
   },
   {
