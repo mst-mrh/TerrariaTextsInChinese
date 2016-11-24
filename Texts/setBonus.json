@@ -164,55 +164,55 @@
     "Id": 40
   },
   {
-    "Content": "33% chance to not consume thrown item",
+    "Content": "33%的几率不消耗投掷物",
     "Id": 41
   },
   {
-    "Content": "50% chance to not consume thrown item",
+    "Content": "50%的几率不消耗投掷物",
     "Id": 42
   },
   {
-    "Content": "Solar shields generate over time protecting you,\nconsume the shield power to dash, damaging enemies",
+    "Content": "一段时间后会生成日耀盾牌保护你,\n可以消耗盾牌能量进行冲锋，对敌人造成伤害",
     "Id": 43
   },
   {
-    "Content": "Double tap [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? UP : DOWN ] to toggle stealth,\nincreasing ranged ability and reducing chance for enemies to target you but slowing movement speed",
+    "Content": "按两次 [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? 上 : 下 ] 键进入潜行模式,\n增加远程能力，更不易被敌人发现，但会降低移动速度",
     "Id": 44
   },
   {
-    "Content": "Hurting enemies has a chance to spawn buff boosters,\npick boosters up to get stacking buffs",
+    "Content": "对敌人造成伤害有几率掉落加成物品,\n捡起加成物品获得增益状态",
     "Id": 45
   },
   {
-    "Content": "Double tap [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? UP : DOWN ] to direct your guardian to a location",
+    "Content": "按两次 [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? 上 : 下 ] 指定守卫者的攻击目标",
     "Id": 46
   },
   {
-    "Content": "Double tap [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? UP : DOWN ] to call an ancient storm to the cursor location",
+    "Content": "按两次 [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? 上 : 下 ] 在鼠标指向处召唤古代风暴",
     "Id": 47
   },
   {
-    "Content": "Increases your max number of sentries\nGreatly enhances Ballista effectiveness",
+    "Content": "增加最大守卫者数量\n大幅度增强弩车的效果",//弩车指Ballista
     "Id": 48
   },
   {
-    "Content": "Increases your max number of sentries\nGreatly enhances Flameburst effectiveness",
+    "Content": "增加最大守卫者数量\n大幅度增强Flameburst的效果",// Flameburst指新炮台中的Flameburst
     "Id": 49
   },
   {
-    "Content": "Increases your max number of sentries\nGreatly enhances Explosive Traps effectiveness",
+    "Content": "增加最大守卫者数量\n大幅度增强 Explosive Traps 的效果",
     "Id": 50
   },
   {
-    "Content": "Increases your max number of sentries\nGreatly enhances Lightning Aura effectiveness",
+    "Content": "增加最大守卫者数量\n大幅度增强 Lightning Aura 的效果",
     "Id": 51
   },
   {
-    "Content": "Increases your max number of sentries\nBallista pierces more targets and panics when you take damage",
+    "Content": "增加最大守卫者数量\n弩车能够发射穿透更多敌人的子弹，并再你受伤时触发“panic”的效果",//panic指代buff里的panic
     "Id": 52
   },
   {
-    "Content": "Increases your max number of sentries\nFlameburst field of view and range are dramatically increased",
+    "Content": "增加最大守卫者数量\nFlameburst视野和射击范围显著增强",
     "Id": 53
   }
 ]

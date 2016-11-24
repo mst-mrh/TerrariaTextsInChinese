@@ -1,18 +1,18 @@
 ﻿[
   {
-    "Content": "couldn't find the antidote.",
+    "Content": "找不到解毒剂.",
     "Id": 0
   },
   {
-    "Content": "couldn't put the fire out.",
+    "Content": "无法扑灭火焰.",
     "Id": 1
   },
   {
-    "Content": "couldn't breathe.",
+    "Content": "不能呼吸.",
     "Id": 2
   },
   {
-    "Content": "couldn't contain the watts.",
+    "Content": "无法容纳这么多电量.",
     "Id": 3
   }
 ]
