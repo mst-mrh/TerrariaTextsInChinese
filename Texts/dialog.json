@@ -1,1418 +1,1418 @@
 ﻿[
   {
-    "Content": "I hope a scrawny kid like you isn't all that is standing between us and Cthulhu's Eye.",
+    "Content": "我希望站在我们和克苏鲁之眼的人不只有你这一个瘦小孩.",
     "Id": 1
   },
   {
-    "Content": "Look at that shoddy armor you're wearing. Better buy some more healing potions.",
+    "Content": "看看你这身破烂装甲，赶快来买几瓶治疗药水吧！",
     "Id": 2
   },
   {
-    "Content": "I feel like an evil presence is watching me.",
+    "Content": "似乎有种邪恶的目光注视着我……喂，你！别看了！",
     "Id": 3
   },
   {
-    "Content": "Sword beats paper! Get one today.",
+    "Content": "剑赢了布！你最好今天弄到一把.",
     "Id": 4
   },
   {
-    "Content": "You want apples? You want carrots? You want pineapples? We got torches.",
+    "Content": "你想要苹果？想要胡萝卜？想要菠萝？\r\n玩蛋去！我们只需要火把.",
     "Id": 5
   },
   {
-    "Content": "Lovely morning, wouldn't you say? Was there something you needed?",
+    "Content": "如果你喜欢本游戏，请购买正版。\r\n很便宜的噢，直接在Steam上用支付宝购买.",
     "Id": 6
   },
   {
-    "Content": "Night will be upon us soon, friend. Make your choices while you can.",
+    "Content": "夜晚即将来临，朋友，选择一件吧\r\n……如果你可以的话.",
     "Id": 7
   },
   {
-    "Content": "You have no idea how much Dirt Blocks sell for overseas.",
+    "Content": "你永远不会知道在海的另一边一块土卖到多少钱\r\n——但在这里，它们一文不值.",
     "Id": 8
   },
   {
-    "Content": "Ah, they will tell tales of $Player some day... good ones I'm sure.",
+    "Content": "哦，某天他们终将谈论起 $Player 的传奇……我确定.",
     "Id": 9
   },
   {
-    "Content": "Check out my dirt blocks; they are extra dirty.",
+    "Content": "看看我的这些土块，它们可真脏！",
     "Id": 10
   },
   {
-    "Content": "Boy, that sun is hot! I do have some perfectly ventilated armor.",
+    "Content": "孩子，这天气真热啊！我有上好的通\r\n风透气的铠甲你要不要？",
     "Id": 11
   },
   {
-    "Content": "The sun is high, but my prices are not.",
+    "Content": "你看太阳都升得这么高，可我的价格却\r\n一点也不高.",
     "Id": 12
   },
   {
-    "Content": "Oh, great. I can hear $Npc_124 and $Npc_18 arguing from here.",
+    "Content": "哦，好极了！我可以听到 $Npc_124 和 $Npc_18 在吵架呢.",
     "Id": 13
   },
   {
-    "Content": "Have you seen Chith...Shith.. Chat... The big eye?",
+    "Content": "你见过克苏……克斯……克……那\r\n个大眼睛么？",
     "Id": 14
   },
   {
-    "Content": "Hey, this house is secure, right? Right? $Player?",
+    "Content": "喂，这个房间很安全，不是吗？不\r\n是吗？ $Player?",
     "Id": 15
   },
   {
-    "Content": "Not even a blood moon can stop capitalism. Let's do some business.",
+    "Content": "即使血月也不能阻止我。让我们做\r\n点生意吧！",
     "Id": 16
   },
   {
-    "Content": "Keep your eye on the prize, buy a lense!",
+    "Content": "看看这价钱，买一个晶状体吧！",
     "Id": 17
   },
   {
-    "Content": "Kosh, kapleck Mog. Oh sorry, that's klingon for 'Buy something or die.'",
+    "Content": "Kosh, kapleck Mog. 哦不好意思，\r\n这句话的意思是'不买东西就去死.'",
     "Id": 18
   },
   {
-    "Content": "$Player is it? I've heard good things, friend!",
+    "Content": "$Player 是吗？我听说你有好东西，勇者！",
     "Id": 19
   },
   {
-    "Content": "I hear there's a secret treasure... oh never mind.",
+    "Content": "我听说曾经有一座财宝……哦我啥也没说.",
     "Id": 20
   },
   {
-    "Content": "Angel Statue you say? I'm sorry, I'm not a junk dealer.",
+    "Content": "你说天使雕像？不好意思我不是个收\r\n破烂的.",
     "Id": 21
   },
   {
-    "Content": "The last guy who was here left me some junk... er I mean... treasures!",
+    "Content": "最后一个离开这里的人留给了我一些\r\n垃圾……哦，我是说，财宝！",
     "Id": 22
   },
   {
-    "Content": "I wonder if the moon is made of cheese...huh, what? Oh yes, buy something!",
+    "Content": "我想知道月亮是不是奶酪做的……哦，\r\n是的，要点什么？",
     "Id": 23
   },
   {
-    "Content": "Did you say gold?  I'll take that off of ya.",
+    "Content": "你说金子？我会把它从你那里抢走的.",
     "Id": 24
   },
   {
-    "Content": "You better not get blood on me.",
+    "Content": "你最好别把血溅在我身上.",
     "Id": 25
   },
   {
-    "Content": "Hurry up and stop bleeding.",
+    "Content": "快点，别流血了！",
     "Id": 26
   },
   {
-    "Content": "If you're going to die, do it outside.",
+    "Content": "如果你想死的话，死外面去.",
     "Id": 27
   },
   {
-    "Content": "What is that supposed to mean?!",
+    "Content": "这意味着什么？",
     "Id": 28
   },
   {
-    "Content": "I don't think I like your tone.",
+    "Content": "我不喜欢你五音不全的喊叫声.",
     "Id": 29
   },
   {
-    "Content": "Why are you even here? If you aren't bleeding, you don't need to be here. Get out.",
+    "Content": "你在这里干嘛？你没流血的话就不必\r\n在这里.出去.",
     "Id": 30
   },
   {
-    "Content": "WHAT?!",
+    "Content": "什么？！",
     "Id": 31
   },
   {
-    "Content": "Have you seen that old man pacing around the dungeon? He looks troubled.",
+    "Content": "你看到过地牢旁边的老人吗？他似乎\r\n有点麻烦事.",
     "Id": 32
   },
   {
-    "Content": "I wish $Npc_38 would be more careful.  I'm getting tired of having to sew his limbs back on every day.",
+    "Content": "我希望 $Npc_38 注意一下.  我\r\n已经厌倦了每天都要把他的胳膊缝起来的日子.",
     "Id": 33
   },
   {
-    "Content": "Hey, has $Npc_19 mentioned needing to go to the doctor for any reason? Just wondering.",
+    "Content": "嘿， $Npc_19 没提过他需要看医生之类的\r\n话么？我只是好奇啦.",
     "Id": 34
   },
   {
-    "Content": "I need to have a serious talk with $Npc_22. How many times a week can you come in with severe lava burns?",
+    "Content": "我必须和 $Npc_22.  严肃地谈一谈。\r\n一个人究竟可以在一个星期内被岩浆烧伤多少次？",
     "Id": 35
   },
   {
-    "Content": "I think you look better this way.",
+    "Content": "嗯...你这样更好看.",
     "Id": 36
   },
   {
-    "Content": "Eww... What happened to your face?",
+    "Content": "呃……你的脸怎么肿了？",
     "Id": 37
   },
   {
-    "Content": "MY GOODNESS! I'm good, but I'm not THAT good.",
+    "Content": "哦天啊！我很好，但不是“这样”好.",
     "Id": 38
   },
   {
-    "Content": "Dear friends we are gathered here today to bid farewell... Oh, you'll be fine.",
+    "Content": "亲爱的朋友们，我们今天聚集在这里悼\r\n念...哦，没事，没说你。",
     "Id": 39
   },
   {
-    "Content": "You left your arm over there. Let me get that for you...",
+    "Content": "你把你的胳膊忘在那里了。让我给你\r\n拿过来...",
     "Id": 40
   },
   {
-    "Content": "Quit being such a baby! I've seen worse.",
+    "Content": "别跟小孩一样怕疼！我见过更糟的伤。",
     "Id": 41
   },
   {
-    "Content": "That's gonna need stitches!",
+    "Content": "这得缝针了！",
     "Id": 42
   },
   {
-    "Content": "Trouble with those bullies again?",
+    "Content": "这次又惹着谁了？给打成这熊样...",
     "Id": 43
   },
   {
-    "Content": "Hold on, I've got some cartoon bandages around here somewhere.",
+    "Content": "嘿，最近我搞到了一些卡通绷带。可爱吧？",
     "Id": 44
   },
   {
-    "Content": "Walk it off, $Player, you'll be fine. Sheesh.",
+    "Content": " 多运动运动, $Player,你会好起来的! ",
     "Id": 45
   },
   {
-    "Content": "Does it hurt when you do that? Don't do that.",
+    "Content": "你这样做真不疼吗？别再出去乱惹事了！",
     "Id": 46
   },
   {
-    "Content": "You look half digested. Have you been chasing slimes again?",
+    "Content": "你看上去似乎被消化了一半。你又\r\n被史莱姆追了？",
     "Id": 47
   },
   {
-    "Content": "Turn your head and cough.",
+    "Content": "别对着我打喷嚏！头扭过去！",
     "Id": 48
   },
   {
-    "Content": "That's not the biggest I've ever seen... Yes, I've seen bigger wounds for sure.",
+    "Content": "这是我见过的最严重的...不，我曾\r\n经看到了比这更要命的伤口。",
     "Id": 49
   },
   {
-    "Content": "Would you like a lollipop?",
+    "Content": "你喜欢棒棒糖吗？",
     "Id": 50
   },
   {
-    "Content": "Show me where it hurts.",
+    "Content": "告诉我哪疼。",
     "Id": 51
   },
   {
-    "Content": "I'm sorry, but you can't afford me.",
+    "Content": "真对不起，但你付不起这费用。",
     "Id": 52
   },
   {
-    "Content": "I'm gonna need more gold than that.",
+    "Content": "买这玩意得花更多的钱。",
     "Id": 53
   },
   {
-    "Content": "I don't work for free you know.",
+    "Content": "我不干没有酬劳的工作。你懂。",
     "Id": 54
   },
   {
-    "Content": "I don't give happy endings.",
+    "Content": "没钱的话, 我也不能免费送你东西...",
     "Id": 55
   },
   {
-    "Content": "I can't do anymore for you without plastic surgery.",
+    "Content": "我不能再为你做什么了，除非你想被“整容”。",
     "Id": 56
   },
   {
-    "Content": "Quit wasting my time.",
+    "Content": "别浪费我的时间。",
     "Id": 57
   },
   {
-    "Content": "I heard there is a doll that looks very similar to $Npc_22 somewhere in the underworld.  I'd like to put a few rounds in it.",
+    "Content": "我在地下看到个小娃娃，长得和 $Npc_22 很像。\r\n 我还朝他顺手开了几枪。",
     "Id": 58
   },
   {
-    "Content": "Make it quick! I've got a date with $Npc_18 in an hour.",
+    "Content": "别耽误我时间！ 一个小时后我得和 $Npc_18 约会。",
     "Id": 59
   },
   {
-    "Content": "I want what $Npc_18 is sellin'. What do you mean, she doesn't sell anything?",
+    "Content": "我要的是 $Npc_18  卖的东西……\r\n你说什么，她什么也不卖？",
     "Id": 60
   },
   {
-    "Content": "$Npc_20 is a looker.  Too bad she's such a prude.",
+    "Content": "$Npc_20 可真漂亮。但她的这种拘\r\n谨真是太糟糕了。",
     "Id": 61
   },
   {
-    "Content": "Don't bother with $Npc_38, I've got all you need right here.",
+    "Content": "别去打扰 $Npc_38 了。我这里有所有你需要的全部东西！",
     "Id": 62
   },
   {
-    "Content": "What's $Npc_38's problem? Does he even realize we sell completely different stuff?",
+    "Content": " $Npc_38脑袋出什么毛病了？\r\n他难道没有意识到我们卖的东西完全不同吗？",
     "Id": 63
   },
   {
-    "Content": "Man, it's a good night not to talk to anybody, don't you think, $Player?",
+    "Content": "哥们，这是一个不用和任何人说话的\r\n美好的夜晚，不是吗？ $Player?",
     "Id": 64
   },
   {
-    "Content": "I love nights like tonight.  There is never a shortage of things to kill!",
+    "Content": "我爱像今晚这样的日子。满地跑的都是\r\n能杀的东西！",
     "Id": 65
   },
   {
-    "Content": "I see you're eyeballin' the Minishark.. You really don't want to know how it was made.",
+    "Content": "别盯着那个迷你鲨看了，你不会想知道\r\n它是怎么做的。",
     "Id": 66
   },
   {
-    "Content": "Hey, this ain't a movie, pal. Ammo is extra.",
+    "Content": "嘿，这不是演电影。子弹不是无限的。",
     "Id": 67
   },
   {
-    "Content": "Keep your hands off my gun, buddy!",
+    "Content": "把你的手从我的枪上拿开！伙计！",
     "Id": 68
   },
   {
-    "Content": "Have you tried using purification powder on the ebonstone of the corruption?",
+    "Content": "你有没有尝试在邪恶之地上撒净化粉？",
     "Id": 69
   },
   {
-    "Content": "I wish $Npc_19 would stop flirting with me. Doesn't he realize I'm 500 years old?",
+    "Content": "我希望  $Npc_19 别再打扰我了。难道他不\r\n知道我已经500岁了？",
     "Id": 70
   },
   {
-    "Content": "Why does $Npc_17 keep trying to sell me an angel statues? Everyone knows that they don't do anything.",
+    "Content": "为什么 $Npc_17  总是试图向我推销\r\n一个天使雕像？每个人都知道，它没有任何用处。",
     "Id": 71
   },
   {
-    "Content": "Have you seen the old man walking around the dungeon? He doesn't look well at all...",
+    "Content": "你见过在地牢附近的老人吗？\r\n他看起来很似乎有麻烦。",
     "Id": 72
   },
   {
-    "Content": "I sell what I want! If you don't like it, too bad.",
+    "Content": "我卖的东西都是我喜欢的！如果你不喜欢它，\r\n那真是太糟糕了。",
     "Id": 73
   },
   {
-    "Content": "Why do you have to be so confrontational during a time like this?",
+    "Content": "为什么你非要在这种时候对我充满敌意？",
     "Id": 74
   },
   {
-    "Content": "I don't want you to buy my stuff. I want you to want to buy my stuff, ok?",
+    "Content": "我不仅仅希望你买我的东西。我要你整天\r\n盼着买我的东西。",
     "Id": 75
   },
   {
-    "Content": "Dude, is it just me or is there like a million zombies out tonight?",
+    "Content": "哥们，我听错了还是说外面真有不少僵尸？",
     "Id": 76
   },
   {
-    "Content": "You must cleanse the world of this corruption.",
+    "Content": "你必须净化这个邪恶的世界。",
     "Id": 77
   },
   {
-    "Content": "Be safe; Terraria needs you!",
+    "Content": "继续努力。泰拉瑞亚的世界需要你！",
     "Id": 78
   },
   {
-    "Content": "The sands of time are flowing. And well, you are not aging very gracefully.",
+    "Content": "在时之沙的流淌中，你并没有优雅地老去。",
     "Id": 79
   },
   {
-    "Content": "What's this about me having more 'bark' than bite?",
+    "Content": "你想咬我吗? 或者叫两声?",
     "Id": 80
   },
   {
-    "Content": "So two goblins walk into a bar, and one says to the other, 'Want to get a Goblet of beer?!",
+    "Content": "所以两个哥布林走进一家酒吧，其中一个\r\n对另一个说：你想要一杯酒么？",
     "Id": 81
   },
   {
-    "Content": "I cannot let you enter until you free me of my curse.",
+    "Content": "我不能让你进入，除非你解除我的诅咒。",
     "Id": 82
   },
   {
-    "Content": "Come back at night if you wish to enter.",
+    "Content": "晚上再来，如果你想进入的话。",
     "Id": 83
   },
   {
-    "Content": "My master cannot be summoned under the light of day.",
+    "Content": "我的主人不能在白天被召唤。",
     "Id": 84
   },
   {
-    "Content": "You are far too weak to defeat my curse.  Come back when you aren't so worthless.",
+    "Content": "你太弱了, 根本没法对付我的主人. \r\n等你不那么弱了再来找我吧.",
     "Id": 85
   },
   {
-    "Content": "You pathetic fool.  You cannot hope to face my master as you are now.",
+    "Content": "可怜的孩子啊。你连面对我主人的希\r\n望都没有。",
     "Id": 86
   },
   {
-    "Content": "I hope you have like six friends standing around behind you.",
+    "Content": "我希望你能多叫几个人来。你这是在自杀。",
     "Id": 87
   },
   {
-    "Content": "Please, no, stranger. You'll only get yourself killed.",
+    "Content": "请不要这样做，陌生人。你这样只会\r\n杀死自己。",
     "Id": 88
   },
   {
-    "Content": "You just might be strong enough to free me from my curse...",
+    "Content": "你也许勉强能将我从诅咒中得以\r\n释放......希望你能。",
     "Id": 89
   },
   {
-    "Content": "Stranger, do you possess the strength to defeat my master?",
+    "Content": "陌生人啊，你现在有实力击败我的\r\n主人了吗？",
     "Id": 90
   },
   {
-    "Content": "Please! Battle my captor and free me! I beg you!",
+    "Content": "求你了！击败俘虏我的人，并释放\r\n我！我求求你了！",
     "Id": 91
   },
   {
-    "Content": "Defeat my master, and I will grant you passage into the Dungeon.",
+    "Content": "击败我的主人，我就让你进入地牢。",
     "Id": 92
   },
   {
-    "Content": "Trying to get past that ebonrock, eh?  Why not introduce it to one of these explosives!",
+    "Content": "想通过黑檀石？嗯？把'炸药先生'\r\n介绍给他认识一下吧. ",
     "Id": 93
   },
   {
-    "Content": "Hey, have you seen a clown around?",
+    "Content": "嘿，你有在周围看到过小丑吗？",
     "Id": 94
   },
   {
-    "Content": "There was a bomb sitting right here, and now I can't seem to find it...",
+    "Content": "在这里有个炸弹，但是现在我似乎\r\n找不到了......",
     "Id": 95
   },
   {
-    "Content": "I've got something for them zombies alright!",
+    "Content": "我有一些好东西给外面的僵尸们玩！",
     "Id": 96
   },
   {
-    "Content": "Even $Npc_19 wants what I'm selling!",
+    "Content": "即使是 $Npc_19 也想要我卖的东西！",
     "Id": 97
   },
   {
-    "Content": "Would you rather have a bullet hole or a grenade hole? That's what I thought.",
+    "Content": "你想要一个弹孔，还是手榴弹坑？\r\n这是我的想法。",
     "Id": 98
   },
   {
-    "Content": "I'm sure $Npc_18 will help if you accidentally lose a limb to these.",
+    "Content": "我敢肯定， $Npc_18 将帮助你，\r\n如果你不小心把你的某些肢体弄丢了的话。",
     "Id": 99
   },
   {
-    "Content": "Why purify the world when you can just blow it up?",
+    "Content": "为什么要费力去净化这个世界？你\r\n明明可以炸干净它！",
     "Id": 100
   },
   {
-    "Content": "If you throw this one in the bathtub and close all the windows, it'll clear your sinuses and pop your ears!",
+    "Content": "如果你扔把这个在浴缸里，并关掉屋\r\n里所有的窗户，它会让你七窍流血！",
     "Id": 101
   },
   {
-    "Content": "Wanna play Fuse Chicken?",
+    "Content": "想玩玩保险栓吗？",
     "Id": 102
   },
   {
-    "Content": "Hey, could you sign this Griefing Waiver?",
+    "Content": "嘿，你能签署这个恶意破坏免责书吗？",
     "Id": 103
   },
   {
-    "Content": "NO SMOKING IN HERE!!",
+    "Content": "这里禁止吸烟！",
     "Id": 104
   },
   {
-    "Content": "Explosives are da' bomb these days.  Buy some now!",
+    "Content": "在这些天里，炸药是比太阳还火的产\r\n品。现在就买一些吧！",
     "Id": 105
   },
   {
-    "Content": "It's a good day to die!",
+    "Content": "今天是去死的好日子！",
     "Id": 106
   },
   {
-    "Content": "I wonder what happens if I... (BOOM!)... Oh, sorry, did you need that leg?",
+    "Content": "嗯如果我这么弄...（轰!）...啊, 对\r\n不起，你需要那条腿吗？",
     "Id": 107
   },
   {
-    "Content": "Dynamite, my own special cure-all for what ails ya.",
+    "Content": "炸药,包治百病。",
     "Id": 108
   },
   {
-    "Content": "Check out my goods; they have explosive prices!",
+    "Content": "看看我的商品,惊爆价!",
     "Id": 109
   },
   {
-    "Content": "I keep having vague memories of tying up a woman and throwing her in a dungeon.",
+    "Content": "我总是迷迷糊糊能想起绑了一个女人\r\n并把她扔在一个地牢里的事情...",
     "Id": 110
   },
   {
-    "Content": "... we have a problem! Its a blood moon out there!",
+    "Content": "...我们有麻烦了！血月来了！",
     "Id": 111
   },
   {
-    "Content": "T'were I younger, I would ask $Npc_18 out. I used to be quite the lady killer.",
+    "Content": "当我年轻的时候，我一定会约 $Npc_18 出去的。\r\n我曾经是一个少女杀手。",
     "Id": 112
   },
   {
-    "Content": "That Red Hat of yours looks familiar...",
+    "Content": "你的红帽看起来为什么这么熟悉呢……。",
     "Id": 113
   },
   {
-    "Content": "Thanks again for freeing me from my curse. Felt like something jumped up and bit me.",
+    "Content": "再次感谢您让我从我的诅咒中解脱出来...\r\n感觉就好像有东西跳出来咬了我一口一样。",
     "Id": 114
   },
   {
-    "Content": "Mama always said I would make a great tailor.",
+    "Content": "我妈妈说我将来一定会成为一位伟大的\r\n裁缝。",
     "Id": 115
   },
   {
-    "Content": "Life's like a box of clothes; you never know what you are gonna wear!",
+    "Content": "人生就像一箱衣服，你永远不知道你要\r\n穿什么！",
     "Id": 116
   },
   {
-    "Content": "Of course embroidery is hard! If it wasn't hard, no one would do it! That's what makes it great.",
+    "Content": "当裁缝是很不容易的！如果它不需要努力\r\n，没人会做到的！这就是为什么它很伟大。",
     "Id": 117
   },
   {
-    "Content": "I know everything they is to know about the clothierin' business.",
+    "Content": "没有人比我更了解服装业务了。",
     "Id": 118
   },
   {
-    "Content": "Being cursed was lonely, so I once made a friend out of leather. I named him Wilson.",
+    "Content": "被诅咒是孤独的，所以我曾经用皮革做\r\n了一个娃娃。我叫他威尔士。",
     "Id": 119
   },
   {
-    "Content": "Thank you for freeing me, human.  I was tied up and left here by the other goblins.  You could say that we didn't get along very well.",
+    "Content": "谢谢你释放我，人类。我被其他哥布林\r\n捆起来扔在这里。如你所见，我们似乎相处得并不好。",
     "Id": 120
   },
   {
-    "Content": "I can't believe they tied me up and left me here just for pointing out that they weren't going east!",
+    "Content": "我简直不敢相信，他们把我绑起来，离开\r\n我仅仅和我说他们不会向东走！（这是2D游戏，对吧。）",
     "Id": 121
   },
   {
-    "Content": "Now that I'm an outcast, can I throw away the spiked balls? My pockets hurt.",
+    "Content": "现在，我是一个被抛弃的人，我可以扔掉\r\n这些钉刺球了么？我的口袋都嫌疼。",
     "Id": 122
   },
   {
-    "Content": "Looking for a gadgets expert? I'm your goblin!",
+    "Content": "寻找一个工具专家吗？我是你的首选！",
     "Id": 123
   },
   {
-    "Content": "Thanks for your help. Now, I have to finish pacing around aimlessly here. I'm sure we'll meet again.",
+    "Content": "感谢您的帮助。现在，我要到处活动活动。\r\n我敢肯定，我们会再见面的。",
     "Id": 124
   },
   {
-    "Content": "I thought you'd be taller.",
+    "Content": "啊,我以为你人挺高的。也没高到哪啊。",
     "Id": 125
   },
   {
-    "Content": "Hey...what's $Npc_124 up to? Have you...have you talked to her, by chance?",
+    "Content": "嘿…… $Npc_124 最近如何？你和她最近说过话没？",
     "Id": 126
   },
   {
-    "Content": "Hey, does your hat need a motor? I think I have a motor that would fit exactly in that hat.",
+    "Content": "嘿，你的帽子需要发动机吗？我想我有\r\n一个发动机能刚好嵌到你的帽子里。",
     "Id": 127
   },
   {
-    "Content": "Yo, I heard you like rockets and running boots, so I put some rockets in your running boots.",
+    "Content": "yooooo，我听说你喜欢火箭和跑靴，\r\n所以我把火箭放在你的跑靴里了。",
     "Id": 128
   },
   {
-    "Content": "Silence is golden. Duct tape is silver.",
+    "Content": "沉默是金。胶带是银。",
     "Id": 129
   },
   {
-    "Content": "YES, gold is stronger than iron. What are they teaching these humans nowadays?",
+    "Content": "是的，黄金是比铁强。它们对现在的\r\n人有什么启示吗？",
     "Id": 130
   },
   {
-    "Content": "You know, that mining helmet-flipper combination was a much better idea on paper.",
+    "Content": "你知道，采矿头盔和脚蹼组合在一起\r\n理论上是一个更好的主意。",
     "Id": 131
   },
   {
-    "Content": "Goblins are surprisingly easy to anger. In fact, they could start a war over cloth!",
+    "Content": "哥布林是非常易怒的。事实上，他们可\r\n以为了一块破布而发动一场战争！",
     "Id": 132
   },
   {
-    "Content": "To be honest, most goblins aren't exactly rocket scientists. Well, some are.",
+    "Content": "说句实话，大多数的哥布林不是科学家，\r\n好吧，有的哥布林是。",
     "Id": 133
   },
   {
-    "Content": "Do you know why we all carry around these spiked balls? Because I don't.",
+    "Content": "你知道为什么我总是随身携带这些钉刺\r\n球吗？其实我也不知道。",
     "Id": 134
   },
   {
-    "Content": "I just finished my newest creation! This version doesn't explode violently if you breathe on it too hard.",
+    "Content": "这是我刚完成的杰作！这次这玩意在你\r\n深呼吸时不会随便爆炸了。",
     "Id": 135
   },
   {
-    "Content": "Goblin thieves aren't very good at their job. They can't even steal from an unlocked chest!",
+    "Content": "哥布林盗贼一点都不行嘛。他们甚至不\r\n能从一个没上锁的箱子里偷东西！",
     "Id": 136
   },
   {
-    "Content": "Thanks for saving me, friend!  This bondage was starting to chafe.",
+    "Content": "谢谢你救了我，朋友。有人恼羞成怒把\r\n我捆了起来。",
     "Id": 137
   },
   {
-    "Content": "Ohh, my hero!",
+    "Content": "哦，我的英雄！",
     "Id": 138
   },
   {
-    "Content": "Oh, how heroic! Thank you for saving me, young lady!",
+    "Content": "哦，多么英勇！谢谢你救了我，小姐！",
     "Id": 139
   },
   {
-    "Content": "Oh, how heroic! Thank you for saving me, young man!",
+    "Content": "哦，多么英勇！谢谢你救了我，小伙子！",
     "Id": 140
   },
   {
-    "Content": "Now that we know each other, I can move in with you, right?",
+    "Content": "现在我们互相了解了，我可以住你那\r\n边的房子里了吧？",
     "Id": 141
   },
   {
-    "Content": "Well, hi there, $Npc_22! What can I do for you today?",
+    "Content": "嗯，您好， $Npc_22！我可以为你做什么呢？",
     "Id": 142
   },
   {
-    "Content": "Well, hi there, $Npc_38! What can I do for you today?",
+    "Content": "嗯，您好， $Npc_38！我可以为你做什么呢？",
     "Id": 143
   },
   {
-    "Content": "Well, hi there, $Npc_107! What can I do for you today?",
+    "Content": "嗯，您好， $Npc_107！我可以为你做什么呢？",
     "Id": 144
   },
   {
-    "Content": "Well, hi there, $Npc_18! What can I do for you today?",
+    "Content": "嗯，您好， $Npc_18！我可以为你做什么呢？",
     "Id": 145
   },
   {
-    "Content": "Well, hi there, $Npc_124! What can I do for you today?",
+    "Content": "嗯，您好， $Npc_124！我可以为你做什么呢？",
     "Id": 146
   },
   {
-    "Content": "Well, hi there, $Npc_20! What can I do for you today?",
+    "Content": "嗯，您好， $Npc_20！我可以为你做什么呢？",
     "Id": 147
   },
   {
-    "Content": "Want me to pull a coin from behind your ear? No? Ok.",
+    "Content": "想要我从你耳朵后面掏个硬币出来吗？\r\n不？好吧。",
     "Id": 148
   },
   {
-    "Content": "Do you want some magic candy? No? Ok.",
+    "Content": "你想要一些神奇的糖果吗？不要？好吧。",
     "Id": 149
   },
   {
-    "Content": "I make a rather enchanting hot chocolate if you'd be inter...No? Ok.",
+    "Content": "我做了一个相当美味的热巧克力，\r\n如果你把...不要？好吧。",
     "Id": 150
   },
   {
-    "Content": "Are you here for a peek at my crystal ball?",
+    "Content": "你在专程来看我的水晶球的吗？",
     "Id": 151
   },
   {
-    "Content": "Ever wanted an enchanted ring that turns rocks into slimes? Well neither did I.",
+    "Content": "想不想要一个被施了魔法的指环，能把\r\n岩石变成史莱姆？好吧其实我也不想。",
     "Id": 152
   },
   {
-    "Content": "Someone once told me friendship is magic. That's ridiculous. You can't turn people into frogs with friendship.",
+    "Content": "曾经有人告诉我友谊是神奇的魔法。但\r\n这是可笑的。你不能用友谊把人变成青蛙。",
     "Id": 153
   },
   {
-    "Content": "I can see your future now... You will buy a lot of items from me!",
+    "Content": "现在我可以看到你的未来......你会从我这买很多东西！",
     "Id": 154
   },
   {
-    "Content": "I once tried to bring an Angel Statue to life. It didn't do anything.",
+    "Content": "我曾经试图给天使雕像通电。结果它什\r\n么也没发生。",
     "Id": 155
   },
   {
-    "Content": "Thanks!  It was just a matter of time before I ended up like the rest of the skeletons down here.",
+    "Content": "谢谢! 其实我知道, 我迟早会像那边的\r\n骷髅一样安静地卧在角落里。",
     "Id": 156
   },
   {
-    "Content": "Hey, watch where you're going! I was over there a little while ago!",
+    "Content": "嘿，记得你刚才去的的地方不? 刚才我\r\n还在那里！",
     "Id": 157
   },
   {
-    "Content": "Hold on, I've almost got wifi going down here.",
+    "Content": "等一下，我在这下面几乎就要搞到wifi\r\n信号了。",
     "Id": 158
   },
   {
-    "Content": "But I was almost done putting blinking lights up here!",
+    "Content": "...我马上就能完成这闪光灯的安装\r\n工作了！",
     "Id": 159
   },
   {
-    "Content": "DON'T MOVE. I DROPPED MY CONTACT.",
+    "Content": "别，动。我wifi掉线了。",
     "Id": 160
   },
   {
-    "Content": "All I want is for the switch to make the... What?!",
+    "Content": "所有我想要的是用开关开启……什么！？",
     "Id": 161
   },
   {
-    "Content": "Oh, let me guess. Didn't buy enough wire. Idiot.",
+    "Content": "哦，让我猜猜看。你肯定没有买够电线。白痴。",
     "Id": 162
   },
   {
-    "Content": "Just-could you just... Please? Ok? Ok. Ugh.",
+    "Content": "你能, 能...好吗？好吧。唉。",
     "Id": 163
   },
   {
-    "Content": "I don't appreciate the way you're looking at me. I am WORKING right now.",
+    "Content": "我很介意你盯着我看的方式。我正忙工作呢。",
     "Id": 164
   },
   {
-    "Content": "Hey, $Player, did you just come from $Npc_107's? Did he say anything about me by chance?",
+    "Content": " $Player嘿，你刚刚从 $Npc_107 那里出来？\r\n他有没有说什么关于我的事呢？",
     "Id": 165
   },
   {
-    "Content": "$Npc_19 keeps talking about pressing my pressure plate. I told him it was for stepping on.",
+    "Content": "$Npc_19 一直在谈论我的压力板怎么用。\r\n我跟他说好几遍了是用脚踩! ",
     "Id": 166
   },
   {
-    "Content": "Always buy more wire than you need!",
+    "Content": "记住, 需要电线时, 要多买一些备用！",
     "Id": 167
   },
   {
-    "Content": "Did you make sure your device was plugged in?",
+    "Content": "你确定你的设备通上电了? ",
     "Id": 168
   },
   {
-    "Content": "Oh, you know what this house needs? More blinking lights.",
+    "Content": "哦，你知道这房子需要什么？更多的灯！",
     "Id": 169
   },
   {
-    "Content": "You can tell a Blood Moon is out when the sky turns red. There is something about it that causes monsters to swarm.",
+    "Content": "我可以告诉你当血月出现时，天空会变成红色。\r\n外面就会莫名其妙地怪物成群。",
     "Id": 170
   },
   {
-    "Content": "Hey, buddy, do you know where any deathweed is? Oh, no reason; just wondering, is all.",
+    "Content": "嘿，哥们，你知道在哪里有食人花么？哦，\r\n没事，我只是好奇。就这些。",
     "Id": 171
   },
   {
-    "Content": "If you were to look up, you'd see that the moon is red right now.",
+    "Content": "现在如果你向上看，你会看到月亮是红色的。",
     "Id": 172
   },
   {
-    "Content": "You should stay indoors at night. It is very dangerous to be wandering around in the dark.",
+    "Content": "你应该留在室内。这时在外面乱跑是非常危险的! ",
     "Id": 173
   },
   {
-    "Content": "Greetings, $Player. Is there something I can help you with?",
+    "Content": "你好啊, $Player 。如果你喜欢本游戏，请购买正版。\r\n很便宜的噢，直接在Steam上用支付宝购买.",
     "Id": 174
   },
   {
-    "Content": "I am here to give you advice on what to do next.  It is recommended that you talk with me anytime you get stuck.",
+    "Content": "我在这里能给你一些建议, 比如下一步要干什么。\r\n你感到迷茫的时候, 可以找我谈谈。",
     "Id": 175
   },
   {
-    "Content": "They say there is a person who will tell you how to survive in this land... oh wait. That's me.",
+    "Content": "上帝说，有一个人会告诉你如何在这片土\r\n地上生存...其实那人就是我。",
     "Id": 176
   },
   {
-    "Content": "You can use your pickaxe to dig through dirt, and your axe to chop down trees. Just place your cursor over the tile and click!",
+    "Content": "你可以使用你的锄头挖泥土，用你的斧头砍\r\n倒树木。只需将鼠标放置在砖块上，然后按住鼠标！",
     "Id": 177
   },
   {
-    "Content": "If you want to survive, you will need to create weapons and shelter. Start by chopping down trees and gathering wood.",
+    "Content": "如果你想生存，你将需要打造武器并安置住\r\n所。要致富，先砍树。",
     "Id": 178
   },
   {
-    "Content": "Press $Terraria.Main::cInv to access your crafting menu. When you have enough wood, create a workbench. This will allow you to create more complicated things, as long as you are standing close to it.",
+    "Content": "按ESC键来访问背包。当你有足够的木材，\r\n创建一个工作台。这将允许你合成更复杂的物品，\r\n只要你站在接近它的地方。",
     "Id": 179
   },
   {
-    "Content": "You can build a shelter by placing wood or other blocks in the world. Don't forget to create and place walls.",
+    "Content": "你可以建立一个庇护所，放置在地面或其他\r\n物块上。不要忘了给房子做墙壁。",
     "Id": 180
   },
   {
-    "Content": "Once you have a wooden sword, you might try to gather some gel from the slimes. Combine wood and gel to make a torch!",
+    "Content": "如果你有一把木剑的话，你就可以尝试着杀\r\n史莱姆来收集一些凝胶,木材和凝胶可以合成火把.",
     "Id": 181
   },
   {
-    "Content": "To interact with backgrounds, use a hammer!",
+    "Content": "你要是想撤销背景墙或者放在地上的物品的\r\n话，那就用锤子吧!",
     "Id": 182
   },
   {
-    "Content": "You should do some mining to find metal ore. You can craft very useful things with it.",
+    "Content": "你可以挖一挖地下,寻找金属矿。矿物能做出\r\n很多有用的东西。",
     "Id": 183
   },
   {
-    "Content": "Now that you have some ore, you will need to turn it into a bar in order to make items with it. This requires a furnace!",
+    "Content": "现在你有一些矿石，要是你想熔炼金属矿，\r\n那你需要一个熔炉!",
     "Id": 184
   },
   {
-    "Content": "You can create a furnace out of torches, wood, and stone. Make sure you are standing near a work bench.",
+    "Content": "站在你的工作台附近, 用火把木材和石头可\r\n以合成一个熔炉.",
     "Id": 185
   },
   {
-    "Content": "You will need an anvil to make most things out of metal bars.",
+    "Content": "金属锭可以制造武器和装备,但你需要个铁砧.",
     "Id": 186
   },
   {
-    "Content": "Anvils can be crafted out of iron, or purchased from a merchant.",
+    "Content": "铁砧可以用铁块合成，也可以从商人那里购买.",
     "Id": 187
   },
   {
-    "Content": "Underground are crystal hearts which can be used to increase your max life. You can smash them with a pickaxe.",
+    "Content": "地底下的生命水晶可以增加你的生命最大值，\r\n不过你需要一个镐才能敲掉他们.",
     "Id": 188
   },
   {
-    "Content": "If you gather 5 fallen stars, they can be combined to create an item that will increase your magic capacity.",
+    "Content": "你可以用5个星星合成一个魔法水晶,使你的\r\n最大魔法值增加10点.",
     "Id": 189
   },
   {
-    "Content": "Stars fall all over the world at night. They can be used for all sorts of usefull things. If you see one, be sure to grab it because they disappear after sunrise.",
+    "Content": "星星会在夜晚坠落，他们能用来合成很多有用\r\n的东西。如果说你看到了一个，请务必把他拾起来，因为他们在太阳升起时就会消失.",
     "Id": 190
   },
   {
-    "Content": "There are many different ways you can attract people to move in to our town. They will of course need a home to live in.",
+    "Content": "有很多不同的方法吸引别的NPC到你的小镇里住。\r\n当然，他们需要一个房子来居住.",
     "Id": 191
   },
   {
-    "Content": "In order for a room to be considered a home, it needs to have a door, a chair, a table, and a light source.  Make sure the house has walls as well.",
+    "Content": "一个有门，有桌子，有椅子或者床，有光源和墙\r\n壁的房间才是一个NPC能住的房间. 房子也不能太小. ",
     "Id": 192
   },
   {
-    "Content": "Two people will not live in the same home. Also, if their home is destroyed, they will look for a new place to live.",
+    "Content": "两个人不会在同一个房间内居住，如果他们的房\r\n间被摧毁了的话，那他们就会去找一个新家.",
     "Id": 193
   },
   {
-    "Content": "You can use the housing interface to assign and view housing. Open your inventory and click the house icon.",
+    "Content": "打开你的背包，然后按一下房子的图标。可以用\r\n这个面板来安排NPC住房. ",
     "Id": 194
   },
   {
-    "Content": "If you want a merchant to move in, you will need to gather plenty of money. 50 silver coins should do the trick!",
+    "Content": "如果说你想吸引商人过来的话，那你需要有金子。\r\n最少你要有50银币.",
     "Id": 195
   },
   {
-    "Content": "For a nurse to move in, you might want to increase your maximum life.",
+    "Content": "增加你的生命最大值，护士才会来.",
     "Id": 196
   },
   {
-    "Content": "If you had a gun, I bet an arms dealer might show up to sell you some ammo!",
+    "Content": "如果你有一支枪，那么军火商肯定会过来向你出\r\n售一些弹药.",
     "Id": 197
   },
   {
-    "Content": "You should prove yourself by defeating a strong monster. That will get the attention of a dryad.",
+    "Content": "你想引起树精的重视的话，那么你需要击败一个强\r\n大的怪物来证明你自己有能力除掉邪恶.",
     "Id": 198
   },
   {
-    "Content": "Make sure to explore the dungeon thoroughly. There may be prisoners held deep within.",
+    "Content": "请一定要仔细探索地牢，因为有人被关押在那里.",
     "Id": 199
   },
   {
-    "Content": "Perhaps the old man by the dungeon would like to join us now that his curse has been lifted.",
+    "Content": "如果在地牢的老人的诅咒被解除，那他应该很乐意\r\n加入我们的队伍.",
     "Id": 200
   },
   {
-    "Content": "Hang on to any bombs you might find. A demolitionist may want to have a look at them.",
+    "Content": "假如你有一些炸弹的话，那么爆破专家应该会来看\r\n看他们.",
     "Id": 201
   },
   {
-    "Content": "Are goblins really so different from us that we couldn't live together peacefully?",
+    "Content": "哥布林的确与我们不同，但这不说明我们不能和平\r\n相处.",
     "Id": 202
   },
   {
-    "Content": "I heard there was a powerful wizard who lives in these parts.  Make sure to keep an eye out for him next time you go underground.",
+    "Content": "我听说有一个强大的魔法师居住在这附近，所以你\r\n下次去地下的时候请睁大你的眼睛留意他的位置.",
     "Id": 203
   },
   {
-    "Content": "If you combine lenses at a demon altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.",
+    "Content": "你在恶魔祭坛处合成的东西可以用来召唤一些强大\r\n的怪物。当然，你只有晚上才能够使用它.",
     "Id": 204
   },
   {
-    "Content": "You can create worm bait with rotten chunks and vile powder. Make sure you are in a corrupt area before using it.",
+    "Content": "你可以用那些腐烂的肉块和邪恶粉来制作一个蠕虫\r\nboss的诱饵，不过在使用他之前你要确定你是在一片腐化的区域.",
     "Id": 205
   },
   {
-    "Content": "Demonic altars can usually be found in the corruption. You will need to be near them to craft some items.",
+    "Content": "有恶魔祭坛的地方一般都会有腐化，但是为了合成\r\n一些特别的东西所以你不得不靠近他.",
     "Id": 206
   },
   {
-    "Content": "You can make a grappling hook from a hook and 3 chains. Skeletons found deep underground usually carry hooks, and chains can be made from iron bars.",
+    "Content": "你可以用铁锭做出3条铁链之后,从地底深处的骷髅身\r\n上获得钩子,合成一个钩爪.",
     "Id": 207
   },
   {
-    "Content": "If you see a pot, be sure to smash it open. They contain all sorts of useful supplies.",
+    "Content": "如果说你看到一个陶罐，那你一定要把他打破。\r\n因为里面可能含有很多有用的东西.",
     "Id": 208
   },
   {
-    "Content": "There is treasure hidden all over the world. Some amazing things can be found deep underground!",
+    "Content": "泰拉瑞拉藏有有各式各样的宝箱. 这些宝箱遍布\r\n地下世界!",
     "Id": 209
   },
   {
-    "Content": "Smashing a shadow orb will sometimes cause a meteor to fall out of the sky. Shadow orbs can usually be found in the chasms around corrupt areas.",
+    "Content": "在腐败之地的裂缝深处通常会有暗影球或者恶魔心脏，\r\n打碎这个往往能发现很多有用的东西.",
     "Id": 210
   },
   {
-    "Content": "You should focus on gathering more life crystals to increase your maximum life.",
+    "Content": "你应该更专注的收集生命水晶来增加你的生命最大值.",
     "Id": 211
   },
   {
-    "Content": "Your current equipment simply won't do. You need to make better armor.",
+    "Content": "你现在身上的装备糟透了，你应该去合成一些更好\r\n的盔甲.",
     "Id": 212
   },
   {
-    "Content": "I think you are ready for your first major battle. Gather some lenses from the eyeballs at night and take them to a demon altar.",
+    "Content": "从恶魔之眼那里收集到一些晶状体之后带他们到恶\r\n魔祭坛那里，然后你就可以准备你的第一次重大战役了.",
     "Id": 213
   },
   {
-    "Content": "You will want to increase your life before facing your next challenge. Fifteen hearts should be enough.",
+    "Content": "你需要来增加你的生命来应对下一波的挑战，300点\r\n生命值就应该足够了.",
     "Id": 214
   },
   {
-    "Content": "The ebonstone in the corruption can be purified using some powder from a dryad, or it can be destroyed with explosives.",
+    "Content": "腐败之地是可以被净化的,你可以从树精那里收集一\r\n些净化粉, 或者用炸药.",
     "Id": 215
   },
   {
-    "Content": "Your next step should be to explore the corrupt chasms.  Find and destroy any shadow orb you find.",
+    "Content": "你的下一步行动应该是去腐败之地探索那里的裂缝，\r\n尽可能寻找并摧毁所有你所找到的暗影之球",
     "Id": 216
   },
   {
-    "Content": "There is a old dungeon not far from here. Now would be a good time to go check it out.",
+    "Content": "离这里不远你可以看到一个地牢，现在是探索地牢\r\n的最佳时机! ",
     "Id": 217
   },
   {
-    "Content": "You should make an attempt to max out your available life. Try to gather twenty hearts.",
+    "Content": "你应该让你的生命最大值达到400点的上限.",
     "Id": 218
   },
   {
-    "Content": "There are many treasures to be discovered in the jungle, if you are willing to dig deep enough.",
+    "Content": "在丛林深处往往有很多的宝藏，只要你愿意往\r\n深处前进.",
     "Id": 219
   },
   {
-    "Content": "The underworld is made of a material called hellstone. It's perfect for making weapons and armor.",
+    "Content": "在地狱有一种叫狱岩石的东西，它十分适合用来\r\n制作盔甲和武器.",
     "Id": 220
   },
   {
-    "Content": "When you are ready to challenge the keeper of the underworld, you will have to make a living sacrifice. Everything you need for it can be found in the underworld.",
+    "Content": "当你觉得你准备好了,你就可以去尝试挑战地狱的\r\n守护者了. 召唤他必须牺牲一个人....挑战守护者所需要的东西, 就在地狱里. ",
     "Id": 221
   },
   {
-    "Content": "Make sure to smash any demon altar you can find. Something good is bound to happen if you do!",
+    "Content": "砸碎任何你可以找到的恶魔祭坛。好运会降临的！",
     "Id": 222
   },
   {
-    "Content": "Souls can sometimes be gathered from fallen creatures in places of extreme light or dark.",
+    "Content": "只有在腐蚀之地和神圣之地的深处你才能够获得光\r\n明之魂和暗影之魂.",
     "Id": 223
   },
   {
-    "Content": "Ho ho ho, and a bottle of... Egg Nog!",
+    "Content": "嗬嗬嗬，一瓶...蛋奶酒！",
     "Id": 224
   },
   {
-    "Content": "Care to bake me some cookies?",
+    "Content": "为我烤一些饼干怎么样?",
     "Id": 225
   },
   {
-    "Content": "What? You thought I wasn't real?",
+    "Content": "什么？你认为我不可能存在?",
     "Id": 226
   },
   {
-    "Content": "I managed to sew your face back on. Be more careful next time.",
+    "Content": "我想尽办法把你的脸缝上了。下次可要小心一点。",
     "Id": 227
   },
   {
-    "Content": "That's probably going to leave a scar.",
+    "Content": "这样可能会在你身上留下疤痕.",
     "Id": 228
   },
   {
-    "Content": "All better. I don't want to see you jumping off anymore cliffs.",
+    "Content": "这就已经很好了，我不希望你再去尝试跳任何悬崖.",
     "Id": 229
   },
   {
-    "Content": "That didn't hurt too bad, now did it?",
+    "Content": "伤势并不严重……现在感觉如何?",
     "Id": 230
   },
   {
-    "Content": "As if living underground wasn't bad enough, jerks like you come in while I'm sleeping and steal my children.",
+    "Content": "好像生活在地下还不算太糟糕。像你一样的家伙趁\r\n我睡觉时闯进来想偷我的孩子.",
     "Id": 231
   },
   {
-    "Content": "Between you and me, $Npc_20 is the only one I trust. She is the only one here who hasn't tried to eat me or use me in a potion.",
+    "Content": "嘿 ，$Npc_20是唯一一个我信任的人。他是\r\n唯一一个没有试着咬我一口或者用我制作药剂的人.",
     "Id": 232
   },
   {
-    "Content": "I tried to lick myself the other day to see what the big deal was, everything started glowing blue.",
+    "Content": "有一天我试着舔了下自己... 然后我就开始泛蓝光了。",
     "Id": 233
   },
   {
-    "Content": "Everytime I see the color blue, it makes me depressed and lazy.",
+    "Content": "每次我看到蓝色，我就会感到抑郁和惆怅.",
     "Id": 234
   },
   {
-    "Content": "You haven't seen any pigs around here have you? My brother lost his leg to one.",
+    "Content": "你没见过这附近有猪吧? 我哥哥的一条腿就是\r\n被它吃了.",
     "Id": 235
   },
   {
-    "Content": "Everyone in this town feels a bit off. I woke up to the clothier chewing on my foot last night.",
+    "Content": "在这个地方所有人似乎都有点不对劲。我今天醒来发现\r\n裁缝在嚼我的脚。",
     "Id": 236
   },
   {
-    "Content": "I'll give you a discount on your wears if you can convince $Npc_160 to come over for a...sizing.",
+    "Content": "如果你能说服 $Npc_160来量量尺寸，我就给你打折",
     "Id": 237
   },
   {
-    "Content": "I feel like $Npc_160 is a bit misunderstood, he really is a fun guy.",
+    "Content": "我觉得 $Npc_160 有点被人误解，他其实真\r\n的是一个有趣的家伙。",
     "Id": 238
   },
   {
-    "Content": "I don't know the 'Truffle Shuffle,' so stop asking!",
+    "Content": "我不知道“松露洗牌'，所以不要不停地问我！",
     "Id": 240
   },
   {
-    "Content": "There's been such a huge rumor that's being spread about me, 'If you can't beat him, eat him!'",
+    "Content": "有这样一个关于我的谣言：'如果你不能打\r\n败他，那就吃了他！'",
     "Id": 241
   },
   {
-    "Content": "Oy, whatchu got in you jiminy fluffer?",
+    "Content": "哦，你的屋子里都有什么？",
     "Id": 242
   },
   {
-    "Content": "Should I become an air pirate? I've considered becoming an air pirate.",
+    "Content": "我该成为一个空中海盗吗？我正在考虑成为一名空中海盗。",
     "Id": 243
   },
   {
-    "Content": "Be it what it would, a jetpack would suit you nicely!",
+    "Content": "无论它是什么，一个喷气背包最适合你！",
     "Id": 244
   },
   {
-    "Content": "I'm feeling a bit peevish as of late, so enough with your palaver you ragamuffin!",
+    "Content": "我感觉有点暴躁，因此骂你这矮丑挫也别觉\r\n得奇怪！",
     "Id": 245
   },
   {
-    "Content": "I'm mighty curious about that $Npc_209 fellow. By what manner of consumption does he maintain such locomotion?",
+    "Content": "我挺好奇 $Npc_209 是通过什么方式使他拥\r\n有那样的移动能力？",
     "Id": 246
   },
   {
-    "Content": "That captain fellow seems to me to be 'pretty well over the bay' if you know what I mean!",
+    "Content": "那看起来像船长的人，对我来说，是“相当不错的\r\n海湾”，你知道这是什么意思！",
     "Id": 247
   },
   {
-    "Content": "Show me some gears!",
+    "Content": "让我看看你的装备！",
     "Id": 248
   },
   {
-    "Content": "I like your... gear. Does it come in brass?",
+    "Content": "我喜欢你的....齿轮，嗯..他是黄铜做的吗?",
     "Id": 249
   },
   {
-    "Content": "Once you enter hallowed land, you will see a rainbow in the sky. I can help you with painting that if you want.",
+    "Content": "你进入神圣之地后可以看到一个美丽的彩虹，如果\r\n你想把他描绘下来，那我可以帮你.",
     "Id": 250
   },
   {
-    "Content": "Check out $Npc_208. Now that's a girl who can paint the town red!",
+    "Content": "离 $Npc_208 远点。她是一个可以'血洗'\r\n这个城镇的女孩!",
     "Id": 251
   },
   {
-    "Content": "I know the difference between turquoise and blue-green. But I won't tell you.",
+    "Content": "我知道松绿和蓝绿的区别。但我不会告诉你。",
     "Id": 252
   },
   {
-    "Content": "I'm all out of titanium white, so don't even ask.",
+    "Content": "我没有钛白色了，所以别来找我要白色染料。",
     "Id": 253
   },
   {
-    "Content": "Try swirly pink and purple, it works, I swear!",
+    "Content": "你可以尝试把粉红色和紫色合成...我发誓这\r\n可以合成！",
     "Id": 254
   },
   {
-    "Content": "No, no, no... There's TONS of different grays! Don't get me started...",
+    "Content": "不,不,不...有上千种灰色!别让我开始数这些\r\n颜色...",
     "Id": 255
   },
   {
-    "Content": "I hope it doesn't rain again until this paint dries. That would be a disaster!",
+    "Content": "我希望待会不会下雨，直到这种涂料干燥下来。\r\n否则这将是一场灾难！",
     "Id": 256
   },
   {
-    "Content": "I bring you the richest colors in exchange for your riches!",
+    "Content": "我用最绚丽的色彩，来换取你的财富！",
     "Id": 257
   },
   {
-    "Content": "My dear, what you're wearing is much too drab. You absolutely must take a lesson in dyeing your tired attire!",
+    "Content": "亲爱的，你穿得太单调。你必须吸取教训，给\r\n你的服装染色！",
     "Id": 258
   },
   {
-    "Content": "The only kind of wood I would bother dyeing is RICH Mahogany. Dyeing any other wood is such a waste.",
+    "Content": "只有一种木材值得我染色，那就是丛林的红木。\r\n染色其他任何木材都是浪费。 ",
     "Id": 259
   },
   {
-    "Content": "You must do something about $Npc_229.  Everytime he comes over here, it takes me a week to get the smell off!",
+    "Content": "我求你阻止$Npc_229 来我这。每次他来这\r\n里我身上至少一周都有奇怪的味道！",
     "Id": 260
   },
   {
-    "Content": "Which doctor am I? The Witch Doctor am I.",
+    "Content": "你要个大夫? 我是个巫医, 差不多.",
     "Id": 261
   },
   {
-    "Content": "The heart of magic is nature. The nature of hearts is magic.",
+    "Content": "魔法的本质是自然，自然的本质是魔法.",
     "Id": 262
   },
   {
-    "Content": "$Npc_18 may help heal your body, but I can make you embody healing.",
+    "Content": "$Npc_18 可以帮助治愈你的身体，但我可以让你\r\n的身体自愈。",
     "Id": 263
   },
   {
-    "Content": "Choose wisely, $Player, my commodities are volatile and my dark arts, mysterious.",
+    "Content": "作出明智的选择吧， $Player. 我的商品都是神秘的艺术。",
     "Id": 264
   },
   {
-    "Content": "We have to talk. It's... it's about parties.",
+    "Content": "我们得谈谈。这是...这是有关聚会的事。",
     "Id": 265
   },
   {
-    "Content": "I can't decide what I like more: parties, or after-parties.",
+    "Content": "除了聚会和聚会,我没有其他爱好了! ",
     "Id": 266
   },
   {
-    "Content": "We should set up a blinkroot party, and we should also set up an after-party.",
+    "Content": "我们应该在闪耀根聚会后再设立一个聚会后聚会。",
     "Id": 267
   },
   {
-    "Content": "Wow, $Player, meeting an adventurous man like you makes me want to party!",
+    "Content": "哇，$Player见到像你这样的冒险家，\r\n我想开个聚会庆祝一下！",
     "Id": 268
   },
   {
-    "Content": "Put up a disco ball and then I'll show you how to party.",
+    "Content": "在房子放一个镭射球灯，然后让我来告诉你什么是\r\n真正的聚会。",
     "Id": 269
   },
   {
-    "Content": "I went to Sweden once, they party hard, why aren't you like that?",
+    "Content": "我有一次去瑞典的时候，他们正在疯狂地开派对。\r\n你不希望试试吗？",
     "Id": 270
   },
   {
-    "Content": "My name's $Npc_208 but people call me party pooper. Yeah I don't know, it sounds cool though.",
+    "Content": "我的名字叫 $Npc_208 ，但大家叫我扫把星。\r\n是的，听起来很酷，虽然有点奇怪...",
     "Id": 271
   },
   {
-    "Content": "Do you party? Sometimes? Hm, okay then we can talk...",
+    "Content": "你经常开聚会吗？偶尔开? 那我们就有话题可聊了...",
     "Id": 272
   },
   {
-    "Content": "I'm no landlubber, but it's better to have lubbed and lost than never to have lubbed at all.",
+    "Content": "我不是个新手.你知道，尝试过总比没试过好.",
     "Id": 273
   },
   {
-    "Content": "Yo ho ho and a bottle of....blinkroots!",
+    "Content": " 啊哈哈哈哈..看看这满满一瓶闪耀根！",
     "Id": 274
   },
   {
-    "Content": "YAR!  Funny ye should be mentionin' parrots b'cause...um...What t'were we talkin' 'bout?",
+    "Content": "啊哈! 令人发笑的是我们该提到鹦鹉因为……呃\r\n……我们底都在说些什么？",
     "Id": 275
   },
   {
-    "Content": "$Player, Ye be one o' the finest lookin' lassies this here captain's seen in many a fortnight!",
+    "Content": "$Player你是这里船长见过的最漂亮的少女！不含'之一' ! ",
     "Id": 276
   },
   {
-    "Content": "Stay off me booty, ya scallywag!",
+    "Content": "离我的战利品远一点，你这个饭桶!",
     "Id": 277
   },
   {
-    "Content": "What in blazes are ye talkin' about? Moby Dick is mine!",
+    "Content": "你他妈到底在瞎说什么？<白鲸记>明明是我写的!",
     "Id": 278
   },
   {
-    "Content": "*Yarr Blarr Harrdarr*",
+    "Content": "*呀啊啊-布啦-哈哒啊啊啊*",
     "Id": 279
   },
   {
-    "Content": "And then Unit 492-8 said, 'Who do you think I am, Unit 472-6?' HA. HA. HA.",
+    "Content": "然后492-8的住户说：“你认为我是谁，472-6的住户？哈，哈，哈.",
     "Id": 280
   },
   {
-    "Content": "My expedition efficiency was critically reduced when a projectile impacted my locomotive actuator.",
+    "Content": "我以前也是一个冒险者，直到我的动力系统中了一箭。",
     "Id": 281
   },
   {
-    "Content": "This sentence is false , or is it?",
+    "Content": "这句话是对的，或是错的? ",
     "Id": 282
   },
   {
-    "Content": "So that 'punk' lookin' chick is an inventor, eh? I think I could show her a thing or two!",
+    "Content": "所以, 那个看起来不像样的人是个发明家?! \r\n我可以跟他谈谈我的发明! ",
     "Id": 283
   },
   {
-    "Content": "Sure, me and $Npc_229 are pals, but I hate it when his parrot does his business on me. That stuff's corrosive!",
+    "Content": "当然，我和 $Npc_229 曾好朋友，但他的鹦鹉来替他买东西时,\r\n 那小家伙太毒舌了, 所以后来我不愿卖给他东西了...",
     "Id": 284
   },
   {
-    "Content": "I built myself a taste mechanism, so I can drink some ale!",
+    "Content": "我给我自己添加了味觉模块，这样我就能尝到\r\n传说中那啤酒的美味了!",
     "Id": 285
   },
   {
-    "Content": "Sometimes I come off a bit... Get it? a bit?",
+    "Content": "有时候我有点……明白了吗？只有一点点？",
     "Id": 286
   },
   {
-    "Content": "'Short back and sides' is it?",
+    "Content": "'马桶盖发型' 对不?",
     "Id": 287
   },
   {
-    "Content": "Those highlights really bring out your eyes!",
+    "Content": "这些能亮瞎你!",
     "Id": 288
   },
   {
-    "Content": "My hands are sticky from all that... wax.",
+    "Content": "我手上黏黏糊糊的都是... 蜡.",
     "Id": 289
   },
   {
-    "Content": "Tea? Coffee? Or is it just orange juice again?",
+    "Content": "茶？咖啡？或者再来一杯橙汁吗？",
     "Id": 290
   },
   {
-    "Content": "Doll, we seriously need to fix those split ends.",
+    "Content": "小娃娃，我们得认真对待发梢分叉的问题",
     "Id": 291
   },
   {
-    "Content": "Gurrllll! You are my favorite gossip ever.",
+    "Content": "姑娘——！说到你的闲话永远说不完。",
     "Id": 292
   },
   {
-    "Content": "Which aftershave can I interest you in today, sir?",
+    "Content": "先生，今天用哪个牌子的须后水?",
     "Id": 293
   },
   {
-    "Content": "Sit down for a second and I'll have you steppin' razor.",
+    "Content": "在这坐一会，我去换剃刀。",
     "Id": 294
   },
   {
-    "Content": "Either you have style, or you get styled.",
+    "Content": "换个发型还是换个发型？",
     "Id": 295
   },
   {
-    "Content": "For you I think we'll do something... low maintenance.",
+    "Content": "你觉得我们会做什么... 稍稍做个护理？",
     "Id": 296
   },
   {
-    "Content": "I tried using one of the Dye Master's products once. Ends fried. Disaster.",
+    "Content": "我试过用染料商的产品. 一团糟.. 灾难啊.",
     "Id": 297
   },
   {
-    "Content": "Oh you poor, poor thing. Just... just sit down here. It'll be okay. Shhhh.",
+    "Content": "噢你这可...可怜的家伙. 坐...坐在这. 马上就好.嘘...",
     "Id": 298
   },
   {
-    "Content": "Check my fresh.",
+    "Content": "看看我的新发型！",
     "Id": 299
   },
   {
-    "Content": "Hello sir, I'm $Npc_353, and I'll be your barber today.",
+    "Content": "先生你好，我是 $Npc_353, 我是您今天的理发师.",
     "Id": 300
   },
   {
-    "Content": "Just a little off the top?  That's no fun...",
+    "Content": "头顶也都剪掉么?  那不好玩...",
     "Id": 301
   },
   {
-    "Content": "I hope you like what I did to $Npc_208's hair!",
+    "Content": "我希望你喜欢 $Npc_208的发型，是我做的!",
     "Id": 302
   },
   {
-    "Content": "There is nothing I can do for $Npc_38's singed head. He's a lost cause.",
+    "Content": "对于 $Npc_38的烧焦的头发我无能为力，他是个失败的栗子.",
     "Id": 303
   },
   {
-    "Content": "Tipping IS optional, but remember I have access to scissors and your head.",
+    "Content": "小费请“随意”，别忘了我有剪刀，和你的脑袋",
     "Id": 304
   },
   {
-    "Content": "This is a cut-throat razer by the way.",
+    "Content": "顺便一提，这把是割喉用的刀片。",
     "Id": 305
   },
   {
-    "Content": "You better stay outta my hair tonight, hun. I just sharpened my scissors, and I'm looking for an excuse to use them!",
+    "Content": "你最好别碰我的头发!我刚磨过剃刀，还不知道怎么用呢！",
     "Id": 306
   },
   {
-    "Content": "Mhmm, I heard from $Npc_208 that $Npc_124's friend $Npc_18 spent her boyfriend's last paycheck on shoes.",
+    "Content": "嗯, 我从$Npc_208 那听说 $Npc_124的朋友 $Npc_18 把她男朋友的钱都花了买鞋。",
     "Id": 307
   },
   {
-    "Content": "One time I put a wig on $Npc_209 just so I could cut his hair. I think he kinda liked it!",
+    "Content": "有一次我给 $Npc_209 戴上假发，因为这样我才能给他理发. 我觉得他会喜欢!",
     "Id": 308
   },
   {
-    "Content": "I tried to visit $Npc_353 one time. She just looked at me and said 'nope.'",
+    "Content": "我试着去拜访 $Npc_353 ，她只是看着我说 '不行.'",
     "Id": 309
   },
   {
-    "Content": "I think it is about time I got my hair did!",
+    "Content": "弄好我的头发只是个时间问题!",
     "Id": 310
   },
   {
-    "Content": "Did you even try to brush your hair today?",
+    "Content": "你今天梳头了么?",
     "Id": 311
   },
   {
-    "Content": "So a pixie cut, would you like to keep some lady burns?",
+    "Content": "精灵发型，还是淑女一点的?",
     "Id": 312
   },
   {
-    "Content": "I have no problem cleaning up ears and eyebrows, but I draw the line at nose hair.",
+    "Content": "修理耳毛和眉毛都行，但是我绝不接触鼻毛.",
     "Id": 313
   },
   {
-    "Content": "Alright, you sit and marinate. I'll be back to rinse your color out in 25 minutes...",
+    "Content": "好了, 你坐在这泡一会. 我25分钟后回来给你染...",
     "Id": 314
   },
   {
-    "Content": "Thanks hun! Now I can finally do my hair.",
+    "Content": "谢谢你，哈! 现在我终于能弄我自己的头发了.",
     "Id": 315
   },
   {
-    "Content": "I would have given you a free cut if you'd come earlier.",
+    "Content": "你早点来我就免费给你理发了.",
     "Id": 316
   },
   {
-    "Content": "Don't go exploring with scissors, they said. You won't get trapped in a spider's web, they said!",
+    "Content": "剪刀不能用于探险, 他们说的. 你不可能被蜘蛛网困住, 他们说的!",
     "Id": 317
   },
   {
-    "Content": "Ew, my hair, there's spider web all over it!",
+    "Content": "呃, 我的头发, 上面全是蜘蛛网!",
     "Id": 318
   },
   {
-    "Content": "Meet me behind $Npc_22's house in about three hours, I think I have something you will find very appealing.",
+    "Content": "3个小时后在 $Npc_22的房子后面跟我见面, 我想你会发现我这儿有什么吸引人的东西.",
     "Id": 319
   },
   {
-    "Content": "That $Npc_17, he really has no appreciation for a really good deal.",
+    "Content": "  $Npc_17,他除了好买卖，没什么好相处的.",
     "Id": 320
   },
   {
-    "Content": "I sell only what I can get. $Npc_54 keeps hounding me for exotic clothing.",
+    "Content": "我只卖我有的. $Npc_54 总是模仿我的风格.",
     "Id": 321
   },
   {
-    "Content": "Hmm, you look like you could use an Angel Statue! They slice, and dice, and make everything nice!",
+    "Content": "嗯, 看起来你会用天使雕像! 他们切片，切丁，让生活更美好!",
     "Id": 322
   },
   {
-    "Content": "I don't refund for \"buyer's remorse...\" Or for any other reason, really.",
+    "Content": "我不退换 \"买家的后悔\" 就算真的有什么理由.",
     "Id": 323
   },
   {
-    "Content": "Buy now and get free shipping!",
+    "Content": "现在购买免费送货!",
     "Id": 324
   },
   {
-    "Content": "I sell wares from places that might not even exist!",
+    "Content": "世上有的我都卖!",
     "Id": 325
   },
   {
-    "Content": "You want two penny farthings!? Make it one and we have a deal.",
+    "Content": "你想要个自行车!?做一个我就买.",
     "Id": 326
   },
   {
-    "Content": "Combination hookah and coffee maker! Also makes julienne fries!",
+    "Content": "组合水烟和咖啡壶！ 还能切薯条!",
     "Id": 327
   },
   {
-    "Content": "Come and have a look! One pound fish! Very, very good! One pound fish!",
+    "Content": "瞧一瞧看一看! 一整磅鱼!非常新鲜!一整磅鱼!",
     "Id": 328
   },
   {
-    "Content": "If you're looking for junk, you've come to the wrong place.",
+    "Content": "找垃圾么？你来对了.",
     "Id": 329
   },
   {
-    "Content": "A thrift shop?  No, I am only selling the highest quality items on the market.",
+    "Content": "一个旧货店?  不，我只是卖一些稀有货.",
     "Id": 330
   },
   {
-    "Content": "Smashing a crimson heart will sometimes cause a meteor to fall out of the sky. Crimson hearts can usually be found in the chasms around crimtane areas.",
+    "Content": "砸心脏会导致陨石降临，心脏通常在裂痕里.",
     "Id": 331
   },
   {
-    "Content": "Have you tried using purification powder on the crimstone of the crimson?",
+    "Content": "你尝试过对着猩红之地用净化粉末了么？",
     "Id": 332
   },
   {
-    "Content": "You must cleanse the world of this crimson.",
+    "Content": "你必须净化这个红色的世界。",
     "Id": 333
   },
   {
-    "Content": "Psst! I might have a job for you. Don't think you can say no, either!",
+    "Content": "小子！我给你找了一份工作，别想不要！",
     "Id": 334
   },
   {
-    "Content": "I want a fish and you're going to find me one! Ask me about it!",
+    "Content": "我要一条鱼，快去给我钓一个！",
     "Id": 335
   },
   {
-    "Content": "Hey! Just the sacrifi- I mean competent fishing master that I've been looking for! ",
+    "Content": "嘿！快来牺牲自己……呃，我的意思是你骨骼惊奇，是成为垂钓大师的天才！ ",
     "Id": 336
   },
   {
-    "Content": "$Npc_369 wants YOU as the official $Terraria.Main::worldName errand monkey!",
+    "Content": "$Npc_124 想要你成为 $Terraria.Main::worldName 的官方差役!",
     "Id": 337
   },
   {
-    "Content": "Whaaaat?! Can't you see I'm winding up fishing line??",
+    "Content": "什么!!??你居然看不到我正在缠钓鱼线？?! Can't you see I'm winding up fishing line??",
     "Id": 338
   },
   {
-    "Content": "I have enough fish! I don't need your help right now!",
+    "Content": "我有足够的鱼！我现在不需要你的帮助了！",
     "Id": 339
   },
   {
-    "Content": "There's no chefs in all of $Terraria.Main::worldName, so I have to cook all this fish myself! ",
+    "Content": "在 $Terraria.Main::worldName, 里没有厨师，所以我只好自己烧鱼了！",
     "Id": 340
   },
   {
-    "Content": "Hey! Watch it! I'm setting up traps for my biggest prank ever! No one will see it coming! Don't you dare tell anyone!",
+    "Content": "嘿！当心！我正在设置我最大的恶作剧陷阱！没人会注意到的！你敢告诉别人你就完蛋了！",
     "Id": 341
   },
   {
-    "Content": "Let a kid give you some advice, never touch your tongue to an ice block! Wait, forget what I said, I totally want to see you do it!",
+    "Content": "我来给你一些建议。别舔寒冰！等等，忘了我刚才说的吧，我真想看到你这么做啊！",
     "Id": 342
   },
   {
-    "Content": "Ever heard of a barking fish?! I haven't, I'm just wondering if you did!",
+    "Content": "你听到过鱼叫么？我没有，我只是想知道你有没有！",
     "Id": 343
   },
   {
-    "Content": "$Terraria.Main::worldName is filled to the brim with the most outlandish kinds of fish!",
+    "Content": "$Terraria.Main::worldName 绝对被很多鱼，甚至包括最稀奇的鱼，给装满了！",
     "Id": 344
   },
   {
-    "Content": "I'm bummed out! There's probably been fish that have gone extinct before I even was born, and that's not fair!",
+    "Content": "我太失望了！有些鱼在我出世前就灭绝了！这不公平！！",
     "Id": 345
   },
   {
-    "Content": "I don't have a mommy or a daddy, but I have a lot of fish! It's close enough!",
+    "Content": "我虽然没有父母，但是我有超级多的鱼！这就足够了！",
     "Id": 346
   },
   {
-    "Content": "Heh heh, you shoulda seen the look on $Npc_20's face when I stuck that piranha tooth in the chair!",
+    "Content": "呵呵，你应该看到了当我把食人鱼的牙往椅子上刺的时候， $Npc_20的表情了吧！",
     "Id": 347
   },
   {
-    "Content": "I have a request for you! No, I don't care that there's a zombie apocalypse right now!",
+    "Content": "我有个任务给你！不，我才不关心外边所谓的‘僵尸启示录’！",
     "Id": 348
   },
   {
-    "Content": "Hurry up and listen! I need you to catch something for me right now!",
+    "Content": "快来！听好！我需要你来为我抓一些东西！",
     "Id": 349
   },
   {
-    "Content": "I hate blood moons! I stay up all night because of all the scary noises!",
+    "Content": "我恨血月！那些可怕的声音吵得我整晚睡不着觉！",
     "Id": 350
   },
   {
-    "Content": "Blood moon is the worst time to fish! The fish bite, yes, but so do the zombies!",
+    "Content": "钓鱼的最差时间是血月！鱼咬钩了，可僵尸也咬你了！",
     "Id": 351
   },
   {
-    "Content": "There's a bajillion monsters running around out there right now!",
+    "Content": "现在有百万亿的怪物在外面呢！",
     "Id": 352
   },
   {
-    "Content": "Thanks, I guess, for saving me or whatever. You'd be a great helper minion!",
+    "Content": "谢谢，我想，为了报答你的救命之恩，你就给我当一个伟大的助理仆人吧！",
     "Id": 353
   },
   {
-    "Content": "Wha? Who might you be? I totally wasn't just drowning or anything!",
+    "Content": "哈？你是谁？我绝对没醉！",
     "Id": 354
   },
   {
-    "Content": "You saved me! You're awful nice, I could use you... er, I mean, totally hire you to do some awesome stuff for me!",
+    "Content": "你救了我！你……是个好人，我可以利用你……呃，我的意思是，雇用你来为我做一件超级棒的事！",
     "Id": 355
   },
   {
