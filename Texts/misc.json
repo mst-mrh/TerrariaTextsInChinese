@@ -1,230 +1,230 @@
 ﻿[
   {
-    "Content": "A goblin army has been defeated!",
+    "Content": "哥布林军队被击败!",
     "Id": 0
   },
   {
-    "Content": "A goblin army is approaching from the west!",
+    "Content": "哥布林军队正在从西边接近!",
     "Id": 1
   },
   {
-    "Content": "A goblin army is approaching from the east!",
+    "Content": "哥布林军队正在从东边接近!",
     "Id": 2
   },
   {
-    "Content": "A goblin army has arrived!",
+    "Content": "哥布林军队已经抵达!",
     "Id": 3
   },
   {
-    "Content": "The Frost Legion has been defeated!",
+    "Content": "雪人军团被打败了!",
     "Id": 4
   },
   {
-    "Content": "The Frost Legion is approaching from the west!",
+    "Content": "雪人军团正在从西边接近!",
     "Id": 5
   },
   {
-    "Content": "The Frost Legion is approaching from the east!",
+    "Content": "雪人军团正在从东边接近!",
     "Id": 6
   },
   {
-    "Content": "The Frost Legion has arrived!",
+    "Content": "雪人军团已经抵达!",
     "Id": 7
   },
   {
-    "Content": "The Blood Moon is rising...",
+    "Content": "血色之月正在升起...",
     "Id": 8
   },
   {
-    "Content": "You feel an evil presence watching you...",
+    "Content": "你感受到一个邪恶的存在正注视着你...",
     "Id": 9
   },
   {
-    "Content": "A horrible chill goes down your spine...",
+    "Content": "寒气顺着你的脊骨流下...",
     "Id": 10
   },
   {
-    "Content": "Screams echo around you...",
+    "Content": "尖叫声回响在你的耳旁...",
     "Id": 11
   },
   {
-    "Content": "Your world has been blessed with Cobalt!",
+    "Content": "你的世界被赋予了钴蓝矿!",
     "Id": 12
   },
   {
-    "Content": "Your world has been blessed with Mythril!",
+    "Content": "你的世界被赋予了秘银矿!",
     "Id": 13
   },
   {
-    "Content": "Your world has been blessed with Adamantite!",
+    "Content": "你的世界被赋予了精金矿!",
     "Id": 14
   },
   {
-    "Content": "The ancient spirits of light and dark have been released.",
+    "Content": "古老的光暗之灵被释放了.",
     "Id": 15
   },
   {
-    "Content": "has awoken!",
+    "Content": "苏醒了!",
     "Id": 16
   },
   {
-    "Content": "has been defeated!",
+    "Content": "被击败!",
     "Id": 17
   },
   {
-    "Content": "has arrived!",
+    "Content": "已抵达!",
     "Id": 18
   },
   {
-    "Content": " was slain...",
+    "Content": " 被杀害...",
     "Id": 19
   },
   {
-    "Content": "A solar eclipse is happening!",
+    "Content": "发生了日蚀!",
     "Id": 20
   },
   {
-    "Content": "Your world has been blessed with Palladium!",
+    "Content": "你的世界被赋予了钯金矿!",
     "Id": 21
   },
   {
-    "Content": "Your world has been blessed with Orichalcum!",
+    "Content": "你的世界被赋予了山铜矿!",
     "Id": 22
   },
   {
-    "Content": "Your world has been blessed with Titanium!",
+    "Content": "你的世界被赋予了钛金矿!",
     "Id": 23
   },
   {
-    "Content": "The pirates have been defeated!",
+    "Content": "海盗被击败了!",
     "Id": 24
   },
   {
-    "Content": "Pirates are approaching from the west!",
+    "Content": "海盗正在从东边接近!",
     "Id": 25
   },
   {
-    "Content": "Pirates are approaching from the east!",
+    "Content": "海盗军队正在从东边接近!",
     "Id": 26
   },
   {
-    "Content": "The pirates have arrived!",
+    "Content": "海盗已经抵达!",
     "Id": 27
   },
   {
-    "Content": "You feel vibrations from deep below...",
+    "Content": "你感受到了深处的震动...",
     "Id": 28
   },
   {
-    "Content": "This is going to be a terrible night...",
+    "Content": "这将会是个糟糕的夜晚...",
     "Id": 29
   },
   {
-    "Content": "The air is getting colder around you...",
+    "Content": "你周围的空气变冷了...",
     "Id": 30
   },
   {
-    "Content": "The Pumpkin Moon is rising...",
+    "Content": "南瓜之月正在升起...",
     "Id": 31
   },
   {
-    "Content": "The jungle grows restless...",
+    "Content": "丛林变得不安宁了...",
     "Id": 32
   },
   {
-    "Content": "Screams are echoing from the dungeon...",
+    "Content": "尖叫声在地牢里回响...",
     "Id": 33
   },
   {
-    "Content": "The Frost Moon is rising...",
+    "Content": "冰霜之月正在升起...",
     "Id": 34
   },
   {
-    "Content": "has departed!",
+    "Content": "离开了!",
     "Id": 35
   },
   {
-    "Content": " has left!",
+    "Content": " 离开了!",
     "Id": 36
   },
   {
-    "Content": "Any",
+    "Content": "任意", //Any
     "Id": 37
   },
   {
-    "Content": "Pressure Plate",
+    "Content": "压力板",
     "Id": 38
   },
   {
-    "Content": " and increased life regeneration",
+    "Content": " 增加生命恢复", // and increased life regeneration
     "Id": 39
   },
   {
-    "Content": "Increases life regeneration",
+    "Content": "增加生命恢复",
     "Id": 40
   },
   {
-    "Content": "Martians are invading!",
+    "Content": "火星人正在入侵!",
     "Id": 41
   },
   {
-    "Content": "The martians have been defeated!",
+    "Content": "火星人被击败了!",
     "Id": 42
   },
   {
-    "Content": "Celestial creatures are invading!",
+    "Content": "天体生物正在入侵!",
     "Id": 43
   },
   {
-    "Content": "Your mind goes numb...",
+    "Content": "你的头脑开始发麻...",
     "Id": 44
   },
   {
-    "Content": "You are overwhelmed with pain...",
+    "Content": "疼痛要压垮你了...",
     "Id": 45
   },
   {
-    "Content": "Otherworldly voices linger around you...",
+    "Content": "超脱尘世的声响流连在你身边...",
     "Id": 46
   },
   {
-    "Content": "The Moon Lord has awoken!",
+    "Content": "月之领主苏醒了!",
     "Id": 47
   },
   {
-    "Content": "The Twins have awoken!",
+    "Content": "双子魔眼苏醒了!",
     "Id": 48
   },
   {
-    "Content": "You wake up from a strange dream...",
+    "Content": "你从一个古怪的梦中醒来...",
     "Id": 49
   },
   {
-    "Content": "have been defeated!",
+    "Content": "被击败!",
     "Id": 50
   },
   {
-    "Content": "Lunar Fragment",
+    "Content": "月之碎片",
     "Id": 51
   },
   {
-    "Content": "Impending doom approaches...",
+    "Content": "灾难接近了...",
     "Id": 52
   },
   {
-    "Content": "Select",
+    "Content": "选择",
     "Id": 53
   },
   {
-    "Content": "Take",
+    "Content": "拿取",
     "Id": 54
   },
   {
-    "Content": "Take One",
+    "Content": "拿取一个",
     "Id": 55
   },
   {
-    "Content": "Close",
+    "Content": "关闭",
     "Id": 56
   },
   {
@@ -232,7 +232,7 @@
     "Id": 57
   },
   {
-    "Content": "Jump",
+    "Content": "跳跃",
     "Id": 58
   },
   {
@@ -240,139 +240,139 @@
     "Id": 59
   },
   {
-    "Content": "Attack",
+    "Content": "攻击",
     "Id": 60
   },
   {
-    "Content": "Build",
+    "Content": "建造",
     "Id": 61
   },
   {
-    "Content": "Drink",
+    "Content": "喝",
     "Id": 62
   },
   {
-    "Content": "Action",
+    "Content": "动作",
     "Id": 63
   },
   {
-    "Content": "Switch menu",
+    "Content": "切换菜单",
     "Id": 64
   },
   {
-    "Content": "Place",
+    "Content": "放置",
     "Id": 65
   },
   {
-    "Content": "Swap",
+    "Content": "交换",
     "Id": 66
   },
   {
-    "Content": "Equip",
+    "Content": "装备",
     "Id": 67
   },
   {
-    "Content": "Unequip",
+    "Content": "卸下装备",
     "Id": 68
   },
   {
-    "Content": "Show room flags",
+    "Content": "显示房子旗帜",
     "Id": 69
   },
   {
-    "Content": "Check housing",
+    "Content": "检查房屋",
     "Id": 70
   },
   {
-    "Content": "Quick craft",
+    "Content": "快速制造",
     "Id": 71
   },
   {
-    "Content": "Craft",
+    "Content": "制造",
     "Id": 72
   },
   {
-    "Content": "Select",
+    "Content": "选择",
     "Id": 73
   },
   {
-    "Content": "Trash",
+    "Content": "丢弃",
     "Id": 74
   },
   {
-    "Content": "Sell",
+    "Content": "卖出",
     "Id": 75
   },
   {
-    "Content": "Transfer",
+    "Content": "转出",
     "Id": 76
   },
   {
-    "Content": "Show visuals",
+    "Content": "显示", // visuals是啥？求去游戏里看看
     "Id": 77
   },
   {
-    "Content": "Hide visuals",
+    "Content": "隐藏",
     "Id": 78
   },
   {
-    "Content": "Use",
+    "Content": "使用",
     "Id": 79
   },
   {
-    "Content": "Talk",
+    "Content": "谈话",
     "Id": 80
   },
   {
-    "Content": "Read",
+    "Content": "阅读",
     "Id": 81
   },
   {
-    "Content": "Back",
+    "Content": "后退",
     "Id": 82
   },
   {
-    "Content": "Favorite",
+    "Content": "收藏",
     "Id": 83
   },
   {
-    "Content": "You can't change teams inside your team's blocks!",
+    "Content": "你无法在你队伍方块区域内更换队伍!",
     "Id": 84
   },
   {
-    "Content": "Bug",
+    "Content": "虫",
     "Id": 85
   },
   {
-    "Content": "Duck",
+    "Content": "鸭子",
     "Id": 86
   },
   {
-    "Content": "Butterfly",
+    "Content": "蝴蝶",
     "Id": 87
   },
   {
-    "Content": "Firefly",
+    "Content": "萤火虫",
     "Id": 88
   },
   {
-    "Content": "Wiring Options",
+    "Content": "电路选项",
     "Id": 89
   },
   {
-    "Content": "Buy",
+    "Content": "购买",
     "Id": 90
   },
   {
-    "Content": "Buy More",
+    "Content": "购买更多",
     "Id": 91
   },
   {
-    "Content": "Sell",
+    "Content": "卖出",
     "Id": 92
   },
   {
-    "Content": "Craft more",
+    "Content": "制造更多",
     "Id": 93
   },
   {
@@ -380,43 +380,43 @@
     "Id": 94
   },
   {
-    "Content": "Snail",
+    "Content": "蜗牛",
     "Id": 95
   },
   {
-    "Content": "Looks like ",
+    "Content": "看起来 ",
     "Id": 96
   },
   {
-    "Content": " is throwing a party",
+    "Content": " 开始举办派对",
     "Id": 97
   },
   {
-    "Content": " are throwing a party",
+    "Content": " 开始举办派对",
     "Id": 98
   },
   {
-    "Content": "Party time's over!",
+    "Content": "派对时间结束!",
     "Id": 99
   },
   {
-    "Content": "Pick world evil",
+    "Content": "选择世界邪恶种类",
     "Id": 100
   },
   {
-    "Content": "Corruption",
+    "Content": "腐化",
     "Id": 101
   },
   {
-    "Content": "Crimson",
+    "Content": "血腥",
     "Id": 102
   },
   {
-    "Content": "Random",
+    "Content": "随机",
     "Id": 103
   },
   {
-    "Content": "Cannot be used without Etherian Mana until the Eternia Crystal has been defended",
+    "Content": "没有艾特尼亚魔力时, 无法使用; 艾特尼亚水晶被保卫后, 方可使用",
     "Id": 104
   }
 ]
