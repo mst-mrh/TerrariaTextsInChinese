@@ -532,255 +532,255 @@
     "Id": 140
   },
   {
-    "Content": "UFO Mount",
+    "Content": "幽浮坐骑",
     "Id": 141
   },
   {
-    "Content": "Drill Mount",
+    "Content": "挖掘机",
     "Id": 142
   },
   {
-    "Content": "Scutlix Mount",
+    "Content": "火星蛞蝓",
     "Id": 143
   },
   {
-    "Content": "Electrified",
+    "Content": "触电",
     "Id": 144
   },
   {
-    "Content": "Moon Bite",
+    "Content": "月之咬伤", // moon bite
     "Id": 145
   },
   {
-    "Content": "Happy!",
+    "Content": "开心!",
     "Id": 146
   },
   {
-    "Content": "Banner",
+    "Content": "旗帜", // 旗帜? banner
     "Id": 147
   },
   {
-    "Content": "Feral Bite",
+    "Content": "荒咬",
     "Id": 148
   },
   {
-    "Content": "Webbed",
+    "Content": "缠住",
     "Id": 149
   },
   {
-    "Content": "Bewitched",
+    "Content": "迷人",
     "Id": 150
   },
   {
-    "Content": "Life Drain",
+    "Content": "吸血",
     "Id": 151
   },
   {
-    "Content": "Magic Lantern",
+    "Content": "魔力蓝灯", // 灯笼?
     "Id": 152
   },
   {
-    "Content": "Shadowflame",
+    "Content": "暗影火焰",
     "Id": 153
   },
   {
-    "Content": "Crimson Heart",
+    "Content": "血腥之心",
     "Id": 155
   },
   {
-    "Content": "Baby Face Monster",
+    "Content": "大脸怪幼体",
     "Id": 154
   },
   {
-    "Content": "Penetrated",
+    "Content": "被刺穿",
     "Id": 169
   },
   {
-    "Content": "Stardust Cell",
+    "Content": "星辰细胞",
     "Id": 182
   },
   {
-    "Content": "Celled",
+    "Content": "细胞吞噬",
     "Id": 183
   },
   {
-    "Content": "Dryad's Bane",
+    "Content": "树妖的干扰",
     "Id": 186
   },
   {
-    "Content": "Stardust Guardian",
+    "Content": "星辰护卫",
     "Id": 187
   },
   {
-    "Content": "Stardust Dragon",
+    "Content": "星辰龙",
     "Id": 188
   },
   {
-    "Content": "Daybroken",
+    "Content": "破晓",
     "Id": 189
   },
   {
-    "Content": "Suspicious Looking Eye",
+    "Content": "可疑的眼球",
     "Id": 190
   },
   {
-    "Content": "Companion Cube",
+    "Content": "伙伴方块",
     "Id": 191
   },
   {
-    "Content": "Propeller Gato",
+    "Content": "螺旋猫",
     "Id": 200
   },
   {
-    "Content": "Flickerwick",
+    "Content": "摇曳烛芯",
     "Id": 201
   },
   {
-    "Content": "Hoardagron",
+    "Content": "霍尔龙",
     "Id": 202
   },
   {
-    "Content": "Betsy's Curse",
+    "Content": "贝特西的诅咒",
     "Id": 203
   },
   {
-    "Content": "Oiled",
+    "Content": "浸油",
     "Id": 204
   },
   {
-    "Content": "Stoned",
+    "Content": "石化",
     "Id": 156
   },
   {
-    "Content": "Star in a Bottle",
+    "Content": "瓶中星",
     "Id": 158
   },
   {
-    "Content": "Sharpened",
+    "Content": "磨锐", // 锋利
     "Id": 159
   },
   {
-    "Content": "Dazed",
+    "Content": "迷乱",
     "Id": 160
   },
   {
-    "Content": "Deadly Sphere",
+    "Content": "致命球体",
     "Id": 161
   },
   {
-    "Content": "Obstructed",
+    "Content": "被蒙眼",
     "Id": 163
   },
   {
-    "Content": "Distorted",
+    "Content": "扭曲",
     "Id": 164
   },
   {
-    "Content": "Dryad's Blessing",
+    "Content": "树妖的庇护",
     "Id": 165
   },
   {
-    "Content": "Mighty Wind",
+    "Content": "强风",
     "Id": 194
   },
   {
-    "Content": "Withered Armor",
+    "Content": "朽甲",
     "Id": 195
   },
   {
-    "Content": "Withered Weapon",
+    "Content": "钝刃",
     "Id": 196
   },
   {
-    "Content": "Oozed",
+    "Content": "融化",
     "Id": 197
   },
   {
-    "Content": "Striking Moment",
+    "Content": "惊人时刻",
     "Id": 198
   },
   {
-    "Content": "Ballista Panic!",
+    "Content": "Ballista Panic!", // 不会
     "Id": 205
   },
   {
-    "Content": "Minecart",
+    "Content": "矿车",
     "Id": 166
   },
   {
-    "Content": "Minecart",
+    "Content": "矿车",
     "Id": 167
   },
   {
-    "Content": "Minecart",
+    "Content": "矿车",
     "Id": 185
   },
   {
-    "Content": "Minecart",
+    "Content": "矿车",
     "Id": 184
   },
   {
-    "Content": "Solar Blaze",
+    "Content": "日曜",
     "Id": 170
   },
   {
-    "Content": "Solar Blaze",
+    "Content": "日曜", // solar blaze
     "Id": 171
   },
   {
-    "Content": "Solar Blaze",
+    "Content": "日曜",
     "Id": 172
   },
   {
-    "Content": "Damage Nebula",
+    "Content": "伤害星云",
     "Id": 179
   },
   {
-    "Content": "Damage Nebula",
+    "Content": "伤害星云",
     "Id": 180
   },
   {
-    "Content": "Damage Nebula",
+    "Content": "伤害星云",
     "Id": 181
   },
   {
-    "Content": "Life Nebula",
+    "Content": "生命星云",
     "Id": 173
   },
   {
-    "Content": "Life Nebula",
+    "Content": "生命星云",
     "Id": 174
   },
   {
-    "Content": "Life Nebula",
+    "Content": "生命星云",
     "Id": 175
   },
   {
-    "Content": "Mana Nebula",
+    "Content": "魔力星云",
     "Id": 176
   },
   {
-    "Content": "Mana Nebula",
+    "Content": "魔力星云",
     "Id": 177
   },
   {
-    "Content": "Mana Nebula",
+    "Content": "魔力星云",
     "Id": 178
   },
   {
-    "Content": "Unicorn Mount",
+    "Content": "独角兽坐骑",
     "Id": 162
   },
   {
-    "Content": "Cute Fishron Mount",
+    "Content": "可爱猪鲨坐骑",
     "Id": 168
   },
   {
-    "Content": "Basilisk Mount",
+    "Content": "巨蜥坐骑", //巨蜥座机Basilisk Mount
     "Id": 193
   },
   {
-    "Content": "Creative Shock",
+    "Content": "创造受阻", //Creative Shock
     "Id": 199
   },
   {
