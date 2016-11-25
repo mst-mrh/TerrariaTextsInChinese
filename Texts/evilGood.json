@@ -1,54 +1,54 @@
 ﻿[
   {
-    "Content": "{0} is {1}% hallow, {2}% corrupt, and {3}% crimson.",
+    "Content": "{0} 现在是 {1}% 的神圣, {2}% 的腐化, 以及 {3}% 的血腥。",
     "Id": 0
   },
   {
-    "Content": "{0} is {1}%  hallow and {2}% corrupt.",
+    "Content": "{0} 现在是 {1}%  的神圣 和 {2}% 的腐化。",
     "Id": 1
   },
   {
-    "Content": "{0} is {1}%  hallow and {2}% crimson.",
+    "Content": "{0} 现在是 {1}%  的神圣 和 {2}% 的血腥。",
     "Id": 2
   },
   {
-    "Content": "{0} is {1}% corrupt and {2}% crimson.",
+    "Content": "{0} 现在是 {1}% 的腐化 和 {2}% 的血腥。",
     "Id": 3
   },
   {
-    "Content": "{0} is {1}%  corrupt .",
+    "Content": "{0} 现在是 {1}%  的腐化 。",
     "Id": 4
   },
   {
-    "Content": "{0} is {1}%  crismon .",
+    "Content": "{0} 现在是 {1}%  的血腥 。",
     "Id": 5
   },
   {
-    "Content": "{0} is {1}%  hallow .",
+    "Content": "{0} 现在是 {1}%  的神圣 。",
     "Id": 6
   },
   {
-    "Content": "{0} is completely pure. You have done an amazing job!",
+    "Content": "{0} 已经被完全净化了，你做了件了不起的工作！",//（做了一点微小的工作）
     "Id": 7
   },
   {
-    "Content": " The world is in balance.",
+    "Content": " 这个世界很平衡。",
     "Id": 8
   },
   {
-    "Content": " We are living in a fairy tale.",
+    "Content": " 我们就像活在童话故事里一样！",
     "Id": 9
   },
   {
-    "Content": " Things are grim indeed...",
+    "Content": " 情况很严峻...",
     "Id": 10
   },
   {
-    "Content": " You have a lot of work to do.",
+    "Content": "冒险者，任重而道远啊。",
     "Id": 11
   },
   {
-    "Content": " You are so close!",
+    "Content": "你靠我太近了！",
     "Id": 12
   }
 ]
