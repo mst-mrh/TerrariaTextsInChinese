@@ -288,11 +288,11 @@
     "Id": 72
   },
   {
-    "Content": "双勾爪",
+    "Content": "双钩爪",
     "Id": 73
   },
   {
-    "Content": "双勾爪",
+    "Content": "双钩爪",
     "Id": 74
   },
   {
@@ -528,51 +528,51 @@
     "Id": 132
   },
   {
-    "Content": "手榴弹",
+    "Content": "一号榴弹",
     "Id": 133
   },
   {
-    "Content": "火箭弹",
+    "Content": "一号火箭弹",
     "Id": 134
   },
   {
-    "Content": "智能地雷",
+    "Content": "一号智能地雷",
     "Id": 135
   },
   {
-    "Content": "手榴弹",
+    "Content": "二号榴弹",
     "Id": 136
   },
   {
-    "Content": "火箭弹",
+    "Content": "二号火箭弹",
     "Id": 137
   },
   {
-    "Content": "智能地雷",
+    "Content": "二号智能地雷",
     "Id": 138
   },
   {
-    "Content": "手榴弹",
+    "Content": "三号榴弹",
     "Id": 139
   },
   {
-    "Content": "火箭弹",
+    "Content": "三号火箭弹",
     "Id": 140
   },
   {
-    "Content": "智能地雷",
+    "Content": "三号智能地雷",
     "Id": 141
   },
   {
-    "Content": "手榴弹",
+    "Content": "四号榴弹",
     "Id": 142
   },
   {
-    "Content": "火箭弹",
+    "Content": "四号火箭弹",
     "Id": 143
   },
   {
-    "Content": "智能地雷",
+    "Content": "四号智能地雷",
     "Id": 144
   },
   {
@@ -664,19 +664,19 @@
     "Id": 166
   },
   {
-    "Content": "火箭弹",
+    "Content": "红色烟花",
     "Id": 167
   },
   {
-    "Content": "火箭弹",
+    "Content": "绿色烟花",
     "Id": 168
   },
   {
-    "Content": "火箭弹",
+    "Content": "蓝色烟花",
     "Id": 169
   },
   {
-    "Content": "火箭弹",
+    "Content": "黄色烟花",
     "Id": 170
   },
   {
@@ -960,251 +960,251 @@
     "Id": 240
   },
   {
-    "Content": "Crimsand Ball",
+    "Content": "血腥沙球",
     "Id": 241
   },
   {
-    "Content": "Bullet",
+    "Content": "子弹",
     "Id": 242
   },
   {
-    "Content": "Blood Cloud",
+    "Content": "血云",
     "Id": 243
   },
   {
-    "Content": "Blood Cloud",
+    "Content": "血云",
     "Id": 244
   },
   {
-    "Content": "Blood Rain",
+    "Content": "血雨",
     "Id": 245
   },
   {
-    "Content": "Stynger",
+    "Content": "毒刺",
     "Id": 246
   },
   {
-    "Content": "Flower Pow",
+    "Content": "锦绣花团",
     "Id": 247
   },
   {
-    "Content": "Flower Pow",
+    "Content": "锦绣花团",
     "Id": 248
   },
   {
-    "Content": "Stynger",
+    "Content": "毒刺",
     "Id": 249
   },
   {
-    "Content": "Rainbow",
+    "Content": "彩虹",
     "Id": 250
   },
   {
-    "Content": "Rainbow",
+    "Content": "彩虹",
     "Id": 251
   },
   {
-    "Content": "Chlorophyte Jackhammer",
+    "Content": "叶绿冲击锤",
     "Id": 252
   },
   {
-    "Content": "Ball of Frost",
+    "Content": "冰霜球",
     "Id": 253
   },
   {
-    "Content": "Magnet Sphere",
+    "Content": "磁暴之球",
     "Id": 254
   },
   {
-    "Content": "Magnet Sphere",
+    "Content": "磁暴之球",
     "Id": 255
   },
   {
-    "Content": "Skeletron Hand",
+    "Content": "骷髅钩爪",
     "Id": 256
   },
   {
-    "Content": "Frost Beam",
+    "Content": "寒冰光线",
     "Id": 257
   },
   {
-    "Content": "Fireball",
+    "Content": "火球",
     "Id": 258
   },
   {
-    "Content": "Eye Beam",
+    "Content": "眼魔射线",
     "Id": 259
   },
   {
-    "Content": "Heat Ray",
+    "Content": "热能射线",
     "Id": 260
   },
   {
-    "Content": "Boulder",
+    "Content": "巨石",
     "Id": 261
   },
   {
-    "Content": "Golem Fist",
+    "Content": "石巨人之拳",
     "Id": 262
   },
   {
-    "Content": "Ice Sickle",
+    "Content": "寒冰镰刀",
     "Id": 263
   },
   {
-    "Content": "Rain",
+    "Content": "雨",
     "Id": 264
   },
   {
-    "Content": "Poison Fang",
+    "Content": "毒牙",
     "Id": 265
   },
   {
-    "Content": "Baby Slime",
+    "Content": "小史莱姆",
     "Id": 266
   },
   {
-    "Content": "Poison Dart",
+    "Content": "剧毒飞箭",
     "Id": 267
   },
   {
-    "Content": "Eye Spring",
+    "Content": "弹跳眼球",
     "Id": 268
   },
   {
-    "Content": "Baby Snowman",
+    "Content": "小雪人",
     "Id": 269
   },
   {
-    "Content": "Skull",
+    "Content": "骷髅",
     "Id": 270
   },
   {
-    "Content": "Boxing Glove",
+    "Content": "拳击手套",
     "Id": 271
   },
   {
-    "Content": "Bananarang",
+    "Content": "香蕉回旋镖",
     "Id": 272
   },
   {
-    "Content": "Chain Knife",
+    "Content": "链刃",
     "Id": 273
   },
   {
-    "Content": "Death Sickle",
+    "Content": "死亡镰刀",
     "Id": 274
   },
   {
-    "Content": "Seed",
+    "Content": "种子",
     "Id": 275
   },
   {
-    "Content": "Poison Seed",
+    "Content": "剧毒种子",
     "Id": 276
   },
   {
-    "Content": "Thorn Ball",
+    "Content": "刺球",
     "Id": 277
   },
   {
-    "Content": "Ichor Arrow",
+    "Content": "脓血箭",
     "Id": 278
   },
   {
-    "Content": "Ichor Bullet",
+    "Content": "脓血弹",
     "Id": 279
   },
   {
-    "Content": "Golden Shower",
+    "Content": "黄金喷头",
     "Id": 280
   },
   {
-    "Content": "Explosive Bunny",
+    "Content": "爆炸兔子",
     "Id": 281
   },
   {
-    "Content": "Venom Arrow",
+    "Content": "剧毒箭",
     "Id": 282
   },
   {
-    "Content": "Venom Bullet",
+    "Content": "剧毒弹",
     "Id": 283
   },
   {
-    "Content": "Party Bullet",
+    "Content": "彩纸弹",
     "Id": 284
   },
   {
-    "Content": "Nano Bullet",
+    "Content": "纳米弹",
     "Id": 285
   },
   {
-    "Content": "Explosive Bullet",
+    "Content": "高爆弹",
     "Id": 286
   },
   {
-    "Content": "Golden Bullet",
+    "Content": "金弹",
     "Id": 287
   },
   {
-    "Content": "Golden Shower",
+    "Content": "黄金喷头",
     "Id": 288
   },
   {
-    "Content": "Confetti",
+    "Content": "彩纸",
     "Id": 289
   },
   {
-    "Content": "Shadow Beam",
+    "Content": "暗影射线",
     "Id": 290
   },
   {
-    "Content": "Inferno",
+    "Content": "地狱之火",
     "Id": 291
   },
   {
-    "Content": "Inferno",
+    "Content": "地狱之火",
     "Id": 292
   },
   {
-    "Content": "Lost Soul",
+    "Content": "失落幽魂",
     "Id": 293
   },
   {
-    "Content": "Shadow Beam",
+    "Content": "暗影射线",
     "Id": 294
   },
   {
-    "Content": "Inferno",
+    "Content": "地狱之火",
     "Id": 295
   },
   {
-    "Content": "Inferno",
+    "Content": "地狱之火",
     "Id": 296
   },
   {
-    "Content": "Lost Soul",
+    "Content": "失落幽魂",
     "Id": 297
   },
   {
-    "Content": "Spirit Heal",
+    "Content": "幽魂治疗",
     "Id": 298
   },
   {
-    "Content": "Shadowflames",
+    "Content": "暗影之炎",
     "Id": 299
   },
   {
-    "Content": "Paladin's Hammer",
+    "Content": "圣骑士之锤",
     "Id": 300
   },
   {
-    "Content": "Paladin's Hammer",
+    "Content": "圣骑士之锤",
     "Id": 301
   },
   {
-    "Content": "Sniper Bullet",
+    "Content": "狙击枪子弹",
     "Id": 302
   },
   {
@@ -1212,139 +1212,139 @@
     "Id": 303
   },
   {
-    "Content": "Vampire Knife",
+    "Content": "吸血飞刀",
     "Id": 304
   },
   {
-    "Content": "Vampire Heal",
+    "Content": "吸血飞刀回血",
     "Id": 305
   },
   {
-    "Content": "Eater's Bite",
+    "Content": "吞噬者之咬",
     "Id": 306
   },
   {
-    "Content": "Tiny Eater",
+    "Content": "小吞噬者",
     "Id": 307
   },
   {
-    "Content": "Frost Hydra",
+    "Content": "冰霜九头蛇",
     "Id": 308
   },
   {
-    "Content": "Frost Blast",
+    "Content": "冰霜爆炸",
     "Id": 309
   },
   {
-    "Content": "Blue Flare",
+    "Content": "蓝色信号弹",
     "Id": 310
   },
   {
-    "Content": "Candy Corn",
+    "Content": "糖豆",
     "Id": 311
   },
   {
-    "Content": "Jack 'O Lantern",
+    "Content": "杰克爆弹",
     "Id": 312
   },
   {
-    "Content": "Spider",
+    "Content": "蜘蛛",
     "Id": 313
   },
   {
-    "Content": "Squashling",
+    "Content": "南瓜人",
     "Id": 314
   },
   {
-    "Content": "Bat 钩爪",
+    "Content": "蝙蝠钩爪",
     "Id": 315
   },
   {
-    "Content": "Bat",
+    "Content": "蝙蝠",
     "Id": 316
   },
   {
-    "Content": "Raven",
+    "Content": "乌鸦",
     "Id": 317
   },
   {
-    "Content": "Rotten Egg",
+    "Content": "腐烂鸡蛋",
     "Id": 318
   },
   {
-    "Content": "Black Cat",
+    "Content": "黑猫",
     "Id": 319
   },
   {
-    "Content": "Bloody Machete",
+    "Content": "鲜血屠刀",
     "Id": 320
   },
   {
-    "Content": "Flaming Jack",
+    "Content": "燃烧南瓜头",
     "Id": 321
   },
   {
-    "Content": "Wood 钩爪",
+    "Content": "鬼木钩爪",
     "Id": 322
   },
   {
-    "Content": "Stake",
+    "Content": "尖木桩",
     "Id": 323
   },
   {
-    "Content": "Cursed Sapling",
+    "Content": "诅咒鬼木",
     "Id": 324
   },
   {
-    "Content": "Flaming Wood",
+    "Content": "燃烧木枝",
     "Id": 325
   },
   {
-    "Content": "Greek Fire",
+    "Content": "希腊火焰",
     "Id": 326
   },
   {
-    "Content": "Greek Fire",
+    "Content": "希腊火焰 ",
     "Id": 327
   },
   {
-    "Content": "Greek Fire",
+    "Content": "希腊火焰",
     "Id": 328
   },
   {
-    "Content": "Flaming Scythe",
+    "Content": "火焰镰刀",
     "Id": 329
   },
   {
-    "Content": "Star Anise",
+    "Content": "八角茴香",
     "Id": 330
   },
   {
-    "Content": "Candy Cane 钩爪",
+    "Content": "拐杖糖钩爪",
     "Id": 331
   },
   {
-    "Content": "Christmas 钩爪",
+    "Content": "圣诞钩爪",
     "Id": 332
   },
   {
-    "Content": "Fruitcake Chakram",
+    "Content": "水果蛋糕",
     "Id": 333
   },
   {
-    "Content": "Puppy",
+    "Content": "小狗",
     "Id": 334
   },
   {
-    "Content": "Ornament",
+    "Content": "装饰物",
     "Id": 335
   },
   {
-    "Content": "Pine Needle",
+    "Content": "松针",
     "Id": 336
   },
   {
-    "Content": "Blizzard",
+    "Content": "暴风雪",
     "Id": 337
   },
   {
@@ -1364,279 +1364,279 @@
     "Id": 341
   },
   {
-    "Content": "North Pole",
+    "Content": "北极",
     "Id": 342
   },
   {
-    "Content": "North Pole",
+    "Content": "北极",
     "Id": 343
   },
   {
-    "Content": "North Pole",
+    "Content": "北极",
     "Id": 344
   },
   {
-    "Content": "Pine Needle",
+    "Content": "松针",
     "Id": 345
   },
   {
-    "Content": "Ornament",
+    "Content": "装饰物",
     "Id": 346
   },
   {
-    "Content": "Ornament",
+    "Content": "装饰物",
     "Id": 347
   },
   {
-    "Content": "Frost Wave",
+    "Content": "冰浪",
     "Id": 348
   },
   {
-    "Content": "Frost Shard",
+    "Content": "寒冰碎片",
     "Id": 349
   },
   {
-    "Content": "Missile",
+    "Content": "导弹",
     "Id": 350
   },
   {
-    "Content": "Present",
+    "Content": "礼物炸弹",
     "Id": 351
   },
   {
-    "Content": "Spike",
+    "Content": "尖钉球",
     "Id": 352
   },
   {
-    "Content": "Baby Grinch",
+    "Content": "圣诞怪杰",
     "Id": 353
   },
   {
-    "Content": "Crimsand Ball",
+    "Content": "血腥沙球",
     "Id": 354
   },
   {
-    "Content": "Venom Fang",
+    "Content": "毒牙",
     "Id": 355
   },
   {
-    "Content": "Spectre Wrath",
+    "Content": "幽魂之怒",
     "Id": 356
   },
   {
-    "Content": "Pulse Bolt",
+    "Content": "脉冲波",
     "Id": 357
   },
   {
-    "Content": "Water Gun",
+    "Content": "水枪",
     "Id": 358
   },
   {
-    "Content": "Frost Bolt",
+    "Content": "寒冰球",
     "Id": 359
   },
   {
-    "Content": "Bobber",
+    "Content": "浮码",
     "Id": 360
   },
   {
-    "Content": "Bobber",
+    "Content": "浮码",
     "Id": 361
   },
   {
-    "Content": "Bobber",
+    "Content": "浮码",
     "Id": 362
   },
   {
-    "Content": "Bobber",
+    "Content": "浮码",
     "Id": 363
   },
   {
-    "Content": "Bobber",
+    "Content": "浮码",
     "Id": 364
   },
   {
-    "Content": "Bobber",
+    "Content": "浮码",
     "Id": 365
   },
   {
-    "Content": "Bobber",
+    "Content": "浮码",
     "Id": 366
   },
   {
-    "Content": "Obsidian Swordfish",
+    "Content": "黑曜石剑鱼",
     "Id": 367
   },
   {
-    "Content": "Swordfish",
+    "Content": "剑鱼",
     "Id": 368
   },
   {
-    "Content": "Sawtooth Shark",
+    "Content": "锯齿鲨",
     "Id": 369
   },
   {
-    "Content": "Love Potion",
+    "Content": "爱情药剂",
     "Id": 370
   },
   {
-    "Content": "Foul Potion",
+    "Content": "恶臭药剂",
     "Id": 371
   },
   {
-    "Content": "Fish 钩爪",
+    "Content": "鱼钩爪",
     "Id": 372
   },
   {
-    "Content": "Hornet",
+    "Content": "蜜蜂",
     "Id": 373
   },
   {
-    "Content": "Hornet Stinger",
+    "Content": "蜜蜂毒刺",
     "Id": 374
   },
   {
-    "Content": "Flying Imp",
+    "Content": "飞翔的魔精",
     "Id": 375
   },
   {
-    "Content": "Imp Fireball",
+    "Content": "魔精火球",
     "Id": 376
   },
   {
-    "Content": "Spider Turret",
+    "Content": "蜘蛛女皇",
     "Id": 377
   },
   {
-    "Content": "Spider Egg",
+    "Content": "蜘蛛卵",
     "Id": 378
   },
   {
-    "Content": "Baby Spider",
+    "Content": "小蜘蛛",
     "Id": 379
   },
   {
-    "Content": "Zephyr Fish",
+    "Content": "微风鱼",
     "Id": 380
   },
   {
-    "Content": "Bobber",
+    "Content": "浮码",
     "Id": 381
   },
   {
-    "Content": "Bobber",
+    "Content": "浮码",
     "Id": 382
   },
   {
-    "Content": "Anchor",
+    "Content": "铁锚",
     "Id": 383
   },
   {
-    "Content": "Sharknado",
+    "Content": "鲨龙卷",
     "Id": 384
   },
   {
-    "Content": "Sharknado Bolt",
+    "Content": "鲨龙卷旋涡",
     "Id": 385
   },
   {
-    "Content": "Cthulunado",
+    "Content": "邪神风暴",
     "Id": 386
   },
   {
-    "Content": "Retanimini",
+    "Content": "激光眼",
     "Id": 387
   },
   {
-    "Content": "Spazmamini",
+    "Content": "咒火眼",
     "Id": 388
   },
   {
-    "Content": "Mini Retina Laser",
+    "Content": "小型激光束",
     "Id": 389
   },
   {
-    "Content": "Venom Spider",
+    "Content": "剧毒蜘蛛",
     "Id": 390
   },
   {
-    "Content": "Jumper Spider",
+    "Content": "跳跃蜘蛛",
     "Id": 391
   },
   {
-    "Content": "Dangerous Spider",
+    "Content": "危险蜘蛛",
     "Id": 392
   },
   {
-    "Content": "One Eyed Pirate",
+    "Content": "独眼海盗",
     "Id": 393
   },
   {
-    "Content": "Soulscourge Pirate",
+    "Content": "破坏狂海盗",
     "Id": 394
   },
   {
-    "Content": "Pirate Captain",
+    "Content": "海盗船长",
     "Id": 395
   },
   {
-    "Content": "Slime 钩爪",
+    "Content": "史莱姆钩爪",
     "Id": 396
   },
   {
-    "Content": "Sticky 手榴弹",
+    "Content": "粘性手榴弹",
     "Id": 397
   },
   {
-    "Content": "Mini Minotaur",
+    "Content": "迷你牛头人",
     "Id": 398
   },
   {
-    "Content": "Molotov Cocktail",
+    "Content": "莫洛托夫鸡尾酒",
     "Id": 399
   },
   {
-    "Content": "Molotov Fire",
+    "Content": "莫洛托夫火焰",
     "Id": 400
   },
   {
-    "Content": "Molotov Fire",
+    "Content": "莫洛托夫火焰",
     "Id": 401
   },
   {
-    "Content": "Molotov Fire",
+    "Content": "莫洛托夫火焰",
     "Id": 402
   },
   {
-    "Content": "Track 钩爪",
+    "Content": "轨道钩子",
     "Id": 403
   },
   {
-    "Content": "Flairon",
+    "Content": "猪鲨链球",
     "Id": 404
   },
   {
-    "Content": "Flairon Bubble",
+    "Content": "猪鲨链球泡泡",
     "Id": 405
   },
   {
-    "Content": "Slime Gun",
+    "Content": "史莱姆枪",
     "Id": 406
   },
   {
-    "Content": "Tempest",
+    "Content": "鲨龙卷",
     "Id": 407
   },
   {
-    "Content": "Mini Sharkron",
+    "Content": "小龙卷鲨",
     "Id": 408
   },
   {
-    "Content": "Typhoon",
+    "Content": "水刃龙卷",
     "Id": 409
   },
   {
-    "Content": "Bubble",
+    "Content": "跟踪泡泡",
     "Id": 410
   },
   {
@@ -1656,35 +1656,35 @@
     "Id": 414
   },
   {
-    "Content": "火箭弹",
+    "Content": "红烟花",
     "Id": 415
   },
   {
-    "Content": "火箭弹",
+    "Content": "绿烟花",
     "Id": 416
   },
   {
-    "Content": "火箭弹",
+    "Content": "蓝烟花",
     "Id": 417
   },
   {
-    "Content": "火箭弹",
+    "Content": "黄烟花",
     "Id": 418
   },
   {
-    "Content": "Firework Fountain",
+    "Content": "焰火喷泉",
     "Id": 419
   },
   {
-    "Content": "Firework Fountain",
+    "Content": "焰火喷泉",
     "Id": 420
   },
   {
-    "Content": "Firework Fountain",
+    "Content": "焰火喷泉",
     "Id": 421
   },
   {
-    "Content": "Firework Fountain",
+    "Content": "焰火喷泉",
     "Id": 422
   },
   {
@@ -1692,219 +1692,219 @@
     "Id": 423
   },
   {
-    "Content": "Meteor",
+    "Content": "陨石",
     "Id": 424
   },
   {
-    "Content": "Meteor",
+    "Content": "陨石",
     "Id": 425
   },
   {
-    "Content": "Meteor",
+    "Content": "陨石",
     "Id": 426
   },
   {
-    "Content": "Vortex Chainsaw",
+    "Content": "旋涡链锯",
     "Id": 427
   },
   {
-    "Content": "Vortex Drill",
+    "Content": "旋涡钻头",
     "Id": 428
   },
   {
-    "Content": "Nebula Chainsaw",
+    "Content": "星云链锯",
     "Id": 429
   },
   {
-    "Content": "Nebula Drill",
+    "Content": "星云钻头",
     "Id": 430
   },
   {
-    "Content": "Solar Flare Chainsaw",
+    "Content": "耀斑链锯",
     "Id": 431
   },
   {
-    "Content": "Solar Flare Drill",
+    "Content": "耀斑钻头",
     "Id": 432
   },
   {
-    "Content": "UFO Ray",
+    "Content": "UFO激光",
     "Id": 433
   },
   {
-    "Content": "Scutlix Laser",
+    "Content": "蛞蝓激光",
     "Id": 434
   },
   {
-    "Content": "Electric Bolt",
+    "Content": "电磁冲击波",
     "Id": 435
   },
   {
-    "Content": "Brain Scrambling Bolt",
+    "Content": "脑控电波",
     "Id": 436
   },
   {
-    "Content": "Gigazapper Spearhead",
+    "Content": "磁暴枪头",
     "Id": 437
   },
   {
-    "Content": "Laser Ray",
+    "Content": "激光束",
     "Id": 438
   },
   {
-    "Content": "Laser Machinegun",
+    "Content": "激光机关枪",
     "Id": 439
   },
   {
-    "Content": "Laser",
+    "Content": "激光",
     "Id": 440
   },
   {
-    "Content": "Scutlix Crosshair",
+    "Content": "火星蛞蝓准星",
     "Id": 441
   },
   {
-    "Content": "Electrosphere Missile",
+    "Content": "电磁球导弹",
     "Id": 442
   },
   {
-    "Content": "Electrosphere",
+    "Content": "电磁球",
     "Id": 443
   },
   {
-    "Content": "Xenopopper",
+    "Content": "异星泡泡枪",
     "Id": 444
   },
   {
-    "Content": "Laser Drill",
+    "Content": "激光钻头",
     "Id": 445
   },
   {
-    "Content": "Anti-Gravity 钩爪",
+    "Content": "反重力钩爪",
     "Id": 446
   },
   {
-    "Content": "Martian Deathray",
+    "Content": "火星飞碟死光",
     "Id": 447
   },
   {
-    "Content": "Martian 火箭弹",
+    "Content": "火星火箭弹",
     "Id": 448
   },
   {
-    "Content": "Saucer Laser",
+    "Content": "飞碟激光",
     "Id": 449
   },
   {
-    "Content": "Saucer Scrap",
+    "Content": "飞碟爆弹",
     "Id": 450
   },
   {
-    "Content": "Influx Waver",
+    "Content": "波动剑气",
     "Id": 451
   },
   {
-    "Content": "Phantasmal Eye",
+    "Content": "幻象眼",
     "Id": 452
   },
   {
-    "Content": "Drill Crosshair",
+    "Content": "钻头准星",
     "Id": 453
   },
   {
-    "Content": "Phantasmal Sphere",
+    "Content": "幻象球",
     "Id": 454
   },
   {
-    "Content": "Phantasmal Deathray",
+    "Content": "幻象死光",
     "Id": 455
   },
   {
-    "Content": "Moon Leech",
+    "Content": "月之领主舌头",
     "Id": 456
   },
   {
-    "Content": "Charged Blaster Orb",
+    "Content": "充能激光球",
     "Id": 459
   },
   {
-    "Content": "Charged Blaster Cannon",
+    "Content": "充能加农炮",
     "Id": 460
   },
   {
-    "Content": "Charged Blaster Laser",
+    "Content": "充能激光",
     "Id": 461
   },
   {
-    "Content": "Phantasmal Bolt",
+    "Content": "幻象闪电",
     "Id": 462
   },
   {
-    "Content": "Vicious Powder",
+    "Content": "邪恶粉末",
     "Id": 463
   },
   {
-    "Content": "Ice Mist",
+    "Content": "神秘冰凌",
     "Id": 464
   },
   {
-    "Content": "Lightning Orb",
+    "Content": "闪电球",
     "Id": 465
   },
   {
-    "Content": "Lightning Orb Arc",
+    "Content": "闪电球电弧",
     "Id": 466
   },
   {
-    "Content": "Fireball",
+    "Content": "火焰球",
     "Id": 467
   },
   {
-    "Content": "Shadow Fireball",
+    "Content": "暗影火焰球",
     "Id": 468
   },
   {
-    "Content": "Bee Arrow",
+    "Content": "蜜蜂箭",
     "Id": 469
   },
   {
-    "Content": "Sticky Dynamite",
+    "Content": "粘性雷管",
     "Id": 470
   },
   {
-    "Content": "Bone",
+    "Content": "骨头",
     "Id": 471
   },
   {
-    "Content": "Web spit",
+    "Content": "蜘蛛网",
     "Id": 472
   },
   {
-    "Content": "Spelunker Glowstick",
+    "Content": "探险荧光棒",
     "Id": 473
   },
   {
-    "Content": "Bone Arrow",
+    "Content": "白骨箭",
     "Id": 474
   },
   {
-    "Content": "Vine Rope Coil",
+    "Content": "藤绳圈",
     "Id": 475
   },
   {
-    "Content": "Soul Drain",
+    "Content": "灵魂汲取",
     "Id": 476
   },
   {
-    "Content": "Crystal Dart",
+    "Content": "水晶飞箭",
     "Id": 477
   },
   {
-    "Content": "Cursed Dart",
+    "Content": "诅咒飞箭",
     "Id": 478
   },
   {
-    "Content": "Ichor Dart",
+    "Content": "脓血飞箭",
     "Id": 479
   },
   {
@@ -1920,31 +1920,31 @@
     "Id": 482
   },
   {
-    "Content": "种子",
+    "Content": "种子爆弹",
     "Id": 483
   },
   {
-    "Content": "种子",
+    "Content": "种子碎片",
     "Id": 484
   },
   {
-    "Content": "地狱之翼",
+    "Content": "地狱蝙蝠",
     "Id": 485
   },
   {
-    "Content": "钩爪",
+    "Content": "血筋钩爪",
     "Id": 486
   },
   {
-    "Content": "钩爪",
+    "Content": "荆棘钩爪",
     "Id": 487
   },
   {
-    "Content": "钩爪",
+    "Content": "荧光钩爪",
     "Id": 488
   },
   {
-    "Content": "钩爪",
+    "Content": "蠕虫钩爪",
     "Id": 489
   },
   {
@@ -1968,15 +1968,15 @@
     "Id": 494
   },
   {
-    "Content": "影炎箭",
+    "Content": "暗影之炎箭",
     "Id": 495
   },
   {
-    "Content": "暗影之炎",
+    "Content": "暗影之炎六角娃娃",
     "Id": 496
   },
   {
-    "Content": "影炎小刀",
+    "Content": "暗影之炎小刀",
     "Id": 497
   },
   {
@@ -1984,7 +1984,7 @@
     "Id": 498
   },
   {
-    "Content": "大脸怪宝宝",
+    "Content": "巨脸怪幼体",
     "Id": 499
   },
   {
@@ -1996,11 +1996,11 @@
     "Id": 501
   },
   {
-    "Content": "喵星人",
+    "Content": "彩虹猫",
     "Id": 502
   },
   {
-    "Content": "星尘之怒",
+    "Content": "星辰之怒",
     "Id": 503
   },
   {
@@ -2072,11 +2072,11 @@
     "Id": 520
   },
   {
-    "Content": "水晶冲刺",
+    "Content": "魔晶爆弹",
     "Id": 521
   },
   {
-    "Content": "水晶冲刺",
+    "Content": "魔晶爆弹",
     "Id": 522
   },
   {
@@ -2120,11 +2120,11 @@
     "Id": 532
   },
   {
-    "Content": "致命之球",
+    "Content": "致命球",
     "Id": 533
   },
   {
-    "Content": "悠悠球",
+    "Content": "代码：1",
     "Id": 534
   },
   {
@@ -2140,7 +2140,7 @@
     "Id": 537
   },
   {
-    "Content": "闪光炸弹",
+    "Content": "闪光爆弹",
     "Id": 538
   },
   {
@@ -2152,99 +2152,99 @@
     "Id": 540
   },
   {
-    "Content": "悠悠球",
+    "Content": "木制悠悠球",
     "Id": 541
   },
   {
-    "Content": "悠悠球",
+    "Content": "虚弱",
     "Id": 542
   },
   {
-    "Content": "悠悠球",
+    "Content": "动脉",
     "Id": 543
   },
   {
-    "Content": "悠悠球",
+    "Content": "亚马逊",
     "Id": 544
   },
   {
-    "Content": "悠悠球",
+    "Content": "火瀑",
     "Id": 545
   },
   {
-    "Content": "悠悠球",
+    "Content": "雏鸟",
     "Id": 546
   },
   {
-    "Content": "悠悠球",
+    "Content": "代码：2",
     "Id": 547
   },
   {
-    "Content": "悠悠球",
+    "Content": "拉力",
     "Id": 548
   },
   {
-    "Content": "悠悠球",
+    "Content": "叶列茨悠悠球",
     "Id": 549
   },
   {
-    "Content": "悠悠球",
+    "Content": "瑞德之投掷",
     "Id": 550
   },
   {
-    "Content": "悠悠球",
+    "Content": "女武神悠悠球",
     "Id": 551
   },
   {
-    "Content": "悠悠球",
+    "Content": "狼神",
     "Id": 552
   },
   {
-    "Content": "悠悠球",
+    "Content": "地狱火",
     "Id": 553
   },
   {
-    "Content": "悠悠球",
+    "Content": "克拉肯",
     "Id": 554
   },
   {
-    "Content": "悠悠球",
+    "Content": "克苏鲁之眼",
     "Id": 555
   },
   {
-    "Content": "配重块",
+    "Content": "黑色配重块",
     "Id": 556
   },
   {
-    "Content": "配重块",
+    "Content": "蓝色配重块",
     "Id": 557
   },
   {
-    "Content": "配重块",
+    "Content": "绿色配重块",
     "Id": 558
   },
   {
-    "Content": "配重块",
+    "Content": "紫色配重块",
     "Id": 559
   },
   {
-    "Content": "配重块",
+    "Content": "红色配重块",
     "Id": 560
   },
   {
-    "Content": "配重块",
+    "Content": "黄色配重块",
     "Id": 561
   },
   {
-    "Content": "悠悠球",
+    "Content": "格式：C",
     "Id": 562
   },
   {
-    "Content": "悠悠球",
+    "Content": "梯度",
     "Id": 563
   },
   {
-    "Content": "悠悠球",
+    "Content": "勇气",
     "Id": 564
   },
   {
@@ -2280,7 +2280,7 @@
     "Id": 572
   },
   {
-    "Content": "星云穿刺者",
+    "Content": "星云穿刺",
     "Id": 573
   },
   {
@@ -2332,7 +2332,7 @@
     "Id": 585
   },
   {
-    "Content": "树妖的守护",
+    "Content": "树精的守护",
     "Id": 586
   },
   {
@@ -2368,11 +2368,11 @@
     "Id": 594
   },
   {
-    "Content": "弧光剑",
+    "Content": "真空刃",
     "Id": 595
   },
   {
-    "Content": "沙漠神灵的诅咒",
+    "Content": "沙漠游魂的诅咒",
     "Id": 596
   },
   {
@@ -2384,7 +2384,7 @@
     "Id": 598
   },
   {
-    "Content": "白骨匕首",
+    "Content": "白骨飞刀",
     "Id": 599
   },
   {
@@ -2416,11 +2416,11 @@
     "Id": 606
   },
   {
-    "Content": "日耀闪光",
+    "Content": "耀斑",
     "Id": 607
   },
   {
-    "Content": "日耀辐射",
+    "Content": "日曜辐射",
     "Id": 608
   },
   {
@@ -2432,11 +2432,11 @@
     "Id": 610
   },
   {
-    "Content": "日耀之怒",
+    "Content": "日曜链刃",
     "Id": 611
   },
   {
-    "Content": "日耀之怒",
+    "Content": "日曜链刃",
     "Id": 612
   },
   {
@@ -2448,7 +2448,7 @@
     "Id": 614
   },
   {
-    "Content": "漩涡打击者",
+    "Content": "漩涡击碎者",
     "Id": 615
   },
   {
@@ -2480,7 +2480,7 @@
     "Id": 622
   },
   {
-    "Content": "星尘守卫者",
+    "Content": "星尘守护者",
     "Id": 623
   },
   {
@@ -2540,15 +2540,15 @@
     "Id": 637
   },
   {
-    "Content": "夜光子弹",
+    "Content": "月光子弹",
     "Id": 638
   },
   {
-    "Content": "夜光箭",
+    "Content": "月光箭",
     "Id": 639
   },
   {
-    "Content": "夜光箭",
+    "Content": "月光箭",
     "Id": 640
   },
   {
@@ -2596,7 +2596,7 @@
     "Id": 651
   },
   {
-    "Content": "静态钩爪",
+    "Content": "静止钩爪",
     "Id": 652
   },
   {
@@ -2628,7 +2628,7 @@
     "Id": 659
   },
   {
-    "Content": "裂空",
+    "Content": "天空撕裂",
     "Id": 660
   },
   {
@@ -2808,11 +2808,11 @@
     "Id": 704
   },
   {
-    "Content": "凤凰幻影",
+    "Content": "幻影凤凰",
     "Id": 705
   },
   {
-    "Content": "凤凰幻影",
+    "Content": "幻影凤凰",
     "Id": 706
   },
   {
