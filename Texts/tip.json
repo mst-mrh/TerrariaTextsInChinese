@@ -1,242 +1,242 @@
 ﻿[
   {
-    "Content": "Equipped in social slot",
+    "Content": "装备在饰品槽",
     "Id": 0
   },
   {
-    "Content": "No stats will be gained",
+    "Content": "不会获得任何属性",
     "Id": 1
   },
   {
-    "Content": " melee damage",
+    "Content": " 近战伤害",
     "Id": 2
   },
   {
-    "Content": " ranged damage",
+    "Content": " 远程伤害",
     "Id": 3
   },
   {
-    "Content": " magic damage",
+    "Content": " 魔法伤害",
     "Id": 4
   },
   {
-    "Content": "% critical strike chance",
+    "Content": "% 暴击率",
     "Id": 5
   },
   {
-    "Content": "Insanely fast speed",
+    "Content": "疯狂的攻击速度",
     "Id": 6
   },
   {
-    "Content": "Very fast speed",
+    "Content": "极快的攻击速度",
     "Id": 7
   },
   {
-    "Content": "Fast speed",
+    "Content": "快速的攻击速度",
     "Id": 8
   },
   {
-    "Content": "Average speed",
+    "Content": "普通的攻击速度",
     "Id": 9
   },
   {
-    "Content": "Slow speed",
+    "Content": "缓慢的攻击速度",
     "Id": 10
   },
   {
-    "Content": "Very slow speed",
+    "Content": "很慢的攻击速度",
     "Id": 11
   },
   {
-    "Content": "Extremely slow speed",
+    "Content": "极慢的攻击速度",
     "Id": 12
   },
   {
-    "Content": "Snail speed",
+    "Content": "蜗牛般的攻击速度",
     "Id": 13
   },
   {
-    "Content": "No knockback",
+    "Content": "无击退",
     "Id": 14
   },
   {
-    "Content": "Extremely weak knockback",
+    "Content": "极弱的击退",
     "Id": 15
   },
   {
-    "Content": "Very weak knockback",
+    "Content": "很弱的击退",
     "Id": 16
   },
   {
-    "Content": "Weak knockback",
+    "Content": "较弱的击退",
     "Id": 17
   },
   {
-    "Content": "Average knockback",
+    "Content": "一般的击退",
     "Id": 18
   },
   {
-    "Content": "Strong knockback",
+    "Content": "强力的击退",
     "Id": 19
   },
   {
-    "Content": "Very strong knockback",
+    "Content": "很强的击退",
     "Id": 20
   },
   {
-    "Content": "Extremely strong knockback",
+    "Content": "极强的击退",
     "Id": 21
   },
   {
-    "Content": "Insane knockback",
+    "Content": "疯狂的击退",
     "Id": 22
   },
   {
-    "Content": "Equipable",
+    "Content": "可装备",
     "Id": 23
   },
   {
-    "Content": "Vanity Item",
+    "Content": "时装",
     "Id": 24
   },
   {
-    "Content": " defense",
+    "Content": " 防御",
     "Id": 25
   },
   {
-    "Content": "% pickaxe power",
+    "Content": "% 挖掘力量",
     "Id": 26
   },
   {
-    "Content": "% axe power",
+    "Content": "% 砍伐力量",
     "Id": 27
   },
   {
-    "Content": "% hammer power",
+    "Content": "% 锤击力量",
     "Id": 28
   },
   {
-    "Content": "Restores",
+    "Content": "恢复", // restore
     "Id": 29
   },
   {
-    "Content": "life",
+    "Content": "生命",
     "Id": 30
   },
   {
-    "Content": "mana",
+    "Content": "魔法",
     "Id": 31
   },
   {
-    "Content": "Uses",
+    "Content": "使用",
     "Id": 32
   },
   {
-    "Content": "Can be placed",
+    "Content": "可放置",
     "Id": 33
   },
   {
-    "Content": "Ammo",
+    "Content": "弹药",
     "Id": 34
   },
   {
-    "Content": "Consumable",
+    "Content": "消耗品",
     "Id": 35
   },
   {
-    "Content": "Material",
+    "Content": "材料",
     "Id": 36
   },
   {
-    "Content": " minute duration",
+    "Content": " 分钟持续时间",
     "Id": 37
   },
   {
-    "Content": " second duration",
+    "Content": " 秒持续时间",
     "Id": 38
   },
   {
-    "Content": "% damage",
+    "Content": "% 伤害",
     "Id": 39
   },
   {
-    "Content": "% speed",
+    "Content": "%速度",
     "Id": 40
   },
   {
-    "Content": "% critical strike chance",
+    "Content": "% 暴击率",
     "Id": 41
   },
   {
-    "Content": "% mana cost",
+    "Content": "% 魔法消耗",
     "Id": 42
   },
   {
-    "Content": "% size",
+    "Content": "% 尺寸",
     "Id": 43
   },
   {
-    "Content": "% velocity",
+    "Content": "% 速率",
     "Id": 44
   },
   {
-    "Content": "% knockback",
+    "Content": "% 击退",
     "Id": 45
   },
   {
-    "Content": "% movement speed",
+    "Content": "% 移动速度",
     "Id": 46
   },
   {
-    "Content": "% melee speed",
+    "Content": "% 近战速度",
     "Id": 47
   },
   {
-    "Content": "Set bonus:",
+    "Content": "套装加成:",
     "Id": 48
   },
   {
-    "Content": "Sell price:",
+    "Content": "出售价格:",
     "Id": 49
   },
   {
-    "Content": "Buy price:",
+    "Content": "购买价格:",
     "Id": 50
   },
   {
-    "Content": "No value",
+    "Content": "无价值",
     "Id": 51
   },
   {
-    "Content": "Consumes ",
+    "Content": "消耗 ",
     "Id": 52
   },
   {
-    "Content": " summon damage",
+    "Content": " 召唤伤害",
     "Id": 53
   },
   {
-    "Content": " range",
+    "Content": " 范围",
     "Id": 54
   },
   {
-    "Content": " damage",
+    "Content": " 伤害",
     "Id": 55
   },
   {
-    "Content": "Marked as favorite",
+    "Content": "标记为喜爱",
     "Id": 56
   },
   {
-    "Content": "Quick trash, stacking, and selling will be blocked",
+    "Content": "快速删除，堆叠和出售会被锁定",
     "Id": 57
   },
   {
-    "Content": " throwing damage",
+    "Content": " 投掷伤害",
     "Id": 58
   },
   {
-    "Content": "It has been cursed by a powerful Jungle creature",
+    "Content": "它被一个强大的丛林生物诅咒了",
     "Id": 59
   }
 ]
