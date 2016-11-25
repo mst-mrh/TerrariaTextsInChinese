@@ -1,114 +1,114 @@
 ﻿[
   {
-    "Content": "Dresser",
+    "Content": "梳妆台",
     "Id": 0
   },
   {
-    "Content": "Ebonwood Dresser",
+    "Content": "黑檀木梳妆台",
     "Id": 1
   },
   {
-    "Content": "Rich Mahogany Dresser",
+    "Content": "红木梳妆台",
     "Id": 2
   },
   {
-    "Content": "Pearlwood Dresser",
+    "Content": "珍珠木梳妆台",
     "Id": 3
   },
   {
-    "Content": "Shadewood Dresser",
+    "Content": "阴影木梳妆台",
     "Id": 4
   },
   {
-    "Content": "Blue Dungeon Dresser",
+    "Content": "蓝色地牢梳妆台",
     "Id": 5
   },
   {
-    "Content": "Green Dungeon Dresser",
+    "Content": "绿色地牢梳妆台",
     "Id": 6
   },
   {
-    "Content": "Pink Dungeon Dresser",
+    "Content": "粉色地牢梳妆台",
     "Id": 7
   },
   {
-    "Content": "Golden Dresser",
+    "Content": "黄金梳妆台",
     "Id": 8
   },
   {
-    "Content": "Obsidian Dresser",
+    "Content": "黑曜石梳妆台",
     "Id": 9
   },
   {
-    "Content": "Bone Dresser",
+    "Content": "白骨梳妆台",
     "Id": 10
   },
   {
-    "Content": "Cactus Dresser",
+    "Content": "仙人掌梳妆台",
     "Id": 11
   },
   {
-    "Content": "Spooky Dresser",
+    "Content": "阴森梳妆台",
     "Id": 12
   },
   {
-    "Content": "Skyware Dresser",
+    "Content": "天空梳妆台",
     "Id": 13
   },
   {
-    "Content": "Honey Dresser",
+    "Content": "蜂蜜梳妆台",
     "Id": 14
   },
   {
-    "Content": "Lihzahrd Dresser",
+    "Content": "蜥蜴梳妆台",
     "Id": 15
   },
   {
-    "Content": "Palm Wood Dresser",
+    "Content": "棕榈木梳妆台",
     "Id": 16
   },
   {
-    "Content": "Mushroom Dresser",
+    "Content": "蘑菇梳妆台",
     "Id": 17
   },
   {
-    "Content": "Boreal Wood Dresser",
+    "Content": "北地木梳妆台",
     "Id": 18
   },
   {
-    "Content": "Slime Dresser",
+    "Content": "史莱姆梳妆台",
     "Id": 19
   },
   {
-    "Content": "Pumpkin Dresser",
+    "Content": "南瓜梳妆台",
     "Id": 20
   },
   {
-    "Content": "Steampunk Dresser",
+    "Content": "蒸汽朋克梳妆台",
     "Id": 21
   },
   {
-    "Content": "Glass Dresser",
+    "Content": "玻璃梳妆台",
     "Id": 22
   },
   {
-    "Content": "Flesh Dresser",
+    "Content": "血肉梳妆台",
     "Id": 23
   },
   {
-    "Content": "Martian Dresser",
+    "Content": "火星梳妆台",
     "Id": 24
   },
   {
-    "Content": "Meteorite Dresser",
+    "Content": "陨铁梳妆台",
     "Id": 25
   },
   {
-    "Content": "Granite Dresser",
+    "Content": "花岗岩梳妆台",
     "Id": 26
   },
   {
-    "Content": "Marble Dresser",
+    "Content": "大理石梳妆台",
     "Id": 27
   }
 ]

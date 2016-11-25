@@ -4,11 +4,11 @@
     "Id": 0
   },
   {
-    "Content": "金箱子",
+    "Content": "黄金箱子",
     "Id": 1
   },
   {
-    "Content": "上锁的金箱子",
+    "Content": "锁住的黄金箱子",
     "Id": 2
   },
   {
@@ -16,11 +16,11 @@
     "Id": 3
   },
   {
-    "Content": "上锁的暗影箱子",
+    "Content": "锁住的暗影箱子",
     "Id": 4
   },
   {
-    "Content": "桶",
+    "Content": "木桶",
     "Id": 5
   },
   {
@@ -28,47 +28,47 @@
     "Id": 6
   },
   {
-    "Content": "死亡木箱",
+    "Content": "黑檀木箱子",
     "Id": 7
   },
   {
-    "Content": "丛林木箱",
+    "Content": "红木箱子",
     "Id": 8
   },
   {
-    "Content": "珍珠木箱",
+    "Content": "珍珠木箱子",
     "Id": 9
   },
   {
-    "Content": "常春藤箱",
+    "Content": "藤条箱子",
     "Id": 10
   },
   {
-    "Content": "冰箱子",
+    "Content": "寒冰箱子",
     "Id": 11
   },
   {
-    "Content": "生命木箱",
+    "Content": "生命木箱子",
     "Id": 12
   },
   {
-    "Content": "云岛箱",
+    "Content": "天空箱子",
     "Id": 13
   },
   {
-    "Content": "暗影木箱",
+    "Content": "阴影木箱子",
     "Id": 14
   },
   {
-    "Content": "覆网箱子",
+    "Content": "蛛网箱子",
     "Id": 15
   },
   {
-    "Content": "神庙箱子",
+    "Content": "蜥蜴箱子",
     "Id": 16
   },
   {
-    "Content": "水下箱子",
+    "Content": "水华箱子",
     "Id": 17
   },
   {
@@ -88,27 +88,27 @@
     "Id": 21
   },
   {
-    "Content": "冰霜箱子",
+    "Content": "寒冰箱子",
     "Id": 22
   },
   {
-    "Content": "上锁的丛林宝箱",
+    "Content": "锁住的丛林箱子",
     "Id": 23
   },
   {
-    "Content": "上锁的腐化宝箱",
+    "Content": "锁住的腐化箱子",
     "Id": 24
   },
   {
-    "Content": "上锁的血腥宝箱",
+    "Content": "锁住的血腥箱子",
     "Id": 25
   },
   {
-    "Content": "上锁的神圣宝箱",
+    "Content": "锁住的神圣箱子",
     "Id": 26
   },
   {
-    "Content": "上锁的冰霜宝箱",
+    "Content": "锁住的寒冰箱子",
     "Id": 27
   },
   {
@@ -124,87 +124,87 @@
     "Id": 30
   },
   {
-    "Content": "Palm Wood Chest",
+    "Content": "棕榈木箱子",
     "Id": 31
   },
   {
-    "Content": "Mushroom Chest",
+    "Content": "蘑菇箱子",
     "Id": 32
   },
   {
-    "Content": "Boreal Wood Chest",
+    "Content": "北地木箱子",
     "Id": 33
   },
   {
-    "Content": "Slime Chest",
+    "Content": "史莱姆箱子",
     "Id": 34
   },
   {
-    "Content": "Green Dungeon Chest",
+    "Content": "绿色地牢箱子",
     "Id": 35
   },
   {
-    "Content": "Locked Green Dungeon Chest",
+    "Content": "锁住的绿色地牢箱子",
     "Id": 36
   },
   {
-    "Content": "Pink Dungeon Chest",
+    "Content": "粉色地牢箱子",
     "Id": 37
   },
   {
-    "Content": "Locked Pink Dungeon Chest",
+    "Content": "锁住的粉色地牢箱子",
     "Id": 38
   },
   {
-    "Content": "Blue Dungeon Chest",
+    "Content": "蓝色地牢箱子",
     "Id": 39
   },
   {
-    "Content": "Locked Blue Dungeon Chest",
+    "Content": "锁住的蓝色地牢箱子",
     "Id": 40
   },
   {
-    "Content": "Bone Chest",
+    "Content": "白骨箱子",
     "Id": 41
   },
   {
-    "Content": "Cactus Chest",
+    "Content": "仙人掌箱子",
     "Id": 42
   },
   {
-    "Content": "Flesh Chest",
+    "Content": "血肉箱子",
     "Id": 43
   },
   {
-    "Content": "Obsidian Chest",
+    "Content": "黑曜石箱子",
     "Id": 44
   },
   {
-    "Content": "Pumpkin Chest",
+    "Content": "南瓜箱子",
     "Id": 45
   },
   {
-    "Content": "Spooky Chest",
+    "Content": "阴森箱子",
     "Id": 46
   },
   {
-    "Content": "Glass Chest",
+    "Content": "玻璃箱子",
     "Id": 47
   },
   {
-    "Content": "Martian Chest",
+    "Content": "火星箱子",
     "Id": 48
   },
   {
-    "Content": "Meteorite Chest",
+    "Content": "陨铁箱子",
     "Id": 49
   },
   {
-    "Content": "Granite Chest",
+    "Content": "花岗岩箱子",
     "Id": 50
   },
   {
-    "Content": "Marble Chest",
+    "Content": "大理石箱子",
     "Id": 51
   }
 ]

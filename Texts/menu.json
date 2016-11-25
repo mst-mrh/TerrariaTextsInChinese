@@ -1,762 +1,762 @@
-﻿[
+﻿[//注意：文本不全，没有最新更新的波浪效果界面。另：手柄设置部分没有经验无法翻译。
   {
-    "Content": "Start a new instance of Terraria to join!",
+    "Content": "开启一个新游戏!",//Start a new instance of Terraria to join!
     "Id": 0
   },
   {
-    "Content": "Running on port ",
+    "Content": "端口运行",
     "Id": 1
   },
   {
-    "Content": "Disconnect",
+    "Content": "断开连接",
     "Id": 2
   },
   {
-    "Content": "Server Requires Password:",
+    "Content": "服务器密码",
     "Id": 3
   },
   {
-    "Content": "Accept",
+    "Content": "完成",
     "Id": 4
   },
   {
-    "Content": "Back",
+    "Content": "返回",
     "Id": 5
   },
   {
-    "Content": "Cancel",
+    "Content": "取消",
     "Id": 6
   },
   {
-    "Content": "Enter Server Password:",
+    "Content": "输入服务器密码:",
     "Id": 7
   },
   {
-    "Content": "Starting server...",
+    "Content": "启动服务器...",
     "Id": 8
   },
   {
-    "Content": "Load failed!",
+    "Content": "读取失败!",
     "Id": 9
   },
   {
-    "Content": "Load Backup",
+    "Content": "读取备份文件...",
     "Id": 10
   },
   {
-    "Content": "No backup found",
+    "Content": "未找到备份文件!",
     "Id": 11
   },
   {
-    "Content": "Single Player",
+    "Content": "单人游戏",
     "Id": 12
   },
   {
-    "Content": "Multiplayer",
+    "Content": "多人游戏",
     "Id": 13
   },
   {
-    "Content": "Settings",
+    "Content": "游戏设置",
     "Id": 14
   },
   {
-    "Content": "Exit",
+    "Content": "退出游戏",
     "Id": 15
   },
   {
-    "Content": "Create Character",
+    "Content": "创建角色",
     "Id": 16
   },
   {
-    "Content": "Delete",
+    "Content": "删除",
     "Id": 17
   },
   {
-    "Content": "Hair",
+    "Content": "头发",
     "Id": 18
   },
   {
-    "Content": "Eyes",
+    "Content": "眼睛",
     "Id": 19
   },
   {
-    "Content": "Skin",
+    "Content": "皮肤",
     "Id": 20
   },
   {
-    "Content": "Clothes",
+    "Content": "衣服",
     "Id": 21
   },
   {
-    "Content": "Male",
+    "Content": "男性",
     "Id": 22
   },
   {
-    "Content": "Female",
+    "Content": "女性",
     "Id": 23
   },
   {
-    "Content": "Hardcore",
+    "Content": "困难",
     "Id": 24
   },
   {
-    "Content": "Mediumcore",
+    "Content": "中等",
     "Id": 25
   },
   {
-    "Content": "Softcore",
+    "Content": "简单",
     "Id": 26
   },
   {
-    "Content": "Random",
+    "Content": "随机",
     "Id": 27
   },
   {
-    "Content": "Create",
+    "Content": "创建",
     "Id": 28
   },
   {
-    "Content": "Hardcore characters die for good",
+    "Content": "困难难度下角色不能复活",
     "Id": 29
   },
   {
-    "Content": "Mediumcore characters drop items on death",
+    "Content": "中等难度角色死亡掉落所有物品",
     "Id": 30
   },
   {
-    "Content": "Softcore characters drop money on death",
+    "Content": "简单难度角色死亡掉落钱币",
     "Id": 31
   },
   {
-    "Content": "Select difficulty",
+    "Content": "难度选择",
     "Id": 32
   },
   {
-    "Content": "Shirt",
+    "Content": "上衣",
     "Id": 33
   },
   {
-    "Content": "Undershirt",
+    "Content": "内衣",
     "Id": 34
   },
   {
-    "Content": "Pants",
+    "Content": "裤子",
     "Id": 35
   },
   {
-    "Content": "Shoes",
+    "Content": "鞋子",
     "Id": 36
   },
   {
-    "Content": "Hair",
+    "Content": "头发",
     "Id": 37
   },
   {
-    "Content": "Hair Color",
+    "Content": "头发颜色",
     "Id": 38
   },
   {
-    "Content": "Eye Color",
+    "Content": "眼睛颜色",
     "Id": 39
   },
   {
-    "Content": "Skin Color",
+    "Content": "皮肤颜色",
     "Id": 40
   },
   {
-    "Content": "Shirt Color",
+    "Content": "上衣颜色",
     "Id": 41
   },
   {
-    "Content": "Undershirt Color",
+    "Content": "内衣颜色",
     "Id": 42
   },
   {
-    "Content": "Pants Color",
+    "Content": "裤子颜色",
     "Id": 43
   },
   {
-    "Content": "Shoe Color",
+    "Content": "鞋子颜色",
     "Id": 44
   },
   {
-    "Content": "Enter Character Name:",
+    "Content": "输入角色名称:",
     "Id": 45
   },
   {
-    "Content": "Delete",
+    "Content": "删除",
     "Id": 46
   },
   {
-    "Content": "Create World",
+    "Content": "创建地图",
     "Id": 47
   },
   {
-    "Content": "Enter World Name:",
+    "Content": "输入地图名称:",
     "Id": 48
   },
   {
-    "Content": "Go Windowed",
+    "Content": "窗口模式",
     "Id": 49
   },
   {
-    "Content": "Go Fullscreen",
+    "Content": "全屏模式",
     "Id": 50
   },
   {
-    "Content": "Resolution",
+    "Content": "分辨率",
     "Id": 51
   },
   {
-    "Content": "Parallax",
+    "Content": "视差效果",
     "Id": 52
   },
   {
-    "Content": "Frame Skip Off",
+    "Content": "自动跳帧 关（不推荐）",
     "Id": 53
   },
   {
-    "Content": "Frame Skip On",
+    "Content": "自动跳帧 开（推荐）",
     "Id": 54
   },
   {
-    "Content": "Lighting: Color",
+    "Content": "光效：彩色",
     "Id": 55
   },
   {
-    "Content": "Lighting: White",
+    "Content": "光效：白色",
     "Id": 56
   },
   {
-    "Content": "Lighting: Retro",
+    "Content": "光效：复古（最低配置）",
     "Id": 57
   },
   {
-    "Content": "Lighting: Trippy",
+    "Content": "光效：梦幻",
     "Id": 58
   },
   {
-    "Content": "Quality: Auto",
+    "Content": "图像质量：自动",
     "Id": 59
   },
   {
-    "Content": "Quality: High",
+    "Content": "图像质量：高",
     "Id": 60
   },
   {
-    "Content": "Quality: Medium",
+    "Content": "图像质量：中",
     "Id": 61
   },
   {
-    "Content": "Quality: Low",
+    "Content": "图像质量：低",
     "Id": 62
   },
   {
-    "Content": "Video",
+    "Content": "图像",
     "Id": 63
   },
   {
-    "Content": "Cursor Color",
+    "Content": "指针颜色",
     "Id": 64
   },
   {
-    "Content": "Volume",
+    "Content": "音量",
     "Id": 65
   },
   {
-    "Content": "Controls",
+    "Content": "控制",
     "Id": 66
   },
   {
-    "Content": "Autosave On",
+    "Content": "自动保存 开",
     "Id": 67
   },
   {
-    "Content": "Autosave Off",
+    "Content": "自动保存 关",
     "Id": 68
   },
   {
-    "Content": "Autopause On",
+    "Content": "自动暂停 开",
     "Id": 69
   },
   {
-    "Content": "Autopause Off",
+    "Content": "自动暂停 关",
     "Id": 70
   },
   {
-    "Content": "Pickup Text On",
+    "Content": "拾取文字 开",
     "Id": 71
   },
   {
-    "Content": "Pickup Text Off",
+    "Content": "拾取文字 关",
     "Id": 72
   },
   {
-    "Content": "Fullscreen Resolution",
+    "Content": "全屏分辨率",
     "Id": 73
   },
   {
-    "Content": "Up                ",
+    "Content": "向上                ",
     "Id": 74
   },
   {
-    "Content": "Down             ",
+    "Content": "向下             ",
     "Id": 75
   },
   {
-    "Content": "Left               ",
+    "Content": "向左               ",
     "Id": 76
   },
   {
-    "Content": "Right             ",
+    "Content": "向右             ",
     "Id": 77
   },
   {
-    "Content": "Jump             ",
+    "Content": "跳跃             ",
     "Id": 78
   },
   {
-    "Content": "Throw            ",
+    "Content": "丢弃            ",
     "Id": 79
   },
   {
-    "Content": "Inventory         ",
+    "Content": "物品栏        ",
     "Id": 80
   },
   {
-    "Content": "Quick Heal       ",
+    "Content": "快捷回复体力       ",
     "Id": 81
   },
   {
-    "Content": "Quick Mana      ",
+    "Content": "快捷回复法力      ",
     "Id": 82
   },
   {
-    "Content": "Quick Buff       ",
+    "Content": "快捷增益       ",
     "Id": 83
   },
   {
-    "Content": "Grapple           ",
+    "Content": "钩爪           ",
     "Id": 84
   },
   {
-    "Content": "Auto Select       ",
+    "Content": "自动选择       ",
     "Id": 85
   },
   {
-    "Content": "Reset to Default",
+    "Content": "重置回默认",
     "Id": 86
   },
   {
-    "Content": "Join",
+    "Content": "加入游戏",
     "Id": 87
   },
   {
-    "Content": "Host & Play",
+    "Content": "创建游戏",
     "Id": 88
   },
   {
-    "Content": "Enter Server IP Address:",
+    "Content": "输入IP地址:",
     "Id": 89
   },
   {
-    "Content": "Enter Server Port:",
+    "Content": "输入端口:",
     "Id": 90
   },
   {
-    "Content": "Choose world size:",
+    "Content": "选择地图尺寸:",
     "Id": 91
   },
   {
-    "Content": "Small",
+    "Content": "小型",
     "Id": 92
   },
   {
-    "Content": "Medium",
+    "Content": "中型",
     "Id": 93
   },
   {
-    "Content": "Large",
+    "Content": "大型",
     "Id": 94
   },
   {
-    "Content": "Red:",
+    "Content": "红:",
     "Id": 95
   },
   {
-    "Content": "Green:",
+    "Content": "绿:",
     "Id": 96
   },
   {
-    "Content": "Blue:",
+    "Content": "蓝:",
     "Id": 97
   },
   {
-    "Content": "Sound:",
+    "Content": "音效:",
     "Id": 98
   },
   {
-    "Content": "Music:",
+    "Content": "音乐:",
     "Id": 99
   },
   {
-    "Content": "Background On",
+    "Content": "背景 开",
     "Id": 100
   },
   {
-    "Content": "Background Off",
+    "Content": "背景 关",
     "Id": 101
   },
   {
-    "Content": "Select language",
+    "Content": "选择语言",
     "Id": 102
   },
   {
-    "Content": "Language",
+    "Content": "语言",
     "Id": 103
   },
   {
-    "Content": "Yes",
+    "Content": "是",
     "Id": 104
   },
   {
-    "Content": "No",
+    "Content": "否",
     "Id": 105
   },
   {
-    "Content": "Toggle Map Style           ",
+    "Content": "切换地图风格           ",
     "Id": 106
   },
   {
-    "Content": "Toggle Fullscreen           ",
+    "Content": "切换全屏地图          ",
     "Id": 107
   },
   {
-    "Content": "Zoom In                      ",
+    "Content": "放大                      ",
     "Id": 108
   },
   {
-    "Content": "Zoom Out                    ",
+    "Content": "缩小                    ",
     "Id": 109
   },
   {
-    "Content": "Decrease Transparency     ",
+    "Content": "减少透明度     ",
     "Id": 110
   },
   {
-    "Content": "Increase Transparency      ",
+    "Content": "增加透明度      ",
     "Id": 111
   },
   {
-    "Content": "Map Enabled",
+    "Content": "小地图 开启",
     "Id": 112
   },
   {
-    "Content": "Map Disabled",
+    "Content": "小地图 关闭",
     "Id": 113
   },
   {
-    "Content": "General",
+    "Content": "普通",
     "Id": 114
   },
   {
-    "Content": "Map Controls",
+    "Content": "地图控制",
     "Id": 115
   },
   {
-    "Content": "Multicore Lighting:",
+    "Content": "多核照明:",
     "Id": 116
   },
   {
-    "Content": "Off",
+    "Content": "关闭",
     "Id": 117
   },
   {
-    "Content": "Close Menu",
+    "Content": "关闭菜单",
     "Id": 118
   },
   {
-    "Content": "Ambient",
+    "Content": "环境",
     "Id": 119
   },
   {
-    "Content": "Smart Cursor    ",
+    "Content": "智能鼠标    ",
     "Id": 120
   },
   {
-    "Content": "Smart Cursor Mode: Toggle",
+    "Content": "智能鼠标模式: 开关",//?
     "Id": 121
   },
   {
-    "Content": "Smart Cursor Mode: Hold",
+    "Content": "智能鼠标模式: 按键",//?
     "Id": 122
   },
   {
-    "Content": "Event Progress Bar",
+    "Content": "入侵进度",
     "Id": 123
   },
   {
-    "Content": "Off",
+    "Content": "关闭",
     "Id": 124
   },
   {
-    "Content": "Timed",
+    "Content": "自动",
     "Id": 125
   },
   {
-    "Content": "On",
+    "Content": "打开",
     "Id": 126
   },
   {
-    "Content": "Style",
+    "Content": "风格",
     "Id": 127
   },
   {
-    "Content": "Placement Preview On",
+    "Content": "放置预览 开启",
     "Id": 128
   },
   {
-    "Content": "Placement Preview Off",
+    "Content": "放置预览 关闭",
     "Id": 129
   },
   {
-    "Content": "Mount             ",
+    "Content": "坐骑             ",
     "Id": 130
   },
   {
-    "Content": "Achievements",
+    "Content": "游戏成就",
     "Id": 131
   },
   {
-    "Content": "Blood and Gore On",
+    "Content": "血腥效果 开启",
     "Id": 132
   },
   {
-    "Content": "Blood and Gore Off",
+    "Content": "血腥效果 关闭",
     "Id": 133
   },
   {
-    "Content": "Apply",
+    "Content": "接受",
     "Id": 134
   },
   {
-    "Content": "Server Settings",
+    "Content": "服务器设置",
     "Id": 135
   },
   {
-    "Content": "Steam Multiplayer: Disabled",
+    "Content": "Steam多人: 关闭",
     "Id": 136
   },
   {
-    "Content": "Steam Multiplayer: Enabled",
+    "Content": "Steam多人: 开启",
     "Id": 137
   },
   {
-    "Content": "Allowed Users: Invite Only",
+    "Content": "允许的玩家: 仅被邀请的好友",
     "Id": 138
   },
   {
-    "Content": "Allowed Users: Friends",
+    "Content": "允许的玩家: 全部好友",
     "Id": 139
   },
   {
-    "Content": "Friends Can Invite: Off",
+    "Content": "好友可邀请: 关闭",
     "Id": 140
   },
   {
-    "Content": "Friends Can Invite: On",
+    "Content": "好友可邀请: 开启",
     "Id": 141
   },
   {
-    "Content": "Allow Friends Of Friends: Off",
+    "Content": "允许好友的好友加入: 关闭",
     "Id": 142
   },
   {
-    "Content": "Allow Friends Of Friends: On",
+    "Content": "允许好友的好友加入: 打开",
     "Id": 143
   },
   {
-    "Content": "Start",
+    "Content": "启动",
     "Id": 144
   },
   {
-    "Content": "Join via Steam",
+    "Content": "通过Steam加入",
     "Id": 145
   },
   {
-    "Content": "Join via IP",
+    "Content": "通过IP加入",
     "Id": 146
   },
   {
-    "Content": "Invite Friends",
+    "Content": "邀请好友",
     "Id": 147
   },
   {
-    "Content": "Up",
+    "Content": "向上",
     "Id": 148
   },
   {
-    "Content": "Down",
+    "Content": "向下",
     "Id": 149
   },
   {
-    "Content": "Left",
+    "Content": "向左",
     "Id": 150
   },
   {
-    "Content": "Right",
+    "Content": "向右",
     "Id": 151
   },
   {
-    "Content": "Jump",
+    "Content": "跳跃",
     "Id": 152
   },
   {
-    "Content": "Throw",
+    "Content": "丢弃",
     "Id": 153
   },
   {
-    "Content": "Inventory",
+    "Content": "物品栏",
     "Id": 154
   },
   {
-    "Content": "Grapple",
+    "Content": "钩爪",
     "Id": 155
   },
   {
-    "Content": "Quick Mana",
+    "Content": "快捷回复魔法",
     "Id": 156
   },
   {
-    "Content": "Quick Buff",
+    "Content": "快捷增益",
     "Id": 157
   },
   {
-    "Content": "Quick Mount",
+    "Content": "快捷骑乘",
     "Id": 158
   },
   {
-    "Content": "Quick Heal",
+    "Content": "快捷回复生命",
     "Id": 159
   },
   {
-    "Content": "Auto Select",
+    "Content": "自动选择",
     "Id": 160
   },
   {
-    "Content": "Smart Cursor",
+    "Content": "智能鼠标",
     "Id": 161
   },
   {
-    "Content": "Use Item",
+    "Content": "使用道具",
     "Id": 162
   },
   {
-    "Content": "Interact",
+    "Content": "互动",
     "Id": 163
   },
   {
-    "Content": "Gameplay Controls",
+    "Content": "游戏控制",
     "Id": 164
   },
   {
-    "Content": "Map Controls",
+    "Content": "小地图控制",
     "Id": 165
   },
   {
-    "Content": "Hotbar Controls",
+    "Content": "快捷栏控制",
     "Id": 166
   },
   {
-    "Content": "Gamepad Settings",
+    "Content": "手柄设置",
     "Id": 167
   },
   {
-    "Content": "Zoom In",
+    "Content": "放大",
     "Id": 168
   },
   {
-    "Content": "Zoom Out",
+    "Content": "缩小",
     "Id": 169
   },
   {
-    "Content": "Increase Transparency",
+    "Content": "增加透明度",
     "Id": 170
   },
   {
-    "Content": "Decrease Transparency",
+    "Content": "降低透明度",
     "Id": 171
   },
   {
-    "Content": "Toggle Map Style",
+    "Content": "切换地图风格",
     "Id": 172
   },
   {
-    "Content": "Toggle Full Map",
+    "Content": "切换全屏全图",
     "Id": 173
   },
   {
-    "Content": "Cycle Left",
+    "Content": "左移",
     "Id": 174
   },
   {
-    "Content": "Cycle Right",
+    "Content": "右移",
     "Id": 175
   },
   {
-    "Content": "Hotbar #1",
+    "Content": "快捷栏1号",
     "Id": 176
   },
   {
-    "Content": "Hotbar #2",
+    "Content": "快捷栏2号",
     "Id": 177
   },
   {
-    "Content": "Hotbar #3",
+    "Content": "快捷栏3号",
     "Id": 178
   },
   {
-    "Content": "Hotbar #4",
+    "Content": "快捷栏4号",
     "Id": 179
   },
   {
-    "Content": "Hotbar #5",
+    "Content": "快捷栏5号",
     "Id": 180
   },
   {
-    "Content": "Hotbar #6",
+    "Content": "快捷栏6号",
     "Id": 181
   },
   {
-    "Content": "Hotbar #7",
+    "Content": "快捷栏7号",
     "Id": 182
   },
   {
-    "Content": "Hotbar #8",
+    "Content": "快捷栏8号",
     "Id": 183
   },
   {
-    "Content": "Hotbar #9",
+    "Content": "快捷栏9号",
     "Id": 184
   },
   {
-    "Content": "Hotbar #10",
+    "Content": "快捷栏10号",
     "Id": 185
   },
   {
-    "Content": "Quick Mark #1",
+    "Content": "快捷标记1号",
     "Id": 186
   },
   {
-    "Content": "Quick Mark #2",
+    "Content": "快捷标记2号",
     "Id": 187
   },
   {
-    "Content": "Quick Mark #3",
+    "Content": "快捷标记3号",
     "Id": 188
   },
   {
-    "Content": "Quick Mark #4",
+    "Content": "快捷标记4号",
     "Id": 189
   },
   {
@@ -764,179 +764,179 @@
     "Id": 190
   },
   {
-    "Content": "Cursor Snap Up",
+    "Content": "光标捕捉上移",
     "Id": 191
   },
   {
-    "Content": "Cursor Snap Right",
+    "Content": "光标捕捉右移",
     "Id": 192
   },
   {
-    "Content": "Cursor Snap Down",
+    "Content": "光标捕捉下移",
     "Id": 193
   },
   {
-    "Content": "Cursor Snap Left",
+    "Content": "光标捕捉左移",
     "Id": 194
   },
   {
-    "Content": "<Unbound>",
+    "Content": "<未设置>",
     "Id": 195
   },
   {
-    "Content": "DPad Cursor Snap",
+    "Content": "十字键光标捕捉",
     "Id": 196
   },
   {
-    "Content": "DPad Hotbar",
+    "Content": "十字键快捷栏",
     "Id": 197
   },
   {
-    "Content": "Gamepad Advanced Settings",
+    "Content": "手柄高级设置",
     "Id": 198
   },
   {
-    "Content": "Triggers Deadzone",
+    "Content": "Triggers 盲区",
     "Id": 199
   },
   {
-    "Content": "Sliders Deadzone",
+    "Content": "滑块盲区",//slider
     "Id": 200
   },
   {
-    "Content": "Left Thumbstick Deadzone X",
+    "Content": "左摇杆水平盲区",
     "Id": 201
   },
   {
-    "Content": "Left Thumbstick Deadzone Y",
+    "Content": "左摇杆垂直盲区",
     "Id": 202
   },
   {
-    "Content": "Right Thumbstick Deadzone X",
+    "Content": "右摇杆水平盲区",
     "Id": 203
   },
   {
-    "Content": "Right Thumbstick Deadzone Y",
+    "Content": "右摇杆垂直盲区",
     "Id": 204
   },
   {
-    "Content": "Invert Left Thumbstick Horizontally",
+    "Content": "左摇杆水平翻转",
     "Id": 205
   },
   {
-    "Content": "Invert Left Thumbstick Vertically",
+    "Content": "左摇杆垂直翻转",
     "Id": 206
   },
   {
-    "Content": "Invert Right Thumbstick Horizontally",
+    "Content": "右摇杆水平翻转",
     "Id": 207
   },
   {
-    "Content": "Invert Right Thumbstick Vertical",
+    "Content": "右摇杆垂直翻转",
     "Id": 208
   },
   {
-    "Content": "Utilize",
+    "Content": "使用",
     "Id": 209
   },
   {
-    "Content": "Interface",
+    "Content": "界面",
     "Id": 210
   },
   {
-    "Content": "Passwords: Visible",
+    "Content": "密码: 可见",
     "Id": 211
   },
   {
-    "Content": "Passwords: Hidden",
+    "Content": "密码: 隐藏",
     "Id": 212
   },
   {
-    "Content": "Smart Cursor Priority: Pickaxe -> Axe",
+    "Content": "智能光标优先级: 镐 -> 斧",
     "Id": 213
   },
   {
-    "Content": "Smart Cursor Priority: Axe -> Pickaxe",
+    "Content": "智能光标优先级: 斧 -> 镐",
     "Id": 214
   },
   {
-    "Content": "Smart Block Placement: To Cursor",
+    "Content": "智能光标放置: 到光标",
     "Id": 215
   },
   {
-    "Content": "Smart Block Placement: Filling",
+    "Content": "智能光标放置: 填充",
     "Id": 216
   },
   {
-    "Content": "Border Color",
+    "Content": "边框颜色",
     "Id": 217
   },
   {
-    "Content": "Cursor",
+    "Content": "鼠标",
     "Id": 218
   },
   {
-    "Content": "Controls",
+    "Content": "控制",
     "Id": 219
   },
   {
-    "Content": "Activate Set Bonuses: Up",
+    "Content": "激活套装效果: 按上方向键",
     "Id": 220
   },
   {
-    "Content": "Activate Set Bonuses: Down",
+    "Content": "激活套装效果: 按下方向键",
     "Id": 221
   },
   {
-    "Content": "Keybindings",
+    "Content": "按键设置",
     "Id": 222
   },
   {
-    "Content": "Left Shift Quick Trash: Enabled",
+    "Content": "左Shift快捷垃圾桶: 开启",
     "Id": 223
   },
   {
-    "Content": "Left Shift Quick Trash: Disabled",
+    "Content": "左Shift快捷垃圾桶: 关闭",
     "Id": 224
   },
   {
-    "Content": "Quick Wall Replace: Disabled",
+    "Content": "快捷更换墙壁: 关闭",
     "Id": 225
   },
   {
-    "Content": "Quick Wall Replace: Enabled",
+    "Content": "快捷更换墙壁: 开启",
     "Id": 226
   },
   {
-    "Content": "Hotbar Scroll Time To Radial: On",
+    "Content": "Hotbar Scroll Time To Radial: 打开",
     "Id": 227
   },
   {
-    "Content": "Hotbar Scroll Time To Radial: Off",
+    "Content": "Hotbar Scroll Time To Radial: 关闭",
     "Id": 228
   },
   {
-    "Content": "Tile Grid On",
+    "Content": "方块网格 打开",
     "Id": 229
   },
   {
-    "Content": "Tile Grid Off",
+    "Content": "方块网格 关闭",
     "Id": 230
   },
   {
-    "Content": "Lock On",
+    "Content": "目标锁定",
     "Id": 231
   },
   {
-    "Content": "Lock On Priority: Focus Target",
+    "Content": "目标锁定优先级: 手动锁定的目标",
     "Id": 232
   },
   {
-    "Content": "Lock On Priority: Target Closest",
+    "Content": "目标锁定优先级: 最近目标",
     "Id": 233
   },
   {
-    "Content": "Lock On Priority: Clearest Line",
+    "Content": "目标锁定优先级: Clearest Line",
     "Id": 234
   },
   {
@@ -944,15 +944,15 @@
     "Id": 235
   },
   {
-    "Content": "Backspace",
+    "Content": "退格键",
     "Id": 236
   },
   {
-    "Content": "Submit",
+    "Content": "完成",
     "Id": 237
   },
   {
-    "Content": "Space",
+    "Content": "空格键",
     "Id": 238
   },
   {
@@ -964,39 +964,39 @@
     "Id": 240
   },
   {
-    "Content": "Gamepad Instructions Off",
+    "Content": "手柄提示 关闭",
     "Id": 241
   },
   {
-    "Content": "Gamepad Instructions On",
+    "Content": "手柄提示 打开",
     "Id": 242
   },
   {
-    "Content": "Menu Controls",
+    "Content": "菜单控制",
     "Id": 243
   },
   {
-    "Content": "Radial Quickbar",
+    "Content": "横向快捷栏",
     "Id": 244
   },
   {
-    "Content": "Borderless Window: Enabled",
+    "Content": "无边框窗口: 开启",
     "Id": 245
   },
   {
-    "Content": "Borderless Window: Disabled",
+    "Content": "无边框窗口: 关闭",
     "Id": 246
   },
   {
-    "Content": "Frame Skip Off",
+    "Content": "自动跳帧 关闭",
     "Id": 247
   },
   {
-    "Content": "Frame Skip On",
+    "Content": "自动跳帧 打开",
     "Id": 248
   },
   {
-    "Content": "Frame Skip Subtle",
+    "Content": "自动跳帧 平滑",
     "Id": 249
   },
   {
@@ -1008,7 +1008,7 @@
     "Id": 251
   },
   {
-    "Content": "Interface Movement Delay",
+    "Content": "界面移动延迟",
     "Id": 252
   }
 ]
