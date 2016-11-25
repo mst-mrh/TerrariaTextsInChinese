@@ -1,498 +1,498 @@
 ﻿[
   {
-    "Content": "Life:",
+    "Content": "生命:",
     "Id": 0
   },
   {
-    "Content": "Breath",
+    "Content": "呼吸",
     "Id": 1
   },
   {
-    "Content": "Mana",
+    "Content": "魔力",
     "Id": 2
   },
   {
-    "Content": "Trash Can",
+    "Content": "垃圾桶",
     "Id": 3
   },
   {
-    "Content": "Inventory",
+    "Content": "背包",
     "Id": 4
   },
   {
-    "Content": "Hotbar unlocked",
+    "Content": "快捷栏已解锁",
     "Id": 5
   },
   {
-    "Content": "Hotbar locked",
+    "Content": "快捷栏已上锁",
     "Id": 6
   },
   {
-    "Content": "Housing",
+    "Content": "住房",
     "Id": 7
   },
   {
-    "Content": "Housing Query",
+    "Content": "房屋查询",
     "Id": 8
   },
   {
-    "Content": "Accessory",
+    "Content": "饰品",
     "Id": 9
   },
   {
-    "Content": "Defense",
+    "Content": "防御",
     "Id": 10
   },
   {
-    "Content": "Social",
+    "Content": "时装",
     "Id": 11
   },
   {
-    "Content": "Helmet",
+    "Content": "头盔",
     "Id": 12
   },
   {
-    "Content": "Shirt",
+    "Content": "上衣",
     "Id": 13
   },
   {
-    "Content": "Pants",
+    "Content": "裤子",
     "Id": 14
   },
   {
-    "Content": "platinum",
+    "Content": "白金币",
     "Id": 15
   },
   {
-    "Content": "gold",
+    "Content": "金币",
     "Id": 16
   },
   {
-    "Content": "silver",
+    "Content": "银币",
     "Id": 17
   },
   {
-    "Content": "copper",
+    "Content": "铜币",
     "Id": 18
   },
   {
-    "Content": "Reforge",
+    "Content": "重铸",
     "Id": 19
   },
   {
-    "Content": "Place an item here to reforge",
+    "Content": "在这里放置物品以重铸",
     "Id": 20
   },
   {
-    "Content": "Showing recipes that use",
+    "Content": "显示配方", // ??
     "Id": 21
   },
   {
-    "Content": "Required objects:",
+    "Content": "需要物件:",
     "Id": 22
   },
   {
-    "Content": "None",
+    "Content": "无",
     "Id": 23
   },
   {
-    "Content": "Place a material here",
+    "Content": "在这里放置材料",
     "Id": 24
   },
   {
-    "Content": "Crafting",
+    "Content": "制造",
     "Id": 25
   },
   {
-    "Content": "Coins",
+    "Content": "金钱",
     "Id": 26
   },
   {
-    "Content": "Ammo",
+    "Content": "弹药",
     "Id": 27
   },
   {
-    "Content": "Shop",
+    "Content": "商店",
     "Id": 28
   },
   {
-    "Content": "Loot All",
+    "Content": "全部取出",
     "Id": 29
   },
   {
-    "Content": "Deposit All",
+    "Content": "全部放入",
     "Id": 30
   },
   {
-    "Content": "Quick Stack",
+    "Content": "快速整理",
     "Id": 31
   },
   {
-    "Content": "Piggy Bank",
+    "Content": "猪猪储蓄罐",
     "Id": 32
   },
   {
-    "Content": "Safe",
+    "Content": "保险箱",
     "Id": 33
   },
   {
-    "Content": "Time",
+    "Content": "时间",
     "Id": 34
   },
   {
-    "Content": "Save & Exit",
+    "Content": "保存并退出",
     "Id": 35
   },
   {
-    "Content": "Disconnect",
+    "Content": "断开连接",
     "Id": 36
   },
   {
-    "Content": "Items",
+    "Content": "物品",
     "Id": 37
   },
   {
-    "Content": "You were slain...",
+    "Content": "你死了...",
     "Id": 38
   },
   {
-    "Content": "This housing is suitable.",
+    "Content": "这间房子可以住人.",
     "Id": 39
   },
   {
-    "Content": "This is not valid housing.",
+    "Content": "这间房子不合格.",
     "Id": 40
   },
   {
-    "Content": "This housing is already occupied.",
+    "Content": "这间房子已经有人住了.",
     "Id": 41
   },
   {
-    "Content": "This housing is corrupted.",
+    "Content": "这间房子被污染了.",
     "Id": 42
   },
   {
-    "Content": "Connection timed out",
+    "Content": "连接超时",
     "Id": 43
   },
   {
-    "Content": "Receiving tile data",
+    "Content": "接受物块数据",
     "Id": 44
   },
   {
-    "Content": "Equip",
+    "Content": "装备",
     "Id": 45
   },
   {
-    "Content": "Cost",
+    "Content": "花费",
     "Id": 46
   },
   {
-    "Content": "Save",
+    "Content": "保存",
     "Id": 47
   },
   {
-    "Content": "Edit",
+    "Content": "编辑",
     "Id": 48
   },
   {
-    "Content": "Status",
+    "Content": "状态",
     "Id": 49
   },
   {
-    "Content": "Curse",
+    "Content": "诅咒",
     "Id": 50
   },
   {
-    "Content": "Help",
+    "Content": "帮助",
     "Id": 51
   },
   {
-    "Content": "Close",
+    "Content": "关闭",
     "Id": 52
   },
   {
-    "Content": "Water",
+    "Content": "水",
     "Id": 53
   },
   {
-    "Content": "Heal",
+    "Content": "治疗",
     "Id": 54
   },
   {
-    "Content": "This housing does not meet the requirements for a",
+    "Content": "这间房子缺少",
     "Id": 55
   },
   {
-    "Content": "Lava",
+    "Content": "岩浆",
     "Id": 56
   },
   {
-    "Content": "Dye",
+    "Content": "染料",
     "Id": 57
   },
   {
-    "Content": "Honey",
+    "Content": "蜂蜜",
     "Id": 58
   },
   {
-    "Content": "Visible",
+    "Content": "饰品可见",
     "Id": 59
   },
   {
-    "Content": "Hidden",
+    "Content": "饰品被隐藏",
     "Id": 60
   },
   {
-    "Content": "Rename",
+    "Content": "重命名",
     "Id": 61
   },
   {
-    "Content": "Settings",
+    "Content": "设置",
     "Id": 62
   },
   {
-    "Content": "Cancel",
+    "Content": "取消",
     "Id": 63
   },
   {
-    "Content": "Quest",
+    "Content": "任务",
     "Id": 64
   },
   {
-    "Content": "Quest Item",
+    "Content": "任务物品",
     "Id": 65
   },
   {
-    "Content": "Savings",
+    "Content": "储蓄", // 需要验证
     "Id": 66
   },
   {
-    "Content": "Take Snapshot",
+    "Content": "获取截图",
     "Id": 67
   },
   {
-    "Content": "Settings",
+    "Content": "设定",
     "Id": 68
   },
   {
-    "Content": "Pin Frame",
+    "Content": "选点设定范围",
     "Id": 69
   },
   {
-    "Content": "Set Frame",
+    "Content": "调整范围大小",
     "Id": 70
   },
   {
-    "Content": "Close",
+    "Content": "关闭",
     "Id": 71
   },
   {
-    "Content": "On",
+    "Content": "开启",
     "Id": 72
   },
   {
-    "Content": "Off",
+    "Content": "关闭",
     "Id": 73
   },
   {
-    "Content": "Image Packing",
+    "Content": "图片打包",
     "Id": 74
   },
   {
-    "Content": "Capture Entities",
+    "Content": "显示单位",
     "Id": 75
   },
   {
-    "Content": "Capture Background",
+    "Content": "显示背景",
     "Id": 76
   },
   {
-    "Content": "Biome Pick",
+    "Content": "生态选择",
     "Id": 77
   },
   {
-    "Content": "Reset Frame",
+    "Content": "重设范围",
     "Id": 78
   },
   {
-    "Content": "Equipment",
+    "Content": "装备",
     "Id": 79
   },
   {
-    "Content": "Housing",
+    "Content": "住房",
     "Id": 80
   },
   {
-    "Content": "Camera Mode",
+    "Content": "相机模式",
     "Id": 81
   },
   {
-    "Content": "Restock",
+    "Content": "快速拿取",
     "Id": 82
   },
   {
-    "Content": "Frost Moon",
+    "Content": "冰霜之月",
     "Id": 83
   },
   {
-    "Content": "Pumpkin Moon",
+    "Content": "南瓜之月",
     "Id": 84
   },
   {
-    "Content": "Martian Madness",
+    "Content": "火星暴乱",
     "Id": 85
   },
   {
-    "Content": "Pirate Invasion",
+    "Content": "海盗入侵",
     "Id": 86
   },
   {
-    "Content": "Frost Legion",
+    "Content": "雪人军团",
     "Id": 87
   },
   {
-    "Content": "Goblin Army",
+    "Content": "哥布林军团",
     "Id": 88
   },
   {
-    "Content": "Collect",
+    "Content": "收集",
     "Id": 89
   },
   {
-    "Content": "Grappling Hook",
+    "Content": "钩爪",
     "Id": 90
   },
   {
-    "Content": "Mount",
+    "Content": "坐骑",
     "Id": 91
   },
   {
-    "Content": "Pet",
+    "Content": "宠物",
     "Id": 92
   },
   {
-    "Content": "Minecart",
+    "Content": "矿车",
     "Id": 93
   },
   {
-    "Content": "Light Pet",
+    "Content": "发光宠物",
     "Id": 94
   },
   {
-    "Content": "Time",
+    "Content": "时间",
     "Id": 95
   },
   {
-    "Content": "Weather",
+    "Content": "天气",
     "Id": 96
   },
   {
-    "Content": "Fishing",
+    "Content": "垂钓",
     "Id": 97
   },
   {
-    "Content": "Position",
+    "Content": "位置",
     "Id": 98
   },
   {
-    "Content": "Depth",
+    "Content": "深度",
     "Id": 99
   },
   {
-    "Content": "Creature Count",
+    "Content": "生物数量",
     "Id": 100
   },
   {
-    "Content": "Kill Count",
+    "Content": "杀怪数量",
     "Id": 101
   },
   {
-    "Content": "Moon Phase",
+    "Content": "月相",
     "Id": 102
   },
   {
-    "Content": "Movement Speed",
+    "Content": "移动速度",
     "Id": 103
   },
   {
-    "Content": "Treasure",
+    "Content": "宝藏",
     "Id": 104
   },
   {
-    "Content": "Rare Creatures",
+    "Content": "稀有生物",
     "Id": 105
   },
   {
-    "Content": "Damage Per Second",
+    "Content": "每秒伤害量",
     "Id": 106
   },
   {
-    "Content": "Strange Plants",
+    "Content": "奇异植物",
     "Id": 107
   },
   {
-    "Content": "Open Map",
+    "Content": "打开地图",
     "Id": 108
   },
   {
-    "Content": "Close Map",
+    "Content": "关闭地图",
     "Id": 109
   },
   {
-    "Content": "Open Folder",
+    "Content": "打开文件夹",
     "Id": 110
   },
   {
-    "Content": "Take Screenshot",
+    "Content": "截图屏幕",
     "Id": 111
   },
   {
-    "Content": "You must first set a frame",
+    "Content": "你必须先设置范围",
     "Id": 112
   },
   {
-    "Content": "Only available in windowed mode",
+    "Content": "只在窗口模式下可用",
     "Id": 113
   },
   {
-    "Content": "Only available if map is enabled",
+    "Content": "当地图打开时可用",
     "Id": 114
   },
   {
-    "Content": "Camera Mode Disabled",
+    "Content": "禁用相机模式",
     "Id": 115
   },
   {
-    "Content": "Highlight New Items Off",
+    "Content": "禁用高亮新物品",
     "Id": 116
   },
   {
-    "Content": "Highlight New Items On",
+    "Content": "开启高亮新物品",
     "Id": 117
   },
   {
-    "Content": "Zoom In",
+    "Content": "拉近镜头",
     "Id": 118
   },
   {
-    "Content": "Zoom Out",
+    "Content": "推远镜头",
     "Id": 119
   },
   {
-    "Content": "Teleport to ally",
+    "Content": "传送至队友",
     "Id": 120
   },
   {
-    "Content": "Drop Item",
+    "Content": "掉落物品",
     "Id": 121
   },
   {
-    "Content": "Sort Items",
+    "Content": "排列物品",
     "Id": 122
   },
   {
-    "Content": "Cold Weather",
+    "Content": "寒冷天气",
     "Id": 123
   }
 ]
