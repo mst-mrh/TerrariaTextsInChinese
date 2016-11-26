@@ -196,23 +196,23 @@
     "Id": 48
   },
   {
-    "Content": "增加最大守卫者数量\n大幅度增强Flameburst的效果",// Flameburst指新炮台中的Flameburst
+    "Content": "增加最大守卫者数量\n大幅度增强焰爆炮塔的效果",// Flameburst指新炮台中的Flameburst
     "Id": 49
   },
   {
-    "Content": "增加最大守卫者数量\n大幅度增强 Explosive Traps 的效果",
+    "Content": "增加最大守卫者数量\n大幅度增强爆炸陷阱的效果",
     "Id": 50
   },
   {
-    "Content": "增加最大守卫者数量\n大幅度增强 Lightning Aura 的效果",
+    "Content": "增加最大守卫者数量\n大幅度增强闪电光环的效果",
     "Id": 51
   },
   {
-    "Content": "增加最大守卫者数量\n弩车能够发射穿透更多敌人的子弹，并再你受伤时触发“panic”的效果",//panic指代buff里的panic
+    "Content": "增加最大守卫者数量\n弩车能够发射穿透更多敌人的子弹，并在你受伤时触发“弩车危机”的效果",//panic指代buff里的panic，此句过长，看看需不需要换行
     "Id": 52
   },
   {
-    "Content": "增加最大守卫者数量\nFlameburst视野和射击范围显著增强",
+    "Content": "增加最大守卫者数量\n焰爆炮塔的视野和射击范围显著增强",
     "Id": 53
   }
 ]

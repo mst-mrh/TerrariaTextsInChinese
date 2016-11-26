@@ -12,11 +12,11 @@
     "Id": 2
   },
   {
-    "Content": "Terraria: 沙块真强", //沙块可以压死你
+    "Content": "Terraria: 无敌的沙块", //沙块可以压死你
     "Id": 3
   },
   {
-    "Content": "Terraria Part 3: 向导的回归",
+    "Content": "Terraria 第三章: 向导的回归",
     "Id": 4
   },
   {
@@ -24,7 +24,7 @@
     "Id": 5
   },
   {
-    "Content": "Terraria: 僵尸博士的血月之宫传奇", // 夺宝奇兵2之魔宫传奇
+    "Content": "Terraria: 僵尸博士的血月魔宫传奇", // 夺宝奇兵2之魔宫传奇
     "Id": 6
   },
   {
@@ -116,11 +116,11 @@
     "Id": 28
   },
   {
-    "Content": "Terraria: 愿物块与你同在",
+    "Content": "Terraria: 愿砖块与你同在",
     "Id": 29
   },
   {
-    "Content": "Terraria: 《Better than life》", // 这真的是一本书, 没找到标题翻译
+    "Content": "Terraria: 《比活着更好》", // 这真的是一本书, 没找到标题翻译
     "Id": 30
   },
   {
@@ -152,7 +152,7 @@
     "Id": 37
   },
   {
-    "Content": "Terraria: 兄弟, 你\"傻\"块了?", // you mad bro?
+    "Content": "Terraria: 兄弟, 你\"傻\"块呢?", // you mad bro?
     "Id": 38
   },
   {
@@ -224,7 +224,7 @@
     "Id": 55
   },
   {
-    "Content": "Terraria: Shut Up and Dig Gaiden!", // 某游戏
+    "Content": "Terraria: 闭嘴，开挖!", // 某游戏
     "Id": 56
   }
 ]

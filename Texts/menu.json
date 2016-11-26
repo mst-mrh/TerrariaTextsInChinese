@@ -760,7 +760,7 @@
     "Id": 189
   },
   {
-    "Content": "Radial Hotbar",
+    "Content": "水平快捷栏",
     "Id": 190
   },
   {
@@ -908,11 +908,11 @@
     "Id": 226
   },
   {
-    "Content": "Hotbar Scroll Time To Radial: 打开",
+    "Content": "水平快捷栏滚动时间: 打开",
     "Id": 227
   },
   {
-    "Content": "Hotbar Scroll Time To Radial: 关闭",
+    "Content": "水平快捷栏滚动时间: 关闭",
     "Id": 228
   },
   {
@@ -1000,11 +1000,11 @@
     "Id": 249
   },
   {
-    "Content": "Miner's Wobble: Enabled",
+    "Content": "打碎方块效果: 开启",
     "Id": 250
   },
   {
-    "Content": "Miner's Wobble: Disabled",
+    "Content": "打碎方块效果: 关闭",
     "Id": 251
   },
   {

@@ -180,7 +180,7 @@
     "Id": 45
   },
   {
-    "Content": "霜冻",
+    "Content": "寒冷",//chilled
     "Id": 46
   },
   {
@@ -280,7 +280,7 @@
     "Id": 70
   },
   {
-    "Content": "金手指",
+    "Content": "点金术",//midas 掉落更多的钱 PVP适用
     "Id": 72
   },
   {
@@ -312,7 +312,7 @@
     "Id": 86
   },
   {
-    "Content": "Peace Candle",
+    "Content": "和平蜡烛",
     "Id": 157
   },
   {
@@ -576,7 +576,7 @@
     "Id": 151
   },
   {
-    "Content": "魔力蓝灯", // 灯笼?
+    "Content": "魔力灯笼", // 灯笼?
     "Id": 152
   },
   {
@@ -604,7 +604,7 @@
     "Id": 183
   },
   {
-    "Content": "树妖的干扰",
+    "Content": "树妖的驱逐",
     "Id": 186
   },
   {
@@ -696,11 +696,11 @@
     "Id": 197
   },
   {
-    "Content": "惊人时刻",
+    "Content": "就是现在！",
     "Id": 198
   },
   {
-    "Content": "Ballista Panic!", // 不会
+    "Content": "弩车危机!", // 不会
     "Id": 205
   },
   {
@@ -776,7 +776,7 @@
     "Id": 168
   },
   {
-    "Content": "巨蜥坐骑", //巨蜥座机Basilisk Mount
+    "Content": "毒蜥坐骑", //巨蜥座机Basilisk Mount
     "Id": 193
   },
   {
