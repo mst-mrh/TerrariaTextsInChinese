@@ -362,7 +362,7 @@
 		"TIMBER_Description": "砍倒你的第一棵树",
 		"NO_HOBO_Name": "有家可归",
 		"NO_HOBO_Description": "建造你的第一个可供NPC居住的房子",
-		"OBTAIN_HAMMER_Name": "Stop！锤子时间！",//子弹时间？魔女时间？
+		"OBTAIN_HAMMER_Name": "停！锤子时间！",//子弹时间？魔女时间？
 		"OBTAIN_HAMMER_Description": "通过制作或者其他方法获得你的第一个锤子。",
 		"OOO_SHINY_Name": "哦哦哦！它在发光！！",
 		"OOO_SHINY_Description": "用你的稿子挖到第一个金块",
@@ -378,7 +378,7 @@
 		"HOLD_ON_TIGHT_Description": "装备你的第一个钩爪。",
 		"EYE_ON_YOU_Name": "隔墙有眼",
 		"EYE_ON_YOU_Description": "击败克苏鲁之眼，只在夜间出现的邪眼",
-		"SMASHING_POPPET_Name": "Smashing, Poppet!",//暂译:"砰！"
+		"SMASHING_POPPET_Name": "砰！",//暂译:"砰！"
 		"SMASHING_POPPET_Description": "使用雷管或者锤子,摧毁一个暗影球或者猩红心脏",
 		"WORM_FODDER_Name": "Worm Fodder",
 		"WORM_FODDER_Description": "击败世界吞噬者，只出没在腐化之地的巨型蠕虫。",
@@ -535,17 +535,17 @@
 		"MATCHING_ATTIRE_Name": "全副武装",
 		"MATCHING_ATTIRE_Description": "头部、胸部、下身都有装备护甲",
 		"BEHIND_THE_MASK_Name": "面具之下",//以下为隐藏成就，先偷懒（跑
-		"BEHIND_THE_MASK_Description": "Slay the Insane Cultist, a mad magician with powerful spells.",
-		"DAVY_JONES_LOCKER_Name": "Davy Jones' Locker",
-		"DAVY_JONES_LOCKER_Description": "Defeat the Flying Dutchman, the sails of the plunderin' skies.",
-		"WINTERHEARTED_Name": "Winterhearted",
-		"WINTERHEARTED_Description": "Defeat the Ice Queen, wicked witch of the coldest nights.",
-		"PUMPKIN_SMASHER_Name": "Pumpkin Smasher",
-		"PUMPKIN_SMASHER_Description": "Defeat the Pumpking, the spooky lord of hallow's eve.",
-		"INDEPENDENCE_DAY_Name": "Independence Day",
-		"INDEPENDENCE_DAY_Description": "Defeat a Mothership, overminds of the martian invaders.",
-		"HEX_EDUCATION_Name": "Hex Education",
-		"HEX_EDUCATION_Description": "Defeat a Goblin Summoner, conjurers of the darkest flames."//偷懒结束
+		"BEHIND_THE_MASK_Description": "杀死了能够释放强力魔法的疯狂异教徒",
+		"DAVY_JONES_LOCKER_Name": "戴维·琼斯的锁柜",
+		"DAVY_JONES_LOCKER_Description": "击败了翔于空中的海盗船-飞翔的荷兰人号",
+		"WINTERHEARTED_Name": "寒冬之心",
+		"WINTERHEARTED_Description": "击败了极寒之夜的邪恶女巫-冰雪女王",
+		"PUMPKIN_SMASHER_Name": "南瓜粉碎者",
+		"PUMPKIN_SMASHER_Description": "击败了万圣夜晚的阴森之王-南瓜王",
+		"INDEPENDENCE_DAY_Name": "独立日",
+		"INDEPENDENCE_DAY_Description": "战胜了火星人的精神支柱-火星母舰",
+		"HEX_EDUCATION_Name": "六芒教育",
+		"HEX_EDUCATION_Description": "战胜了哥布林召唤师，掌控了暗影之炎"//偷懒结束
 	},
 	"DungeonDefenders2": {
 		"InvasionStart": "旧日军团正在接近！",
