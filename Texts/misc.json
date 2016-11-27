@@ -228,7 +228,7 @@
     "Id": 56
   },
   {
-    "Content": "Grapple",
+    "Content": "钩爪", //Grapple
     "Id": 57
   },
   {
@@ -236,7 +236,7 @@
     "Id": 58
   },
   {
-    "Content": "Cycle hotbar",
+    "Content": "循环快捷栏", // Cycle hotbar
     "Id": 59
   },
   {
