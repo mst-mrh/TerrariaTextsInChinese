@@ -2838,5 +2838,9 @@
   {
     "Content": "Tome of Infinite Wisdom",
     "Id": 712
+  },
+  {
+    "Content": "Victory!",
+    "Id": 713
   }
 ]

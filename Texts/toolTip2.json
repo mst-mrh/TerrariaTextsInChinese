@@ -974,5 +974,9 @@
   {
     "Content": "<right> to cast a powerful tornado",
     "Id": 3852
+  },
+  {
+    "Content": "Hold DOWN and JUMP to hover",
+    "Id": 3883
   }
 ]
