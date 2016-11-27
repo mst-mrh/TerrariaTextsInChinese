@@ -1,91 +1,91 @@
-﻿{
+{
 	"BartenderNames": {
-		"Name_1": "Ted",
-		"Name_2": "Barkeep",
-		"Name_3": "Jerry",
-		"Name_4": "Bill",
-		"Name_5": "Ernest",
-		"Name_6": "William",
-		"Name_7": "Dale",
-		"Name_8": "Bruce",
-		"Name_9": "Moe",
-		"Name_10": "Javahawk",
-		"Name_11": "Elandrian",
-		"Name_12": "Driscan",
-		"Name_13": "Iamisom",
-		"Name_14": "Blacksmith",
-		"Name_15": "Dani Moo",
-		"Name_16": "Paddy"
+		"Name_1": "酒保",
+		"Name_2": "酒保",
+		"Name_3": "酒保",
+		"Name_4": "酒保",
+		"Name_5": "酒保",
+		"Name_6": "酒保",
+		"Name_7": "酒保",
+		"Name_8": "酒保",
+		"Name_9": "酒保",
+		"Name_10": "酒保",
+		"Name_11": "酒保",
+		"Name_12": "酒保",
+		"Name_13": "酒保",
+		"Name_14": "酒保",
+		"Name_15": "酒保",
+		"Name_16": "酒保"
 	},
 	"BartenderChatter": {
-		"Chatter_1": "I've got the cure for what ails ya! Get it? Ale? No?",//暂译"为什么不来一瓶麦芽酒呢？它能让你飘飘欲仙。"
+		"Chatter_1": "酒能忘忧,亦能解愁。冒险者，不来一瓶麦酒吗？",
 		"Chatter_2": "好了好了，我知道他们都说你很强，让我看看你符不符合我的标准。",
 		"Chatter_3": "在我老家那里只有根汁汽水喝...",
 		"Chatter_4": "啊，这可比整天擦桌子好多了。",
-		"Chatter_5": "Life's a challenge when you're just naturally better than everyone else.",//暂译"当你刚好过得比别人好一点时，生活是种挑战。"
+		"Chatter_5": "当你天生就比别人强的时候，生活对你来说就是一个挑战",
 		"Chatter_6": "我该做啥来着...",
 		"Chatter_7": "三分天注定，七分靠打拼...",//原文"A lot of tenacity and a little bit of luck can go a long way"
-		"Chatter_8": "Have you seen any Meburs around here?",//Mebus什么鬼
-		"Chatter_9": "{Dryad} 真漂亮啊，我要带着她一起回老家。",
-		"Chatter_10": "你觉得 {Steampunker} 还有没有枪? 我认识的一个女巫一直想要一把来着。",
-		"Chatter_11": "怪不得 {Demolitionist} 老是出事。 你都不知道他在我这儿买了多少麦芽酒。",
-		"Chatter_12": "一般我不跟哥布林来往，但 {GoblinTinkerer} 挺好相处的。",
+		"Chatter_8": "你有在这附近看到过梅布尔吗？",//原文Have you seen any Meburs around here? Mebus不确定是什么东西
+		"Chatter_9": "{Dryad}真漂亮啊，我要带着她一起回老家。",
+		"Chatter_10": "你觉得{Steampunker}还有没有枪? 我认识的一个女巫一直想要一把来着。",
+		"Chatter_11": "怪不得{Demolitionist}老是出事。 你都不知道他在我这儿买了多少麦酒。",
+		"Chatter_12": "我一般不跟哥布林来往，但{GoblinTinkerer}挺好相处的。",
 		"Chatter_13": "{?Day}有谁知道森林女神去哪儿了吗？",
-		"Chatter_14": "{?!Day}万物俱籁...不，是安静得有点诡异...",
+		"Chatter_14": "{?!Day}万籁俱寂...不，是安静得有点诡异...",
 		"Chatter_15": "{?!Day}准备好，要开工了。",
-		"Chatter_16": "{?BloodMoon}You know, where I'm from, a Blood Moon is actually just an excuse to get some fresh air.",//暂译"你要知道，在我老家，血月只是出去呼吸新鲜空气的一个借口。"
-		"Chatter_17": "{?MoonLordDefeated}Moon Lord, don't you mean Abyss Lord?",//暂译"月球领主？不是深渊领主吗？"，Abyss Lord黑魂梗？
-		"Chatter_18": "{?HardMode}I know a Lavamancer that would really like that hellstone down in the underworld.",//暂译"我觉得熔岩法师一定会喜欢地狱里的石头的。"
+		"Chatter_16": "{?BloodMoon}你要知道，在我老家，血月只是出去呼吸新鲜空气的一个借口。",
+		"Chatter_17": "{?MoonLordDefeated}月球领主？不是深渊领主吗？",
+		"Chatter_18": "{?HardMode}我觉得熔岩法师一定会喜欢地狱里的石头的。",
 		"Chatter_19": "{?Homeless}你知道哪里还有铺面吗？我想开个酒吧。"
 	},
 	"BartenderSpecialText": {
-		"FirstHelp": "新来的，把这几个防御者勋章拿走吧！之后我会进一些好货，但是只能用防御者勋章买！",
+		"FirstHelp": "新来的，把这几个守卫者勋章拿走吧！之后我会进一些好货，但是只能用守卫者勋章买！",
 		"FirstMeeting": "哈？发生什么事了？我只记得一扇传送门在我面前打开...",
-		"BeforeDD2Tier1": "嘿，为了阻止旧日军团，我们应该做点什么。 如果你想了解更多的话就问我有关Eternia水晶的事情吧。",//旧日支配者，克苏鲁神话，Eternia Crystal没有统一翻译，保留。
+		"BeforeDD2Tier1": "嘿，为了阻止旧日军团，我们应该做点什么。 如果你想了解更多的话就问我有关艾特尼亚水晶的事情吧。",//旧日支配者，克苏鲁神话
 		"AfterDD2Tier1": "干得好！你成功挡住了旧日军团！但我确定我们还没有看到它们真正的面目，因为它们这次并没有倾尽全力。",
 		"AfterDD2Tier2": "旧日军团愈发强大，但你还是成功挡住了！然而，战争还没有结束呢。",
-		"AfterDD2Tier3": "你真的把火力全开的旧日军团牵制住了？也许你应该去Etheria玩玩。"//未翻译部分理由同上。Etheria应该是这家伙原来的世界
+		"AfterDD2Tier3": "你真的把火力全开的旧日军团牵制住了？也许你应该去艾特尼亚玩玩。"
 	},
 	"BartenderHelpText": {
-		"Help_1": "我这里有上好的防御神器! 但只能用防御者勋章换！",
-		"Help_2": "你可以用这些神器制作陷阱或者防御塔，这样会消耗Etherian魔力, 一种只有旧日军团的敌人所掉落的能量！",	
-		"Help_3": "想要召唤旧日军团？ 它们会被Eternia水晶的力量所吸引, 也就是说我们可以用这种力量引诱他们出来。",
-		"Help_4": "想要布置Eternia水晶，你必须有一个Eternia水晶以及一个用来放置它的容器。 就是这样，这两样东西都可以在我这儿买到！",
-		"Help_5": "你最好把Eternia水晶台布置在平坦开阔的地方。坑坑洼洼，堆满东西的地方是难以保护的。",
-		"Help_6": "当你设置好水晶台，你只需要拿着Eternia水晶右键点击水晶台就可以准备战斗了！",
-		"Help_7": "绝对不要让旧日军团摧毁 Eternia水晶! 那会给我的老家Etheria世界带来灾难!",
-	    "Help_8": "每次布置防御设施要消耗 10点 Etherian魔力，这种魔力可以由你所布置的Eternia水晶生产，打倒敌人也能获取。",
-		"Help_9": "在防御设施的帮助下，你要击退几波妄图摧毁Eternia 水晶的入侵者!",
-		"Help_10": "如果你成功击退了入侵者，你会得到更多的防御者勋章，可以在我这儿用来换取更多神器以及其它好东西！",
-		"Help_11": "我听闻当你击败旧日军团时神器的力量将进一步提升，甚至可以在任何时候使用它！"
+		"Help_1": "我这里有上好的防御神器! 但只能用守卫者勋章换！",
+		"Help_2": "你可以用这些神器制作陷阱或者防御塔，这样会消耗艾特尼亚魔力结晶, 旧日军团会掉落！",	
+		"Help_3": "想要召唤旧日军团？ 它们会被艾特尼亚水晶的力量所吸引, 也就是说我们可以用这种力量引诱他们出来。",
+		"Help_4": "布置艾特尼亚水晶，你必须有一个艾特尼亚水晶以及一个用来放置它的容器。就是这样，这两样东西都可以在我这儿买到！",
+		"Help_5": "你最好把艾特尼亚水晶台布置在平坦开阔的地方。坑坑洼洼，堆满东西的地方是难以保护的。",
+		"Help_6": "设置好水晶台后，你只需要拿着艾特尼亚水晶右键点击水晶台就可以准备战斗了！",
+		"Help_7": "绝对不要让旧日军团摧毁艾特尼亚水晶! 那会给我的老家艾特尼亚世界带来灾难!",
+	    "Help_8": "每次布置防御设施要消耗十个艾特尼亚魔力结晶，这种魔力结晶可以由你所布置的艾特尼亚水晶生产，打倒敌人也能获取。",
+		"Help_9": "布置好了防御设施，你才能击退几波妄图摧毁艾特尼亚水晶的入侵者!",
+		"Help_10": "如果你成功击退了入侵者，你会得到更多的守卫者勋章，可以在我这儿用来换取更多神器以及其它好东西！",
+		"Help_11": "当你击败旧日军团时，神器的力量将进一步提升，甚至可以在任何时候使用它！"
 	},
 	"GuideHelpText": {
-		"Help_1063": "一般来说，我应该告诉你有关旧日军团的事情，不过 {Bartender} 显然懂的比我更多。"
+		"Help_1063": "作为向导，我应该告诉你有关旧日军团的事情，不过{Bartender}显然懂的比我更多。"
 	},
 	"GoblinTinkererChatter": {
-		"Chatter_1": "你看，这些Etherian哥布林一点都不像我们。成群结队，吵吵闹闹。我们的人要好多了..."
+		"Chatter_1": "这些艾特尼亚哥布林一点都不像我们。成群结队，吵吵闹闹。我们的人要好多了..."
 	},
 	"AnglerChatter": {
-		"Chatter_1": "为什么 {Bartender} 不卖我麦芽酒？我要尝尝！该死的！"
+		"Chatter_1": "为什么{Bartender}不卖我麦芽酒？我想尝尝！该死的！"//因为你看起来跟小孩一样
 	},
 	"DryadSpecialText": {
-		"AfterDD2Tier1": "当我在Etheria的时候， 我觉得与{WorldName}像断了线一样，回家的感觉真好。",
-		"AfterDD2Tier2": "The Corruption tried to take me over when I went to Etheria, but instead, I used its power against the Old One's Army!"//暂译:"当我去Etheria时腐化企图侵蚀我的身体，但我反将这股力量用来抵挡旧日军团。"
+		"AfterDD2Tier1": "当我在艾特尼亚的时候， 我觉得与{WorldName}像断了线一样，回家的感觉真好。",
+		"AfterDD2Tier2": "当我前往艾特尼亚，腐化之力欲控我身心，然我将其化为己用，以之力抗旧日之军！"
 	},
 	"WitchDoctorSpecialText": {
-		"AfterDD2Tier1": "我觉得 Etherian黑魔法师应该与我志趣相投。可惜它们是我们的敌人，不然我还想跟他们学几招呢。"
+		"AfterDD2Tier1": "我觉得艾特尼亚的黑魔法师应该与我志趣相投。可惜他们是我们的敌人，不然我还想跟他们学几招呢。"
 	},
 	"PirateChatter": {
 		"Chatter_1": "是时候去酒保那儿了，我的甜酒快要喝完了！"
 	},
 	"NurseChatter": {
-		"Chatter_1": "我一直向 {Bartender} 要葡萄酒，但他每次都给我麦芽酒。"
+		"Chatter_1": "我一直向{Bartender}要葡萄酒，但他每次都给我麦酒。"
 	},
 	"DemolitionistSpecialText": {
 		"AfterDD2Start": "我不明白为什么不能直接炸飞这些传送门。"
 	},
 	"StylistChatter": {
-		"Chatter_1": "我想帮 {Bartender} 免费修剪一下，但被他拒绝了。我的意思是，至少把胡子修理一下吧！" 
+		"Chatter_1": "我想帮{Bartender}免费修剪一下，但被他拒绝了。我的意思是，至少把胡子修理一下吧！" 
 	},
 	"WizardSpecialText": {
 		"AfterDD2Tier1": "我想我以前也见过像这个一样的传送门，但这个是金的。"
@@ -94,9 +94,9 @@
 		"AfterDD2Tier1": "你有见过食人魔吗？我想骑在它背上！"
 	},
 	"CyborgChatter": {
-		"Chatter_1": "{Bartender} said I reminded him of a certain \"EV2\". Perhaps I should meet her."//EV2不懂，保留。
+		"Chatter_1": "{Bartender}说我让他想起一个叫\"EV2\"的女孩。也许我应该去会会她。"//EV2是地牢守护者2中的一个人物。
 	},
 	"MechanicChatter": {
-		"Chatter_1": "{Bartender} 给了我一杯根汁汽水，但我明明叫他倒在方杯子里的。"
+		"Chatter_1": "{Bartender}给了我一杯根汁汽水，但我明明叫他倒在方杯子里的。"
 	}
 }
