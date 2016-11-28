@@ -119,7 +119,7 @@
 		"ServerStarted": "Server started",
 		"EnterSeed": "Enter Seed (Leave Blank For Random):",
 		"NoValidSeed": "This world was generated in an older version that did not support seeds.",
-		"DisplaySeed": "World Seed: {0}"
+		"DisplaySeed": "世界种子: {0}"
 	},
 	"UI": {
 		"Effects": "效果",
@@ -128,7 +128,7 @@
 		"Unfavorite": "取消星标",
 		"MoveToCloud": "开启同步",
 		"MoveOffCloud": "关闭同步",
-		"Play": "开玩",
+		"Play": "开始",
 		"Delete": "删除",
 		"Softcore": "简单",
 		"Mediumcore": "中等",
@@ -179,14 +179,14 @@
 		"CheatingLiquidSpam": "Cheating attempt detected: Liquid spam",
 		"CheatingInvalid": "Cheating attempt detected: Invalid kick-out",
 		"ServerAutoShutdown": "Local player left. Autoshutdown starting.",
-		"ConnectingTo": "Connecting to {0}",
+		"ConnectingTo": "连接至 {0}",
 		"IsReceivingTileData": "is receiving tile data",
-		"LostConnection": "Lost connection",
-		"FoundServer": "Found server",
-		"SendingPlayerData": "Sending player data...",
-		"RequestingWorldInformation": "Requesting world information",
-		"RequestingTileData": "Requesting tile data",
-		"StatusComplete": "{0}: Complete!",
+		"LostConnection": "丢失连接",
+		"FoundServer": "找到服务器",
+		"SendingPlayerData": "发送玩家信息...",
+		"RequestingWorldInformation": "请求世界信息",
+		"RequestingTileData": "读取物块信息",
+		"StatusComplete": "{0}: 完毕!",
 		"NameTooLong": "Name is too long.",
 		"EmptyName": "Empty name."
 	},
@@ -234,8 +234,8 @@
 		"Depth": "{0}'",
 		"WireModeForced": "电路显示: 强制",
 		"WireModeNormal": "电路显示: 仅工具", // 只有选择工具时才显示，原文是Normal 一般的
-		"RulerOn": "尺子: 开启",
-		"RulerOff": "尺子: 关闭",
+		"RulerOn": "标尺: 开启",
+		"RulerOff": "标尺: 关闭",
 		"MechanicalRulerOn": "机械尺子: 开启",
 		"MechanicalRulerOff": "机械尺子: 关闭",
 		"PaintSprayerOn": "油漆喷雾器: 开启",
@@ -252,7 +252,7 @@
 		"FullFishingPower": "{0} ({1}%) 垂钓力",
 		"PrecentFishingPower": "{0}% 垂钓力",
 		"BaitRequired": "需要鱼饵以钓鱼",
-		"BaitPower": "{0}% 咬勾力",
+		"BaitPower": "{0}% 咬钩能力",
 		"HairStyle": "发型",
 		"CraftingWindow": "制造窗口",
 		"QuickStackToNearby": "快速堆叠到附近箱子",
@@ -263,10 +263,10 @@
 		"Faded": "暗淡",
 		"Hidden": "隐藏",
 		"WaveQuality": "水波效果: {0}",
-		"HeatDistortion": "热量扭曲: {0}",
+		"HeatDistortion": "热浪扭曲: {0}",
 		"Enabled": "开启",
 		"Disabled": "关闭",
-		"StormEffects": "风暴效果: {0}",
+		"StormEffects": "沙暴及雪暴效果: {0}",
 		"QualityHigh": "高",
 		"QualityMedium": "中",
 		"QualityLow": "低",
@@ -349,7 +349,7 @@
 		"Gold": "金币",
 		"Silver": "银币",
 		"Copper": "铜币",
-		"DefenderMedals": "防御者勋章"
+		"DefenderMedals": "守护者勋章"
 	},
 	"Achievements": {
 		"ChallengerCategory": "挑战",
@@ -380,7 +380,7 @@
 		"EYE_ON_YOU_Description": "击败克苏鲁之眼，只在夜间出现的邪眼",
 		"SMASHING_POPPET_Name": "砰！",//暂译:"砰！"
 		"SMASHING_POPPET_Description": "使用雷管或者锤子,摧毁一个暗影球或者猩红心脏",
-		"WORM_FODDER_Name": "Worm Fodder",
+		"WORM_FODDER_Name": "虫子饲养者",
 		"WORM_FODDER_Description": "击败世界吞噬者，只出没在腐化之地的巨型蠕虫。",
 		"MASTERMIND_Name": "珠玑妙算",//
 		"MASTERMIND_Description": "击败克苏鲁之脑，潜伏在血腥之地的巨型恶魔",
