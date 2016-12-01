@@ -176,7 +176,7 @@
     "Id": 43
   },
   {
-    "Content": "按两次 [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? 上 : 下 ] 键进入潜行模式,\n增加远程能力，更不易被敌人发现，但会降低移动速度",
+    "Content": "按两次 [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? 上 : 下 ] 方向键进入潜行模式,\n增加远程能力，更不易被敌人发现，但会降低移动速度",
     "Id": 44
   },
   {
@@ -184,11 +184,11 @@
     "Id": 45
   },
   {
-    "Content": "按两次 [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? 上 : 下 ] 指定守卫者的攻击目标",
+    "Content": "按两次 [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? 上 : 下 ] 方向键指定星尘守卫的移动地点",
     "Id": 46
   },
   {
-    "Content": "按两次 [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? 上 : 下 ] 在鼠标指向处召唤古代风暴",
+    "Content": "按两次 [ $Terraria.Main::ReversedUpDownArmorSetBonuses ? 上 : 下 ] 方向键在鼠标指向处召唤古代风暴",
     "Id": 47
   },
   {

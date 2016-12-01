@@ -236,7 +236,7 @@
     "Id": 58
   },
   {
-    "Content": "循环快捷栏", // Cycle hotbar
+    "Content": "圆环快捷栏", // Cycle hotbar
     "Id": 59
   },
   {
@@ -376,7 +376,7 @@
     "Id": 93
   },
   {
-    "Content": "Try Removing",
+    "Content": "试图移除",//Try Removing
     "Id": 94
   },
   {
