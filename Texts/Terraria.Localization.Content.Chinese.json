@@ -205,9 +205,9 @@
 		"FullMoon": "满月",
 		"WaningGibbous": "亏凸月",
 		"ThirdQuarter": "下弦月",
-		"WaningCrescent": "渐暗蛾蝞月",
+		"WaningCrescent": "渐暗蛾眉月",
 		"NewMoon": "新月",
-		"WaxingCrescent": "渐满蛾蝞月",
+		"WaxingCrescent": "渐满蛾眉月",
 		"FirstQuarter": "上弦月",
 		"WaxingGibbous": "盈凸月",
 		"FishingWarning": "警告！",
@@ -365,8 +365,8 @@
 		"OBTAIN_HAMMER_Name": "停！锤子时间！",//子弹时间？魔女时间？
 		"OBTAIN_HAMMER_Description": "通过制作或者其他方法获得你的第一个锤子",
 		"OOO_SHINY_Name": "哦哦哦！它在发光！！",
-		"OOO_SHINY_Description": "用你的稿子挖到第一个金块",
-		"HEART_BREAKER_Name": "芳心终结者",
+		"OOO_SHINY_Description": "用你的镐子挖到第一个金块",
+		"HEART_BREAKER_Name": "令人心碎",
 		"HEART_BREAKER_Description": "敲碎你的第一个生命水晶",
 		"HEAVY_METAL_Name": "重金属",
 		"HEAVY_METAL_Description": "取得一个铁砧",
@@ -386,7 +386,7 @@
 		"MASTERMIND_Description": "击败克苏鲁之脑，潜伏在血腥之地的巨型恶魔",
 		"WHERES_MY_HONEY_Name": "我的蜂蜜呢？",
 		"WHERES_MY_HONEY_Description": "在丛林地下探索到大蜂巢",
-		"STING_OPERATION_Name": "针刺行动",
+		"STING_OPERATION_Name": "毒刺行动",//
 		"STING_OPERATION_Description": "击败蜂后，蜂巢之王",
 		"BONED_Name": "剔骨",
 		"BONED_Description": "击败骷髅王，被诅咒的地牢守护者",
@@ -395,7 +395,7 @@
 		"ITS_GETTING_HOT_IN_HERE_Name": "越来越热了",
 		"ITS_GETTING_HOT_IN_HERE_Description": "深入到地底的熔岩世界",
 		"MINER_FOR_FIRE_Name": "火焰矿工",
-		"MINER_FOR_FIRE_Description": "用地狱的材料制作一个熔岩稿",
+		"MINER_FOR_FIRE_Description": "用地狱的材料制作一个熔岩镐",
 		"STILL_HUNGRY_Name": "永不满足",
 		"STILL_HUNGRY_Description": "击败血肉魔墙,一个伟大的灵魂被灼烧后所出现的，这个世界的主宰",
 		"ITS_HARD_Name": "太难了吧！",
@@ -417,7 +417,7 @@
 		"GET_A_LIFE_Name": "寻找生命",
 		"GET_A_LIFE_Description": "使用一个生命果实，一种生长在丛林茂密的草丛中的果实。",
 		"THE_GREAT_SOUTHERN_PLANTKILL_Name": "植物杀手",
-		"THE_GREAT_SOUTHERN_PLANTKILL_Description": "击败世纪之花，丛林深处的粉色花菇。",
+		"THE_GREAT_SOUTHERN_PLANTKILL_Description": "击败世纪之花，丛林深处的粉色巨花。",
 		"TEMPLE_RAIDER_Name": "古庙丽影",
 		"TEMPLE_RAIDER_Description": "打破丛林神庙坚硬的墙壁。",
 		"LIHZAHRDIAN_IDOL_Name": "蜥蜴人的偶像",
@@ -436,7 +436,7 @@
 		"CHAMPION_OF_TERRARIA_Description": "击败月球领主",
 		"BLOODBATH_Name": "血之洗礼",
 		"BLOODBATH_Description": "在血月中存活下来，一种使得溪流变红，怪物倾巢而出的特殊事件",
-		"SLIPPERY_SHINOBI_Name": "狡滑的忍者",//是的，狡滑 原文Slippery Shinobi
+		"SLIPPERY_SHINOBI_Name": "胶滑的忍者",//是的，狡滑 原文Slippery Shinobi
 		"SLIPPERY_SHINOBI_Description": "击败史莱姆之王，所有黏糊糊的东西的统治者",
 		"GOBLIN_PUNTER_Name": "哥布林猎人",
 		"GOBLIN_PUNTER_Description": "击退哥布林大军，一群由野蛮愚昧的战士和他们的影炎巫师组成的乌合之众",
@@ -460,7 +460,7 @@
 		"NOT_THE_BEES_Description": "穿着蜜蜂套装时开蜜蜂枪",
 		"JEEPERS_CREEPERS_Name": "毛骨悚然",
 		"JEEPERS_CREEPERS_Description": "在地底误入蜘蛛洞穴",
-		"FUNKYTOWN_Name": "律动小镇",//Funkytown，我记得Funky有发霉的意思？
+		"FUNKYTOWN_Name": "真菌小镇",//Funkytown，我记得Funky有发霉的意思？
 		"FUNKYTOWN_Description": "在地表建造或变更环境类型为夜光蘑菇地",
 		"INTO_ORBIT_Name": "入轨",
 		"INTO_ORBIT_Description": "在这儿方向只有下！",
