@@ -540,7 +540,7 @@
     "Id": 87
   },
   {
-    "Content": "采矿头盔",
+    "Content": "矿工头盔",
     "Id": 88
   },
   {
@@ -6220,7 +6220,7 @@
     "Id": 1507
   },
   {
-    "Content": "星魂",
+    "Content": "外质体",
     "Id": 1508
   },
   {
@@ -6452,15 +6452,15 @@
     "Id": 1565
   },
   {
-    "Content": "艾伦战盔",
+    "Content": "Aaron的战盔",
     "Id": 1566
   },
   {
-    "Content": "艾伦胸甲",
+    "Content": "Aaron的胸甲",
     "Id": 1567
   },
   {
-    "Content": "艾伦胫甲",
+    "Content": "Aaron的胫甲",
     "Id": 1568
   },
   {
@@ -6488,11 +6488,11 @@
     "Id": 1574
   },
   {
-    "Content": "克罗诺的午餐",
+    "Content": "克罗诺的午餐",//
     "Id": 1575
   },
   {
-    "Content": "稀有魔物",
+    "Content": "稀有魔物",//
     "Id": 1576
   },
   {
@@ -6524,23 +6524,23 @@
     "Id": 1583
   },
   {
-    "Content": "威尔之翼",
+    "Content": "Will的翅膀",
     "Id": 1584
   },
   {
-    "Content": "克罗诺之翼",
+    "Content": "Crowno的翅膀",
     "Id": 1585
   },
   {
-    "Content": "森斯之翼",
+    "Content": "Cenx的翅膀",
     "Id": 1586
   },
   {
-    "Content": "森斯之裙",
+    "Content": "Cenx的裙子",
     "Id": 1587
   },
   {
-    "Content": "森斯之裤",
+    "Content": "Cenx的裤子",
     "Id": 1588
   },
   {
@@ -14516,7 +14516,7 @@
     "Id": 3581
   },
   {
-    "Content": "吉姆之翼",
+    "Content": "Jim之翼",
     "Id": 3582
   },
   {
