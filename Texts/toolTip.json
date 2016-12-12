@@ -5714,5 +5714,9 @@
   {
     "Content": "20% increased minion damage, movement speed and melee critical strike chance",
     "Id": 3882
+  },
+  {
+    "Content": "Allows flight and slow fall",
+    "Id": 3883
   }
 ]
